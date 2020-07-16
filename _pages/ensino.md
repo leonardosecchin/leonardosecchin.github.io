@@ -10,24 +10,24 @@ author_profile: true
 - [**Otimização 1**  
   (Matemática Industrial)](/otimizacao1/)
 - [**Álgebra Linear**  
-  (vários cursos)](https://blog.ufes.br/leonardosecchin/en/algebra-linear/)
+  (vários cursos)](/algebra-linear/)
 
 ## TODAS AS DISCIPLINAS
 
-- **Álgebra Linear**  
-  (vários cursos)
-- **Cálculo III**  
-  (Matemática Industrial, Engenharias e Ciência da Computação)
-- **Laboratório de Matemática**  
-  (Matemática Industrial e Licenciatura em Matemática)
-- **Matemática Básica**  
-  (Matemática Industrial)
-- **Metaheurísticas**  
-  (Matemática Industrial)
-- **Otimização 1**  
-  (Matemática Industrial)
-- **Otimização 2**  
-  (Matemática Industrial)
+- [**Álgebra Linear**  
+  (vários cursos)](/algebra-linear/)
+- [**Cálculo III**  
+  (Matemática Industrial, Engenharias e Ciência da Computação](/calculo3/)
+- [**Laboratório de Matemática**  
+  (Matemática Industrial e Licenciatura em Matemática)](/laboratorio-de-matematica/)
+- [**Matemática Básica**  
+  (Matemática Industrial)](/matematica-basica/)
+- [**Metaheurísticas**  
+  (Matemática Industrial)](/metaheuristicas/)
+- [**Otimização 1**  
+  (Matemática Industrial)](/otimizacao1/)
+- [**Otimização 2**  
+  (Matemática Industrial)](/otimizacao2/)
 - **Geometria Analítica (listas de exercícios)**
 - **Noções de Lógica (notas de aula)**
 - **Análise Convexa (listas de exercícios)**
