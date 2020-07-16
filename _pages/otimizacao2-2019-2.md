@@ -29,7 +29,7 @@ author_profile: true
         3.  [Um exemplo](https://en.wikipedia.org/wiki/AMPL)
         4.  [Manual resumido de comandos AMPL](http://www.dim.uchile.cl/~rlopez/TESIS/AMPL/Manual_AMPL.pdf)
     4.  Exercícios
-        1.  Quadrados mínimos: resolver Ax=b equivale a encontrar x tal que ||Ax-b||^2=0\. Se o sistema não possuir solução, ainda podemos encontrar um x “menos pior possível” minimizando ||Ax-b||^2\. Escreva esse modelo em AMPL que leia as dimensões m, n e matrizes A (mxn) e b (mx1) de um arquivo separado. Faça o mesmo para o problema de encontrar um x que minimiza o resíduo do sistema e que tenha no máximo K (<n) entradas não nulas.
+        1.  Quadrados mínimos: resolver Ax=b equivale a encontrar x tal que |Ax-b|^2=0\. Se o sistema não possuir solução, ainda podemos encontrar um x “menos pior possível” minimizando |Ax-b|^2\. Escreva esse modelo em AMPL que leia as dimensões m, n e matrizes A (mxn) e b (mx1) de um arquivo separado. Faça o mesmo para o problema de encontrar um x que minimiza o resíduo do sistema e que tenha no máximo K (<n) entradas não nulas.
         2.  [Empacotamento de círculos e esferas via programação não linear](https://www.ime.usp.br/~egbirgin/publications/bs.pdf)
         3.  [Configurações iniciais para simulações de dinâmica molecular via empacotamento de moléculas – PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml). Veja [artigo](http://m3g.iqm.unicamp.br/packmol/packmol2.pdf)
         4.  Problemas de localização retirado [deste artigo](https://dl.acm.org/citation.cfm?doid=502800.502803), seção 3
