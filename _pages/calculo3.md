@@ -140,21 +140,21 @@ Informado aos alunos pela administração, caso tenha monitor.
 *   [Capítulo 3 – Cálculo de integral dupla. Teorema de Fubini](https://drive.google.com/file/d/0B-G5znuapK7JOFZzSkxCUm84dUk/view?usp=sharing)
 *   [Capítulo 5 (parte 1) – Integrais triplas](https://drive.google.com/file/d/0B-G5znuapK7JeGFrTTd1R0tINWM/view?usp=sharing)
 
-# BIBLIOGRAFIA COMPLEMENTAR
+## BIBLIOGRAFIA COMPLEMENTAR
 
 *   GUIDORIZZI, H. Luiz. Um Curso de Cálculo vol 3\. 5\. ed. Rio de Janeiro: LTC, 2002.
 *   SALAS, Saturnino L.; HILLE, Einar; ETGEN, Garret J. Cálculo. 9\. ed. Rio de Janeiro: LTC, 2005.
 *   THOMAS JR., George B. et al. Cálculo. 10\. ed. São Paulo: Pearson Addison Wesley, 2002.
 
-# TEXTOS DE APOIO AOS ESTUDOS
+## TEXTOS DE APOIO AOS ESTUDOS
 
 *   [Livro do Prof. Bosco Nogueira (UFPB)](http://www.mat.ufpb.br/bosco/calculoiii2011/nciii.pdf)
 
-# VIDEO-AULAS DE OUTRAS INSTITUIÇÕES
+## VIDEO-AULAS DE OUTRAS INSTITUIÇÕES
 
 *   [Curso completo de Cálculo III para engenharias da USP](http://eaulas.usp.br/portal/course.action?course=6351)
 
-# OUTROS CONTEÚDOS INTERESSANTES
+## OUTROS CONTEÚDOS INTERESSANTES
 
 *   Exemplo de uso de um campo vetorial: previsão oceânica
     *   [http://ondas.cptec.inpe.br/](http://ondas.cptec.inpe.br/)
