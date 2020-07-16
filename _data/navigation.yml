@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Research"
+    url: research/
+
+  - title: "Ensino"
+    url: ensino/
+        
+  - title: "Iniciação Científica"
+    url: ic/
+    
+  - title: "Servidor Otim."
+    url: server/
+    
+  - title: "Miscellaneous"
+    url: misc/
