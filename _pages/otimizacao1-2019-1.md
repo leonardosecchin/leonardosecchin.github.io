@@ -30,21 +30,21 @@ author_profile: true
 8.  [04/04 – Cálculo de direções de descida – Métodos do Gradiente, Newton e Quase-Newton; condições do ângulo e beta](https://drive.google.com/open?id=1Hy2HaPoSToopJivOBOyZ5DANLUcJYwew)
 9.  [09/04 – Método de Newton puro e globalizado](https://drive.google.com/file/d/1SSsAYQH-YR2VMOKHcVltHz3HJ0QwXlLi/view?usp=drivesdk) —- **[Prova convergência esquema descida](https://drive.google.com/open?id=1f7Kf-knx6WqhYQd5RjdW4cjTuYVaQpGf)**
 10.  [11/04 – Ordem de convergência](https://drive.google.com/file/d/1gufZ8FLC6dmWQyrlbfzHxYj9M7nJcxRm/view?usp=drivesdk) —- [**Prova convergência método de Newton**](https://drive.google.com/open?id=1FaBxKMdK4TJOaMGDiOz2P3Cz4l4N3LYV)
-    1.  Leitura interessante: [Artigo sobre o desenvolvimento da ideia Newtoniana ao longo dos anos (download acessando pela Universidade)](https://doi.org/10.1007/978-3-319-94015-1_9)
+     -  Leitura interessante: [Artigo sobre o desenvolvimento da ideia Newtoniana ao longo dos anos (download acessando pela Universidade)](https://doi.org/10.1007/978-3-319-94015-1_9)
 11.  [16/04 – Método dos Gradientes Conjugados para minimização de quadráticas estritamente convexas (= resolução de sistemas lineares com matriz simétrica definida positiva)](https://drive.google.com/open?id=1jc3w_T6ylwTOcm79W-teVnYXEWzdfU7N)
-    1.  Veja o tópico “Resolução de sistemas lineares quadrados usando Gradientes Conjugados” dos exercícios selecionados
+     -  Veja o tópico “Resolução de sistemas lineares quadrados usando Gradientes Conjugados” dos exercícios selecionados
 12.  18/04 – [Aula laboratório] Uso de pacotes computacionais em otimização
-    1.  [Ambiente AMPL (demonstração gratuita) para download](https://ampl.com/try-ampl/download-a-free-demo/). Neste link você pode:
-        1.  Baixar a AMPL IDE para seu sistema (Windows/Linux)
-        2.  Ver os solvers disponíveis para uso e suas especificações (algoritmos implementados e problemas que se aplicam)
-    2.  [Documentação completa do AMPL](https://ampl.com/resources/the-ampl-book/)
-    3.  [Exemplos – modelos lineares com CPLEX](https://www.cos.ufrj.br/~danielalubke/downloads.html)
-    4.  **TAREFA 1:** Escreva em AMPL e resolva o Exemplo 1 da aula 2 (14/03) usando algum solver para otimização não linear
-    5.  **TAREFA 2:** Escreva em AMPL o Exemplo 2 da aula 2\. Faça um arquivo de dados (.dat) para guardar os pontos. Resolva o problema com os pontos do Exercício 2 (2a parte) da Lista de Exercícios 1
-    6.  **TAREFA 3:** Invente dois sistemas lineares Ax=b, um que admita solução e outro que não possui solução. Encontre a solução que minimiza o resíduo do sistema (norma || Ax – b ||). Veja o Exemplo 3 da aula 2
-    7.  **TAREFA 4:** Minimize usando AMPL a função do Exercício 5 (2a parte) da Lista de Exercícios 1\. Verifique se o ponto estacionário do item (a) foi encontrado, ou se outro ponto foi atingido
-    8.  **TAREFA 5 (lousa):** Escrever em AMPL o problema min -x^2 s.a. -10 <= x <= 10\. Resolver utilizando MINOS e GUROBI com ponto inicial x=0\. Fazer o mesmo com ponto inicial x=1\. Analise a solução dos algoritmos em ambos os casos.
-        1.  [Arquivo do modelo](https://drive.google.com/open?id=1J5B-Th6XFmEmjdt6f_6OPSHslIGihLe4)
+     -  [Ambiente AMPL (demonstração gratuita) para download](https://ampl.com/try-ampl/download-a-free-demo/). Neste link você pode:
+        -  Baixar a AMPL IDE para seu sistema (Windows/Linux)
+        -  Ver os solvers disponíveis para uso e suas especificações (algoritmos implementados e problemas que se aplicam)
+     -  [Documentação completa do AMPL](https://ampl.com/resources/the-ampl-book/)
+     -  [Exemplos – modelos lineares com CPLEX](https://www.cos.ufrj.br/~danielalubke/downloads.html)
+     -  **TAREFA 1:** Escreva em AMPL e resolva o Exemplo 1 da aula 2 (14/03) usando algum solver para otimização não linear
+     -  **TAREFA 2:** Escreva em AMPL o Exemplo 2 da aula 2\. Faça um arquivo de dados (.dat) para guardar os pontos. Resolva o problema com os pontos do Exercício 2 (2a parte) da Lista de Exercícios 1
+     -  **TAREFA 3:** Invente dois sistemas lineares Ax=b, um que admita solução e outro que não possui solução. Encontre a solução que minimiza o resíduo do sistema (norma || Ax – b ||). Veja o Exemplo 3 da aula 2
+     -  **TAREFA 4:** Minimize usando AMPL a função do Exercício 5 (2a parte) da Lista de Exercícios 1\. Verifique se o ponto estacionário do item (a) foi encontrado, ou se outro ponto foi atingido
+     -  **TAREFA 5 (lousa):** Escrever em AMPL o problema min -x^2 s.a. -10 <= x <= 10\. Resolver utilizando MINOS e GUROBI com ponto inicial x=0\. Fazer o mesmo com ponto inicial x=1\. Analise a solução dos algoritmos em ambos os casos.
+        -  [Arquivo do modelo](https://drive.google.com/open?id=1J5B-Th6XFmEmjdt6f_6OPSHslIGihLe4)
 13.  [23/04 – Método dos Gradientes Conjugados para quadráticas quaisquer. Aplicação para cálculo de direções Newtonianas](https://drive.google.com/file/d/1tQknDA8AEbXQsXBd8UHEJP0-_gmQiwNd/view?usp=drivesdk)
 14.  [25/04 – Otimização com restrições – condições de Karush-Kuhn-Tucker (KKT) (motivação geométrica)](https://drive.google.com/open?id=1mEj47JIKDO6CeRAv8ptcvO6JfQzDQtGS)
 15.  [30/04 – KKT, pontos regulares e convexidade](https://drive.google.com/file/d/1bgp8z4aigNX4xoTAyF3r6r5az9LTDr0A/view?usp=drivesdk)
@@ -59,19 +59,19 @@ author_profile: true
 24.  [06/06 – Exercícios](https://drive.google.com/open?id=10J67KGyD8dam4zehhzPiIGe6DU4pl6ml)
 25.  11/06 – Exercícios
 26.  [13/06 – Penalização interna / pontos interiores / método de barreiras](https://drive.google.com/open?id=1p16qV6tEMwd6wv2-zCfXuiOadaFQ1SDE)
-    1.  Referência para esta aula: seção 10.1 de [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_completo.pdf). **É recomendada a leitura desta referência!**
+     -  Referência para esta aula: seção 10.1 de [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_completo.pdf). **É recomendada a leitura desta referência!**
 27.  [18/06 – Programação quadrática sequencial para restrições de igualdade](https://drive.google.com/file/d/1QxJmRZ5Ez8WuhKx9xHditQ76GwDyUqzG/view?usp=drivesdk)
 28.  [25/06 – Pontos Interiores para restrições lineares](https://drive.google.com/open?id=1i84lEqKUEhX6VJBj3RpDkMS6RPl38J9L)
 29.  27/06 – [Programação quadrática sequencial para restrições de igualdade e desigualdade](https://drive.google.com/open?id=1gokBR72K3qG_yYu2r9avf_b2FVczGHnY) / [aula laboratório] O pacote Ipopt (pontos interiores)
-    1.  [Baixe o Ipopt para AMPL (prefira 64 bits quando possível)](https://ampl.com/products/solvers/open-source/)
-    2.  Discussão da [referência bibliográfica](http://www.optimization-online.org/DB_HTML/2004/03/836.html) em sala
-    3.  **TAREFA:** faça as tarefas da aula do dia 18/04 usando o Ipopt
-    4.  [Veja alguns casos de uso do Ipopt em situações reais](https://projects.coin-or.org/Ipopt/wiki/SuccessStories)
+     -  [Baixe o Ipopt para AMPL (prefira 64 bits quando possível)](https://ampl.com/products/solvers/open-source/)
+     -  Discussão da [referência bibliográfica](http://www.optimization-online.org/DB_HTML/2004/03/836.html) em sala
+     -  **TAREFA:** faça as tarefas da aula do dia 18/04 usando o Ipopt
+     -  [Veja alguns casos de uso do Ipopt em situações reais](https://projects.coin-or.org/Ipopt/wiki/SuccessStories)
 
 ## Alguns pacotes computacionais para Otimização Contínua usados pelas comunidades acadêmica e industrial:
 
 1.  [WORHP](https://worhp.de/) (Programação Quadrática Sequencial)
-    1.  [Link para principal referência bibliográfica](https://link.springer.com/chapter/10.1007%2F978-1-4614-4469-5_4)
+    -  [Link para principal referência bibliográfica](https://link.springer.com/chapter/10.1007%2F978-1-4614-4469-5_4)
 2.  [Ipopt](https://github.com/coin-or/Ipopt) (penalização interna / barreira logarítmica / pontos interiores)
-    1.  [Documentação completa](https://coin-or.github.io/Ipopt/)
-    2.  [Link para principal referência bibliográfica](https://link.springer.com/article/10.1007/s10107-004-0559-y) (versão alternativa [com acesso livre](http://www.optimization-online.org/DB_HTML/2004/03/836.html))
+    -  [Documentação completa](https://coin-or.github.io/Ipopt/)
+    -  [Link para principal referência bibliográfica](https://link.springer.com/article/10.1007/s10107-004-0559-y) (versão alternativa [com acesso livre](http://www.optimization-online.org/DB_HTML/2004/03/836.html))
