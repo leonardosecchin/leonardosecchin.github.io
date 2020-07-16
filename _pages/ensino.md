@@ -8,7 +8,7 @@ author_profile: true
 ## DISCIPLINAS 2020/1
 
 - [**Otimização 1**  
-  (Matemática Industrial)](http://blog.ufes.br/leonardosecchin/pt/ensino/otimizacao-i/)
+  (Matemática Industrial)](/otimizacao1/)
 - [**Álgebra Linear**  
   (vários cursos)](https://blog.ufes.br/leonardosecchin/en/algebra-linear/)
 
