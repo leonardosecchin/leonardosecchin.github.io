@@ -41,4 +41,4 @@ author_profile: true
 
 ## Material de Otimização I ministrada em períodos passados:
 
-*   **[2019/1](/otimizacao-1-2019-1/)**
+*   **[2019/1](/otimizacao1-2019-1/)**
