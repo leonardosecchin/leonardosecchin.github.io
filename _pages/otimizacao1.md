@@ -34,15 +34,11 @@ author_profile: true
 
 *   [LISTA 1 – Conceitos básicos, otimização irrestrita, convexidade](https://drive.google.com/open?id=1yV6DClaPT3zCmB1JkfnVq_j4g77-8EJU)
 
-* * *
-
 ## Vídeos interessantes sobre Otimização:
 
 1.  [IMECC Unicamp no facebook](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
 1.  [Grupo de Otimização IMECC Unicamp](http://www.ime.unicamp.br/~martinez/seminarios.html)
 
-* * *
-
 ## Material de Otimização I ministrada em períodos passados:
 
-*   **[2019/1](https://blog.ufes.br/leonardosecchin/en/otimizacao-i-2019-1/)**
+*   **[2019/1](/otimizacao-1-2019-1/)**
