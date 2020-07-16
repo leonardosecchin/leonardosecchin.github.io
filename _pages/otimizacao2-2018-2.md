@@ -9,8 +9,8 @@ author_profile: true
 
 1.  **Otimização sem restrições**  
     – Todos os exercícios do capítulo 2 do livro de Ana Friedlander
-2.  **Otimização com restrições / condições KKT  
-    **– Todos os exercícios do capítulo 13 do livro de Ana Friedlander _(nota: a palavra “regular” no livro refere-se à condição de qualificação de independência linear — LICQ — dada em sala de aula)_  
+2.  **Otimização com restrições / condições KKT**  
+    **– Todos os exercícios do capítulo 13 do livro de Ana Friedlander _(nota: a palavra “regular” no livro refere-se à condição de qualificação de independência linear — LICQ — dada em sala de aula)**_  
     – Exercícios 7.11, 7.12, 7.14, 7.16, 7.18, 7.22, 7.23 do livro de Ribeiro e Karas
 3.  **Convexidade**  
     – Todos os exercícios do capítulo 3 do livro de Ana Friedlander  
