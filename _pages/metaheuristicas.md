@@ -40,7 +40,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 ## Busca Tabu
 
-*   [Código Matlab/Octave](http://blog.ufes.br/leonardosecchin/files/2018/08/Tabu_Search.zip) (código comentado)  
+*   [Código Matlab/Octave](https://drive.google.com/file/d/1umgrhf6QrPpQtbnYkpACRtFQCwJWKoK_/view?usp=sharing) (código comentado)  
     _Fonte: [http://yarpiz.com/243/ypea116-tabu-search](http://yarpiz.com/243/ypea116-tabu-search)_
 *   Referência: cap 2 do livro de Glover
 *   [Slides](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
@@ -48,7 +48,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 ## Simulated Annealing
 
-*   [Código Matlab/Octave](http://blog.ufes.br/leonardosecchin/files/2018/08/Simulated_Annealing.zip) (código comentado)  
+*   [Código Matlab/Octave](https://drive.google.com/file/d/1HADurl67sMhoggwrzxWhSWyfGPKVPjhT/view?usp=sharing) (código comentado)  
     _Fonte: [http://yarpiz.com/223/ypea105-simulated-annealing](http://yarpiz.com/223/ypea105-simulated-annealing)_
 *   Referência: cap 10 do livro de Glover
 *   [Slides](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
@@ -56,7 +56,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 ## Ant Colony (Colônia de formigas)
 
-*   [Código Matlab/Octave](http://blog.ufes.br/leonardosecchin/files/2018/08/aco.zip) (código comentado)  
+*   [Código Matlab/Octave](https://drive.google.com/file/d/1cQ5wtYWb1_JscJSKOG6YiHG5wYY-Vapg/view?usp=sharing) (código comentado)  
     _Fonte: [http://yarpiz.com/53/ypea103-ant-colony-optimization](http://yarpiz.com/53/ypea103-ant-colony-optimization)_
 *   Referências:
     *   cap 9 do livro de Glover
@@ -65,7 +65,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 ## Evolução Diferencial
 
-*   **[Código Matlab/Octave](http://blog.ufes.br/leonardosecchin/files/2018/08/Differential_Evolution.zip) (código comentado). <span style="color: #ff0000">Atualizado em 21/08</span>**  
+*   **[Código Matlab/Octave](https://drive.google.com/file/d/12NKXXIfaK94O4ei6N2qjcqvjftKJu4Hm/view?usp=sharing) (código comentado). <span style="color: #ff0000">Atualizado em 21/08</span>**  
     _Fonte: [http://yarpiz.com/231/ypea107-differential-evolution](http://yarpiz.com/231/ypea107-differential-evolution)_
 *   [Artigo que definiu o método, pela primeira vez](https://link.springer.com/article/10.1023/A:1008202821328) (baixe pela universidade)
 *   [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf) (introdução geral sobre metaheurísticas)
@@ -80,25 +80,25 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 ## Algoritmos Genéticos
 
 *   [Slides de Estéfane Lacerda (UFRN)](https://www.dca.ufrn.br/~estefane/metaheuristicas/index.html) – somente slides 1, 2, 3 e 6
-*   Slides editados (apresentados na aula): [1\. ag_binario](http://blog.ufes.br/leonardosecchin/files/2018/08/1.-ag_binario.pdf) ; [2\. ag_tsp](http://blog.ufes.br/leonardosecchin/files/2018/08/2.-ag_tsp.pdf)
+*   Slides editados (apresentados na aula): [1\. ag_binario](https://drive.google.com/file/d/1SCOCEyOHZmUgHga-J8IYPdX2UrlxZ2jz/view?usp=sharing) ; [2\. ag_tsp](https://drive.google.com/file/d/1jftC9l-HwpB0PYON3YwYrN2lP87aUBsg/view?usp=sharing)
 *   [Artigo com explicação de operadores para o TSP](https://www.hindawi.com/journals/cin/2017/7430125/)
 *   Apresentação detalhada de alguns crossovers para o TSP: [PMX](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/PMXCrossoverOperator.aspx/), [Cycle](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)
 *   <span style="color: #ff0000">**Atividade 3 (ver abaixo)**</span>
 
 ## Particle Swarm (Nuvem de partículas)
 
-*   [Código Matlab/Octave](http://blog.ufes.br/leonardosecchin/files/2018/08/PSO.zip) (código comentado).  
+*   [Código Matlab/Octave](https://drive.google.com/file/d/1q9W2SjF0vXIX4dfD55jBool1RvXPSSxI/view?usp=sharing) (código comentado).  
     _Fonte: [http://yarpiz.com/50/ypea102-particle-swarm-optimization](http://yarpiz.com/50/ypea102-particle-swarm-optimization)_
-*   [Slides editados de Estéfane Lacerda, UFRN](http://blog.ufes.br/leonardosecchin/files/2018/08/pso.pdf) (apresentados em aula); slides originais [aqui](http://www.dca.ufrn.br/~estefane/metaheuristicas/pso.pdf)
+*   [Slides editados de Estéfane Lacerda, UFRN](https://drive.google.com/file/d/1ENpP6vWD6Qj-HteDyRq47HT3OgS2EvKq/view?usp=sharing) (apresentados em aula); slides originais [aqui](http://www.dca.ufrn.br/~estefane/metaheuristicas/pso.pdf)
 *   [Vídeo-aulas do projeto Yarpiz (em inglês)](http://yarpiz.com/440/ytea101-particle-swarm-optimization-pso-in-matlab-video-tutorial). Veja a parte 1/3 para explicação do algoritmo.
-*   [Slides resumidos com “equações de movimento”](http://blog.ufes.br/leonardosecchin/files/2018/08/PSO_equacoes.pdf) (editadas a partir de slides do projeto Yarpiz — [originais aqui](http://yarpiz.com/wp-content/uploads/2016/05/yarpiz-ytea101-notes.pdf))
+*   [Slides resumidos com “equações de movimento”](https://drive.google.com/file/d/1TDujiXzrHaolRYQilgXdzhBSsCKBfX58/view?usp=sharing) (editadas a partir de slides do projeto Yarpiz — [originais aqui](http://yarpiz.com/wp-content/uploads/2016/05/yarpiz-ytea101-notes.pdf))
 
 ## GRASP
 
-*   [Código Matlab/Octave de um GRASP para o TSP](http://blog.ufes.br/leonardosecchin/files/2018/08/GRASP.zip) <span style="color: #ff0000">(atualizado em 30/08 as 12:56)</span>  
+*   [Código Matlab/Octave de um GRASP para o TSP](https://drive.google.com/file/d/1ZdYhhQHka7aDrDlxtwvtuMIp6gVv-pHv/view?usp=sharing) <span style="color: #ff0000">(atualizado em 30/08 as 12:56)</span>  
     _Fonte: [https://github.com/warloff/GRASP-for-Traveling-Salesman](https://github.com/warloff/GRASP-for-Traveling-Salesman)_
-*   [Slides](http://blog.ufes.br/leonardosecchin/files/2018/08/GRASP.pdf)
-*   [Problemas TSP adaptados ao código de GRASP](http://blog.ufes.br/leonardosecchin/files/2018/09/TSP_modif_GRASP.zip)
+*   [Slides](https://drive.google.com/file/d/1pUrwz80FL-kh61fIKWNDtDP5MbuYzfW1/view?usp=sharing)
+*   [Problemas TSP adaptados ao código de GRASP](https://drive.google.com/file/d/1kZdt_S4vJScXHIa4PRQ7-LQgBZzF3jo9/view?usp=sharing)
 *   Referências:
     *   cap 8 do livro de Glover
 
@@ -108,7 +108,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 ## Atividade 1 – Metaheurísticas, apresentação
 
-*   Faça um resumo, **com suas palavras**, da introdução do livro de Dréo, Pétrowski, Siarry e Taillard, [disponível aqui](http://blog.ufes.br/leonardosecchin/files/2018/08/Metaheuristics_for_Hard_Optimization_INTRO.pdf). Diga o que entendeu, destaque os pontos que achou relevante, críticas, etc.
+*   Faça um resumo, **com suas palavras**, da introdução do livro de Dréo, Pétrowski, Siarry e Taillard, [disponível aqui](hhttps://drive.google.com/file/d/1fqU2s6RCj4ixt1MkGzb0yLPjjcQr2JCm/view?usp=sharing). Diga o que entendeu, destaque os pontos que achou relevante, críticas, etc.
 *   O trabalho poderá ser feito de próprio punho ou digitado, entregue impresso ou por email (enviar para leonardo.secchin@ufes.br)
 *   Um resumo de no mínimo 1 página é desejável. Não é para traduzir o texto!
 
@@ -129,7 +129,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 *   Escolha 2 mutações e 2 crossover’s para comparar (veja slides da aula de 23/08)
 *   Faça um AG preferencialmente em Octave. As funções e estrutura para o TSP estão prontas nos códigos de aulas anteriores. USE-OS!
 *   Faça testes para ajustar parâmetros e comparar diferentes mutações e crossover’s.
-*   <span style="color: #ff0000">Utilize em seus testes problemas da TSPLIB, arquivo</span> [TSPLIB_modif](http://blog.ufes.br/leonardosecchin/files/2018/08/TSPLIB_modif.zip). Esses problemas foram adaptados para o código do Octave já apresentado.
+*   <span style="color: #ff0000">Utilize em seus testes problemas da TSPLIB, arquivo</span> [TSPLIB_modif](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view?usp=sharing). Esses problemas foram adaptados para o código do Octave já apresentado.
 *   Os valores ótimos de cada problema podem ser encontrados [aqui](https://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/STSP.html).
 *   **<span style="color: #ff0000">Fazer um relatório e entregar os códigos. O trabalho é individual.</span>**
 
@@ -171,7 +171,7 @@ _**Média final das apresentações:**_
     <span style="color: #0000ff">**M.ap = (ap.1 + ap.2 + ap.3 + …) / n**</span>
 *   Observe que é possível   M.ap > 10   caso o grupo realize mais de uma apresentação.
 
-**_Artigos selecionados:
+**_Artigos selecionados:_**
 
 [**A Hybrid Grouping Genetic Algorithm for the Multiple-Type Access Node Location Problem**](https://link.springer.com/chapter/10.1007/978-3-642-04394-9_46)  
 O. Alonso-Garrido, S. Salcedo-Sanz, L. E. Agustín-Blas, E. G. Ortiz-García, A. M. Pérez-Bellido, J. A. Portilla-Figueras.
