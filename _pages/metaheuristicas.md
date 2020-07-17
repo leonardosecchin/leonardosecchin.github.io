@@ -210,7 +210,7 @@ Instâncias tratadas para Octave: [CAP-Amaral_m](http://blog.ufes.br/leonardose
 
 * * *
 
-## OUTROS ARTIGOS:
+**_Outros artigos:_**
 
 [Artigo 1](https://link.springer.com/chapter/10.1007/978-3-540-72960-0_15)
 
