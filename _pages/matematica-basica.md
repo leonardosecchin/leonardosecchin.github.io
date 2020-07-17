@@ -77,8 +77,7 @@ Respostas da terceira prova:
 
 Informado aos alunos pela administração, caso exista monitor.
 
-## [LABORATÓRIO DE INFORMÁTICA DO CURSO  
-(Laboratório de Matemática Computacional, para uso dos alunos)](http://www.matematicaaplicada.saomateus.ufes.br/laborat%C3%B3rios)
+## [LABORATÓRIO DE INFORMÁTICA DO CURSO, para uso dos alunos](http://www.matematicaaplicada.saomateus.ufes.br/laborat%C3%B3rios)
 
 ## CURIOSIDADES E APLICAÇÕES DA MATEMÁTICA
 
