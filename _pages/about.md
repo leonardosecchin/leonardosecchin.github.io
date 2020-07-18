@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "Leonardo Delarmelina Secchin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Leonardo Delarmelina Secchin
-------
 
 ### Office address
 
