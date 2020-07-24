@@ -18,6 +18,10 @@ author_profile: true
 
 ### Submitted
 
+1. [On the best achievable quality of limit points of augmented Lagrangian schemes](http://www.optimization-online.org/DB_HTML/2020/07/7929.html)  
+   R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
+   Optimization Online, 2020
+   
 1. [On the use of Jordan Algebras for improving global convergence of an Augmented Lagrangian method in nonlinear semidefinite programming](http://www.optimization-online.org/DB_HTML/2020/05/7787.html)  
    R. Andreani, E. H. Fukuda, G Haeser, D. O. Santos, L. D. Secchin  
    Optimization Online, 2020
