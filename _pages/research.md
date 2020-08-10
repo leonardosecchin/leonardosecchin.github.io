@@ -23,7 +23,7 @@ author_profile: true
    Optimization Online, 2020
    
 1. [On the use of Jordan Algebras for improving global convergence of an Augmented Lagrangian method in nonlinear semidefinite programming](http://www.optimization-online.org/DB_HTML/2020/05/7787.html)  
-   R. Andreani, E. H. Fukuda, G Haeser, D. O. Santos, L. D. Secchin  
+   R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
    Optimization Online, 2020
    
 1. [On the convergence of augmented Lagrangian strategies for nonlinear programming](http://www.optimization-online.org/DB_HTML/2020/03/7701.html)  
@@ -31,10 +31,10 @@ author_profile: true
    Optimization Online, 2020
    
 1. [Optimality conditions for nonlinear second-order cone programming and symmetric cone programming](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)  
-   R. Andreani, E. H. Fukuda, G Haeser, D. O. Santos, L. D. Secchin  
+   R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
    Optimization Online, 2019
 
-### Articles
+### Research Articles
 
 1. [New sequential optimality conditions for mathematical problems with complementarity constraints and algorithmic consequences](https://epubs.siam.org/doi/10.1137/18M121040X)  
    R. Andreani, G. Haeser, L. D. Secchin, P. J. S. Silva  
@@ -78,5 +78,5 @@ author_profile: true
 
 - [Curriculum Lattes (in portuguese)](http://lattes.cnpq.br/4273961903394165)
 - [Researchgate profile](https://www.researchgate.net/profile/Leonardo_Secchin)
-- [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=Ak9JXRUAAAAJ) web page
+- [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=Ak9JXRUAAAAJ)
 - [ORCID](https://orcid.org/0000-0002-9224-9051)
