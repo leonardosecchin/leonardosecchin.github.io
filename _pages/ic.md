@@ -37,3 +37,5 @@ O(A) aluno(a) que deseja realizar trabalho de iniciação científica comigo pod
 - 2013 (IC). [O Problema de Alocação de Horários via Programação Inteira](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i)
 - 2012 (IC). [Programação Inteira: Teoria e Algoritmos](https://drive.google.com/open?id=136KkA12IjmcM1oDOAtcIL0SvynE0i2HN)
 - 2012 (IC). Utilização de um Algoritmo Genético para Solução de Problemas em Engenharia
+
+### (Modelo de apresentação em Latex)[https://drive.google.com/file/d/1-cmwFB82Ds1hpxEtIlJIKQPfuzNU6bCW/view?usp=sharing]
