@@ -22,13 +22,16 @@ O(A) aluno(a) que deseja realizar trabalho de iniciação científica comigo pod
 ### Orientações em andamento
 
 - 2020-2021 (IC). Variantes do método do gradiente para otimização irrestrita.  
-  Aluno: Elivandro Oliveira Grippa
+  Aluno: Elivandro Oliveira Grippa__
+  [RESUMO](https://drive.google.com/file/d/1AsCeRaIqg_82Q-irbgp4zOW4UcmuQDKt/view?usp=sharing)
   
 - 2020-2021 (IC). Introdução à otimização aplicada ao aprendizado de máquina supervisionado.  
-  Aluno: Matheus Becali Rocha
+  Aluno: Matheus Becali Rocha__
+  [RESUMO](https://drive.google.com/file/d/1cy_d21RDGfP-VhFNRUdD7DFN5xI2ATQ-/view?usp=sharing)
 
 - 2019-2020 (IC). Métodos e formulações para o problema de layout em fila dupla.  
-  Aluno: Manoel de Almeida Rocha Neto
+  Aluno: Manoel de Almeida Rocha Neto__
+  [RESUMO](https://drive.google.com/file/d/1OQmZN3R_ZWwI8yjiXoLhmeDEDke4r3zy/view?usp=sharing)
 
 ### Orientações concluídas
 
