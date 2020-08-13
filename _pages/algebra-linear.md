@@ -5,10 +5,14 @@ permalink: /algebra-linear/
 author_profile: true
 ---
 
-## Horários
+## ATENÇÃO: Turma semestre letivo especial de 2020
 
-*   Terças-feiras, 11:00 – 13:00, sala 04 (Exatas, Eixo 3)
-*   Quintas-feiras, 07:00 – 09:00, sala 03 (Exatas, Eixo 3)
+No semestre letivo especial de 2020, as informações, material de estudo, tarefas, avaliações e aulas da disciplina estarão disponíveis pelo Ambiente Virtual de Aprendizagem (AVA-UFES), [NESTE LINK](https://ava.ufes.br/course/view.php?id=15252). O(a) aluno(a) deverá fazer login com sua senha do portal do aluno para ter acesso ao curso.
+
+
+<!--## Horários
+
+*   -----
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/programas-de-disciplinas-do-dma)
 
@@ -74,4 +78,4 @@ A qualquer dúvida durante os estudos, podem me enviar um email – secchinleo@g
 ## Vídeo-aulas de outras instituições
 
 *   [**Curso de Álgebra Linear I da USP**](https://www.youtube.com/watch?v=-JcQJFNVjaA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
-*   [Curso de Álgebra Linear UNIVESP](https://www.youtube.com/watch?v=WsLmdMPU3Rc&list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr)
+*   [Curso de Álgebra Linear UNIVESP](https://www.youtube.com/watch?v=WsLmdMPU3Rc&list=PLxI8Can9yAHdUtWDKtTA9AmuICNyX9EIr)-->

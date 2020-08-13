@@ -5,10 +5,14 @@ permalink: /otimizacao1/
 author_profile: true
 ---
 
+## ATENÇÃO: Turma semestre letivo especial de 2020
+
+No semestre letivo especial de 2020, as informações, material de estudo, tarefas, avaliações e aulas da disciplina estarão disponíveis pelo Ambiente Virtual de Aprendizagem (AVA-UFES), [NESTE LINK](https://ava.ufes.br/course/view.php?id=2643). O(a) aluno(a) deverá fazer login com sua senha do portal do aluno para ter acesso ao curso.
+
+
 ## Horários:
 
-*   Quartas-feiras, 07:00 – 09:00, sala 02 (Agrárias, Eixo 1)
-*   Quintas-feiras, 09:00 – 11:00, sala 02 (Agrárias, Eixo 1)
+*   -----
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20I%20-%20DMA11995.pdf)
 
