@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Leonardo D. Secchin"
-  avatar           : "https://leonardosecchin.github.io/images/ft.jpg" #"https://avatars2.githubusercontent.com/u/59185364?s=400&u=49672e8446736aa95850077d9a70918ea57875aa&v=4"
+  avatar           : "https://leonardosecchin.github.io/images/ft.jpg"
   bio              : "Department of Applied Mathematics, Federal University of Espírito Santo, Brazil"
   location         : 
   employer         : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/leonardosecchin"
   google_plus      :
   keybase          :
   instagram        :
