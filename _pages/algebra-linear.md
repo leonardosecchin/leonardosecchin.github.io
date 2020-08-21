@@ -28,8 +28,8 @@ No semestre letivo especial de 2020, as informações, material de estudo, taref
 
 ## Listas de exercícios
 
-*   [Lista 1 – Matrizes](https://drive.google.com/open?id=1wElhfWqL6kJ3NKwpSXBO7iIB4cU4jHWh)
-*   [Lista 2 – Operações elementares, sistemas lineares](https://drive.google.com/open?id=1HtjXnUbHqvY7UBEb_768obkszc0tN1JT)
+*   Lista 1 – Matrizes
+*   Lista 2 – Operações elementares, sistemas lineares
 *   Lista 3 – Determinantes
 *   Lista 4 – Espaços Vetoriais
 *   Lista 5 – Transformações
