@@ -9,8 +9,10 @@ author_profile: true
 
 No semestre letivo especial de 2020, as informações, material de estudo, tarefas, avaliações e aulas da disciplina estarão disponíveis pelo Ambiente Virtual de Aprendizagem (AVA-UFES), [NESTE LINK](https://ava.ufes.br/course/view.php?id=2643). O(a) aluno(a) deverá fazer login com sua senha do portal do aluno para ter acesso ao curso.
 
+Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email**.
 
-## Horários:
+
+<!--## Horários:
 
 *   -----
 
@@ -36,7 +38,7 @@ No semestre letivo especial de 2020, as informações, material de estudo, taref
 
 ## Listas de exercícios:
 
-*   [LISTA 1 – Conceitos básicos, otimização irrestrita, convexidade](https://drive.google.com/open?id=1yV6DClaPT3zCmB1JkfnVq_j4g77-8EJU)
+*   [LISTA 1 – Conceitos básicos, otimização irrestrita, convexidade](https://drive.google.com/open?id=1yV6DClaPT3zCmB1JkfnVq_j4g77-8EJU)-->
 
 ## Vídeos interessantes sobre Otimização:
 
