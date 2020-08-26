@@ -18,18 +18,22 @@ author_profile: true
 
 ### Submitted
 
+1. [On scaled stopping criteria for a safeguarded augmented Lagrangian method with theoretical guarantees](http://www.optimization-online.org/DB_HTML/2020/08/7985.html)  
+   R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin, P. J. S. Silva  
+   Optimization Online, 2020
+
 1. [On the best achievable quality of limit points of augmented Lagrangian schemes](http://www.optimization-online.org/DB_HTML/2020/07/7929.html)  
    R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
    Optimization Online, 2020
-   
+
 1. [On the use of Jordan Algebras for improving global convergence of an Augmented Lagrangian method in nonlinear semidefinite programming](http://www.optimization-online.org/DB_HTML/2020/05/7787.html)  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
    Optimization Online, 2020
-   
+
 1. [On the convergence of augmented Lagrangian strategies for nonlinear programming](http://www.optimization-online.org/DB_HTML/2020/03/7701.html)  
    R. Andreani, A. R. V. Cárdenas, A. Ramos, A. Ribeiro, L. D. Secchin  
    Optimization Online, 2020
-   
+
 1. [Optimality conditions for nonlinear second-order cone programming and symmetric cone programming](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
    Optimization Online, 2019
