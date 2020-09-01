@@ -29,12 +29,9 @@ O(A) aluno(a) que deseja realizar trabalho de iniciação científica comigo pod
   Aluno: Matheus Becali Rocha  
   [RESUMO](https://drive.google.com/file/d/1cy_d21RDGfP-VhFNRUdD7DFN5xI2ATQ-/view?usp=sharing)
 
-- 2019-2020 (IC). Métodos e formulações para o problema de layout em fila dupla.  
-  Aluno: Manoel de Almeida Rocha Neto  
-  [RESUMO](https://drive.google.com/file/d/1OQmZN3R_ZWwI8yjiXoLhmeDEDke4r3zy/view?usp=sharing)
-
 ### Orientações concluídas
 
+- 2020 (IC). [Métodos e formulações para o problema de layout em fila dupla.](https://drive.google.com/file/d/1OQmZN3R_ZWwI8yjiXoLhmeDEDke4r3zy/view?usp=sharing)
 - 2014 (TCC). [Problemas de escalonamento](https://drive.google.com/open?id=1Ce6xReyjM8JvqyMbGXB_pd7tjFyrb5Np)
 - 2014 (TCC). [O problema da elaboração de grade de horários via Programação Inteira](https://drive.google.com/open?id=1gcPusN-R0zjQ_e_J-R8j3z28ui8iBV8C)
 - 2013 (IC). [O Problema de Alocação de Horários via Programação Inteira](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i)
