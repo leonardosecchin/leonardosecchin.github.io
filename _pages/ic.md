@@ -21,10 +21,13 @@ O(A) aluno(a) que deseja realizar trabalho de iniciação científica comigo pod
 
 ### Orientações em andamento
 
+- 2020 (TCC, em definição). Condições sequenciais de otimalidade em otimização (título provisório).  
+  Aluno: Thiago Mantegazini
+
 - 2020-2021 (IC). Variantes do método do gradiente para otimização irrestrita.  
   Aluno: Elivandro Oliveira Grippa  
   [RESUMO](https://drive.google.com/file/d/1AsCeRaIqg_82Q-irbgp4zOW4UcmuQDKt/view?usp=sharing)
-  
+
 - 2020-2021 (IC). Introdução à otimização aplicada ao aprendizado de máquina supervisionado.  
   Aluno: Matheus Becali Rocha  
   [RESUMO](https://drive.google.com/file/d/1cy_d21RDGfP-VhFNRUdD7DFN5xI2ATQ-/view?usp=sharing)
