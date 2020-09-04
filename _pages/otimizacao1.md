@@ -13,11 +13,19 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 ## Slides das aulas síncronas (mesmo conteúdo do AVA)
 
+### Conceitos básicos
+
 [SLIDES - Conceitos básicos](https://leonardosecchin.github.io/files/otim1/1.Conceitos_basicos.pdf)
+
+### Otimização sem restrições
 
 [SLIDES - Otimização sem restrições](https://leonardosecchin.github.io/files/otim1/2.Otimizacao_sem_restricoes.pdf)
 
+### Convexidade
+
 [SLIDES - Convexidade](https://leonardosecchin.github.io/files/otim1/3.Convexidade.pdf)
+
+### Métodos para otimização sem restrições
 
 [SLIDES - Métodos de descida gerais](https://leonardosecchin.github.io/files/otim1/4.1.Metodos_descida_gerais.pdf)
 
@@ -31,7 +39,11 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 [SLIDES - Gradientes conjugados](https://leonardosecchin.github.io/files/otim1/4.6.Gradientes_conjugados.pdf)
 
+### Otimização com restrições
+
 [SLIDES - Otimização com restrições; condições de Karush-Kuhn-Tucker (KKT)](https://leonardosecchin.github.io/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
+
+### Métodos para otimização com restrições
 
 [SLIDES - Minimização com restrições lineares de igualdade](https://leonardosecchin.github.io/files/otim1/6.1.Min_restricoes_lineares_igualdade.pdf)
 
