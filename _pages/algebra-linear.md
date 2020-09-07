@@ -11,8 +11,8 @@ No semestre letivo especial de 2020, as informações, material de estudo, taref
 
 Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email**.
 
-## Material das aulas síncronas (também disponível no AVA-UFES)
 
+## Material semestre 2020 especial (também disponível no AVA-UFES)
 
 ### Matrizes
 
