@@ -20,7 +20,8 @@ author_profile: true
 
 1. [On scaled stopping criteria for a safeguarded augmented Lagrangian method with theoretical guarantees](http://www.optimization-online.org/DB_HTML/2020/08/7985.html)  
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin, P. J. S. Silva  
-   Optimization Online, 2020
+   Optimization Online, 2020  
+   *Codes available at [github.com/leonardosecchin/scaled-algencan](https://github.com/leonardosecchin/scaled-algencan)*
 
 1. [On the best achievable quality of limit points of augmented Lagrangian schemes](http://www.optimization-online.org/DB_HTML/2020/07/7929.html)  
    R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
