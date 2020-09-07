@@ -11,12 +11,12 @@ No semestre letivo especial de 2020, as informações, material de estudo, taref
 
 Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email**.
 
-## Material das aulas síncronas (também disponível no AVA-UFES)
+## Material semestre 2020 especial (também disponível no AVA-UFES)
 
 ### Conceitos básicos
 
 - Texto referência para este módulo: capítulo 1 do livro de Ana Friedlander.
-- [Conceitos básicos](https://leonardosecchin.github.io/files/otim1/1.Conceitos_basicos.pdf)
+- [**SLIDES** - Conceitos básicos](https://leonardosecchin.github.io/files/otim1/1.Conceitos_basicos.pdf)
 - [VÍDEO: Uma visão geral da otimização - fala do prof. Jose Mario Martinez (Unicamp)](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
@@ -24,7 +24,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 - Texto referência para este módulo: capítulo 2 do livro de Ana Friedlander.
 - Texto complementar para este módulo: capítulo 2 do livro de Karas e Ribeiro.
-- [Otimização sem restrições](https://leonardosecchin.github.io/files/otim1/2.Otimizacao_sem_restricoes.pdf)
+- [**SLIDES** - Otimização sem restrições](https://leonardosecchin.github.io/files/otim1/2.Otimizacao_sem_restricoes.pdf)
 - Faça todos os exercícios do Capítulo 2 do livro de Ana Friedlander
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
@@ -32,35 +32,35 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 - Texto referência para este módulo: capítulo 3 do livro de Ana Friedlander.
 - Texto complementar para este módulo: capítulo 3 do livro de Karas e Ribeiro.
-- [Convexidade](https://leonardosecchin.github.io/files/otim1/3.Convexidade.pdf)
+- [**SLIDES** - Convexidade](https://leonardosecchin.github.io/files/otim1/3.Convexidade.pdf)
 - [**LISTA DE EXERCÍCIOS 1** - Conceitos básicos, otimização irrestrita e convexidade](https://drive.google.com/file/d/1yV6DClaPT3zCmB1JkfnVq_j4g77-8EJU/view)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 ### Métodos para otimização sem restrições
 
-- [Métodos de descida gerais](https://leonardosecchin.github.io/files/otim1/4.1.Metodos_descida_gerais.pdf)
-- [Método de Newton](https://leonardosecchin.github.io/files/otim1/4.2.Metodo_de_Newton.pdf)
-- [Convergência dos métodos de descida](https://leonardosecchin.github.io/files/otim1/4.3.Convergencia_metodos_descida.pdf)
-- [Convergência global vs local](https://leonardosecchin.github.io/files/otim1/4.4.Convergencia_global_vs_local.pdf)
-- [Convergência do método de Newton](https://leonardosecchin.github.io/files/otim1/4.5.Convergencia_Newton.pdf)
-- [Gradientes conjugados](https://leonardosecchin.github.io/files/otim1/4.6.Gradientes_conjugados.pdf)
+- [**SLIDES** - Métodos de descida gerais](https://leonardosecchin.github.io/files/otim1/4.1.Metodos_descida_gerais.pdf)
+- [**SLIDES** - Método de Newton](https://leonardosecchin.github.io/files/otim1/4.2.Metodo_de_Newton.pdf)
+- [**SLIDES** - Convergência dos métodos de descida](https://leonardosecchin.github.io/files/otim1/4.3.Convergencia_metodos_descida.pdf)
+- [**SLIDES** - Convergência global vs local](https://leonardosecchin.github.io/files/otim1/4.4.Convergencia_global_vs_local.pdf)
+- [**SLIDES** - Convergência do método de Newton](https://leonardosecchin.github.io/files/otim1/4.5.Convergencia_Newton.pdf)
+- [**SLIDES** - Gradientes conjugados](https://leonardosecchin.github.io/files/otim1/4.6.Gradientes_conjugados.pdf)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 ### Otimização com restrições
 
-- [Otimização com restrições; condições de Karush-Kuhn-Tucker (KKT)](https://leonardosecchin.github.io/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
+- [**SLIDES** - Otimização com restrições; condições de Karush-Kuhn-Tucker (KKT)](https://leonardosecchin.github.io/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 ### Métodos para otimização com restrições
 
-- [Minimização com restrições lineares de igualdade](https://leonardosecchin.github.io/files/otim1/6.1.Min_restricoes_lineares_igualdade.pdf)
-- [Minimização com restrições lineares de desigualdade; método das restrições ativas](https://leonardosecchin.github.io/files/otim1/6.2.Min_restricoes_lineares_desig-restricoes_ativas.pdf)
-- [Penalização externa](https://leonardosecchin.github.io/files/otim1/6.3.Penalizacao_externa.pdf)
-- [Prova das condições KKT via penalização externa](https://leonardosecchin.github.io/files/otim1/6.4.KKT_via_penalizacao.pdf)
-- [Penalização interna](https://leonardosecchin.github.io/files/otim1/6.7.Penalizacao_interna.pdf)
-- [Programação Quadrática Sequencial (PQS ou "SQP", do inglês) - algoritmo básico](https://leonardosecchin.github.io/files/otim1/6.8.SQP.pdf)
-- [Estratégia de pontos interiores para programação linear](https://leonardosecchin.github.io/files/otim1/6.9.Pontos_interiores_para_PL.pdf)
-- [SQP para restrições não lineares de igualdade e desigualdade](https://leonardosecchin.github.io/files/otim1/6.10.SQP_subprob_IP.pdf)
+- [**SLIDES** - Minimização com restrições lineares de igualdade](https://leonardosecchin.github.io/files/otim1/6.1.Min_restricoes_lineares_igualdade.pdf)
+- [**SLIDES** - Minimização com restrições lineares de desigualdade; método das restrições ativas](https://leonardosecchin.github.io/files/otim1/6.2.Min_restricoes_lineares_desig-restricoes_ativas.pdf)
+- [**SLIDES** - Penalização externa](https://leonardosecchin.github.io/files/otim1/6.3.Penalizacao_externa.pdf)
+- [**SLIDES** - Prova das condições KKT via penalização externa](https://leonardosecchin.github.io/files/otim1/6.4.KKT_via_penalizacao.pdf)
+- [**SLIDES** - Penalização interna](https://leonardosecchin.github.io/files/otim1/6.7.Penalizacao_interna.pdf)
+- [**SLIDES** - Programação Quadrática Sequencial (PQS ou "SQP", do inglês) - algoritmo básico](https://leonardosecchin.github.io/files/otim1/6.8.SQP.pdf)
+- [**SLIDES** - Estratégia de pontos interiores para programação linear](https://leonardosecchin.github.io/files/otim1/6.9.Pontos_interiores_para_PL.pdf)
+- [**SLIDES** - SQP para restrições não lineares de igualdade e desigualdade](https://leonardosecchin.github.io/files/otim1/6.10.SQP_subprob_IP.pdf)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 <!--## Horários:

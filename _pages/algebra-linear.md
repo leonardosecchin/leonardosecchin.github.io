@@ -21,6 +21,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [VÍDEO-AULA UNIVESP: Aula sobre matrizes - parte 2](https://www.youtube.com/watch?v=u4xKswRO4bQ&list=ULD4LDlLNM-W8&index=936)
 - [**LISTA DE EXERCÍCIOS 1**](https://drive.google.com/file/d/11PJrb-o1OUIIm6ZtJmguxtODej6nYDZ0/view)
 - **Conteúdo extra** Vídeos básicos (nível ensino médio) sobre matrizes do IMPA/Obmep. Veja as seções "O conceito de matriz" e "Operações com matrizes" em [https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75)
+- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 ### Sistemas Lineares
@@ -29,12 +30,14 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [Exercícios livro-texto (Boldrini) - Capítulo 2](https://drive.google.com/file/d/1ul17tDNq1nPVV_0BzAidjyaQ-cR4xQXf/view)
 - [**LISTA DE EXERCÍCIOS 2**](https://drive.google.com/file/d/1fD0Gy-kU06uzeIxf2QzkUp12gZCsFTla/view)
 - **Conteúdo extra** Vídeos básicos (nível ensino médio) do IMPA/Obmep. Veja as seções "Sistemas lineares" em [https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75)
+- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 ### Determinantes
 
 - [Exercícios livro-texto (Boldrini) - Capítulo 3](https://drive.google.com/file/d/1FUeuMRqESIm02YMIZ0RQeOCTX8nXXxfK/view)
 - **LISTA DE EXERCÍCIOS 3**
+- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 ### Espaços Vetoriais
@@ -44,6 +47,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [VÍDEO-AULA (Prof. Possani, USP): Base, dimensão e revisão de sistemas lineares](https://www.youtube.com/watch?v=iaMTWxAS8FA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=3)
 - [Exercícios livro-texto (Boldrini) - Capítulo 4](https://drive.google.com/file/d/1ETwG3qjFQTNNJ5N0p1Uq0XZIbe8_yYFg/view)
 - **LISTA DE EXERCÍCIOS 4**
+- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 ### Transformações lineares
@@ -53,24 +57,28 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 [A geometria das transformações lineares](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=203)  
 [Operando com transformações lineares](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=204)
 - **LISTA DE EXERCÍCIOS 5**
+- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 ### Autovalores e autovetores
 
 - [Exercícios livro-texto (Boldrini) - Capítulo 6](https://drive.google.com/file/d/1GfC_zBqSAcCxtxpQNCFz7NbQwdxV3ue-/view)
 - **LISTA DE EXERCÍCIOS 6**
+- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 ### Diagonalização
 
 - [Exercícios livro-texto (Boldrini) - Capítulo 7](https://drive.google.com/file/d/1zTEbIHY4WxS7gvz0QHn8RSUxxny3z1I0/view)
 - **LISTA DE EXERCÍCIOS 7**
+- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 ### Produto interno
 
 - [Exercícios livro-texto (Boldrini) - Capítulo 8](https://drive.google.com/file/d/1yUE7kXYI2QUOs-mfWa5-nO7FXWcdT78g/view)
 - **LISTA DE EXERCÍCIOS 8**
+- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 <!--## Horários
