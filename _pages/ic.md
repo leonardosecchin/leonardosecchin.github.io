@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Iniciação Científica"
+title: "Iniciação Científica / TCC"
 permalink: /ic/
 author_profile: true
 ---
 
 O(A) aluno(a) que deseja realizar trabalho de iniciação científica comigo poderá propor temas relacionados à otimização de acordo com suas habilidades e interesses. **Porém encorajo os estudantes interessados em uma iniciação científica comigo a procurar-me mesmo que não tenham temas em mente.** Além de considerar o conhecimento prévio do(a) estudante, a escolha do tema levará em conta meus projetos de pesquisa, interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas, adequação do tema ao perfil de formação desejado para o egresso do curso e quantidade de alunos que oriento. O(A) aluno(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
+
+Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desejável iniciar o estudo pelo menos 1 ano antes da data de colação de grau, sobretudo se o(a) estudante não tem um tema maduro com o qual já tenha trabalhado.
 
 ### Sugestões de temas
 
