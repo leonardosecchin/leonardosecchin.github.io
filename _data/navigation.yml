@@ -6,7 +6,7 @@ main:
   - title: "Ensino"
     url: ensino/
         
-  - title: "Iniciação Científica"
+  - title: "Iniciação Científica/TCC"
     url: ic/
     
   - title: "Servidor Otim."
