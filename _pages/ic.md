@@ -5,25 +5,25 @@ permalink: /ic/
 author_profile: true
 ---
 
-O(A) aluno(a) que deseja realizar trabalho de iniciação científica comigo poderá propor temas relacionados à otimização de acordo com suas habilidades e interesses. **Porém encorajo os estudantes interessados em uma iniciação científica comigo a procurar-me mesmo que não tenham temas em mente.** Além de considerar o conhecimento prévio do(a) estudante, a escolha do tema levará em conta meus projetos de pesquisa, interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas, adequação do tema ao perfil de formação desejado para o egresso do curso e quantidade de alunos que oriento. O(A) aluno(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
+O(A) aluno(a) que deseja realizar trabalho de iniciação científica (IC) comigo poderá propor temas relacionados à otimização de acordo com suas habilidades e interesses. **Porém encorajo os estudantes interessados em uma iniciação científica comigo a procurar-me mesmo que não tenham temas em mente.** Além de considerar o conhecimento prévio do(a) estudante, a escolha do tema levará em conta meus projetos de pesquisa, interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas, adequação do tema ao perfil de formação desejado para o egresso do curso e quantidade de alunos que oriento. O(A) aluno(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
 
 Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desejável iniciar o estudo pelo menos 1 ano antes da data de colação de grau, sobretudo se o(a) estudante não tem um tema maduro com o qual já tenha trabalhado.
 
 ### Sugestões de temas
 
-- [Condições sequenciais de otimalidade em programação não linear](https://drive.google.com/open?id=1UOQ_CFm3yPapuoWBxL1sKI6LMZClJUpq)
+- Condições sequenciais de otimalidade em programação não linear([slides](https://drive.google.com/open?id=1UOQ_CFm3yPapuoWBxL1sKI6LMZClJUpq), [livro SBMAC](http://arquivo.sbmac.org.br/arquivos/notas/livro_83.pdf))
 - Modelos e métodos de otimização em Inteligência Artificial/Aprendizado de máquina
 - Método do q-gradiente ([ref 1](http://dx.doi.org/10.1016/j.ejor.2016.01.001))
 - Método do gradiente ponderado com retardamento para minimização de quadráticas estritamente convexas ([ref inicial](https://link.springer.com/article/10.1007/s10589-019-00125-6), [ref 2](http://www.optimization-online.org/DB_FILE/2020/03/7655.pdf))
 - Métodos de gradiente para otimização multi-objetivo ([ref](http://www.optimization-online.org/DB_FILE/2020/04/7729.pdf))
-- Métodos Quasi-Newton de baixo uso de memória ([ref](https://www.tandfonline.com/doi/abs/10.1080/02331934.2020.1712391?journalCode=gopt20))
-- Tópicos variados em teoria de otimização não linear
-- Problemas típicos de Pesquisa Operacional (geralmente vistos nas disciplinas “Pesquisa Operacional I e II”)
-- O ensino de Pesquisa Operacional no Ensino Médio (depende de parceria com docente da área de educação matemática)
+- Métodos Quasi-Newton com baixo uso de memória ([ref](https://www.tandfonline.com/doi/abs/10.1080/02331934.2020.1712391?journalCode=gopt20))
+- Tópicos variados em otimização não linear
+- Modelos típicos de Pesquisa Operacional (em particular, de programação inteira mista), vistos nas disciplinas “Pesquisa Operacional I e II” (Exemplos: [DRLP](https://link.springer.com/article/10.1007/s11590-018-1263-9); [Grade de horários](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i))
+- O ensino de Pesquisa Operacional/Otimização no Ensino Médio *(depende de parceria com docente da área de educação matemática)*
 
 ### Orientações em andamento
 
-- 2020 (TCC, em definição). Condições sequenciais de otimalidade em otimização (título provisório).  
+- 2020-2021 (TCC, em definição). Condições sequenciais de otimalidade em otimização (título provisório).  
   Aluno: Thiago Mantegazini
 
 - 2020-2021 (IC). Variantes do método do gradiente para otimização irrestrita.  
