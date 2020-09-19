@@ -36,11 +36,15 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 
 ### Orientações concluídas
 
-- 2020 (IC). [Métodos e formulações para o problema de layout em fila dupla.](https://drive.google.com/file/d/1OQmZN3R_ZWwI8yjiXoLhmeDEDke4r3zy/view?usp=sharing)
+- 2020 (IC). [Métodos e formulações para o problema de layout em fila dupla](https://drive.google.com/file/d/1OQmZN3R_ZWwI8yjiXoLhmeDEDke4r3zy/view?usp=sharing)
 - 2014 (TCC). [Problemas de escalonamento](https://drive.google.com/open?id=1Ce6xReyjM8JvqyMbGXB_pd7tjFyrb5Np)
 - 2014 (TCC). [O problema da elaboração de grade de horários via Programação Inteira](https://drive.google.com/open?id=1gcPusN-R0zjQ_e_J-R8j3z28ui8iBV8C)
 - 2013 (IC). [O Problema de Alocação de Horários via Programação Inteira](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i)
 - 2012 (IC). [Programação Inteira: Teoria e Algoritmos](https://drive.google.com/open?id=136KkA12IjmcM1oDOAtcIL0SvynE0i2HN)
 - 2012 (IC). Utilização de um Algoritmo Genético para Solução de Problemas em Engenharia
+
+### Bolsas para estudantes
+
+Há possibilidade de bolsa(s) de iniciação científica, a depender da disponibilidade de recursos previstos nos Editais de IC. Na escolha do bolsista, dentre os alunos que oriento, são considerados aspectos como desempenho curricular, entrevista e situação de vulnerabilidade sócioeconômica (cadastro em programas de assitência estudantil).
 
 ### [Modelo de apresentação em Latex](https://drive.google.com/file/d/1-cmwFB82Ds1hpxEtIlJIKQPfuzNU6bCW/view?usp=sharing)
