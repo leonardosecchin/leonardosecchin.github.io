@@ -31,7 +31,13 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**LISTA DE EXERCÍCIOS 2**](https://drive.google.com/file/d/1fD0Gy-kU06uzeIxf2QzkUp12gZCsFTla/view)
 - **Conteúdo extra** Vídeos básicos (nível ensino médio) do IMPA/Obmep. Veja as seções "Sistemas lineares" em [https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
-
+- **CURIOSIDADE**  
+> O método de resolução de sistemas lineares visto nesta seção é conhecido como **método do escalonamento**, ou **método da eliminação de Gauss**, ou ainda **método da eliminação de Gauss-Jordan**.  
+Resolver sistemas lineares numericamente é uma necessidade frequente: aparece em computação gráfica, otimização, resolução de equações diferenciais etc etc etc...  
+A ideia de escalonar um sistema é muito antiga, data, pelo menos, do século 18. A eliminação de Gauss consiste em uma maneira sistemática (implementável em computador) para resolução de sistemas lineares quaisquer usando as 3 operações elementares sobre linhas da matriz ampliada do sistema, como visto em aula. As operações são aplicadas de forma ordenada, de modo que os zeros na matriz ampliada apareçam primeiro nas colunas à esquerda, depois nas colunas à direita. Veja o [Wikipedia](https://pt.wikipedia.org/wiki/Elimina%C3%A7%C3%A3o_de_Gauss) para uma explicação "super-rápida" (ou o [Wikipedia em inglês](https://en.wikipedia.org/wiki/Gaussian_elimination), que está melhor escrito).  
+**Mas, e daí?**  
+Daí que, por incrível que pareça, a ideia deste método resiste até hoje em pacotes computacionais modernos. Talvez o exemplo mais famoso seja a "rotina MA57". Esta rotina é usada em inúmeros métodos computacionais de hoje em dia, e é considerada como uma espécie de "padrão de qualidade" na resolução de sistemas. Evidentemente, os métodos implementados nas rotinas modernas são versões melhoradas daquele falado em aula (eles envolvem, por exemplo, técnicas "espertas" para escolha de operações elementares, e os chamados pré-condicionadores).  
+Você pode consultar a implementação em Fortran da MA57 de um grande grupo de pesquisa do Reino Unido [neste link](http://www.hsl.rl.ac.uk/catalogue/ma57.html) (sim, Fortran ainda é usado fortemente em computação de alto desempenho!). A descrição do pacote diz que ele implementa uma variante do método da eliminação de Gauss. A última versão deste pacote é de 2016, e baseia-se em um artigo científico de 1983 (1983 parece antigo, mas quando comparado à ideia de escalonamento, "é ontem"). E tenha certeza que artigos científicos foram submetidos em 2020 usando esta rotina!!! Ou seja, a ideia de escalonar uma matriz está presente na pesquisa de ponta até hoje.
 
 ### Determinantes
 
