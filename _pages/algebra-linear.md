@@ -41,8 +41,10 @@ Você pode consultar a implementação em Fortran da MA57 de um grande grupo de 
 
 ### Determinantes
 
-- [Exercícios livro-texto (Boldrini) - Capítulo 3](https://drive.google.com/file/d/1FUeuMRqESIm02YMIZ0RQeOCTX8nXXxfK/view)
-- **LISTA DE EXERCÍCIOS 3**
+- [NOTAS E AULA](https://leonardosecchin.github.io/files/alglin/notas-3.pdf)
+- [**LISTA DE EXERCÍCIOS 3**](https://drive.google.com/file/d/15EN6E5JOGy6ypXprWS6SRMKHZNg4nW8D/view)  
+Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 3.
+- [EXERCÍCIOS EXTRA - Exercícios livro-texto (Boldrini) - Capítulo 3](https://drive.google.com/file/d/1FUeuMRqESIm02YMIZ0RQeOCTX8nXXxfK/view)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
