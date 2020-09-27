@@ -56,6 +56,7 @@ Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 
 - [Exercícios livro-texto (Boldrini) - Capítulo 4](https://drive.google.com/file/d/1ETwG3qjFQTNNJ5N0p1Uq0XZIbe8_yYFg/view)
 - **LISTA DE EXERCÍCIOS 4**
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
+- **Curiosidade sobre determinantes: veja AVA**
 
 
 ### Transformações lineares
