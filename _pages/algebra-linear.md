@@ -46,17 +46,18 @@ Você pode consultar a implementação em Fortran da MA57 de um grande grupo de 
 Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 3.
 - [EXERCÍCIOS EXTRAS - Exercícios livro-texto (Boldrini) - Capítulo 3](https://drive.google.com/file/d/1FUeuMRqESIm02YMIZ0RQeOCTX8nXXxfK/view)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
+- **Curiosidade sobre determinantes: veja AVA**
 
 
 ### Espaços Vetoriais
 
+- [NOTAS DE AULA](https://leonardosecchin.github.io/files/alglin/notas-4.pdf)
 - [VÍDEO-AULA (Prof. Possani, USP): Vetores no R3 (revisão de geometria analítica)](https://www.youtube.com/watch?v=-JcQJFNVjaA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=1)
 - [VÍDEO-AULA (Prof. Possani, USP): Independência / Dependência linear](https://www.youtube.com/watch?v=A7hwTnMmW_s&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=2)
 - [VÍDEO-AULA (Prof. Possani, USP): Base, dimensão e revisão de sistemas lineares](https://www.youtube.com/watch?v=iaMTWxAS8FA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=3)
 - [Exercícios livro-texto (Boldrini) - Capítulo 4](https://drive.google.com/file/d/1ETwG3qjFQTNNJ5N0p1Uq0XZIbe8_yYFg/view)
 - **LISTA DE EXERCÍCIOS 4**
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
-- **Curiosidade sobre determinantes: veja AVA**
 
 
 ### Transformações lineares
