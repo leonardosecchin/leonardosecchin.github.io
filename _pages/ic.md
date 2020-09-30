@@ -23,7 +23,7 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 
 ### Orientações em andamento
 
-- 2020-2021 (TCC, em definição). Condições sequenciais de otimalidade em otimização (título provisório).  
+- 2020-2021 (TCC). Condições sequenciais de otimalidade em otimização (título provisório).  
   Aluno: Thiago Mantegazini
 
 - 2020-2021 (IC). Variantes do método do gradiente para otimização irrestrita.  
