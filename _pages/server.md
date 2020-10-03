@@ -5,6 +5,8 @@ permalink: /server/
 author_profile: true
 ---
 
+## ATENÇÃO: SERVIDOR INDISPONÍVEL NO MOMENTO devido à manutenção de instalações físicas da Universidade. Previsão de retorno: fim de outubro.
+
 ### Acesso ao “optimization_server”
 
 - Acesso externo à UFES: ssh USUARIO@externo.ceunes.ufes.br -p 25000
