@@ -59,7 +59,7 @@ author_profile: true
 24.  [06/06 – Exercícios](https://drive.google.com/open?id=10J67KGyD8dam4zehhzPiIGe6DU4pl6ml)
 25.  11/06 – Exercícios
 26.  [13/06 – Penalização interna / pontos interiores / método de barreiras](https://drive.google.com/open?id=1p16qV6tEMwd6wv2-zCfXuiOadaFQ1SDE)
-     -  Referência para esta aula: seção 10.1 de [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_completo.pdf). **É recomendada a leitura desta referência!**
+     -  Referência para esta aula: seção 10.1 de [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf). **É recomendada a leitura desta referência!**
 27.  [18/06 – Programação quadrática sequencial para restrições de igualdade](https://drive.google.com/file/d/1QxJmRZ5Ez8WuhKx9xHditQ76GwDyUqzG/view?usp=drivesdk)
 28.  [25/06 – Pontos Interiores para restrições lineares](https://drive.google.com/open?id=1i84lEqKUEhX6VJBj3RpDkMS6RPl38J9L)
 29.  27/06 – [Programação quadrática sequencial para restrições de igualdade e desigualdade](https://drive.google.com/open?id=1gokBR72K3qG_yYu2r9avf_b2FVczGHnY) / [aula laboratório] O pacote Ipopt (pontos interiores)
