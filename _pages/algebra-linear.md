@@ -56,7 +56,7 @@ Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 
 - [VÍDEO-AULA (Prof. Possani, USP): Independência / Dependência linear](https://www.youtube.com/watch?v=A7hwTnMmW_s&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=2)
 - [VÍDEO-AULA (Prof. Possani, USP): Base, dimensão e revisão de sistemas lineares](https://www.youtube.com/watch?v=iaMTWxAS8FA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=3)
 - [Exercícios livro-texto (Boldrini) - Capítulo 4](https://drive.google.com/file/d/1ETwG3qjFQTNNJ5N0p1Uq0XZIbe8_yYFg/view)
-- **LISTA DE EXERCÍCIOS 4**
+- [**LISTA DE EXERCÍCIOS 4**](https://drive.google.com/file/d/1NW8eV7pfwMR5JZy8lUBlCydk16l4CxwK/view?usp=sharing)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
