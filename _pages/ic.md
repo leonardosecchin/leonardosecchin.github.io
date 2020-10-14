@@ -47,4 +47,12 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 
 Há possibilidade de bolsa(s) de iniciação científica, a depender da disponibilidade de recursos previstos nos Editais de IC. Na escolha do bolsista, dentre os alunos que oriento, são considerados aspectos como desempenho curricular, entrevista e situação de vulnerabilidade sócioeconômica (cadastro em programas de assitência estudantil).
 
-### [Modelo de apresentação em Latex](https://drive.google.com/file/d/1-cmwFB82Ds1hpxEtIlJIKQPfuzNU6bCW/view?usp=sharing)
+## Modelos não oficiais em Latex
+
+Os modelos abaixo **NÃO são modelos oficiais** do curso ou da Universidade. Seu uso é facultativo.
+
+Podem ser baixados e modificados livremente pelos alunos e docentes do DMA, não sendo necessário pedido de permissão para tal. É importante frisar que **não há suporte**, sendo de inteira responsabilidade do estudante e seu orientador qualquer dano ou problema decorrente do seu uso.
+
+**[Modelo TCC Matemática Industrial](https://drive.google.com/file/d/1S-Rtsf3iPgLUQ4IwrHRJYUMaZQQZ-50T/view?usp=sharing)**
+
+**[Modelo apresentação slides](https://drive.google.com/file/d/1-cmwFB82Ds1hpxEtIlJIKQPfuzNU6bCW/view?usp=sharing)**
