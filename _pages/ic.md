@@ -11,7 +11,7 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 
 ### Sugestões de temas
 
-- Condições sequenciais de otimalidade em programação não linear([slides](https://drive.google.com/open?id=1UOQ_CFm3yPapuoWBxL1sKI6LMZClJUpq), [livro SBMAC](http://arquivo.sbmac.org.br/arquivos/notas/livro_83.pdf))
+- Condições sequenciais de otimalidade em programação não linear ([slides](https://drive.google.com/open?id=1UOQ_CFm3yPapuoWBxL1sKI6LMZClJUpq), [livro SBMAC](http://arquivo.sbmac.org.br/arquivos/notas/livro_83.pdf))
 - Modelos e métodos de otimização em Inteligência Artificial/Aprendizado de máquina
 - Método do q-gradiente ([ref 1](http://dx.doi.org/10.1016/j.ejor.2016.01.001))
 - Método do gradiente ponderado com retardamento para minimização de quadráticas estritamente convexas ([ref inicial](https://link.springer.com/article/10.1007/s10589-019-00125-6), [ref 2](http://www.optimization-online.org/DB_FILE/2020/03/7655.pdf))
@@ -45,7 +45,7 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 
 ### Bolsas para estudantes
 
-Há possibilidade de bolsa(s) de iniciação científica, a depender da disponibilidade de recursos previstos nos Editais de IC. Na escolha do bolsista, dentre os alunos que oriento, são considerados aspectos como desempenho curricular, entrevista e situação de vulnerabilidade sócioeconômica (cadastro em programas de assitência estudantil).
+Há possibilidade de bolsa(s) de iniciação científica, a depender da disponibilidade de recursos previstos nos Editais de IC. Na escolha do bolsista são considerados aspectos como desempenho curricular, entrevista e situação de vulnerabilidade sócioeconômica (cadastro em programas de assitência estudantil).
 
 ## Modelos não oficiais em Latex
 
