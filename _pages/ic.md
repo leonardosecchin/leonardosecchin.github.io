@@ -12,14 +12,16 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 ### Sugestões de temas
 
 - Condições sequenciais de otimalidade em programação não linear ([slides](https://drive.google.com/open?id=1UOQ_CFm3yPapuoWBxL1sKI6LMZClJUpq), [livro SBMAC](http://arquivo.sbmac.org.br/arquivos/notas/livro_83.pdf))
-- Modelos e métodos de otimização em Inteligência Artificial/Aprendizado de máquina
-- Método do q-gradiente ([ref 1](http://dx.doi.org/10.1016/j.ejor.2016.01.001))
-- Método do gradiente ponderado com retardamento para minimização de quadráticas estritamente convexas ([ref inicial](https://link.springer.com/article/10.1007/s10589-019-00125-6), [ref 2](http://www.optimization-online.org/DB_FILE/2020/03/7655.pdf))
+- Métodos de otimização para Inteligência Artificial/Aprendizado de máquina
+- Método do gradiente ponderado com retardamento para minimização de quadráticas estritamente convexas ([ref 1](https://link.springer.com/article/10.1007/s10589-019-00125-6), [ref 2](https://link.springer.com/article/10.1007/s10589-020-00232-9))
+- Métodos baseados em Lanczos para resolução de problemas de regiões de confiança ([ref](https://epubs.siam.org/doi/abs/10.1137/S1052623497322735?journalCode=sjope8))
 - Métodos de gradiente para otimização multi-objetivo ([ref](http://www.optimization-online.org/DB_FILE/2020/04/7729.pdf))
 - Métodos Quasi-Newton com baixo uso de memória ([ref](https://www.tandfonline.com/doi/abs/10.1080/02331934.2020.1712391?journalCode=gopt20))
-- Tópicos variados em otimização não linear
+- Tópicos variados em otimização não linear. Uma referência com vários tópicos é o livro “Numerical Optimization” de Nocedal e Wright
 - Modelos típicos de Pesquisa Operacional (em particular, de programação inteira mista), vistos nas disciplinas “Pesquisa Operacional I e II” (Exemplos: [DRLP](https://link.springer.com/article/10.1007/s11590-018-1263-9); [Grade de horários](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i))
 - O ensino de Pesquisa Operacional/Otimização no Ensino Médio *(depende de parceria com docente da área de educação matemática)*
+
+<!-- - Método do q-gradiente ([ref 1](http://dx.doi.org/10.1016/j.ejor.2016.01.001)) -->
 
 ### Orientações em andamento
 
