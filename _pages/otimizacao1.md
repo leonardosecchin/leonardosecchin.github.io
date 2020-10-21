@@ -43,6 +43,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**SLIDES** - Método de Newton](https://leonardosecchin.github.io/files/otim1/4.2.Metodo_de_Newton.pdf)
 - [**SLIDES** - Convergência global vs local](https://leonardosecchin.github.io/files/otim1/4.4.Convergencia_global_vs_local.pdf)
 - [**SLIDES** - Convergência do método de Newton](https://leonardosecchin.github.io/files/otim1/4.5.Convergencia_Newton.pdf)
+- [**SLIDES** - Método do gradiente com passo constante e sua complexidade](https://leonardosecchin.github.io/files/otim1/4.7.Gradiente_passo_cte.pdf)
 - [**SLIDES** - Gradientes conjugados](https://leonardosecchin.github.io/files/otim1/4.6.Gradientes_conjugados.pdf)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
