@@ -55,6 +55,7 @@ Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 
 - [VÍDEO-AULA (Prof. Possani, USP): Vetores no R3 (revisão de geometria analítica)](https://www.youtube.com/watch?v=-JcQJFNVjaA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=1)
 - [VÍDEO-AULA (Prof. Possani, USP): Independência / Dependência linear](https://www.youtube.com/watch?v=A7hwTnMmW_s&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=2)
 - [VÍDEO-AULA (Prof. Possani, USP): Base, dimensão e revisão de sistemas lineares](https://www.youtube.com/watch?v=iaMTWxAS8FA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=3)
+- [VÍDEO-AULA (Prof. Possani, USP): Mudança de base - SOMENTE ATÉ 34:50](https://www.youtube.com/watch?v=6dSJViDpe8U&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=9)
 - [Exercícios livro-texto (Boldrini) - Capítulo 4](https://drive.google.com/file/d/1ETwG3qjFQTNNJ5N0p1Uq0XZIbe8_yYFg/view)
 - [**LISTA DE EXERCÍCIOS 4**](https://drive.google.com/file/d/1NW8eV7pfwMR5JZy8lUBlCydk16l4CxwK/view?usp=sharing)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
@@ -62,6 +63,7 @@ Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 
 
 ### Transformações lineares
 
+- [NOTAS E AULA](https://leonardosecchin.github.io/files/alglin/notas-5.pdf)
 - [Exercícios livro-texto (Boldrini) - Capítulo 5](https://drive.google.com/file/d/1wakryLEheaBS1h_perJST0ecrSPZbx05/view)
 - **Conteúdo extra** Vídeos básicos (nível ensino médio) do IMPA/Obmep.  
 [A geometria das transformações lineares](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=203)  
