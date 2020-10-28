@@ -68,7 +68,7 @@ Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 
 - **Conteúdo extra** Vídeos básicos (nível ensino médio) do IMPA/Obmep.  
 [A geometria das transformações lineares](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=203)  
 [Operando com transformações lineares](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=204)
-- **LISTA DE EXERCÍCIOS 5**
+- [**LISTA DE EXERCÍCIOS 5**](https://drive.google.com/file/d/1adRp2C0-WfYWUKKOGyLDFY_OS5VCrqWb/view?usp=sharing)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
