@@ -70,7 +70,6 @@ Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 
 ### Autovalores e autovetores
 
 - [Exercícios livro-texto (Boldrini) - Capítulo 6](https://drive.google.com/file/d/1GfC_zBqSAcCxtxpQNCFz7NbQwdxV3ue-/view)
-- **LISTA DE EXERCÍCIOS 6**
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
