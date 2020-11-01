@@ -14,6 +14,8 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 ## Material semestre 2020 especial (também disponível no AVA-UFES)
 
+- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
+
 ### Matrizes
 
 - [NOTAS DE AULA](https://leonardosecchin.github.io/files/alglin/notas-1.pdf)
@@ -21,7 +23,6 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [VÍDEO-AULA UNIVESP: Aula sobre matrizes - parte 2](https://www.youtube.com/watch?v=u4xKswRO4bQ&list=ULD4LDlLNM-W8&index=936)
 - [**LISTA DE EXERCÍCIOS 1**](https://drive.google.com/file/d/11PJrb-o1OUIIm6ZtJmguxtODej6nYDZ0/view)
 - **Conteúdo extra** Vídeos básicos (nível ensino médio) sobre matrizes do IMPA/Obmep. Veja as seções "O conceito de matriz" e "Operações com matrizes" em [https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75)
-- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 ### Sistemas Lineares
@@ -31,7 +32,6 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**LISTA DE EXERCÍCIOS 2**](https://drive.google.com/file/d/1fD0Gy-kU06uzeIxf2QzkUp12gZCsFTla/view)
 - **Conteúdo extra** Vídeos básicos (nível ensino médio) do IMPA/Obmep. Veja as seções "Sistemas lineares" em [https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
-- **Uma curiosidade sobre escalonamento: veja AVA**
 
 ### Determinantes
 
@@ -40,7 +40,6 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 3.
 - [EXERCÍCIOS EXTRAS - Exercícios livro-texto (Boldrini) - Capítulo 3](https://drive.google.com/file/d/1FUeuMRqESIm02YMIZ0RQeOCTX8nXXxfK/view)
 - **ATIVIDADES PARA NOTA:** somente no AVA-UFES
-- **Uma curiosidade sobre determinantes: veja AVA**
 
 
 ### Espaços Vetoriais
@@ -52,7 +51,6 @@ Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 
 - [VÍDEO-AULA (Prof. Possani, USP): Mudança de base - SOMENTE ATÉ 34:50](https://www.youtube.com/watch?v=6dSJViDpe8U&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=9)
 - [Exercícios livro-texto (Boldrini) - Capítulo 4](https://drive.google.com/file/d/1ETwG3qjFQTNNJ5N0p1Uq0XZIbe8_yYFg/view)
 - [**LISTA DE EXERCÍCIOS 4**](https://drive.google.com/file/d/1NW8eV7pfwMR5JZy8lUBlCydk16l4CxwK/view?usp=sharing)
-- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 ### Transformações lineares
@@ -64,27 +62,23 @@ Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 
 [Operando com transformações lineares](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=204)
 - [**LISTA DE EXERCÍCIOS 5 (Transformações Lineares)**](https://drive.google.com/file/d/1adRp2C0-WfYWUKKOGyLDFY_OS5VCrqWb/view?usp=sharing)
 - [**LISTA DE EXERCÍCIOS 6 (Matrizes de Transformações Lineares)**](https://drive.google.com/file/d/1KPSYG6pmceY9xLwEC9GTxXNyZVBtHlEN/view?usp=sharing)
-- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 ### Autovalores e autovetores
 
 - [Exercícios livro-texto (Boldrini) - Capítulo 6](https://drive.google.com/file/d/1GfC_zBqSAcCxtxpQNCFz7NbQwdxV3ue-/view)
-- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 ### Diagonalização
 
 - [Exercícios livro-texto (Boldrini) - Capítulo 7](https://drive.google.com/file/d/1zTEbIHY4WxS7gvz0QHn8RSUxxny3z1I0/view)
 - **LISTA DE EXERCÍCIOS 7**
-- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 ### Produto interno
 
 - [Exercícios livro-texto (Boldrini) - Capítulo 8](https://drive.google.com/file/d/1yUE7kXYI2QUOs-mfWa5-nO7FXWcdT78g/view)
 - **LISTA DE EXERCÍCIOS 8**
-- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 <!--## Horários
