@@ -38,12 +38,18 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 
 ### Orientações concluídas
 
-- 2020 (IC). [Métodos e formulações para o problema de layout em fila dupla](https://drive.google.com/file/d/1OQmZN3R_ZWwI8yjiXoLhmeDEDke4r3zy/view?usp=sharing)
-- 2014 (TCC). [Problemas de escalonamento](https://drive.google.com/open?id=1Ce6xReyjM8JvqyMbGXB_pd7tjFyrb5Np)
-- 2014 (TCC). [O problema da elaboração de grade de horários via Programação Inteira](https://drive.google.com/open?id=1gcPusN-R0zjQ_e_J-R8j3z28ui8iBV8C)
-- 2013 (IC). [O Problema de Alocação de Horários via Programação Inteira](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i)
-- 2012 (IC). [Programação Inteira: Teoria e Algoritmos](https://drive.google.com/open?id=136KkA12IjmcM1oDOAtcIL0SvynE0i2HN)
-- 2012 (IC). Utilização de um Algoritmo Genético para Solução de Problemas em Engenharia
+- 2020 (IC). [Métodos e formulações para o problema de layout em fila dupla](https://drive.google.com/file/d/1OQmZN3R_ZWwI8yjiXoLhmeDEDke4r3zy/view?usp=sharing)  
+  Aluno: Manoel de Almeida Rocha Neto
+- 2014 (TCC). [Problemas de escalonamento](https://drive.google.com/open?id=1Ce6xReyjM8JvqyMbGXB_pd7tjFyrb5Np)  
+  Aluno: Rafael Marin Permanhane
+- 2014 (TCC). [O problema da elaboração de grade de horários via Programação Inteira](https://drive.google.com/open?id=1gcPusN-R0zjQ_e_J-R8j3z28ui8iBV8C)  
+  Aluno: Rodrigo Leppaus de Araujo
+- 2013 (IC). [O Problema de Alocação de Horários via Programação Inteira](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i)  
+  Aluno: Rafael Marin Permanhane
+- 2012 (IC). [Programação Inteira: Teoria e Algoritmos](https://drive.google.com/open?id=136KkA12IjmcM1oDOAtcIL0SvynE0i2HN)  
+  Aluno: Rodrigo Leppaus de Araujo
+- 2012 (IC). Utilização de um Algoritmo Genético para Solução de Problemas em Engenharia  
+  Aluna: Cintia Cassa Libardi
 
 ### Bolsas para estudantes
 
@@ -53,7 +59,7 @@ Há possibilidade de bolsa(s) de iniciação científica, a depender da disponib
 
 Os modelos abaixo **NÃO são modelos oficiais** do curso ou da Universidade. Seu uso é facultativo.
 
-Podem ser baixados e modificados livremente pelos alunos e docentes do DMA, não sendo necessário pedido de permissão para tal. É importante frisar que **não há suporte**, sendo de inteira responsabilidade do estudante e seu orientador qualquer dano ou problema decorrente do seu uso.
+Podem ser baixados e modificados livremente pelos alunos e docentes do DMA, não sendo necessário pedir permissão para tal. É importante frisar que **não há suporte**, sendo de inteira responsabilidade do estudante e seu orientador qualquer dano ou problema decorrente do seu uso.
 
 **[Modelo TCC Matemática Industrial](https://drive.google.com/file/d/1S-Rtsf3iPgLUQ4IwrHRJYUMaZQQZ-50T/view?usp=sharing)**
 
