@@ -103,19 +103,22 @@ Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 
 
 ### Autovalores e autovetores
 
+- **NOTAS DE AULA**
 - [Exercícios livro-texto (Boldrini) - Capítulo 6](https://drive.google.com/file/d/1GfC_zBqSAcCxtxpQNCFz7NbQwdxV3ue-/view)
-
+- [**LISTA DE EXERCÍCIOS 7**](https://drive.google.com/file/d/1436zwa6aLupOCDybImt7t4tTbzq55ilz/view?usp=sharing)
 
 ### Diagonalização
 
+- **NOTAS DE AULA**
 - [Exercícios livro-texto (Boldrini) - Capítulo 7](https://drive.google.com/file/d/1zTEbIHY4WxS7gvz0QHn8RSUxxny3z1I0/view)
-- **LISTA DE EXERCÍCIOS 7**
+- **LISTA DE EXERCÍCIOS 8**
 
 
 ### Produto interno
 
+- **NOTAS DE AULA**
 - [Exercícios livro-texto (Boldrini) - Capítulo 8](https://drive.google.com/file/d/1yUE7kXYI2QUOs-mfWa5-nO7FXWcdT78g/view)
-- **LISTA DE EXERCÍCIOS 8**
+- **LISTA DE EXERCÍCIOS 9**
 
 
 ## Aplicações da Álgebra Linear
