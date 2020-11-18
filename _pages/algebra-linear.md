@@ -103,7 +103,7 @@ Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 
 
 ### Autovalores e autovetores
 
-- **NOTAS DE AULA**
+- [**NOTAS DE AULA**](https://leonardosecchin.github.io/files/alglin/notas-6.pdf)
 - [Exercícios livro-texto (Boldrini) - Capítulo 6](https://drive.google.com/file/d/1GfC_zBqSAcCxtxpQNCFz7NbQwdxV3ue-/view)
 - [**LISTA DE EXERCÍCIOS 7**](https://drive.google.com/file/d/1436zwa6aLupOCDybImt7t4tTbzq55ilz/view?usp=sharing)
 
