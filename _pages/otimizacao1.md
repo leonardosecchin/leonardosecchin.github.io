@@ -41,7 +41,7 @@ author_profile: true
 
 *   [LISTA 1 – Conceitos básicos, otimização irrestrita, convexidade](https://drive.google.com/file/d/1yV6DClaPT3zCmB1JkfnVq_j4g77-8EJU/view?usp=sharing)
 *   [LISTA 2 – Otimização sem restrições](https://drive.google.com/file/d/1_SjC-bMI8S4rQViRZ5LZe1Ef4oad1jwv/view?usp=sharing)
-*   LISTA 3 – Otimização com restrições
+*   [LISTA 3 – Otimização com restrições](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing)
 
 
 ## ATENÇÃO: Turma semestre letivo especial de 2020
@@ -60,7 +60,6 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - Texto referência para este módulo: capítulo 1 do livro de Ana Friedlander.
 - [**SLIDES** - Conceitos básicos](https://leonardosecchin.github.io/files/otim1/1.Conceitos_basicos.pdf)
 - [VÍDEO: Uma visão geral da otimização - fala do prof. Jose Mario Martinez (Unicamp)](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
-- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 ### Otimização sem restrições
 
@@ -68,14 +67,12 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - Texto complementar para este módulo: capítulo 2 do livro de Karas e Ribeiro.
 - [**SLIDES** - Otimização sem restrições](https://leonardosecchin.github.io/files/otim1/2.Otimizacao_sem_restricoes.pdf)
 - Faça todos os exercícios do Capítulo 2 do livro de Ana Friedlander
-- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 ### Convexidade
 
 - Texto referência para este módulo: capítulo 3 do livro de Ana Friedlander.
 - Texto complementar para este módulo: capítulo 3 do livro de Karas e Ribeiro.
 - [**SLIDES** - Convexidade](https://leonardosecchin.github.io/files/otim1/3.Convexidade.pdf)
-- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 ### Métodos para otimização sem restrições
 
@@ -86,12 +83,10 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**SLIDES** - Convergência do método de Newton](https://leonardosecchin.github.io/files/otim1/4.5.Convergencia_Newton.pdf)
 - [**SLIDES** - Método do gradiente com passo constante e sua complexidade](https://leonardosecchin.github.io/files/otim1/4.7.Gradiente_passo_cte.pdf)
 - [**SLIDES** - Gradientes conjugados](https://leonardosecchin.github.io/files/otim1/4.6.Gradientes_conjugados.pdf)
-- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 ### Otimização com restrições
 
 - [**SLIDES** - Otimização com restrições; condições de Karush-Kuhn-Tucker (KKT)](https://leonardosecchin.github.io/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
-- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 ### Métodos para otimização com restrições
 
@@ -103,7 +98,6 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**SLIDES** - Programação Quadrática Sequencial (PQS ou "SQP", do inglês) - algoritmo básico](https://leonardosecchin.github.io/files/otim1/6.8.SQP.pdf)
 - [**SLIDES** - Estratégia de pontos interiores para programação linear](https://leonardosecchin.github.io/files/otim1/6.9.Pontos_interiores_para_PL.pdf)
 - [**SLIDES** - SQP para restrições não lineares de igualdade e desigualdade](https://leonardosecchin.github.io/files/otim1/6.10.SQP_subprob_IP.pdf)
-- **ATIVIDADES PARA NOTA:** somente no AVA-UFES
 
 
 ## Vídeos interessantes sobre Otimização
