@@ -109,7 +109,7 @@ Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 
 
 ### Diagonalização
 
-- **NOTAS DE AULA**
+- [**NOTAS DE AULA**](https://leonardosecchin.github.io/files/alglin/notas-7.pdf)
 - [Exercícios livro-texto (Boldrini) - Capítulo 7](https://drive.google.com/file/d/1zTEbIHY4WxS7gvz0QHn8RSUxxny3z1I0/view)
 - **LISTA DE EXERCÍCIOS 8**
 
