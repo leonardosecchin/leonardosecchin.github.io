@@ -5,7 +5,7 @@ permalink: /server/
 author_profile: true
 ---
 
-## ATENÇÃO: SERVIDOR INDISPONÍVEL NO MOMENTO devido à manutenção de instalações físicas da Universidade. Não há previsão para o retorno.
+<!-- ## ATENÇÃO: SERVIDOR INDISPONÍVEL NO MOMENTO devido à manutenção de instalações físicas da Universidade. Não há previsão para o retorno. -->
 
 ### Acesso ao “optimization_server”
 
