@@ -41,15 +41,14 @@ Depois descompacte-o VIA TERMINAL DIRETO NA PASTA REMOTA utilizando comandos com
 
 ### Executando um programa depois de fechar a sessão ssh
 
-Um ponto importante é como deixar um programa rodando mesmo depois que você feche a sessão ssh. Pois do contrário, ao deixar a sessão sempre aberta, 
-qualquer problema na rede derruba a sessão e fecha todos os programas que estão rodando nela. Uma opção é o comando **nohup**. Ele deve ser usado antes do 
-comando que você quer rodar. Você pode fazer isso rodando:
+Um ponto importante é como deixar um programa rodando mesmo depois de fechar a sessão ssh. Pois do contrário, qualquer problema na rede derruba a sessão ssh e fecha todos os programas que estão rodando nela. Uma opção é o comando **nohup**. Ele deve ser usado antes do 
+comando que você quer rodar:
 
 **nohup MEU_PROGRAMA &**
 
-(não esqueça do & no fim). Isso vai executar o comando MEU_PROGRAMA em modo não iterativo e irá criar um arquivo chamado **nohup.out** que receberá 
-a saída do seu programa. Você pode então sair da sessão ssh que o seu programa continuará rodando. Ao logar-se novamente, você poderá ver se ele 
-já acabou, por exemplo, usando o comando **htop**.
+(não esqueça do & no fim). Isso executará o comando MEU_PROGRAMA em modo não iterativo e criará o arquivo **nohup.out**, que receberá 
+a saída do seu programa. Você pode então fechar a sessão ssh que seu programa continuará rodando. Ao logar-se novamente, você poderá ver se ele 
+já acabou, por exemplo, através do comando **htop**.
 
 > **O grupo de otimização, que integra e coordena o projeto, analisará a abertura de novas contas.**
 
