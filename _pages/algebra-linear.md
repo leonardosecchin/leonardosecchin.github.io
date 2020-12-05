@@ -42,17 +42,10 @@ author_profile: true
 *   *** RESULTADO PARCIAL ***-->
 
 
-
-## ATENÇÃO: Turma semestre letivo especial de 2020
-
-No semestre letivo especial de 2020, as informações, material de estudo, tarefas, avaliações e aulas da disciplina estarão disponíveis pelo Ambiente Virtual de Aprendizagem (AVA-UFES), [NESTE LINK](https://ava.ufes.br/course/view.php?id=15252). O(a) aluno(a) deverá fazer login com sua senha do portal do aluno para ter acesso ao curso.
-
-Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email**.
-
-
 ## Material (também disponível no AVA-UFES)
 
 - **ATIVIDADES PARA NOTA E AULAS SÍNCRONAS GRAVADAS:** somente no AVA-UFES
+- [**NOTAS DE AULA CONDENSADAS COM LISTAS DE EXERCÍCIOS**](https://leonardosecchin.github.io/files/alglin/notas-AL.pdf)
 
 ### Matrizes
 
@@ -116,9 +109,7 @@ Nota: veja a observação sobre a Regra de Cramer após o exercício 9 da Lista 
 
 ### Produto interno
 
-- **NOTAS DE AULA**
 - [Exercícios livro-texto (Boldrini) - Capítulo 8](https://drive.google.com/file/d/1yUE7kXYI2QUOs-mfWa5-nO7FXWcdT78g/view)
-- **LISTA DE EXERCÍCIOS 9**
 
 
 ## Aplicações da Álgebra Linear
