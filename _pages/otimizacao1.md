@@ -94,6 +94,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**SLIDES** - Minimização com restrições lineares de desigualdade; método das restrições ativas](https://leonardosecchin.github.io/files/otim1/6.2.Min_restricoes_lineares_desig-restricoes_ativas.pdf)
 - [**SLIDES** - Penalização externa](https://leonardosecchin.github.io/files/otim1/6.3.Penalizacao_externa.pdf)
 - [**SLIDES** - Prova das condições KKT via penalização externa](https://leonardosecchin.github.io/files/otim1/6.4.KKT_via_penalizacao.pdf)
+- [**SLIDES** - Método do gradiente projetado](https://leonardosecchin.github.io/files/otim1/6.11.Gradiente_projetado.pdf)
 - [**SLIDES** - Penalização interna](https://leonardosecchin.github.io/files/otim1/6.7.Penalizacao_interna.pdf)
 - [**SLIDES** - Programação Quadrática Sequencial (PQS ou "SQP", do inglês) - algoritmo básico](https://leonardosecchin.github.io/files/otim1/6.8.SQP.pdf)
 - [**SLIDES** - Estratégia de pontos interiores para programação linear](https://leonardosecchin.github.io/files/otim1/6.9.Pontos_interiores_para_PL.pdf)
