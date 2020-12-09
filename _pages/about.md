@@ -10,9 +10,11 @@ redirect_from:
 
 ### Office address
 
-- Department of Applied Mathematics, Federal University of Espírito Santo (UFES), Brazil
-  - Rodovia BR 101 Norte, Km 60, Bairro Litorâneo, zip code 29932-900 – São Mateus – ES, Brazil
-  - (Sala 05 prédio SUPGRAD)
+Department of Applied Mathematics, Federal University of Espírito Santo (UFES), Brazil  
+Rodovia BR 101 Norte, Km 60, Bairro Litorâneo, zip code 29932-900 – São Mateus – ES, Brazil
+
+### E-mail addresses
+
 - **leonardo.secchin@ufes.br**
 - **secchinleo@gmail.com**
 
