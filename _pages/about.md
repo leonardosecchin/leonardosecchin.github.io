@@ -16,7 +16,6 @@ Rodovia BR 101 Norte, Km 60, Bairro Litorâneo, zip code 29932-900 – São Mate
 ### E-mail addresses
 
 - **leonardo.secchin@ufes.br**
-- **secchinleo@gmail.com**
 
 ### Education
 
