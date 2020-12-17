@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas síncronas
 
-*   Quartas-feiras: 07:30 - 08:30
-*   Quintas-feiras: 09:30 - 10:30
+*   --<!--Quartas-feiras: 07:30 - 08:30-->
+*   --<!--Quintas-feiras: 09:30 - 10:30-->
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20I%20-%20DMA11995.pdf)
@@ -30,7 +30,7 @@ author_profile: true
 *   [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
 
 
-## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643)
+<!-- ## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643) -->
 
 <!--## Formas de avaliação:
 
@@ -44,16 +44,14 @@ author_profile: true
 *   [LISTA 3 – Otimização com restrições](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing)
 
 
-## ATENÇÃO: Turma semestre letivo especial de 2020
+<!--## ATENÇÃO: Turma semestre letivo especial de 2020
 
 No semestre letivo especial de 2020, as informações, material de estudo, tarefas, avaliações e aulas da disciplina estarão disponíveis pelo Ambiente Virtual de Aprendizagem (AVA-UFES), [NESTE LINK](https://ava.ufes.br/course/view.php?id=2643). O(a) aluno(a) deverá fazer login com sua senha do portal do aluno para ter acesso ao curso.
 
-Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email**.
+Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email**.-->
 
 
-## Material (também disponível no AVA-UFES)
-
-- **ATIVIDADES PARA NOTA E AULAS SÍNCRONAS GRAVADAS:** somente no AVA-UFES
+## Material
 
 ### Conceitos básicos
 
