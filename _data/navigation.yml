@@ -3,6 +3,9 @@ main:
   - title: "Research"
     url: research/
 
+  - title: "Software"
+    url: software/
+
   - title: "Ensino"
     url: ensino/
         
@@ -12,5 +15,5 @@ main:
   - title: "Servidor Otim."
     url: server/
     
-  - title: "Miscellaneous"
+  - title: "Misc."
     url: misc/
