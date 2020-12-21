@@ -10,3 +10,9 @@ O grupo de otimização da UFES, campus São Mateus, disponha de um computador d
 Para mais informações, incluindo instruções para acesso, visite
 
 ### [https://otimizacaoufes.github.io](https://otimizacaoufes.github.io)
+
+Teste latex $\varphi =1$ e na destacado
+
+$$
+\theta=\frac{1}{2}
+$$
