@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas síncronas
 
-*   Terças-feiras: 11:00 - 12:00
-*   Quintas-feiras: 07:30 - 08:30
+*   --
+*   --
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/programas-de-disciplinas-do-dma)
 
