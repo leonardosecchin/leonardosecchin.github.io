@@ -94,7 +94,6 @@ Julia é executado pelo terminal de comandos (para usuários Windows, recomendo 
   | | |_| | | | (_| |  |  Version 1.5.3 (2020-11-09)  
  _/ |\__'_|_|_|\__'_|  |  
 |__/                   |  
-  
 julia>
 ~~~
 
@@ -104,12 +103,10 @@ julia> A=[1 2; 3 4]
  2×2 Array{Int64,2}:  
  1  2  
  3  4  
-  
 julia> B=[5 6; 7 8]  
 2×2 Array{Int64,2}:  
  5  6  
  7  8  
-  
 julia> A*B  
 2×2 Array{Int64,2}:  
  19  22  
