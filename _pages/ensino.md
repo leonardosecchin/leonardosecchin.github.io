@@ -5,7 +5,7 @@ permalink: /ensino/
 author_profile: true
 ---
 
-## [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
+### [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
 
 ## DISCIPLINAS 2020/2E
 
