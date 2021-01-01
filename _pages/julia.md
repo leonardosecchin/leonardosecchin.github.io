@@ -142,9 +142,9 @@ Isso carregará o pacote `JuMP` na memória e suas funções internas ficarão d
 **Importante: o Julia compilará o pacote na primeira vez em que for carregado. Isso pode levar um tempo, mas é feito uma única vez.**
 
 
-## Ambiente gráfico para Julia
+<!--## Ambiente gráfico para Julia
 
-Existem plataformas (IDEs) gráficas que se integram ao Julia. Uma delas é o [Juno](https://junolab.org/).
+Existem plataformas (IDEs) gráficas que se integram ao Julia. Uma delas é o [Juno](https://junolab.org/).-->
 
 
 # Links úteis sobre Julia
