@@ -9,9 +9,9 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 - Escrita de modelos gerais de otimização de forma amigável, sem a necessidade de implementar derivadas à mão;
 
-- *Interfaces* de fácil uso para métodos sofisticados de otimização implementados em C/Fortran;
+- Interfaces de fácil uso para métodos sofisticados de otimização implementados em C/Fortran;
 
-- *Interfaces* de fácil uso para as principais bibliotecas de problemas-teste usadas na literatura;
+- Interfaces de fácil uso para as principais bibliotecas de problemas-teste usadas na literatura;
 
 - Escrita fácil e rápida de códigos, como no Matlab/Octave;
 
@@ -20,7 +20,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 Dentre as vantagens do Julia sobre o Matlab, destacam-se:
 - Julia é *software* livre, pode ser instalado em qualquer máquina sem custo;
 
-- A comunidade acadêmica cada vez mais usa Julia (pelo menos os pesquisadores de otimização não linear). Isso torna vivo o desenvolvimento de novos códigos/*interfaces* para métodos e bibliotecas;
+- A comunidade acadêmica cada vez mais usa Julia (pelo menos os pesquisadores de otimização não linear). Isso torna vivo o desenvolvimento de novos códigos/interfaces para métodos e bibliotecas;
 
 - Ao mesmo tempo que Julia oferece uma linguagem amigável como o Matlab/Octave, ao contrário destes, Julia compila os códigos (Matlab/Octave são linguagens interpretadas). Isso faz uma enorme diferença no desempenho. No Julia, laços podem ser feitos sem grandes problemas, enquanto que no Matlab eles devem ser evitados sempre quando possível pois tornam a execução muito lenta;
 
