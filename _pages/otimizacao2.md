@@ -46,11 +46,11 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 ## Conteúdo
 
-1. [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
-
 <!--1.  A linguagem de modelagem [AMPL](https://ampl.com/)
     1.  Resolvedores fornecidos com AMPL
     2.  Resolvendo modelos em AMPL-->
+
+1. [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
 
 1.  Métodos de Penalidades
     1.  Penalidade externa pura (ref [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf))
