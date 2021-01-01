@@ -87,25 +87,33 @@ Julia é executado pelo terminal de comandos (para usuários Windows, recomendo 
 
 - No terminal, execute `julia` (ou `./julia` do diretório da instalação). Isso entrará no ambiante Julia. Se tudo der certo, você verá o logotipo do Julia, a versão instalada e uma linha pronta para receber comandos:
 ~~~
+   _       _ _(_)_     |  Documentation: https://docs.julialang.org  
+  (_)     | (_) (_)    |  
+   _ _   _| |_  __ _   |  Type "?" for help, "]?" for Pkg help.  
+  | | | | | | |/ _` |  |  
+  | | |_| | | | (_| |  |  Version 1.5.3 (2020-11-09)  
+ _/ |\__'_|_|_|\__'_|  |  
+|__/                   |  
+  
 julia>
 ~~~
 
 - Neste estágio, você pode executar comandos no Julia. Por exemplo, multiplicar duas matrizes:
 ~~~
-julia> A=[1 2; 3 4]
- 2×2 Array{Int64,2}:
- 1  2
- 3  4
-
-julia> B=[5 6; 7 8]
-2×2 Array{Int64,2}:
- 5  6
- 7  8
-
-julia> A*B
-2×2 Array{Int64,2}:
- 19  22
- 43  50
+julia> A=[1 2; 3 4]  
+ 2×2 Array{Int64,2}:  
+ 1  2  
+ 3  4  
+  
+julia> B=[5 6; 7 8]  
+2×2 Array{Int64,2}:  
+ 5  6  
+ 7  8  
+  
+julia> A*B  
+2×2 Array{Int64,2}:  
+ 19  22  
+ 43  50  
 ~~~
 
 
