@@ -9,7 +9,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 - Escrita de modelos gerais de otimização de forma amigável, sem a necessidade de implementar derivadas à mão;
 
-- Interfaces de fácil uso para métodos sofisticados de otimização implementados em C/Fortran;
+- Interfaces de fácil uso para métodos sofisticados de otimização implementados em C/C++/Fortran;
 
 - Interfaces de fácil uso para as principais bibliotecas de problemas-teste usadas na literatura;
 
@@ -18,11 +18,11 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - Ferramentas diversas para manipulação eficiente de matrizes (esparsas, inclusive), bem como rotinas usuais de Álgebra Linear (parecido com o Matlab). Em particular, Julia trabalha com Hessianas esparsas.
 
 Dentre as vantagens do Julia sobre o Matlab, destacam-se:
-- Julia é *software* livre, pode ser instalado em qualquer máquina sem custo;
+- Julia é *software* livre, pode ser instalado e utilizado sem custo (respeitando as condições da licença do MIT);
 
 - A comunidade acadêmica cada vez mais usa Julia (pelo menos os pesquisadores de otimização não linear). Isso torna vivo o desenvolvimento de novos códigos/interfaces para métodos e bibliotecas;
 
-- Ao mesmo tempo que Julia oferece uma linguagem amigável como o Matlab/Octave, ao contrário destes, Julia compila os códigos (Matlab/Octave são linguagens interpretadas). Isso faz uma enorme diferença no desempenho. No Julia, laços podem ser feitos sem grandes problemas, enquanto que no Matlab eles devem ser evitados sempre quando possível pois tornam a execução muito lenta;
+- Ao mesmo tempo que Julia oferece uma linguagem amigável como o Matlab/Octave, ao contrário destes, Julia compila os códigos (Matlab/Octave são linguagens interpretadas). Isso faz uma enorme diferença no desempenho. No Julia, laços podem ser feitos sem grandes problemas, enquanto que no Matlab eles devem ser evitados sempre que possível pois tornam a execução muito lenta;
 
 - Julia possui um sistema de pacotes similar ao de distruibuições GNU/Linux como o Ubuntu e o Mint. Portanto, a instalação de um novo pacote é feita diretamente da internet dentro do Julia, sem complicações. O sistema de pacotes do Julia também atualiza os pacotes com as últimas versões dos desenvolvedores (como no Ubuntu ou Mint);
 
@@ -31,7 +31,7 @@ Dentre as vantagens do Julia sobre o Matlab, destacam-se:
 Para saber mais sobre o Julia, consulte o [Wikipedia](https://en.wikipedia.org/wiki/Julia_(programming_language).
 
 
-**Dada a facilidade, produtividade e desempenho oferecidos pelo Julia, em minhas disciplinas de Otimização poderei usá-lo na parte computacional.**
+**Dada a facilidade, produtividade e desempenho oferecidos pelo Julia, poderei usá-lo na parte computacional das disciplinas de Otimização.**
 
 
 # Passo a passo para instalação do Julia em sua máquina
@@ -85,24 +85,34 @@ Não aconselho usar o Julia do repositório do GNU/Linux, a versão geralmente �
 
 Julia é executado pelo terminal de comandos (para usuários Windows, recomendo instalar um terminal de comandos melhor que o disponível junto ao Windows).
 
-- No terminal, execute `julia` (ou `./julia` do diretório da instalação). Isso entrará no ambiante Julia. Se tudo der certo, você verá o logotipo do Julia, a versão instalada e uma linha pronta para receber comandos:
+- No terminal, execute `julia` (ou `./julia` do diretório da instalação). Isso entrará no ambiante Julia. Se tudo der certo, você verá o logotipo do Julia, a versão instalada e uma linha pronta para receber comandos, como abaixo:
 ~~~
+   _       _ _(_)_     |  Documentation: https://docs.julialang.org
+  (_)     | (_) (_)    |
+   _ _   _| |_  __ _   |  Type "?" for help, "]?" for Pkg help.
+  | | | | | | |/ _` |  |
+  | | |_| | | | (_| |  |  Version 1.5.3 (2020-11-09)
+ _/ |\__'_|_|_|\__'_|  |
+|__/                   |
+
 julia>
 ~~~
 
 - Neste estágio, você pode executar comandos no Julia. Por exemplo, multiplicar duas matrizes:
 ~~~
-julia> A=[1 2; 3 4]  
- 2×2 Array{Int64,2}:  
- 1  2  
- 3  4  
-julia> B=[5 6; 7 8]  
-2×2 Array{Int64,2}:  
- 5  6  
- 7  8  
-julia> A*B  
-2×2 Array{Int64,2}:  
- 19  22  
+julia> A=[1 2; 3 4]
+ 2×2 Array{Int64,2}:
+ 1  2
+ 3  4
+
+julia> B=[5 6; 7 8]
+2×2 Array{Int64,2}:
+ 5  6
+ 7  8
+
+julia> A*B
+2×2 Array{Int64,2}:
+ 19  22
  43  50
 ~~~
 
@@ -138,6 +148,11 @@ julia> using JuMP
 Isso carregará o pacote `JuMP` na memória e suas funções internas ficarão disponíveis para uso.
 
 **Importante: o Julia compilará o pacote na primeira vez em que for carregado. Isso pode levar um tempo, mas é feito uma única vez.**
+
+
+## Ambiente gráfico para Julia
+
+Existem plataformas (IDEs) gráficas que se integram ao Julia. Uma delas é o [Juno](https://junolab.org/).
 
 
 # Links úteis sobre Julia

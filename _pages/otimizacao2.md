@@ -55,12 +55,12 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 1.  Métodos de Penalidades
     1.  Penalidade externa pura (ref [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf))
     1.  Método do Lagrangeano Aumentado (ref [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf))
-        1.  Apresentação do pacote computacional [Algencan](https://www.ime.usp.br/~egbirgin/tango/codes.php#algencan)
+        - Apresentação do pacote computacional [Algencan](https://www.ime.usp.br/~egbirgin/tango/codes.php#algencan)
     1.  Penalidade interna / barreiras / Pontos interiores
-        1.  Apresentação do pacote computacional [Ipopt](https://coin-or.github.io/Ipopt/)
+        - Apresentação do pacote computacional [Ipopt](https://coin-or.github.io/Ipopt/)
 1.  Métodos de Região de Confiança
     1.  Programação Quadrática Sequencial com regiões de confiança
-        1.  Apresentação dos pacotes computacionais [WORHP](https://worhp.de/) e [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
+        - Apresentação dos pacotes computacionais [WORHP](https://worhp.de/) e [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
 1.  Dualidade
     1.  O problema dual geral
     1.  Dualidade Fraca. Dualidade Forte em problemas convexos
