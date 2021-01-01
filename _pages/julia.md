@@ -28,7 +28,7 @@ Dentre as vantagens do Julia sobre o Matlab, destacam-se:
 
 - Julia possui desempenho geral muitas vezes similar à linguagens de baixo nível como C e Fortran, e superior ao Matlab e sobretudo ao Octave. Ou seja, Julia combina a facilidade do Matlab e o desempenho de linguagens de baixo nível.
 
-Para saber mais sobre o Julia, consulte o [Wikipedia](https://en.wikipedia.org/wiki/Julia_\(programming_language\)).
+Para saber mais sobre o Julia, consulte o [Wikipedia](https://en.wikipedia.org/wiki/Julia_(programming_language)).
 
 
 **Dada a facilidade, produtividade e desempenho oferecidos pelo Julia, poderei usá-lo na parte computacional das disciplinas de Otimização.**
