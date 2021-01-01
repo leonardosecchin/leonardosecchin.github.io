@@ -5,12 +5,14 @@ permalink: /ensino/
 author_profile: true
 ---
 
-## DISCIPLINAS 2020/1
+## [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
 
-- [**Otimização 1**  
-  (Matemática Industrial)](/otimizacao1/)
-- [**Álgebra Linear**  
-  (vários cursos)](/algebra-linear/)
+## DISCIPLINAS 2020/2E
+
+- [**Otimização 2**  
+  (Matemática Industrial)](/otimizacao2/)
+- [**Metaheurísticas**  
+  (Matemática Industrial)](/metaheuristicas/)
 
 ## TODAS AS DISCIPLINAS
 
