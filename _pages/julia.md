@@ -31,9 +31,6 @@ Dentre as vantagens do Julia sobre o Matlab, destacam-se:
 Para saber mais sobre o Julia, consulte o [Wikipedia](https://en.wikipedia.org/wiki/Julia_(programming_language)).
 
 
-**Dada a facilidade, produtividade e desempenho oferecidos pelo Julia, poderei usá-lo na parte computacional das disciplinas de Otimização.**
-
-
 # Passo a passo para instalação do Julia em sua máquina
 
 ## Método 1: Pacotes pré-compilados (mais fácil)
@@ -110,6 +107,8 @@ julia> A*B
  43  50
 ~~~
 
+**Observação: o Julia compilará códigos na primeira vez em que os comandos forem executados. Isso leva um tempo extra, mas é feito uma única vez. Nas rodadas seguintes a execução é rápida.**
+
 
 ## Instalação de pacotes
 
@@ -141,7 +140,7 @@ julia> using JuMP
 
 Isso carregará o pacote `JuMP` na memória e suas funções internas ficarão disponíveis para uso.
 
-**Importante: o Julia compilará o pacote na primeira vez em que for carregado. Isso pode levar um tempo, mas é feito uma única vez.**
+**Importante: o Julia compilará o pacote na primeira vez em que for carregado. Isso leva um tempo, mas é feito uma única vez.**
 
 
 <!--## Ambiente gráfico para Julia
