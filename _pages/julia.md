@@ -107,7 +107,7 @@ julia> A*B
  43  50
 ~~~
 
-**Observação: o Julia compilará códigos na primeira vez em que os comandos forem executados. Isso leva um tempo extra, mas é feito uma única vez. Nas rodadas seguintes a execução é rápida.**
+**Observação: o Julia compilará códigos na primeira vez em que os comandos forem executados. Nas rodadas seguintes a execução é rápida.**
 
 
 ## Instalação de pacotes
