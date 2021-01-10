@@ -15,7 +15,7 @@ author_profile: true
 ## Textos de referência
 
 *   Boldrini e outros. Álgebra Linear. Editora Harbra.
-*   Notas de aula
+*   [Notas de aula](https://leonardosecchin.github.io/files/alglin/notas-AL.pdf)
 
 ## Textos complementares
 
@@ -24,9 +24,6 @@ author_profile: true
 *   Steinbruch, Winterle. Álgebra Linear. Pearson.
 
 <!--## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=15252)-->
-
-## [===== RESULTADO FINAL 2020/1E =====](https://leonardosecchin.github.io/files/alglin/al-notas-2020-1E.pdf)
-
 
 <!--## AVALIAÇÕES
 
@@ -47,7 +44,7 @@ author_profile: true
 
 ## Notas de Aula
 
-- [**NOTAS DE AULA CONDENSADAS COM LISTAS DE EXERCÍCIOS**](https://leonardosecchin.github.io/files/alglin/notas-AL.pdf)
+- [**NOTAS DE AULA**](https://leonardosecchin.github.io/files/alglin/notas-AL.pdf)
 
 
 ## Conteúdo adicional
