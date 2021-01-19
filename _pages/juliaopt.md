@@ -9,7 +9,7 @@ Nesta página você encontrará exercícios simples para iniciar a escrita e res
 
 # Pré-requisitos
 
-- **Antes de fazer os exercícios, leia atentamente o [tutorial de instalação](julia) do Julia.**
+- Antes de fazer os exercícios, leia atentamente o [tutorial de instalação](julia) do Julia.
 - **IMPORTANTE: as linhas iniciando com `julia>` são comandos executados dentro do ambiente Julia. Lembre-se que Julia diferencia maiúsculas e minúsculas.**
 - Para excluir objetos da memória na mesma sessão de Julia, basta setá-los como `Nothing`. Por exemplo, se `P` foi definido e quer limpá-lo,
 ~~~
@@ -27,7 +27,7 @@ Os seguintes pacotes serão usados e deverão ser instalados em seu Julia:
 
 Vamos escrever o problema de duas variáveis
 
-[\
+\[
 \min_x x_1^2 + x_2^2
 \]
 
@@ -62,12 +62,21 @@ Transformando o modelo `P` para o formato *NLPModels*:
 julia> nlp = MathOptNLPModel(P)
 ~~~
 
-O modelo `nlp` está pronto para ser resolvido pelos métodos!
+O modelo `nlp` está pronto para ser resolvido pelos métodos! A estrutura `nlp`
 
 
 # Exercício 2
 
-**Objetivo:** escrever um modelo de otimização irrestrita que lê dados externos.
+**Objetivo:** escrever um modelo de otimização a partir de variáveis do ambiente.
+
+Vamos escrever o modelo
+\[
+\begin{align*}
+\min_x & \, \sum_{i=1}^m (x_i-5)^2
+\text{s.a.} 0\leq x_i\leq 4, \quad i=1,\ldots,m
+\end{align*}
+\]
+onde $m$ é uma variável definida no ambiente do Julia. Vamos fixar ainda o ponto inicial $x^0=(1,\ldots,1)$.
 
 
 # Exercício 3
