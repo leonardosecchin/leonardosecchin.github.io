@@ -15,6 +15,7 @@ author_profile: true
 ## OUTROS
 
 - [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
+- [Julia para Otimização - primeiros passos](/juliaopt/)
 
 ## TODAS AS DISCIPLINAS
 
