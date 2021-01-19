@@ -26,9 +26,10 @@ Os seguintes pacotes serão usados e deverão ser instalados em seu Julia:
 **Objetivo:** escrever um modelo simples de otimização irrestrita.
 
 Vamos escrever o problema de duas variáveis
-$$
+
+[\
 \min_x x_1^2 + x_2^2
-$$
+\]
 
 Carregando pacotes necessários:
 ~~~
@@ -61,7 +62,7 @@ Transformando o modelo `P` para o formato *NLPModels*:
 julia> nlp = MathOptNLPModel(P)
 ~~~
 
-**O modelo `nlp` está pronto para ser resolvido pelos métodos!**
+O modelo `nlp` está pronto para ser resolvido pelos métodos!
 
 
 # Exercício 2
