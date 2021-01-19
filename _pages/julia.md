@@ -165,6 +165,8 @@ Basta digitar o comando e teclar Enter. A função `TAB --> TAB` funciona no amb
 julia> P = Nothing
 ~~~
 
+- Para sair do Julia, execute `exit()` ou tecle CTRL+D. Isso apagará da memória todos os objetos criados.
+
 
 # Uso do Julia para otimização - primeiros passos
 
