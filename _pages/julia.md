@@ -148,6 +148,24 @@ Isso carregará o pacote `JuMP` na memória e suas funções internas ficarão d
 Existem plataformas (IDEs) gráficas que se integram ao Julia. Uma delas é o [Juno](https://junolab.org/).-->
 
 
+# Dicas valiosas
+
+- O terminal de comandos do Julia comporta-se como o Linux. Você pode começar a digitar um comando e teclar `TAB --> TAB` que verá as terminações possíveis. Isso dá agilidade e ajuda a lembrar dos comandos.
+
+- O Julia possui ajuda para comandos dentro de seu ambiente. Para alternar para o "ambiente de ajuda", digite `?` (sinal de interrogação). A Linha de comandos tornará
+~~~
+help?>
+~~~
+Basta digitar o comando e teclar Enter. A função `TAB --> TAB` funciona no ambiente de ajuda também.
+
+- É possível alternar entre o terminal do Julia e o terminal do Linux (caso esteja usando Linux) teclando `;` (ponto-vírgula). Isso é bom para navegar entre diretórios sem sair do Julia (e assim não perder os objetos na memória), bem como executar comandos a nível de Linux caso queira.
+
+- Para excluir objetos da memória na mesma sessão do Julia, basta setá-los como `Nothing`. Por exemplo, se `P` foi definido e quer limpá-lo, execute
+~~~
+julia> P = Nothing
+~~~
+
+
 # Uso do Julia para otimização - primeiros passos
 
 [Neste link](juliaopt) você encontra dicas e exercícios para os primeiros passos na escrita e resolução de problemas de otimização com o Julia.

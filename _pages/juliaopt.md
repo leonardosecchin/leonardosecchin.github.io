@@ -7,14 +7,10 @@ author_profile: true
 
 Nesta página você encontrará exercícios simples para iniciar a escrita e resolução de problemas de otimização em Julia. Não é um tutorial completo sobre, e poderá ser expandido ao longo do curso. Evidentemente, há muito material na internet que você pode acessar.
 
+
 # Pré-requisitos
 
-- Antes de fazer os exercícios, leia atentamente o [tutorial de instalação](julia) do Julia.
-- **IMPORTANTE: as linhas iniciando com `julia>` são comandos executados dentro do ambiente Julia. Lembre-se que Julia diferencia maiúsculas e minúsculas.**
-- Para excluir objetos da memória na mesma sessão de Julia, basta setá-los como `Nothing`. Por exemplo, se `P` foi definido e quer limpá-lo,
-~~~
-julia> P = Nothing
-~~~
+- Antes de fazer os exercícios, leia atentamente o [tutorial de instalação](julia) do Julia. **Sugiro usar as dicas descritas na seção "Dicas" deste link.**
 
 Os seguintes pacotes serão usados e deverão ser instalados em seu Julia:
 - Escrita dos modelos de otimização: `JuMP`. Documentação completa [aqui](https://jump.dev/JuMP.jl/stable/).
@@ -74,15 +70,15 @@ Vamos escrever o modelo
 $$
 \begin{align*}
 \min_x & \, \sum_{i=1}^m (x_i-5)^2 + \sum_{i=1}^{m-1} (x_{i+1} - x_i)^3\\
-\text{s.a.} \ & 0\leq x_i\leq 4, \ i=1,\ldots,m
+\text{s.a.} \ & 1\leq x_i\leq 4, \quad i=1,\ldots,m
 \end{align*}
 $$
 
-onde $m\geq 2$ é uma variável definida no ambiente do Julia. Vamos fixar ainda o ponto inicial $x^0=(1,\ldots,1)$.
+onde $m\geq 2$ é uma variável definida no ambiente do Julia. <!--Vamos fixar ainda o ponto inicial $x^0=(1,\ldots,1)$.-->
 
-Definindo um valor para `m` (pode definir outro valor):
+Definindo um valor para `m` (pode ser qualquer):
 ~~~
-julia> m = 100
+julia> m = 10
 ~~~
 
 Carregando pacotes necessários:
@@ -95,27 +91,33 @@ Iniciando o modelo:
 julia> P = Model()
 ~~~
 
-Criando as variáveis $x_1,\ldots,x_m$, todas com valores iniciais 1:
+Criando as variáveis $x_1,\ldots,x_m$:
 ~~~
-julia> @variable(P, x[1:m], )
+julia> @variable(P, 1 <= x[1:m] <= 4)
 ~~~
 
-Definindo a função objetivo e o sentido de otimização "minimizar":
+Definindo a função objetivo:
 ~~~
-julia> @NLobjective(P, Min, )
+julia> @NLobjective(P, Min, sum((x[i]-1)^2 for i in 1:m) + sum((x[i+1]-x[i])^3 for i in 1:m-1) )
 ~~~
-*Obs: caso a FO for linear, use o comando `@objective`*
 
 Exibindo o modelo construído (opcional):
 ~~~
 julia> println(P)
 ~~~
 
-Transformando o modelo `P` para o formato *NLPModels*:
+Transformando para o formato *NLPModels*:
 ~~~
 julia> nlp = MathOptNLPModel(P)
 ~~~
 
+## Outros comandos (antes de usar *MathOptNLPModel*)
+
+- você pode mudar os limitantes de uma variável após ela ser inserida em `P`. Por exemplo, `set_lower_bound(x[5], 2)` faz $x_{5}\geq 2$, enquanto que `set_upper_bound(x[5], 3)` faz $x_5\leq 3$.
+
+- você pode dizer a um método o valor inicial de uma variável. Por exemplo, para setar o valor inicial de $x_1$ como $3.5$, execute `set_start_value(x[1], 3.5)`. Após, verifique isso lendo o valor de $x_1$: `start_value(x[1])`.
+
+- Você pode setar valores iniciais na criação das variáveis. Por exemplo, `@variable(P, 1 <= x[1:m] <= 4, start=1)` criará as $m$ variáveis, todas com valor inicial $1$.
 
 
 
