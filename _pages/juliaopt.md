@@ -73,12 +73,50 @@ Vamos escrever o modelo
 
 $$
 \begin{align*}
-\min_x & \, \sum_{i=1}^m (x_i-5)^2
-\text{s.a.} 0\leq x_i\leq 4, \quad i=1,\ldots,m
+\min_x & \, \sum_{i=1}^m (x_i-5)^2 + \sum_{i=1}^{m-1} (x_{i+1} - x_i)^3\\
+\text{s.a.} \ & 0\leq x_i\leq 4, \ i=1,\ldots,m
 \end{align*}
 $$
 
-onde $m$ é uma variável definida no ambiente do Julia. Vamos fixar ainda o ponto inicial $x^0=(1,\ldots,1)$.
+onde $m\geq 2$ é uma variável definida no ambiente do Julia. Vamos fixar ainda o ponto inicial $x^0=(1,\ldots,1)$.
+
+Definindo um valor para `m` (pode definir outro valor):
+~~~
+julia> m = 100
+~~~
+
+Carregando pacotes necessários:
+~~~
+julia> using JuMP, NLPModels, NLPModelsJuMP
+~~~
+
+Iniciando o modelo:
+~~~
+julia> P = Model()
+~~~
+
+Criando as variáveis $x_1,\ldots,x_m$, todas com valores iniciais 1:
+~~~
+julia> @variable(P, x[1:m], )
+~~~
+
+Definindo a função objetivo e o sentido de otimização "minimizar":
+~~~
+julia> @NLobjective(P, Min, )
+~~~
+*Obs: caso a FO for linear, use o comando `@objective`*
+
+Exibindo o modelo construído (opcional):
+~~~
+julia> println(P)
+~~~
+
+Transformando o modelo `P` para o formato *NLPModels*:
+~~~
+julia> nlp = MathOptNLPModel(P)
+~~~
+
+
 
 
 # Exercício 3
