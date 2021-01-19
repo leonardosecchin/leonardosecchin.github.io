@@ -27,9 +27,9 @@ Os seguintes pacotes serão usados e deverão ser instalados em seu Julia:
 
 Vamos escrever o problema de duas variáveis
 
-\[
+$$
 \min_x x_1^2 + x_2^2
-\]
+$$
 
 Carregando pacotes necessários:
 ~~~
@@ -62,7 +62,7 @@ Transformando o modelo `P` para o formato *NLPModels*:
 julia> nlp = MathOptNLPModel(P)
 ~~~
 
-O modelo `nlp` está pronto para ser resolvido pelos métodos! A estrutura `nlp`
+O modelo `nlp` está pronto para ser resolvido pelos métodos! A estrutura `nlp` fornece as derivadas de 1a e 2a ordens aos métodos sem a necessidade de calculá-las.
 
 
 # Exercício 2
@@ -70,12 +70,14 @@ O modelo `nlp` está pronto para ser resolvido pelos métodos! A estrutura `nlp`
 **Objetivo:** escrever um modelo de otimização a partir de variáveis do ambiente.
 
 Vamos escrever o modelo
-\[
+
+$$
 \begin{align*}
 \min_x & \, \sum_{i=1}^m (x_i-5)^2
 \text{s.a.} 0\leq x_i\leq 4, \quad i=1,\ldots,m
 \end{align*}
-\]
+$$
+
 onde $m$ é uma variável definida no ambiente do Julia. Vamos fixar ainda o ponto inicial $x^0=(1,\ldots,1)$.
 
 
