@@ -173,7 +173,7 @@ julia> P = Nothing
 
 # Uso do Julia para otimização - primeiros passos
 
-[Neste link](juliaopt) você encontra dicas e exercícios para os primeiros passos na escrita e resolução de problemas de otimização com o Julia.
+[Neste link](/juliaopt/) você encontra dicas e exercícios para os primeiros passos na escrita e resolução de problemas de otimização com o Julia.
 
 
 # Links úteis sobre Julia

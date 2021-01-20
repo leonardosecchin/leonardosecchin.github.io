@@ -10,7 +10,7 @@ Nesta página você encontrará exercícios simples para iniciar a escrita e res
 
 # Pré-requisitos
 
-- Antes de fazer os exercícios, leia atentamente o [tutorial de instalação](julia) do Julia. **Sugiro usar as dicas descritas na seção "Dicas" deste link.**
+- Antes de fazer os exercícios, leia atentamente o [tutorial de instalação](/julia/) do Julia. **Sugiro usar as dicas descritas na seção "Dicas" deste link.**
 
 Pacotes utilizados nos exercícios:
 - Escrita dos modelos de otimização: `JuMP`. Documentação completa [aqui](https://jump.dev/JuMP.jl/stable/).
@@ -128,9 +128,9 @@ julia> nlp = MathOptNLPModel(P)
 
 Os códigos em Julia, assim como Matlab/Octave, podem ser escritos em arquivos. A extensão padrão é `.jl`.
 
-Para este exercício, salve o arquivo `juliaoptex3.jl` [link](files/juliaoptex3.jl) no diretório que desejar.
+Para este exercício, salve o arquivo `juliaoptex3.jl` ([link](/files/juliaoptex3.jl)) no diretório que desejar.
 
-Execute o Julia do diretório que escolheu. Se preferir, você pode navegar entre diretórios através de comandos do terminal Linux (veja "Dicas" [aqui](julia)), teclando `;` (ponto e vírgula) para abrir um "ambiente de *shell*".
+Execute o Julia do diretório que escolheu. Se preferir, você pode navegar entre diretórios através de comandos do terminal Linux (veja "Dicas" [aqui](/julia/)), teclando `;` (ponto e vírgula) para abrir um "ambiente de *shell*".
 
 Importe o arquivo para o Julia:
 ~~~
