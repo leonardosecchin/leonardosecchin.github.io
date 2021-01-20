@@ -158,14 +158,17 @@ help?>
 ~~~
 Basta digitar o comando e teclar Enter. A função `TAB --> TAB` funciona no ambiente de ajuda também.
 
-- É possível alternar entre o terminal do Julia e o terminal do Linux (caso esteja usando Linux) teclando `;` (ponto-vírgula). Isso é bom para navegar entre diretórios sem sair do Julia (e assim não perder os objetos na memória), bem como executar comandos a nível de Linux caso queira.
+- É possível alternar entre o terminal do Julia e o terminal do Linux (caso esteja usando Linux) teclando `;` (pontoe e vírgula). Isso é bom para navegar entre diretórios sem sair do Julia (e assim não perder os objetos na memória), bem como executar comandos a nível de Linux (*shell*) caso queira. Comandos úteis do terminal Linux para diretórios:
+  - `pwd`: imprimi o diretório atual
+  - `cd [diretorio]`: muda de diretório. Aceita diretórios relativos, tais como `../dir1` (`dir1` no diretório pai), ou `dir1/dir2` (subdiretórios na pasta atual).
+  - O comando `cd [TAB --> TAB]` funciona e é útil para listar os diretórios da pasta atual e autocompletar nomes parcialmente digitados.
 
 - Para excluir objetos da memória na mesma sessão do Julia, basta setá-los como `Nothing`. Por exemplo, se `P` foi definido e quer limpá-lo, execute
 ~~~
 julia> P = Nothing
 ~~~
 
-- Para sair do Julia, execute `exit()` ou tecle CTRL+D. Isso apagará da memória todos os objetos criados.
+- Para sair do Julia, execute `exit()` ou tecle **Ctrl+d**. Isso apagará da memória todos os objetos criados.
 
 
 # Uso do Julia para otimização - primeiros passos

@@ -12,9 +12,10 @@ Nesta página você encontrará exercícios simples para iniciar a escrita e res
 
 - Antes de fazer os exercícios, leia atentamente o [tutorial de instalação](julia) do Julia. **Sugiro usar as dicas descritas na seção "Dicas" deste link.**
 
-Os seguintes pacotes serão usados e deverão ser instalados em seu Julia:
+Pacotes utilizados nos exercícios:
 - Escrita dos modelos de otimização: `JuMP`. Documentação completa [aqui](https://jump.dev/JuMP.jl/stable/).
-- Modelos de otimização com derivadas automáticas: `NLPModels`, `NLPModelsJuMP`.
+- Modelos de otimização com derivadas automáticas: `NLPModels`, `NLPModelsJuMP`. Como avaliar funções e suas derivadas, veja [este link](https://github.com/JuliaSmoothOptimizers/NLPModels.jl).
+- Armazenamento de matrizes esparsas: `SparseArrays`.
 
 
 # Exercício 1
@@ -123,7 +124,33 @@ julia> nlp = MathOptNLPModel(P)
 
 # Exercício 3
 
-**Objetivo:** executar códigos salvos em arquivos.
+**Objetivo:** carregar e executar códigos salvos em arquivos.
+
+Os códigos em Julia, assim como Matlab/Octave, podem ser escritos em arquivos. A extensão padrão é `.jl`.
+
+Para este exercício, salve o arquivo `juliaoptex3.jl` [link](files/juliaoptex3.jl) no diretório que desejar.
+
+Execute o Julia do diretório que escolheu. Se preferir, você pode navegar entre diretórios através de comandos do terminal Linux (veja "Dicas" [aqui](julia)), teclando `;` (ponto e vírgula) para abrir um "ambiente de *shell*".
+
+Importe o arquivo para o Julia:
+~~~
+julia> include("juliaoptex3.jl");
+~~~
+*Obs.: caso não esteja no diretório do arquivo, você pode incluí-lo passando seu caminho. Por exemplo, `include("dir/juliaoptex3.jl");`.*
+
+No arquivo `juliaoptex3.jl` há duas funções definidas e a variável `a` setada. Você pode executar:
+~~~
+julia> a
+~~~
+~~~
+julia> msg(123)
+~~~
+~~~
+julia> soma(5,8)
+~~~
+
+Você pode definir várias funções, variáveis e objetos em um ou mais arquivos. Você deverá incluir cada arquivo que criar. **Abra o arquivo `juliaoptex3.jl` e veja como ele foi feito.**
+
 
 
 # Exercício 4
@@ -133,7 +160,7 @@ julia> nlp = MathOptNLPModel(P)
 
 # Exercício 5
 
-**Objetivo:** escrever um modelo de otimização rrestrita.
+**Objetivo:** escrever um modelo de otimização com restrições.
 
 
 # Exercício 6
