@@ -5,38 +5,63 @@ permalink: /metaheuristicas/
 author_profile: true
 ---
 
-## Horários:
+## Horários
 
-*   ——————–
+- Quintas-feiras de 7:30 as 8:30
+- Sextas-feiras de 11:00 as 12:00 *(a confirmar)*
 
-## Ementa:
+## Ementa
 
 Ementa variável.
 
-## Conteúdo:
+## Conteúdo
 
 Principais metaheurísticas usadas na literatura recente (algoritmos genéticos, simulated annealing, busca tabu, colônia de formigas, outras metaheurísticas bio-inspiradas, GRASP, dentre outras).
 
-## Bibliografia:
+## Testos de referência
 
 *   [Gendreau, Michel, Potvin, Jean-Yves (Eds.) Handbook of Metaheuristics. Springer, 2019](https://www.springer.com/us/book/9781441916631)
 *   [Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003.](https://www.springer.com/us/book/9780306480560)
-*   Dréo, Pétrowski, Siarry e Taillard – Metaheuristics for Hard Optimization. Springer, 2005 ([PDF disponível](https://pdfs.semanticscholar.org/a196/49b6ce55e93be24ccb0f45e5d21928b14880.pdf))
+*   Dréo, Pétrowski, Siarry e Taillard – Metaheuristics for Hard Optimization. Springer, 2005
 *   [Meta-heurísticas em Pesquisa Operacional](http://omnipax.com.br/site/?page_id=220) ([PDF disponível](http://omnipax.com.br/livros/2013/MHPO/mhpo-livro.pdf))
 
-## Formas de avaliação:
+## ATENÇÃO: Turma 2020/2E
+
+No segundo semestre letivo especial de 2020, as informações, material de estudo, tarefas, avaliações e aulas gravadas estarão disponíveis pelo Ambiente Virtual de Aprendizagem (AVA-UFES), [NESTE LINK](https://ava.ufes.br/course/view.php?id=16083). O(a) aluno(a) deverá fazer login com sua senha do portal do aluno para ter acesso ao curso.
+
+Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email @edu.ufes.br**.
+
+## Formas de avaliação
 
 Serão aplicadas no mínimo duas avaliações, dentre testes dissertativos, apresentações de seminários e/ou desenvolvimento de projetos. A média parcial para aprovação é sete, e final, cinco.
 
-## Média parcial:
+## Critérios de avaliação
 
-Igual ao **máximo** entre 10,0 e a média ponderada das atividades e apresentações:
+- Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
+- Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a).
+
+## Cálculo da média parcial
+
+Em breve.
+
+<!--Igual ao **máximo** entre 10,0 e a média ponderada das atividades e apresentações:
 
 (  (atividade 1)*1,0  +  (atividade 2)*2,0  +  (atividade 3)*3,0  +   média apres)*5,0  ) / 11
 
-Assim, a nota final é no máximo 10, mesmo que a média das apresentações seja > 10.
+Assim, a nota final é no máximo 10, mesmo que a média das apresentações seja > 10.-->
+
 
 # MATERIAIS PARA AS AULAS
+
+## Linguagens de programação
+
+*   Os códigos e as aulas serão baseados em códigos **Octave**.
+    - Em distrituições GNU/Linux como Ubuntu e Mint, Octave está disponível via repositório. Você deverá instalar o pacote principal ``octave``. Comandos específicos estão disponíveis em outros pacotes com nomes ``octave-X``, tais como ``octave-optim`` (algoritmos para otimização irrestrita), ``octave-nlopt`` (algoritmos para otimização restrita), ``octave-ga`` (um algoritmo genético pronto), e muitos outros. Instale os pacotes que for usar (aqueles necessários no curso serão indicados).
+    - No Windows, você pode baixar o Octave [neste link](https://www.gnu.org/software/octave/index).
+    - [**Documentação do Octave**](https://www.gnu.org/software/octave/doc/latest).
+
+*   Outras linguagens podem ser usadas, como o Python. Uma outra opção é o Julia. Você pode encontrar instruções de instalação e uso [neste link](). Se for usar outras linguagens, tente não ser muito exótico(a) ;)
+
 
 ## Busca Tabu
 
@@ -46,13 +71,15 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 *   [Slides](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
 *   Curiosidade: busque no Google “tabu search papers” e veja a quantidade de pesquisa usando a técnica!
 
+
 ## Simulated Annealing
 
 *   [Código Matlab/Octave](https://drive.google.com/file/d/1HADurl67sMhoggwrzxWhSWyfGPKVPjhT/view?usp=sharing) (código comentado)  
     _Fonte: [http://yarpiz.com/223/ypea105-simulated-annealing](http://yarpiz.com/223/ypea105-simulated-annealing)_
 *   Referência: cap 10 do livro de Glover
 *   [Slides](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
-*   <span style="color: #ff0000">**Atividade 2 (ver abaixo)**</span>
+<!--*   **Atividade 2 (ver abaixo)**-->
+
 
 ## Ant Colony (Colônia de formigas)
 
@@ -62,6 +89,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
     *   cap 9 do livro de Glover
     *   Dorigo; Caro. Ant colony optimization: a new meta-heuristic. [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
 *   [Slides](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
+
 
 ## Evolução Diferencial
 
@@ -77,6 +105,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
     *   Uma referência em português: [Brandão, Saramago. Métodos estocásticos de otimização: algoritmos genéticos e evolução diferencial, SBMAC, 2011.](http://www.sbmac.org.br/arquivos/notas/livro_55.pdf)
 *   **Funções-teste (retirado da terceira referência acima): **[**metah.funcoes-teste**](http://blog.ufes.br/leonardosecchin/files/2018/08/metah.funcoes-teste.pdf)
 
+
 ## Algoritmos Genéticos
 
 *   [Slides de Estéfane Lacerda (UFRN)](https://www.dca.ufrn.br/~estefane/metaheuristicas/index.html) – somente slides 1, 2, 3 e 6
@@ -85,6 +114,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 *   Apresentação detalhada de alguns crossovers para o TSP: [PMX](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/PMXCrossoverOperator.aspx/), [Cycle](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)
 *   <span style="color: #ff0000">**Atividade 3 (ver abaixo)**</span>
 
+
 ## Particle Swarm (Nuvem de partículas)
 
 *   [Código Matlab/Octave](https://drive.google.com/file/d/1q9W2SjF0vXIX4dfD55jBool1RvXPSSxI/view?usp=sharing) (código comentado).  
@@ -92,6 +122,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 *   [Slides editados de Estéfane Lacerda, UFRN](https://drive.google.com/file/d/1ENpP6vWD6Qj-HteDyRq47HT3OgS2EvKq/view?usp=sharing) (apresentados em aula); slides originais [aqui](http://www.dca.ufrn.br/~estefane/metaheuristicas/pso.pdf)
 *   [Vídeo-aulas do projeto Yarpiz (em inglês)](http://yarpiz.com/440/ytea101-particle-swarm-optimization-pso-in-matlab-video-tutorial). Veja a parte 1/3 para explicação do algoritmo.
 *   [Slides resumidos com “equações de movimento”](https://drive.google.com/file/d/1TDujiXzrHaolRYQilgXdzhBSsCKBfX58/view?usp=sharing) (editadas a partir de slides do projeto Yarpiz — [originais aqui](http://yarpiz.com/wp-content/uploads/2016/05/yarpiz-ytea101-notes.pdf))
+
 
 ## GRASP
 
@@ -102,40 +133,44 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 *   Referências:
     *   cap 8 do livro de Glover
 
-## Leitura recomendada: [Análise de Sörensen sobre a profusão de artigos nos últimos anos e seu rigor científico](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12001)
+
+## Leitura(s) recomendada(s)
+
+*   [Análise de Sörensen sobre a profusão de artigos nos últimos anos e seu rigor científico](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12001)
+
 
 # ATIVIDADES
 
 ## Atividade 1 – Metaheurísticas, apresentação
 
-*   Faça um resumo, **com suas palavras**, da introdução do livro de Dréo, Pétrowski, Siarry e Taillard, [disponível aqui](hhttps://drive.google.com/file/d/1fqU2s6RCj4ixt1MkGzb0yLPjjcQr2JCm/view?usp=sharing). Diga o que entendeu, destaque os pontos que achou relevante, críticas, etc.
-*   O trabalho poderá ser feito de próprio punho ou digitado, entregue impresso ou por email (enviar para leonardo.secchin@ufes.br)
+*   Faça um resumo, **com suas palavras**, da introdução do livro de Dréo, Pétrowski, Siarry e Taillard, [disponível aqui](https://drive.google.com/file/d/1fqU2s6RCj4ixt1MkGzb0yLPjjcQr2JCm/view?usp=sharing). Diga o que entendeu, destaque os pontos que achou relevante, críticas, etc.
+*   O trabalho poderá ser feito de próprio punho ou digitado, entregue pela plataforma AVA.
 *   Um resumo de no mínimo 1 página é desejável. Não é para traduzir o texto!
 
 ## Atividade 2
 
-*   Baixe o arquivo ZIP com o código do Simulated Annealing (aula 14/08 acima);
+<!--*   Baixe o arquivo ZIP com o código do Simulated Annealing (aula 14/08 acima);
 *   Na aula vimos o método padrão aplicado ao TSP. Execute a versão com populações (diretório “02 TSP using SA (Population-Based)”);
 *   Se familiarize com o código. Ele é muito parecido com o visto em aula. Mude parâmetros e entenda os efeitos;
 *   Compare o comportamento das duas versões. Rode para o problema brinquedo e para o problema “berlin52.tsp” (copie o arquivo da pasta do método padrão e ajuste a criação do modelo);
 *   **TAREFA – Faça um pequeno relatório que:**
     *   Pontue as diferenças entre as duas estratégias. Explique o que a estratégia por populações tenta fazer que a estratégia padrão tem dificuldade;
     *   Compare os gráficos gerados pelos algoritmos para o valor da função objetivo e tire conclusões acerca da qualidade das soluções e da velocidade de decrescimento da função objetivo;
-    *   Faça seus testes também com o problema “berlin52.tsp”
+    *   Faça seus testes também com o problema “berlin52.tsp”-->
 
 ## Atividade 3
 
-*   **Objetivo: programar um Algoritmo Genético (AG) para resolver o TSP; familiarizar-se com ajuste de parâmetros, testes numéricos, etc.**
+<!--*   **Objetivo: programar um Algoritmo Genético (AG) para resolver o TSP; familiarizar-se com ajuste de parâmetros, testes numéricos, etc.**
 *   Escolha 2 mutações e 2 crossover’s para comparar (veja slides da aula de 23/08)
 *   Faça um AG preferencialmente em Octave. As funções e estrutura para o TSP estão prontas nos códigos de aulas anteriores. USE-OS!
 *   Faça testes para ajustar parâmetros e comparar diferentes mutações e crossover’s.
 *   <span style="color: #ff0000">Utilize em seus testes problemas da TSPLIB, arquivo</span> [TSPLIB_modif](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view?usp=sharing). Esses problemas foram adaptados para o código do Octave já apresentado.
 *   Os valores ótimos de cada problema podem ser encontrados [aqui](https://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/STSP.html).
-*   **<span style="color: #ff0000">Fazer um relatório e entregar os códigos. O trabalho é individual.</span>**
+*   **<span style="color: #ff0000">Fazer um relatório e entregar os códigos. O trabalho é individual.</span>**-->
 
 ## Atividade 4
 
-Esta atividade consiste na apresentação, pelo aluno, de um artigo selecionado. Cada aluno escolherá um artigo e fará uma apresentação contendo:
+<!--Esta atividade consiste na apresentação, pelo aluno, de um artigo selecionado. Cada aluno escolherá um artigo e fará uma apresentação contendo:
 
 *   o problema e a metodologia de resolução (metaheurística usada/adaptada pelo(s) autore(s));
 *   reprodução, pelo menos parcial, dos testes numéricos. O aluno deverá programar o método e realizar os testes, comparando com os testes relatados no artigo (pode-se utilizar os códigos das aulas ou outros que estiverem disponíveis na internet, em qualquer linguagem de programação).
@@ -224,4 +259,4 @@ Instâncias tratadas para Octave: [CAP-Amaral_m](#)_
 
 * * *
 
-[Artigo 4](https://www.sciencedirect.com/science/article/pii/S0305054811001298)
+[Artigo 4](https://www.sciencedirect.com/science/article/pii/S0305054811001298)-->
