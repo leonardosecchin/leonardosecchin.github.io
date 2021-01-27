@@ -54,6 +54,8 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
     1. [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
     1. [Julia para Otimização - primeiros passos](/juliaopt/)
 
+1.  [Revisão das condições de Karush-Kuhn-Tucker (KKT)](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
+
 1.  Métodos de Penalidades
     1.  Penalidade externa pura (ref [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf))
     1.  Método do Lagrangeano Aumentado (ref [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf))
