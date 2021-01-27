@@ -83,7 +83,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 ## Ant Colony (Colônia de formigas)
 
-*   [Código Matlab/Octave](https://drive.google.com/file/d/1cQ5wtYWb1_JscJSKOG6YiHG5wYY-Vapg/view?usp=sharing) (código comentado)  
+*   **[Código Matlab/Octave](https://drive.google.com/file/d/1cQ5wtYWb1_JscJSKOG6YiHG5wYY-Vapg/view?usp=sharing) (código comentado)**  
     _Fonte: [http://yarpiz.com/53/ypea103-ant-colony-optimization](http://yarpiz.com/53/ypea103-ant-colony-optimization)_
 *   Referências:
     *   cap 9 do livro de Glover
@@ -93,7 +93,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 ## Evolução Diferencial
 
-*   **[Código Matlab/Octave](https://drive.google.com/file/d/12NKXXIfaK94O4ei6N2qjcqvjftKJu4Hm/view?usp=sharing) (código comentado). <span style="color: #ff0000">Atualizado em 21/08</span>**  
+*   **[Código Matlab/Octave](https://drive.google.com/file/d/12NKXXIfaK94O4ei6N2qjcqvjftKJu4Hm/view?usp=sharing) (código comentado)**
     _Fonte: [http://yarpiz.com/231/ypea107-differential-evolution](http://yarpiz.com/231/ypea107-differential-evolution)_
 *   [Artigo que definiu o método, pela primeira vez](https://link.springer.com/article/10.1023/A:1008202821328) (baixe pela universidade)
 *   [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf) (introdução geral sobre metaheurísticas)
@@ -109,15 +109,15 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 ## Algoritmos Genéticos
 
 *   [Slides de Estéfane Lacerda (UFRN)](https://www.dca.ufrn.br/~estefane/metaheuristicas/index.html) – somente slides 1, 2, 3 e 6
-*   Slides editados (apresentados na aula): [1\. ag_binario](https://drive.google.com/file/d/1SCOCEyOHZmUgHga-J8IYPdX2UrlxZ2jz/view?usp=sharing) ; [2\. ag_tsp](https://drive.google.com/file/d/1jftC9l-HwpB0PYON3YwYrN2lP87aUBsg/view?usp=sharing)
+*   Slides editados (para aula): [1\. ag_binario](https://drive.google.com/file/d/1SCOCEyOHZmUgHga-J8IYPdX2UrlxZ2jz/view?usp=sharing) ; [2\. ag_tsp](https://drive.google.com/file/d/1jftC9l-HwpB0PYON3YwYrN2lP87aUBsg/view?usp=sharing)
 *   [Artigo com explicação de operadores para o TSP](https://www.hindawi.com/journals/cin/2017/7430125/)
 *   Apresentação detalhada de alguns crossovers para o TSP: [PMX](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/PMXCrossoverOperator.aspx/), [Cycle](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)
-*   <span style="color: #ff0000">**Atividade 3 (ver abaixo)**</span>
+<!--*   **Atividade 3 (ver abaixo)**-->
 
 
 ## Particle Swarm (Nuvem de partículas)
 
-*   [Código Matlab/Octave](https://drive.google.com/file/d/1q9W2SjF0vXIX4dfD55jBool1RvXPSSxI/view?usp=sharing) (código comentado).  
+*   **[Código Matlab/Octave](https://drive.google.com/file/d/1q9W2SjF0vXIX4dfD55jBool1RvXPSSxI/view?usp=sharing) (código comentado).**  
     _Fonte: [http://yarpiz.com/50/ypea102-particle-swarm-optimization](http://yarpiz.com/50/ypea102-particle-swarm-optimization)_
 *   [Slides editados de Estéfane Lacerda, UFRN](https://drive.google.com/file/d/1ENpP6vWD6Qj-HteDyRq47HT3OgS2EvKq/view?usp=sharing) (apresentados em aula); slides originais [aqui](http://www.dca.ufrn.br/~estefane/metaheuristicas/pso.pdf)
 *   [Vídeo-aulas do projeto Yarpiz (em inglês)](http://yarpiz.com/440/ytea101-particle-swarm-optimization-pso-in-matlab-video-tutorial). Veja a parte 1/3 para explicação do algoritmo.
@@ -126,7 +126,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 ## GRASP
 
-*   [Código Matlab/Octave de um GRASP para o TSP](https://drive.google.com/file/d/1ZdYhhQHka7aDrDlxtwvtuMIp6gVv-pHv/view?usp=sharing) <span style="color: #ff0000">(atualizado em 30/08 as 12:56)</span>  
+*   **[Código Matlab/Octave de um GRASP para o TSP](https://drive.google.com/file/d/1ZdYhhQHka7aDrDlxtwvtuMIp6gVv-pHv/view?usp=sharing)**  
     _Fonte: [https://github.com/warloff/GRASP-for-Traveling-Salesman](https://github.com/warloff/GRASP-for-Traveling-Salesman)_
 *   [Slides](https://drive.google.com/file/d/1pUrwz80FL-kh61fIKWNDtDP5MbuYzfW1/view?usp=sharing)
 *   [Problemas TSP adaptados ao código de GRASP](https://drive.google.com/file/d/1kZdt_S4vJScXHIa4PRQ7-LQgBZzF3jo9/view?usp=sharing)
