@@ -178,7 +178,7 @@ julia> P = Nothing
 
 # Links úteis sobre Julia
 
-- Sítio da linguagem: https://julialang.org
-- Julia no GitHub: https://github.com/JuliaLang/julia
-- Lista de pacotes: https://julialang.org/packages
-- Documentação: https://docs.julialang.org
+- Sítio da linguagem: [https://julialang.org](https://julialang.org)
+- Julia no GitHub: [https://github.com/JuliaLang/julia](https://github.com/JuliaLang/julia)
+- Lista de pacotes: [https://julialang.org/packages](https://julialang.org/packages)
+- Documentação: [https://docs.julialang.org](https://docs.julialang.org)
