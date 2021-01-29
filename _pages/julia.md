@@ -119,7 +119,13 @@ As ferramentas de otimização de nosso interesse vêm na forma de pacotes. Prim
 (@v1.x) pkg>
 ~~~
 
-- Para adicionar pacotes, use `add \[pacote\]`. Por exemplo, para adicionar o pacote `JuMP` (pacote para modelagem de problemas de otimização), execute:
+- Antes de começar a adicionar pacotes, recomendo atualizar a lista deles ao menos uma vez:
+~~~
+(@v1.x) pkg> up
+~~~
+Isso também irá atualizar as versões dos pacotes existentes, e pode ser feito sempre que desejar.
+
+- Para adicionar pacotes, use `add [pacote]`. Por exemplo, para adicionar o pacote `JuMP` (pacote para modelagem de problemas de otimização), execute:
 ~~~
 (@v1.x) pkg> add JuMP
 ~~~
@@ -148,7 +154,7 @@ Isso carregará o pacote `JuMP` na memória e suas funções internas ficarão d
 Existem plataformas (IDEs) gráficas que se integram ao Julia. Uma delas é o [Juno](https://junolab.org/).-->
 
 
-# Dicas valiosas
+# Dicas
 
 - O terminal de comandos do Julia comporta-se como o Linux. Você pode começar a digitar um comando e teclar `TAB --> TAB` que verá as terminações possíveis. Isso dá agilidade e ajuda a lembrar dos comandos.
 
