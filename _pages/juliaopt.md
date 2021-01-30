@@ -10,12 +10,13 @@ Nesta página você encontrará exercícios simples para iniciar a escrita e res
 
 # Pré-requisitos
 
-- Antes de fazer os exercícios, leia atentamente o [tutorial de instalação](/julia/) do Julia. **Sugiro usar as dicas descritas na seção "Dicas" deste link.**
+- Antes de fazer os exercícios, leia atentamente o [tutorial de instalação](/julia/) do Julia. **Sugiro se familiarizar com as dicas descritas na seção "Dicas" deste link.**
 
-Pacotes utilizados nos exercícios:
+Pacotes utilizados nos exercícios (alguns necessitam de instalação):
 - Escrita dos modelos de otimização: `JuMP`. Documentação completa [aqui](https://jump.dev/JuMP.jl/stable/).
 - Modelos de otimização com derivadas automáticas: `NLPModels`, `NLPModelsJuMP`. Como avaliar funções e suas derivadas, veja [este link](https://github.com/JuliaSmoothOptimizers/NLPModels.jl).
 - Armazenamento de matrizes esparsas: `SparseArrays`.
+- Comando de impressão na tela estilo C: `Printf`.
 
 
 # Exercício 1
@@ -128,7 +129,7 @@ julia> nlp = MathOptNLPModel(P)
 
 Os códigos em Julia, assim como Matlab/Octave, podem ser escritos em arquivos. A extensão padrão é `.jl`.
 
-Para este exercício, salve o arquivo `juliaoptex3.jl` ([link](/files/juliaoptex3.jl)) no diretório que desejar.
+Para este exercício, salve o arquivo `juliaoptex3.jl` ([link](/files/julia/juliaoptex3.jl)) no diretório que desejar.
 
 Execute o Julia do diretório que escolheu. Se preferir, você pode navegar entre diretórios através de comandos do terminal Linux (veja "Dicas" [aqui](/julia/)), teclando `;` (ponto e vírgula) para abrir um "ambiente de *shell*".
 
@@ -156,6 +157,13 @@ Você pode definir várias funções, variáveis e objetos em um ou mais arquivo
 # Exercício 4
 
 **Objetivo:** implementar um método simples de gradiente.
+
+Salve o arquivo [gradiente.jl](/files/julia/gradiente.jl). Ele contém uma implementação simples do método do gradiente descrito no slide 29 [deste link](/otim1/4.1.Metodos_descida_gerais.pdf). Sugiro que reveja o método e acompanhe o código.
+
+Após estudar e ler as instruções de execução no código, faça:
+- Resolva o problema do Exercício 1 partindo do ponto inicial $x_0=(1,1)$;
+- Resolva o problema do Exercício 2 ignorando os limitantes das variáveis;
+- Modifique o código para implementar a interpolação quadrática, como descrito nos slides 11 a 13 [deste link](/otim1/4.1.Metodos_descida_gerais.pdf). Compare os métodos.
 
 
 # Exercício 5
