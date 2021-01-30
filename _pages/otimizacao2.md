@@ -32,7 +32,7 @@ author_profile: true
 
 No segundo semestre letivo especial de 2020, as informações, material de estudo, tarefas, avaliações e aulas gravadas estarão disponíveis pelo Ambiente Virtual de Aprendizagem (AVA-UFES), [NESTE LINK](https://ava.ufes.br/course/view.php?id=16074). O(a) aluno(a) deverá fazer login com sua senha do portal do aluno para ter acesso ao curso.
 
-Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email @edu.ufes.br**.
+Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solicite acesso enviando email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo seu **nome completo** e **endereço de email @edu.ufes.br**.
 
 ## Formas de avaliação
 
