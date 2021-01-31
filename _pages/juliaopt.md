@@ -27,7 +27,9 @@ Pacotes utilizados nos exercícios (alguns necessitam de instalação):
 Vamos escrever o problema de duas variáveis
 
 $$
+\begin{equation*}
 \min_x x_1^2 + x_2^2
+\end{equation*}
 $$
 
 Carregando pacotes necessários:
@@ -170,15 +172,23 @@ Após estudar e ler as instruções de execução no código, faça:
 
 # Exercício 5
 
+**Objetivo:** Exibir informações na tela, gravar arquivos de texto e construir gráficos.
+
+Em breve.
+
+
+
+# Exercício 6
+
 **Objetivo:** escrever um modelo de otimização com restrições.
 
 Considere o problema com restrições
 
 $$
 \begin{align*}
-\min_x \, & (x_1-2)^2 + (x_2-1)^2\nonumber\\
-\text{s.a. } & x_1 + x_2 - 2\leq 0\nonumber\\
-&x_1^2-x_2\leq 0\nonumber
+\min_x \, & (x_1-2)^2 + (x_2-1)^2\\
+\text{s.a. } & x_1 + x_2 - 2\leq 0\\
+&x_1^2-x_2\leq 0
 \end{align*}
 $$
 
@@ -208,19 +218,15 @@ julia> nlp = MathOptNLPModel(P)
 
 
 
-# Exercício 6
-
-**Objetivo:** Exibir informações na tela, gravar arquivos de texto e construir gráficos.
-
-
-
 # Exercício 7
 
 **Objetivo:** resolver modelos de otimização restrita e irrestrita por métodos disponíveis.
 
+Em breve.
 
 
 # Exercício 8
 
 **Objetivo:** acessar bibliotecas de problemas-teste usadas na literatura.
 
+Em breve.
