@@ -13,10 +13,11 @@ Nesta página você encontrará exercícios simples para iniciar a escrita e res
 - Antes de fazer os exercícios, leia atentamente o [tutorial de instalação](/julia/) do Julia. **Sugiro se familiarizar com as dicas descritas na seção "Dicas" deste link.**
 
 Pacotes utilizados nos exercícios (alguns necessitam de instalação):
-- Escrita dos modelos de otimização: `JuMP`. Documentação completa [aqui](https://jump.dev/JuMP.jl/stable/).
-- Modelos de otimização com derivadas automáticas: `NLPModels`, `NLPModelsJuMP`. Como avaliar funções e suas derivadas, veja [este link](https://github.com/JuliaSmoothOptimizers/NLPModels.jl).
-- Armazenamento de matrizes esparsas: `SparseArrays`.
-- Comando de impressão na tela estilo C: `Printf`.
+- Escrita dos modelos de otimização: `JuMP`. Documentação completa [aqui](https://jump.dev/JuMP.jl/stable/)
+- Modelos de otimização com derivadas automáticas: `NLPModels`, `NLPModelsJuMP`. Como avaliar funções e suas derivadas, veja [este link](https://github.com/JuliaSmoothOptimizers/NLPModels.jl)
+- Rotinas de álgebra linear: `LinearAlgebra`
+- Armazenamento de matrizes esparsas: `SparseArrays`
+- Comando de impressão na tela estilo C: `Printf`
 
 
 # Exercício 1
@@ -166,17 +167,60 @@ Após estudar e ler as instruções de execução no código, faça:
 - Modifique o código para implementar a interpolação quadrática, como descrito nos slides 11 a 13 [deste link](/files/otim1/4.1.Metodos_descida_gerais.pdf). Compare os métodos.
 
 
+
 # Exercício 5
 
 **Objetivo:** escrever um modelo de otimização com restrições.
 
+Considere o problema com restrições
+
+$$
+\begin{align}
+\min_x \, & (x_1-2)^2 + (x_2+1)^2\\
+\text{s.a. } & x_1 + x_2 - 2\leq 0\\
+&x_1^2-x_2\leq 0
+\end{align}
+$$
+
+*Este problema pode ser encontrado no livro de Karas e Ribeiro, ou no slide 2 [deste link](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf).*
+
+Siga as instruções do Exemplo 1 para criar o modelo, variáveis e função objetivo.
+
+Antes de criar a estrutura `MathOptNLPModel`, você deve adicionar as restrições ao modelo `P`.
+
+Adicionando a restrição linear:
+~~~
+julia> @constraint(P, x[1] + x[2] - 2 <= 0)
+~~~
+
+Adicionando a restrição não linear:
+~~~
+julia> @NLconstraint(P, x[1]^2 - x[2] <= 0)
+~~~
+
+Exibindo o modelo construído e transformando-o para *NLPModels*:
+~~~
+julia> println(P)
+~~~
+~~~
+julia> nlp = MathOptNLPModel(P)
+~~~
+
+
 
 # Exercício 6
+
+**Objetivo:** Exibir informações na tela, gravar arquivos de texto e construir gráficos.
+
+
+
+# Exercício 7
 
 **Objetivo:** resolver modelos de otimização restrita e irrestrita por métodos disponíveis.
 
 
-# Exercício 7
+
+# Exercício 8
 
 **Objetivo:** acessar bibliotecas de problemas-teste usadas na literatura.
 

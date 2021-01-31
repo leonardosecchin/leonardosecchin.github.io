@@ -2,22 +2,22 @@
 # METODO DO GRADIENTE, COMO DESCRITO NO SLIDE 29 DE
 #   https://leonardosecchin.github.io/files/otim1/4.1.Metodos_descida_gerais.pdf
 # Autor: Leonardo D. Secchin
-# Data : 30/01/2021
+# Data : 31/01/2021
 #
 # Exemplos de uso:
-#   gradiente(nlp)
-#   gradiente(nlp, x0=[1;1])
-#   gradiente(nlp, eps=1e-8)
-#   x, f, gradnorm, iter, status = gradiente(nlp, x0=[1;1], eps=1e-8, maxiter=2000)
+#   gradiente(nlp);
+#   gradiente(nlp, x0=[1;1]);
+#   gradiente(nlp, eps=1e-8);
+#   x, f, gradnorm, iter, status = gradiente(nlp, x0=[1;1], eps=1e-8, maxiter=2000);
 # onde 'nlp' é a estrutura MathOptNLPModel do problema.
 ###################################################
 
 # carrega pacotes necessários
-using JuMP, NLPModels, NLPModelsJuMP, Printf
+using JuMP, NLPModels, NLPModelsJuMP, Printf, LinearAlgebra
 
 
 # FUNÇÃO PRINCIPAL
-function gradiente(nlp; x0=nothing, eps=1.0e-6, maxiter=1000)
+function gradiente(nlp; x0=Nothing, eps=1.0e-6, maxiter=1000)
 
     # DADOS DE ENTRADA
     # nlp     : estrutura MathOptNLPModel do problema
@@ -39,9 +39,9 @@ function gradiente(nlp; x0=nothing, eps=1.0e-6, maxiter=1000)
     eta = 0.5
 
     # define ponto inicial caso não fornecido
-    if x0 == nothing
+    if x0 == Nothing
         # captura ponto inicial da estrutura nlp
-        if nlp.meta.x0 == nothing
+        if nlp.meta.x0 != Nothing
             x0 = nlp.meta.x0
         else
             # caso não exista, seta x0=origem
