@@ -169,9 +169,9 @@ Basta digitar o comando e teclar Enter. A função `TAB --> TAB` funciona no amb
   - `cd [diretorio]`: muda de diretório. Aceita diretórios relativos, tais como `../dir1` (`dir1` no diretório pai), ou `dir1/dir2` (subdiretórios na pasta atual).
   - O comando `cd [TAB --> TAB]` funciona e é útil para listar os diretórios da pasta atual e autocompletar nomes parcialmente digitados.
 
-- Para excluir objetos da memória na mesma sessão do Julia, basta setá-los como `Nothing`. Por exemplo, se `P` foi definido e quer limpá-lo, execute
+- Para excluir objetos da memória na mesma sessão do Julia, basta setá-los como `nothing`. Por exemplo, se `P` foi definido e quer limpá-lo, execute
 ~~~
-julia> P = Nothing
+julia> P = nothing
 ~~~
 
 - Para sair do Julia, execute `exit()` ou tecle **Ctrl+d**. Isso apagará da memória todos os objetos criados.
