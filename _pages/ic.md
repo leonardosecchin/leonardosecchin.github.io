@@ -21,7 +21,7 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 - Modelos típicos de Pesquisa Operacional (em particular, de programação inteira mista), vistos nas disciplinas “Pesquisa Operacional I e II” (Exemplos: [DRLP](https://link.springer.com/article/10.1007/s11590-018-1263-9); [Grade de horários](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i))
 - O ensino de Pesquisa Operacional/Otimização no Ensino Médio *(depende de parceria com docente da área de educação matemática)*
 
-<!-- - Método do q-gradiente ([ref 1](http://dx.doi.org/10.1016/j.ejor.2016.01.001)) -->
+<!-- - Método do q-gradiente ([ref 1](http://dx.doi.org/10.1016/j.ejor.2016.01.001), [ref 2](https://journalofinequalitiesandapplications.springeropen.com/articles/10.1186/s13660-021-02554-6)) -->
 
 ### Orientações em andamento
 
