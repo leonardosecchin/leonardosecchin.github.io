@@ -5,7 +5,7 @@ permalink: /metaheuristicas/
 author_profile: true
 ---
 
-## Horários
+## Horários das aulas síncronas
 
 - Quintas-feiras de 7:30 as 8:30
 - Sextas-feiras de 11:00 as 12:00 *(a confirmar)*
@@ -60,7 +60,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
     - No Windows, você pode baixar o Octave [neste link](https://www.gnu.org/software/octave/index).
     - [**Documentação do Octave**](https://www.gnu.org/software/octave/doc/latest).
 
-*   Outras linguagens podem ser usadas, como o Python. Uma outra opção é o Julia. Você pode encontrar instruções de instalação e uso [neste link](). Se for usar outras linguagens, tente não ser muito exótico(a) ;)
+*   Outras linguagens podem ser usadas, como o Python. Uma outra opção é o Julia. Você pode encontrar instruções de instalação e uso [neste link](/julia/). Se for usar outras linguagens, tente não ser muito exótico(a) ;)
 
 
 ## Busca Tabu
