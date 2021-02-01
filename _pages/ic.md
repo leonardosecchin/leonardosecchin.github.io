@@ -16,7 +16,7 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 - Método do gradiente ponderado com retardamento para minimização de quadráticas estritamente convexas ([ref 1](https://link.springer.com/article/10.1007/s10589-019-00125-6), [ref 2](https://link.springer.com/article/10.1007/s10589-020-00232-9))
 - Métodos baseados em Lanczos para resolução de problemas de regiões de confiança ([ref](https://epubs.siam.org/doi/abs/10.1137/S1052623497322735?journalCode=sjope8))
 - Métodos de gradiente para otimização multi-objetivo ([ref](http://www.optimization-online.org/DB_FILE/2020/04/7729.pdf))
-- Métodos Quasi-Newton com baixo uso de memória ([ref 1](https://www.tandfonline.com/doi/abs/10.1080/02331934.2020.1712391?journalCode=gopt20), [ref 2](https://arxiv.org/pdf/2101.04413.pdf))
+- Métodos Quasi-Newton com baixo uso de memória ([ref 1](https://www.tandfonline.com/doi/abs/10.1080/02331934.2020.1712391?journalCode=gopt20), [ref 2](https://arxiv.org/pdf/2101.04413.pdf), [ref 3](https://arxiv.org/pdf/2101.11048.pdf))
 - Tópicos variados em otimização não linear. Uma referência com vários tópicos é o livro “Numerical Optimization” de Nocedal e Wright
 - Modelos típicos de Pesquisa Operacional (em particular, de programação inteira mista), vistos nas disciplinas “Pesquisa Operacional I e II” (Exemplos: [DRLP](https://link.springer.com/article/10.1007/s11590-018-1263-9); [Grade de horários](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i))
 - O ensino de Pesquisa Operacional/Otimização no Ensino Médio *(depende de parceria com docente da área de educação matemática)*
