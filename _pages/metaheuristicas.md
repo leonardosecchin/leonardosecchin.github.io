@@ -8,7 +8,7 @@ author_profile: true
 ## Horários das aulas síncronas
 
 - Quintas-feiras de 7:30 as 8:30
-- Sextas-feiras de 11:00 as 12:00 *(a confirmar)*
+- Terças-feiras de 11:00 as 12:00
 
 ## Ementa
 
