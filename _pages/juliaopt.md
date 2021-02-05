@@ -322,7 +322,34 @@ julia> nlp = MathOptNLPModel(P)
 
 **Objetivo:** resolver modelos de otimização restrita e irrestrita por métodos disponíveis.
 
-Em breve.
+Ao longo da disciplina ["Otimização 2"](/otimizacao2/) utilizamos interfaces para pacotes de otimização com restrições. Todos os pacotes leêm estruturas `NLPmodels`, com derivadas automáticas, como nosso `gradiente` do Exemplo 4.
+
+A seguir listo alguns excelentes pacotes.
+
+## Algencan
+
+Algencan é uma implementação do método de Lagrangiano aumentado escrito por E. Birgin e J.M. Martínez. É um *software livre* implementado em Fortran. Uma interface para Julia com leitura de estruturas `NLPmodels` foi escrita por P.J.S. Silva.
+
+- [Página oficial](https://www.ime.usp.br/~egbirgin/tango/codes.php)
+- **Interface para Julia:** pacote [`NLPModelsAlgencan`](https://github.com/pjssilva/NLPModelsAlgencan.jl)
+
+## Ipopt - Interior Point Optimizer
+
+Ipopt é uma implementação do método de pontos interiores, isto é, uma estratégia de penalização interna com barreira logarítmica e Newton nos subproblemas. É um *software livre* implementado em C++. É mantido pela fundação [COIN-OR](https://www.coin-or.org/).
+
+- [Documentação oficial](https://coin-or.github.io/Ipopt/)
+- **Interface para Julia:** pacote [`Ipopt`](https://github.com/jump-dev/Ipopt.jl)
+
+## Interfaces para *softwares* proprietários
+
+Existem interfaces para *softwares* proprietários. Neste caso você precisará obter o *software* e licença de uso de forma independente.
+
+- **Gurobi:** [site do desenvolvedor](https://www.gurobi.com/), [*interface* Julia](https://github.com/jump-dev/Gurobi.jl)
+- **IBM Cplex:** [site do desenvolvedor](https://www.ibm.com/products/ilog-cplex-optimization-studio), [*interface* Julia](https://github.com/jump-dev/CPLEX.jl)
+- **Xpress:** [site do desenvolvedor](https://www.fico.com/en/products/fico-xpress-optimization), [*interface* Julia](https://github.com/jump-dev/Xpress.jl)
+- **Mosek:** [site do desenvolvedor](https://www.mosek.com/), [*interface* Julia](https://github.com/jump-dev/MosekTools.jl)
+- **Knitro:** [site do desenvolvedor](https://www.artelys.com/knitro), [*interface* Julia](https://github.com/jump-dev/KNITRO.jl)
+
 
 
 # Exercício 8
