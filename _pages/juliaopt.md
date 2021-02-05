@@ -390,13 +390,13 @@ Exemplos:
 
 ## A linguagem de modelagem AMPL
 
-Uma linguagem de modelagem muito utilizada é o [AMPL](https://ampl.com/). Na verdade, AMPL é um ambiente de otimização, traz consigo alguns resolvedores. No entanto, o AMPL **não é *software* livre**. É necessária uma licença (ou a compra) do *software* para usufruir de todas as funcionalidades. Uma versão demonstração limitada está disponível no [site do desenvolvedor](https://ampl.com/).
+Uma linguagem de modelagem muito utilizada é o [AMPL](https://ampl.com/). Na verdade, AMPL é um ambiente de otimização, traz consigo alguns resolvedores. No entanto, o AMPL **não é *software* livre**. É necessária uma licença do *software* para usufruir de todas as funcionalidades. Uma versão demonstração limitada está disponível no [site do desenvolvedor](https://ampl.com/).
 
-Para quem trabalha com AMPL, é possível exportar os modelos para o formato livre `.nl`. Veja a [documentação](https://ampl.com/resources/the-ampl-book/chapter-downloads/) oficial.
+É possível exportar os modelos AMPL para o formato livre `.nl`. Veja a [documentação](https://ampl.com/resources/the-ampl-book/chapter-downloads/) oficial.
 
 ## Outras fontes
 
-O pacote `OptimizationProblems` contém alguns problemas irrestritos, muitos presentes na CUTEst. Os problemas vêm na estrutura `JuMP`, e você precisará convertê-los para `NLPmodels` a fim de usufruir de derivadas automáticas (veja Exemplo 1). Acesse a [página oficial](https://github.com/JuliaSmoothOptimizers/OptimizationProblems.jl) do pacote para instruções de uso.
+O pacote `OptimizationProblems` contém alguns problemas irrestritos, muitos deles presentes na CUTEst. Os problemas vêm na estrutura `JuMP`, e você precisará convertê-los para `NLPmodels` a fim de usufruir de derivadas automáticas (veja Exemplo 1). Acesse a [página oficial](https://github.com/JuliaSmoothOptimizers/OptimizationProblems.jl) do pacote para instruções de uso.
 
 
 
