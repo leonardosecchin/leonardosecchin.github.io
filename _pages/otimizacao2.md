@@ -7,7 +7,7 @@ author_profile: true
 
 ## Horários das aulas síncronas
 
-- Quartas-feiras de 9:30 as 10:30
+- Quartas-feiras de 11:00 as 12:00
 - Sextas-feiras de 9:30 as 10:30
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
