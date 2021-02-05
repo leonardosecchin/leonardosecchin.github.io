@@ -329,7 +329,58 @@ Em breve.
 
 **Objetivo:** acessar bibliotecas de problemas-teste usadas na literatura.
 
-Em breve.
+Bibliotecas de problemas para testes estão disponíveis, e são comumente utilizadas na pesquisa. A seguir, listo duas das principais fontes de problemas.
+
+## CUTEst - Constrained and Unconstrained Testing Environment with safe threads
+
+Esta é a principal bilbioteca para testes com problemas gerais. Ela reúne mais de 1300 problemas, entre problemas lineares e não lineares. Cada problema é composto por um arquivo `.SIF`. A coleção completa dos problemas pode ser obtida pelo repositório https://bitbucket.org/optrove/sif. No GNU/linux, basta executar o seguinte comando de dentro da pasta que desejar guardar os problemas:
+
+~~~
+git clone https://bitbucket.org/optrove/sif ./mastsif
+~~~
+
+Isso criará a pasta `mastsif` contendo os arquivos `.SIF`.
+
+*Alerta: a biblioteca completa tem mais de 2Gb!*
+
+´
+**Outras (sub-)bibliotecas menores (cerca de 230Mb):**
+
+- Problemas convexos de Maros & Meszaros: execute
+  ~~~
+  git clone https://bitbucket.org/optrove/maros-meszaros ./marosmeszaros
+  ~~~
+- Problemas lineares (PL's) da Netlib: descompacte o arquivo [deste link](ftp://ftp.numerical.rl.ac.uk/pub/cutest/netlib.tar.gz).
+
+### INTERFACE JULIA PARA ARQUIVOS .SIF
+
+No Julia, é possível ler arquivos `.SIF` com o pacote `CUTEst.jl`. A [página oficial](https://github.com/JuliaSmoothOptimizers/CUTEst.jl)) do pacote traz instruções de uso.
+
+Como exemplo, vamos ler o problema `BYRDSPHR`. A estrutura `NLPmodels` (a mesma dos exemplos anteriores) é criada diretamente do arquivo `.SIF`:
+
+~~~
+julia> nlp = CUTEstModel("BYRDSPHR");
+julia> println(nlp);
+~~~
+
+Podemos avaliar funções, gradientes e Hessianas. O trecho a seguir imprime a função objetivo, seu gradiente e sua Hessiana no ponto inicial fornecido com o modelo:
+
+~~~
+julia> f = obj(nlp, nlp.meta.x0)
+julia> g = grad(nlp, nlp.meta.x0)
+julia> H = hess(nlp, nlp.meta.x0)
+~~~
+
+## Problemas no formato .nl
+
+É comum que modelos de otimização sejam disponibilizados em um formato livre, com extensão `.nl`. No Julia, há dois pacotes para manipulação desse tipo de arquivo:
+- **`AmplNLReader.jl`:** Leitura de arquivos `.nl` ([link oficial](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl))
+- **`AmplNLWriter.jl`:** Escrita de arquivos `.nl` a partir de estruturas `JuMP` ([link oficial](https://github.com/jump-dev/AmplNLWriter.jl))
+
+Exemplos:
+
+--- EM BREVE ---
+
 
 
 # Exercício 9
