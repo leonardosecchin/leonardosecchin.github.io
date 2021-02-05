@@ -363,7 +363,7 @@ julia> nlp = CUTEstModel("BYRDSPHR");
 julia> println(nlp);
 ~~~
 
-Podemos avaliar funções, gradientes e Hessianas. O trecho a seguir imprime a função objetivo, seu gradiente e sua Hessiana no ponto inicial fornecido com o modelo:
+Podemos assim avaliar funções, gradientes e Hessianas. O trecho a seguir imprime a função objetivo, seu gradiente e sua Hessiana no ponto inicial fornecido com o modelo:
 
 ~~~
 julia> f = obj(nlp, nlp.meta.x0)
