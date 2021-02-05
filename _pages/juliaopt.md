@@ -18,6 +18,7 @@ Pacotes utilizados nos exercícios (alguns necessitam de instalação):
 - Rotinas de álgebra linear: `LinearAlgebra`
 - Armazenamento de matrizes esparsas: `SparseArrays`
 - Comando de impressão na tela estilo C: `Printf`
+- Plotagem de gráficos: `Plots`
 
 
 # Exercício 1
@@ -172,9 +173,104 @@ Após estudar e ler as instruções de execução no código, faça:
 
 # Exercício 5
 
-**Objetivo:** Exibir informações na tela, gravar arquivos de texto e construir gráficos.
+**Objetivo:** construir gráficos.
 
-Em breve.
+Vamos plotar em um só gráfico o histórico de $f$ e $\|\nabla f\|_\infty$ para o problema do Exemplo 1. Você precisará do pacote `Plots`.
+
+Salve o arquivo [gradiente2.jl](/files/julia/gradiente2.jl). É a mesma implementação do Exemplo 4, mas com retorno do histórico de execução.
+
+### Método 1 - Gráfico pela linha de comandos do Julia
+
+Carregando `gradiente2.jl` (supondo que esteja no diretório do arquivo):
+~~~
+julia> include("gradiente2.jl")
+~~~
+
+Todos os pacotes necessários ja serão carregados. **Construa a estrutura `nlp` do Exemplo 1.**
+
+Executando o método a partir do ponto $x_0=(1,1)$ e guardando a saída:
+~~~
+x, f, gradnorm, iter, status, histf, histgradnorm = gradiente2(nlp, x0=[1;1]);
+~~~
+
+Os vetores `histf` e `histgradnorm` contêm o histórico de $f$ e $\|\nabla f\|_\infty$. Você pode imprimi-los na tela se quiser.
+
+Iniciando a figura com o gráfico de $f$:
+~~~
+julia> fig = plot(histf,label="f");
+~~~
+
+Agregando o gráfico de $\|\nabla f\|_\infty$ e configurando títulos:
+~~~
+julia> fig = plot!(histgradnorm,title="FO e gradiente",xlabel="iter",label="||∇f||");
+~~~
+
+*Obs.: você pode agregar quantos plots quiser à mesma figura executando sucessivos `plot!`. Ao executar `plot` (sem exclamação) novamente, Julia limpará a figura.*
+
+Salvando a figura em formato PNG (tipo foto):
+~~~
+julia> savefig(fig, "figura.png");
+~~~
+
+Você pode salvar a figura em formato SVG (tipo vetorial):
+~~~
+julia> savefig(fig, "figura.svg");
+~~~
+
+*Obs.: Em alguns computadores, a figura é mostrada em janela separada ao executar o comando `plot` sem ponto e vírgula no fim.*
+
+
+### Método 2 - Saída através do navegador (*notebooks*)
+
+É possível executar comandos Julia através do navegador de internet. Para tanto, você precisará instalar o pacote `IJulia`. A partir da linha de comandos do Julia, podemos entrar no **Jupyter**, uma espécie de ambiente gráfico que funciona pelo navegador de internet:
+
+~~~
+julia> using IJulia;
+julia> notebook()
+~~~
+
+Isso abrirá uma página com o Jupyter, e você poderá navegar entre as pastas do seu computador.
+
+Um *notebook* é um "caderno" de comandos em série. Salve o *notebook* [grafico.ipynb](/files/julia/grafico.ipynb), que contém todos os comandos para este exercício.
+
+Dentro do Jupyter, abra `grafico.ipynb`. Você pode executar os comandos em sequência clicando no botão "Run", ou teclando Ctrl+Enter em cada linha. **Ao executar uma linha, aparecerá "[*]". Isso siginifca que o Julia está processando. Quando o Julia terminar o processamento da linha, aparecerá um número referente à ordem de execução**.
+
+Este método garante que o gráfico será mostrado na tela do navegador.
+
+Estude o *notebook* e mude-o como quiser. Você pode retirar o `;` (ponto e vírgula) no final de cada linha para ver a saída do Julia (assim como no ambiente de comandos do Julia).
+
+
+## Configurando gráficos
+
+O comando `plot` aceita personalização. Por exemplo, para mudar título e texto do eixo $x$:
+
+~~~
+julia> fig = fig = plot(histf,label="f",title="Função objetivo",xlabel="iter");
+~~~
+
+As opções são separadas por vírgula. Eis algumas delas:
+
+- **Texto do título:** `title="Texto"`
+- **Tamanho da fonte do título:** `titlefont=font(40)`
+- **Texto eixos**: `xlabel="x"`, `ylabel="y"`
+- **Tamanho da fonte dos eixos:** `xguidefont=font(30)`, `yguidefont=font(20)` ou `guidefont=font(20)`
+- **Marcas eixos:** `xtick=(0:0.5:10, [["\$ $(i) \$" for i in 0:0.5:10]])`, `ytick=-1:0.5:1`
+- **Tamanho da fonte das marcas:** `xtickfont=font(15)`, `ytickfont=font(20)` ou `tickfont=font(10)`
+- **Texto da legenda:** `label="f"`
+- **Tamanho da fonte da legenda:** `legendfont=font(12)`
+- **Limites nos eixos:** `xlims=(0,10)`, `ylims=(-1,1)`
+- **Tamanho da imagem em pixels:** `size=(500,400)`
+- **Espessura da linha do gráfico em pixels:** `lw=5`
+- **Estilo da linha do gráfico:** `ls=:dot/:dash/:auto/:dashdot/:dashdotdot/:solid`
+- **Cor da linha do gráfico:** `color="black/red/blue/yellow/cyan/orange..."` ou `color=RGB(.1, .3, 1)`
+- **Escala logarítmica no eixo $y$:** `yscale=:log10`
+- **Ocultar legenda:** `leg=false`
+- **Preencher área abaixo do gráfico:** `fill=(0,:orange,0.5)` (altura referência $y=0$, larangja, 50% opacidade)
+- **Margens:** `bottom_margin=5mm`, `left_margin=10mm`, `top_margin=15mm`
+- **Forçar mesma proporção entre eixos:** `aspect_ratio=:equal`
+
+Subplots, mais exemplos e configurações [neste link](https://sites.google.com/view/oficinadejuliapetmecanicaufes/gr%C3%A1ficos/gr%C3%A1ficos-bidimensionais?authuser=0).
+
 
 
 
@@ -228,5 +324,12 @@ Em breve.
 # Exercício 8
 
 **Objetivo:** acessar bibliotecas de problemas-teste usadas na literatura.
+
+Em breve.
+
+
+# Exercício 9
+
+**Objetivo:** gravar arquivos de texto, tabelar resultados.
 
 Em breve.
