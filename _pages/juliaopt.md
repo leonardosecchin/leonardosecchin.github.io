@@ -272,7 +272,7 @@ As opções são separadas por vírgula. Eis algumas delas:
 
 É possível trabalhar plots aninhados (*subplots*) ou até mesmo fazer figuras animadas. Mais exemplos e configurações:
 - [https://docs.juliaplots.org/latest/](https://docs.juliaplots.org/latest/)
-- [um tutorial](https://sites.google.com/view/oficinadejuliapetmecanicaufes/gr%C3%A1ficos/gr%C3%A1ficos-bidimensionais?authuser=0).
+- [Um tutorial](https://sites.google.com/view/oficinadejuliapetmecanicaufes/gr%C3%A1ficos/gr%C3%A1ficos-bidimensionais?authuser=0)
 
 
 
