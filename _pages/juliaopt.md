@@ -175,54 +175,55 @@ Após estudar e ler as instruções de execução no código, faça:
 
 **Objetivo:** construir gráficos.
 
-Vamos plotar em um só gráfico o histórico de $f$ e $\|\nabla f\|_\infty$ para o problema do Exemplo 1. Você precisará do pacote `Plots`.
+Vamos plotar em uma só figura o histórico de $f$ e $\|\nabla f\|_\infty$ para o problema do Exemplo 1. Você precisará do pacote `Plots`.
 
 Salve o arquivo [gradiente2.jl](/files/julia/gradiente2.jl). É a mesma implementação do Exemplo 4, mas com retorno do histórico de execução.
 
-### Método 1 - Gráfico pela linha de comandos do Julia
+## Método 1 - Gerando gráficos pela linha de comandos do Julia
 
 Carregando `gradiente2.jl` (supondo que esteja no diretório do arquivo):
 ~~~
 julia> include("gradiente2.jl")
 ~~~
 
-Todos os pacotes necessários ja serão carregados. **Construa a estrutura `nlp` do Exemplo 1.**
+Todos os pacotes necessários ja serão carregados. **Construa a estrutura `nlp` como no Exemplo 1.**
 
 Executando o método a partir do ponto $x_0=(1,1)$ e guardando a saída:
 ~~~
-x, f, gradnorm, iter, status, histf, histgradnorm = gradiente2(nlp, x0=[1;1]);
+julia> x, f, gradnorm, iter, status, histf, histgradnorm = gradiente2(nlp, x0=[1;1]);
 ~~~
 
 Os vetores `histf` e `histgradnorm` contêm o histórico de $f$ e $\|\nabla f\|_\infty$. Você pode imprimi-los na tela se quiser.
 
 Iniciando a figura com o gráfico de $f$:
 ~~~
-julia> fig = plot(histf,label="f");
+julia> fig = plot(histf, label="f");
 ~~~
 
 Agregando o gráfico de $\|\nabla f\|_\infty$ e configurando títulos:
 ~~~
-julia> fig = plot!(histgradnorm,title="FO e gradiente",xlabel="iter",label="||∇f||");
+julia> fig = plot!(histgradnorm, title="FO e gradiente", xlabel="iter", label="|∇f|");
 ~~~
 
 *Obs.: você pode agregar quantos plots quiser à mesma figura executando sucessivos `plot!`. Ao executar `plot` (sem exclamação) novamente, Julia limpará a figura.*
 
-Salvando a figura em formato PNG (tipo foto):
+Salvando a figura em vários formatos:
 ~~~
 julia> savefig(fig, "figura.png");
-~~~
-
-Você pode salvar a figura em formato SVG (tipo vetorial):
-~~~
+julia> savefig(fig, "figura.pdf");
 julia> savefig(fig, "figura.svg");
 ~~~
 
-*Obs.: Em alguns computadores, a figura é mostrada em janela separada ao executar o comando `plot` sem ponto e vírgula no fim.*
+*Obs. 1: o formato PNG é tipo foto. Já PDF e SVG são formatos vetoriais. PDF pode ser incorporado em textos Latex sem deformação, e SVG pode ser editado com programas como CorelDraw e [Inkscape](https://inkscape.org/).*
+
+*Obs. 2: este método é preferível quando rodamos vários testes automatizados e queremos salvar figuras ao longo do processo.*
+
+*Obs. 3: em alguns computadores, a figura é mostrada em janela separada ao executar o comando `plot` sem ponto e vírgula no fim.*
 
 
-### Método 2 - Saída através do navegador (*notebooks*)
+## Método 2 - Saída através do navegador (*notebooks*)
 
-É possível executar comandos Julia através do navegador de internet. Para tanto, você precisará instalar o pacote `IJulia`. A partir da linha de comandos do Julia, podemos entrar no **Jupyter**, uma espécie de ambiente gráfico que funciona pelo navegador de internet:
+É possível executar comandos Julia através do navegador de internet. Para tanto, você precisará instalar o pacote `IJulia`. A partir da linha de comandos do Julia, podemos entrar no **Jupyter**, uma espécie de ambiente gráfico que funciona pelo navegador:
 
 ~~~
 julia> using IJulia;
@@ -245,19 +246,19 @@ Estude o *notebook* e mude-o como quiser. Você pode retirar o `;` (ponto e vír
 O comando `plot` aceita personalização. Por exemplo, para mudar título e texto do eixo $x$:
 
 ~~~
-julia> fig = fig = plot(histf,label="f",title="Função objetivo",xlabel="iter");
+julia> fig = plot(histf,label="f", title="Função objetivo", xlabel="iter");
 ~~~
 
 As opções são separadas por vírgula. Eis algumas delas:
 
 - **Texto do título:** `title="Texto"`
 - **Tamanho da fonte do título:** `titlefont=font(40)`
-- **Texto eixos**: `xlabel="x"`, `ylabel="y"`
+- **Texto dos eixos**: `xlabel="x"`, `ylabel="y"`
 - **Tamanho da fonte dos eixos:** `xguidefont=font(30)`, `yguidefont=font(20)` ou `guidefont=font(20)`
-- **Marcas eixos:** `xtick=(0:0.5:10, [["\$ $(i) \$" for i in 0:0.5:10]])`, `ytick=-1:0.5:1`
-- **Tamanho da fonte das marcas:** `xtickfont=font(15)`, `ytickfont=font(20)` ou `tickfont=font(10)`
 - **Texto da legenda:** `label="f"`
 - **Tamanho da fonte da legenda:** `legendfont=font(12)`
+- **Marcas nos eixos:** `xtick=(0:0.5:10, ["\$ $(i) \$" for i in 0:0.5:10])`, `ytick=-1:0.5:1`
+- **Tamanho da fonte das marcas:** `xtickfont=font(15)`, `ytickfont=font(20)` ou `tickfont=font(10)`
 - **Limites nos eixos:** `xlims=(0,10)`, `ylims=(-1,1)`
 - **Tamanho da imagem em pixels:** `size=(500,400)`
 - **Espessura da linha do gráfico em pixels:** `lw=5`
@@ -265,11 +266,13 @@ As opções são separadas por vírgula. Eis algumas delas:
 - **Cor da linha do gráfico:** `color="black/red/blue/yellow/cyan/orange..."` ou `color=RGB(.1, .3, 1)`
 - **Escala logarítmica no eixo $y$:** `yscale=:log10`
 - **Ocultar legenda:** `leg=false`
-- **Preencher área abaixo do gráfico:** `fill=(0,:orange,0.5)` (altura referência $y=0$, larangja, 50% opacidade)
+- **Preencher área abaixo do gráfico:** `fill=(0,:orange,0.5)` (altura referência $y=0$, cor laranja, 50% de opacidade)
 - **Margens:** `bottom_margin=5mm`, `left_margin=10mm`, `top_margin=15mm`
 - **Forçar mesma proporção entre eixos:** `aspect_ratio=:equal`
 
-Subplots, mais exemplos e configurações [neste link](https://sites.google.com/view/oficinadejuliapetmecanicaufes/gr%C3%A1ficos/gr%C3%A1ficos-bidimensionais?authuser=0).
+É possível trabalhar plots aninhados (*subplots*) ou até mesmo fazer figuras animadas. Mais exemplos e configurações:
+- [https://docs.juliaplots.org/latest/](https://docs.juliaplots.org/latest/)
+- [um tutorial](https://sites.google.com/view/oficinadejuliapetmecanicaufes/gr%C3%A1ficos/gr%C3%A1ficos-bidimensionais?authuser=0).
 
 
 
