@@ -352,7 +352,7 @@ Isso criará a pasta `mastsif` contendo os arquivos `.SIF`.
   ~~~
 - Problemas lineares (PL's) da Netlib: descompacte o arquivo [deste link](ftp://ftp.numerical.rl.ac.uk/pub/cutest/netlib.tar.gz).
 
-### INTERFACE JULIA PARA ARQUIVOS .SIF
+### *INTERFACE* JULIA PARA ARQUIVOS .SIF
 
 No Julia, é possível ler arquivos `.SIF` com o pacote `CUTEst.jl`. A [página oficial](https://github.com/JuliaSmoothOptimizers/CUTEst.jl)) do pacote traz instruções de uso.
 
@@ -371,15 +371,21 @@ julia> g = grad(nlp, nlp.meta.x0)
 julia> H = hess(nlp, nlp.meta.x0)
 ~~~
 
-## Problemas no formato .nl
+## Problemas no formato aberto .nl
 
-É comum que modelos de otimização sejam disponibilizados em um formato livre, com extensão `.nl`. No Julia, há dois pacotes para manipulação desse tipo de arquivo:
-- **`AmplNLReader.jl`:** Leitura de arquivos `.nl` ([link oficial](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl))
-- **`AmplNLWriter.jl`:** Escrita de arquivos `.nl` a partir de estruturas `JuMP` ([link oficial](https://github.com/jump-dev/AmplNLWriter.jl))
+É comum que modelos de otimização sejam disponibilizados em um formato livre com extensão `.nl`. No Julia, há dois pacotes para manipulação desse tipo de arquivo:
+- **`AmplNLReader.jl`:** Lê arquivos `.nl` ([link oficial](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl))
+- **`AmplNLWriter.jl`:** Escreve arquivos `.nl` a partir de estruturas `JuMP` ([link oficial](https://github.com/jump-dev/AmplNLWriter.jl))
 
 Exemplos:
 
 --- EM BREVE ---
+
+## A linguagem de modelagem AMPL
+
+Uma linguagem de modelagem muito utilizada é o [AMPL](https://ampl.com/). Na verdade, AMPL é um ambiente de otimização, traz consigo alguns resolvedores. No entanto, o AMPL oficial **não é *software* livre**. É necessária uma licença (ou a compra) do *software* para usufruir de todas as funcionalidades. Uma versão demonstração limitada está disponível no [site do desenvolvedor](https://ampl.com/).
+
+Para quem trabalha com AMPL, é possível exportar os modelos para o formato livre `.nl`. Veja a [documentação](https://ampl.com/resources/the-ampl-book/chapter-downloads/) oficial.
 
 
 
