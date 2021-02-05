@@ -353,22 +353,30 @@ Isso criará a pasta `mastsif` contendo os arquivos `.SIF`.
 
 ### *INTERFACE* JULIA PARA ARQUIVOS .SIF
 
-No Julia, é possível ler arquivos `.SIF` com o pacote `CUTEst`. A [página oficial](https://github.com/JuliaSmoothOptimizers/CUTEst.jl) do pacote traz instruções de uso.
+No Julia, é possível ler arquivos `.SIF` com o pacote `CUTEst`. A [página oficial](https://github.com/JuliaSmoothOptimizers/CUTEst.jl) do pacote traz instruções de uso. As características de cada problema podem ser encontradas [neste link](http://www.cuter.rl.ac.uk/Problems/mastsif.shtml).
 
-Como exemplo, vamos ler o problema `BYRDSPHR`. A estrutura `NLPmodels` (a mesma dos exemplos anteriores) é criada diretamente do arquivo `.SIF`:
+Como exemplo, vamos ler o problema irrestrito `SPARSQUR`. A estrutura `NLPmodels` (a mesma dos exemplos anteriores) é criada diretamente do arquivo `.SIF`:
 
 ~~~
 julia> using CUTEst
-julia> nlp = CUTEstModel("[diretorio dos arquivos SIF]/BYRDSPHR");
+julia> nlp = CUTEstModel("[diretorio dos arquivos SIF]/SPARSQUR");
 ~~~
 
-Podemos assim avaliar funções, gradientes e Hessianas. O trecho a seguir imprime a função objetivo, seu gradiente e sua Hessiana no ponto inicial fornecido com o modelo:
+Podemos assim resolver o modelo com nossa implementação do gradiente (veja Exemplo 4):
 
 ~~~
-julia> f = obj(nlp, nlp.meta.x0)
-julia> g = grad(nlp, nlp.meta.x0)
-julia> H = hess(nlp, nlp.meta.x0)
+julia> include("[diretorio]/gradiente.jl");
+julia> gradiente(nlp);
 ~~~
+
+Para ler outro problema da CUTEst, é necessário finalizar a instância ativa:
+
+~~~
+julia> finalize(nlp);
+julia> nlp = CUTEstModel("[diretorio dos arquivos SIF]/[outro problema]");
+~~~
+
+Isso é útil quando queremos resolver vários problemas em série.
 
 ## Problemas no formato aberto .nl
 
