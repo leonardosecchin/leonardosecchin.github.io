@@ -360,7 +360,6 @@ Como exemplo, vamos ler o problema `BYRDSPHR`. A estrutura `NLPmodels` (a mesma 
 
 ~~~
 julia> nlp = CUTEstModel("BYRDSPHR");
-julia> println(nlp);
 ~~~
 
 Podemos assim avaliar funções, gradientes e Hessianas. O trecho a seguir imprime a função objetivo, seu gradiente e sua Hessiana no ponto inicial fornecido com o modelo:
