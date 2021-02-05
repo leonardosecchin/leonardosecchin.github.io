@@ -333,7 +333,7 @@ Bibliotecas de problemas para testes estão disponíveis, e são comumente utili
 
 ## CUTEst - Constrained and Unconstrained Testing Environment with safe threads
 
-Esta é a principal bilbioteca para testes com problemas gerais. Ela reúne mais de 1300 problemas, entre problemas lineares e não lineares. Cada problema é composto por um arquivo `.SIF`. A coleção completa dos problemas pode ser obtida pelo repositório https://bitbucket.org/optrove/sif. No GNU/linux, basta executar o seguinte comando de dentro da pasta que desejar guardar os problemas:
+Esta é a principal bilbioteca para testes com problemas gerais. Ela reúne mais de 1300 problemas, entre lineares e não lineares, restritos e irrestritos. Cada problema é composto por um arquivo `.SIF`. A coleção completa dos problemas pode ser obtida pelo repositório https://bitbucket.org/optrove/sif. No GNU/linux, basta executar o seguinte comando de dentro da pasta que deseja guardar os problemas:
 
 ~~~
 git clone https://bitbucket.org/optrove/sif ./mastsif
@@ -345,7 +345,7 @@ Isso criará a pasta `mastsif` contendo os arquivos `.SIF`.
 
 **Outras (sub-)bibliotecas menores (cerca de 230Mb):**
 
-- Problemas convexos de Maros & Meszaros: execute
+- Problemas convexos de Maros & Meszaros:
   ~~~
   git clone https://bitbucket.org/optrove/maros-meszaros ./marosmeszaros
   ~~~
