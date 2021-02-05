@@ -164,7 +164,7 @@ help?>
 ~~~
 Basta digitar o comando e teclar Enter. A função `TAB --> TAB` funciona no ambiente de ajuda também.
 
-- É possível alternar entre o terminal do Julia e o terminal do Linux (caso esteja usando Linux) teclando `;` (pontoe e vírgula). Isso é bom para navegar entre diretórios sem sair do Julia (e assim não perder os objetos na memória), bem como executar comandos a nível de Linux (*shell*) caso queira. Comandos úteis do terminal Linux para diretórios:
+- É possível alternar entre o terminal do Julia e o terminal do Linux (caso esteja usando Linux) teclando `;` (ponto e vírgula). Isso é bom para navegar entre diretórios sem sair do Julia (e assim não perder os objetos na memória), bem como executar comandos a nível de Linux (*shell*) caso queira. Comandos úteis do terminal Linux para diretórios:
   - `pwd`: imprimi o diretório atual
   - `cd [diretorio]`: muda de diretório. Aceita diretórios relativos, tais como `../dir1` (`dir1` no diretório pai), ou `dir1/dir2` (subdiretórios na pasta atual).
   - O comando `cd [TAB --> TAB]` funciona e é útil para listar os diretórios da pasta atual e autocompletar nomes parcialmente digitados.
