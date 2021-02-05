@@ -216,7 +216,7 @@ julia> savefig(fig, "figura.svg");
 
 Observações:
 
-1. *o formato PNG é tipo foto. Já PDF e SVG são formatos vetoriais. PDF pode ser incorporado em textos Latex sem deformação, e SVG pode ser editado com programas como CorelDraw e [Inkscape](https://inkscape.org/).*
+1. *o formato PNG é tipo foto. Já PDF e SVG são formatos vetoriais. PDF pode ser incorporado em textos Latex sem deformação, e SVG pode ser editado utilizando programas como CorelDraw e [Inkscape](https://inkscape.org/).*
 1. *este método é preferível quando rodamos vários testes automatizados e queremos salvar figuras ao longo do processo.*
 1. *em alguns computadores, a figura é mostrada em janela separada ao executar o comando `plot` sem ponto e vírgula no fim.*
 1. *você pode querer tentar gerar figuras diretamente para códigos Latex com o pacote [PGFPlots](https://github.com/JuliaTeX/PGFPlots.jl).*
