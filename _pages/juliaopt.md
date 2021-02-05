@@ -329,7 +329,7 @@ Em breve.
 
 **Objetivo:** acessar bibliotecas de problemas-teste usadas na literatura.
 
-Bibliotecas de problemas para testes estão disponíveis, e são comumente utilizadas na pesquisa. A seguir, listo duas das principais fontes de problemas.
+Bibliotecas de problemas para testes estão disponíveis, e são comumente utilizadas na pesquisa. A seguir, listo duas das principais fontes de problemas: arquivos `.SIF` (CUTEst) e `.nl`.
 
 ## CUTEst - Constrained and Unconstrained Testing Environment with safe threads
 
@@ -341,9 +341,8 @@ git clone https://bitbucket.org/optrove/sif ./mastsif
 
 Isso criará a pasta `mastsif` contendo os arquivos `.SIF`.
 
-*Alerta: a biblioteca completa tem mais de 2Gb!*
+*ALERTA: a biblioteca completa tem mais de 2Gb!*
 
-´
 **Outras (sub-)bibliotecas menores (cerca de 230Mb):**
 
 - Problemas convexos de Maros & Meszaros: execute
@@ -354,12 +353,13 @@ Isso criará a pasta `mastsif` contendo os arquivos `.SIF`.
 
 ### *INTERFACE* JULIA PARA ARQUIVOS .SIF
 
-No Julia, é possível ler arquivos `.SIF` com o pacote `CUTEst.jl`. A [página oficial](https://github.com/JuliaSmoothOptimizers/CUTEst.jl)) do pacote traz instruções de uso.
+No Julia, é possível ler arquivos `.SIF` com o pacote `CUTEst`. A [página oficial](https://github.com/JuliaSmoothOptimizers/CUTEst.jl) do pacote traz instruções de uso.
 
 Como exemplo, vamos ler o problema `BYRDSPHR`. A estrutura `NLPmodels` (a mesma dos exemplos anteriores) é criada diretamente do arquivo `.SIF`:
 
 ~~~
-julia> nlp = CUTEstModel("BYRDSPHR");
+julia> using CUTEst
+julia> nlp = CUTEstModel("[diretorio dos arquivos SIF]/BYRDSPHR");
 ~~~
 
 Podemos assim avaliar funções, gradientes e Hessianas. O trecho a seguir imprime a função objetivo, seu gradiente e sua Hessiana no ponto inicial fornecido com o modelo:
@@ -373,8 +373,8 @@ julia> H = hess(nlp, nlp.meta.x0)
 ## Problemas no formato aberto .nl
 
 É comum que modelos de otimização sejam disponibilizados em um formato livre com extensão `.nl`. No Julia, há dois pacotes para manipulação desse tipo de arquivo:
-- **`AmplNLReader.jl`:** Lê arquivos `.nl` ([link oficial](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl))
-- **`AmplNLWriter.jl`:** Escreve arquivos `.nl` a partir de estruturas `JuMP` ([link oficial](https://github.com/jump-dev/AmplNLWriter.jl))
+- **`AmplNLReader`:** Lê arquivos `.nl` ([link oficial](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl))
+- **`AmplNLWriter`:** Escreve arquivos `.nl` a partir de estruturas `JuMP` ([link oficial](https://github.com/jump-dev/AmplNLWriter.jl))
 
 Exemplos:
 
@@ -385,6 +385,11 @@ Exemplos:
 Uma linguagem de modelagem muito utilizada é o [AMPL](https://ampl.com/). Na verdade, AMPL é um ambiente de otimização, traz consigo alguns resolvedores. No entanto, o AMPL oficial **não é *software* livre**. É necessária uma licença (ou a compra) do *software* para usufruir de todas as funcionalidades. Uma versão demonstração limitada está disponível no [site do desenvolvedor](https://ampl.com/).
 
 Para quem trabalha com AMPL, é possível exportar os modelos para o formato livre `.nl`. Veja a [documentação](https://ampl.com/resources/the-ampl-book/chapter-downloads/) oficial.
+
+## Outras fontes
+
+O pacote `OptimizationProblems` contém alguns problemas irrestritos, muitos presentes na CUTEst. Os problemas vêm na estrutura `JuMP`, e você precisará convertê-los para `NLPmodels` a fim de usufruir de derivadas automáticas (veja Exemplo 1). Acesse a [página oficial](https://github.com/JuliaSmoothOptimizers/OptimizationProblems.jl) do pacote para instruções de uso.
+
 
 
 
