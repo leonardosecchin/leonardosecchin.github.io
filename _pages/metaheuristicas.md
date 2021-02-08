@@ -77,11 +77,11 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 *   [Instâncias para testes - Biblioteca TSPLIB](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsplib.html) ([outro link](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/))
     * As instâncias que utilizaremos estão na seção **"Symmetric traveling salesman problem"** do link acima. O termo "simétrico" quer dizer que o custo $c_{ij}$ para ir da cidade $i$ à cidade $j$ é o mesmo que da volta $j$ para $i$. Isto é, $c_{ij}=c_{ji}$ para todos $i\neq j$. Isso fornece uma matriz de custos simétrica, daí o nome.
     * Na TSPLIB você encontrará outros tipos de instâncias, como as que servem para problemas de roteamento de veículos com capacidade nos arcos. Não as usaremos neste curso, fica como dica se você precisar de boas instâncias em seus estudos futuros!
-    * Visualização [on line](https://tspvis.com/) do funcionamento de algoritmos para o TSP.
     * [Referência oficial](https://doi.org/10.1287/ijoc.3.4.376) da TSPLIB.
 * **IMPORTANTE:** Somente instâncias definidas pela localização das cidades no plano são suportadas pelos códigos Octave/Matlab do curso. Um exemplo é a instância `berlin52.tsp`. Neste caso, as linhas que não contém localização de cidades nos arquivos `.tsp` da TSPLIB devem ser excluídas para funcionarem com os códigos Octave/Matlab.
     * Para facilitar, [este link](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view?usp=sharing) contém algumas instâncias já editadas para os códigos Octave/Matlab.
     * Se você usa o Julia, existe um pacote em fase de testes para leitura de arquivos `.tsp` [neste link](https://github.com/matago/TSPLIB.jl).
+* Visualização [on line](https://tspvis.com/) do funcionamento de algoritmos para o TSP.
 
 
 ## Busca Tabu
