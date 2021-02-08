@@ -63,9 +63,19 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 *   Outras linguagens podem ser usadas, como o Python. Uma outra opção é o Julia. Você pode encontrar instruções de instalação e uso [neste link](/julia/). Se for usar outras linguagens, tente não ser muito exótico(a) ;)
 
 
-## Busca Tabu
+## Apresentação
+
 *   Apresentação (slides no AVA)
 *   **Atividade 1 para entrega** (veja o AVA)
+
+
+## O problema do caixeiro viajante
+
+Todos os códigos apresentados neste curso são feitos para resolver o problema do caixeiro viajante (em inglês, *Travelling Salesman Problem* - TSP). Desta forma, podemos focar nos métodos. o TSP é um problema clássico e de difícil resolução. Ele servirá como "saco de pancadas" para os métodos.
+*   [Uma apresentação do TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+*   [Instâncias para testes - Biblioteca TSPLIB](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/)
+    * As instâncias que utilizaremos estão na seção **"Symmetric traveling salesman problem"** do link acima. O termo "simétrico" quer dizer que o custo $c_{ij}$ para ir da cidade $i$ à cidade $j$ é o mesmo que da volta $j$ para $i$. Isto é, $c_{ij}=c_{ji}$ para todos $i\neq j$. Isso fornece uma matriz de custos simétrica, daí o nome.
+    * Na página acima da TSPLIB você encontrará outros tipos de instâncias, como as que servem para problemas de roteamento de veículos com capacidade nos arcos. Não as usaremos neste curso, fica como dica se você precisar de boas instâncias em seus estudos futuros!
 
 
 ## Busca Tabu
