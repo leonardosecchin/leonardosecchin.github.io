@@ -65,7 +65,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 ## Busca Tabu
 *   Apresentação (slides no AVA)
-*   **Atividade 1 para entrega** (veja o fim desta página)
+*   **Atividade 1 para entrega** (veja o AVA)
 
 
 ## Busca Tabu
