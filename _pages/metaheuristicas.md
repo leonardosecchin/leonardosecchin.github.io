@@ -64,11 +64,16 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 
 ## Busca Tabu
+*   Apresentação (slides no AVA)
+*   **Atividade 1 para entrega** (veja o fim desta página)
+
+
+## Busca Tabu
 
 *   [Código Matlab/Octave](https://drive.google.com/file/d/1umgrhf6QrPpQtbnYkpACRtFQCwJWKoK_/view?usp=sharing) (código comentado)  
     _Fonte: [http://yarpiz.com/243/ypea116-tabu-search](http://yarpiz.com/243/ypea116-tabu-search)_
 *   Referência: cap 2 do livro de Glover
-*   [Slides](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
+*   [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
 *   Curiosidade: busque no Google “tabu search papers” e veja a quantidade de pesquisa usando a técnica!
 
 
@@ -77,7 +82,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 *   [Código Matlab/Octave](https://drive.google.com/file/d/1HADurl67sMhoggwrzxWhSWyfGPKVPjhT/view?usp=sharing) (código comentado)  
     _Fonte: [http://yarpiz.com/223/ypea105-simulated-annealing](http://yarpiz.com/223/ypea105-simulated-annealing)_
 *   Referência: cap 10 do livro de Glover
-*   [Slides](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
+*   [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
 <!--*   **Atividade 2 (ver abaixo)**-->
 
 
@@ -88,7 +93,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 *   Referências:
     *   cap 9 do livro de Glover
     *   Dorigo; Caro. Ant colony optimization: a new meta-heuristic. [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
-*   [Slides](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
+*   [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
 
 
 ## Evolução Diferencial
