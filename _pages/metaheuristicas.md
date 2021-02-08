@@ -73,6 +73,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 Todos os códigos apresentados neste curso são feitos para resolver o problema do caixeiro viajante (em inglês, *Travelling Salesman Problem* - TSP). Desta forma, podemos focar nos métodos. o TSP é um problema clássico e de difícil resolução. Ele servirá como "saco de pancadas" para os métodos.
 *   [Uma apresentação do TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+*   [Slides de M.A.M. Carvalho (UFOP)](http://www.decom.ufop.br/marco/site_media/uploads/pcc104/antigo_21_aula_21.pdf)
 *   [Instâncias para testes - Biblioteca TSPLIB](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsplib.html) ([outro link](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/))
     * As instâncias que utilizaremos estão na seção **"Symmetric traveling salesman problem"** do link acima. O termo "simétrico" quer dizer que o custo $c_{ij}$ para ir da cidade $i$ à cidade $j$ é o mesmo que da volta $j$ para $i$. Isto é, $c_{ij}=c_{ji}$ para todos $i\neq j$. Isso fornece uma matriz de custos simétrica, daí o nome.
     * Na TSPLIB você encontrará outros tipos de instâncias, como as que servem para problemas de roteamento de veículos com capacidade nos arcos. Não as usaremos neste curso, fica como dica se você precisar de boas instâncias em seus estudos futuros!
