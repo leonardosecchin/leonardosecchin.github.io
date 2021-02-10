@@ -91,16 +91,15 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
 ### Regiões de confiança
 
-*Referências:*
-1. *[Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
-2. *[Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/)*
+*Referência 1: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*  
+*Referência 2: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/)*
 
 - [**SLIDES** Estratégia de regiões de confiança](/files/otim2/4.Regioes_confianca.pdf)
 
 
 ### Programação quadrática sequencial
 
-*Referência [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
+*Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
 - [**SLIDES** Programação Quadrática Sequencial (SQP) básica para restrições de igualdade](/files/otim2/5.1.SQP_basico_igualdades.pdf)
 - [**SLIDES** Boa definição do SQP básico e algumas questões práticas do método](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)
@@ -113,14 +112,13 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
 1. **Dualidade**
 
-   *Referências:*
-   1. *[Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)*
-   1. *Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008.*
+   *Referência 1: [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)*  
+   *Referência 2: Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008.*
 
    - [**SLIDES** Dualidade em Programação Não Linear, parte 1](/files/otim2/6.1.Dualidade1.pdf)
    - [**SLIDES** Dualidade em Programação Não Linear, parte 2](/files/otim2/6.2.Dualidade2.pdf)
    - [**SLIDES** Método de planos de corte / Resolução de sistemas de inequações convexas](/files/otim2/6.3.Planos_corte.pdf)
-   - Código Julia
+     - Código Julia
 
 1. **O Problema de Quadrados Mínimos Linear e Não-Linear**
 
