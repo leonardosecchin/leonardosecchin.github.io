@@ -64,7 +64,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
-   - [**SLIDES** Penalização externa pura e controle de admissibilidade](/files/otim2/1.Penalizacao_pura_admissibilidade.pdf)
+   - [**SLIDES** - Penalização externa pura e controle de admissibilidade](/files/otim2/1.Penalizacao_pura_admissibilidade.pdf)
    - Slides Otimização 1 (revisão):
      - [**SLIDES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
      - [**SLIDES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)
@@ -74,9 +74,9 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
-   - [**SLIDES** Apresentação](/files/otim2/2.1.LA_apresentacao.pdf)
-   - [**SLIDES** Convergência teórica, parte 1](/files/otim2/2.2.LA_convergencia1.pdf)
-   - [**SLIDES** Convergência teórica, parte 2](/files/otim2/2.3.LA_convergencia2.pdf)
+   - [**SLIDES** - Apresentação](/files/otim2/2.1.LA_apresentacao.pdf)
+   - [**SLIDES** - Convergência teórica, parte 1](/files/otim2/2.2.LA_convergencia1.pdf)
+   - [**SLIDES** - Convergência teórica, parte 2](/files/otim2/2.3.LA_convergencia2.pdf)
    - **Pacote computacional [Algencan](https://www.ime.usp.br/~egbirgin/tango/codes.php#algencan)**
 
 
@@ -84,8 +84,8 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
    *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
-   - [**SLIDES** Penalização interna](/files/otim2/3.Penalizacao_interna.pdf)
-   - [**TEXTO** Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
+   - [**SLIDES** - Penalização interna](/files/otim2/3.Penalizacao_interna.pdf)
+   - [**TEXTO** - Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
    - **Pacote computacional [Ipopt](https://coin-or.github.io/Ipopt/)**
 
 
@@ -94,17 +94,17 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 *Referência 1: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*  
 *Referência 2: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/)*
 
-- [**SLIDES** Estratégia de regiões de confiança](/files/otim2/4.Regioes_confianca.pdf)
+- [**SLIDES** - Estratégia de regiões de confiança](/files/otim2/4.Regioes_confianca.pdf)
 
 
 ### Programação quadrática sequencial
 
 *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
-- [**SLIDES** Programação Quadrática Sequencial (SQP) básica para restrições de igualdade](/files/otim2/5.1.SQP_basico_igualdades.pdf)
-- [**SLIDES** Boa definição do SQP básico e algumas questões práticas do método](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)
-- [**SLIDES** Subproblemas quadráticos, parte 1](/files/otim2/5.3.SQP_subprob1.pdf)
-- [**SLIDES** Subproblemas quadráticos, parte 2](/files/otim2/5.4.SQP_subprob2.pdf)
+- [**SLIDES** - Programação Quadrática Sequencial (SQP) básica para restrições de igualdade](/files/otim2/5.1.SQP_basico_igualdades.pdf)
+- [**SLIDES** - Boa definição do SQP básico e algumas questões práticas do método](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)
+- [**SLIDES** - Subproblemas quadráticos, parte 1](/files/otim2/5.3.SQP_subprob1.pdf)
+- [**SLIDES** - Subproblemas quadráticos, parte 2](/files/otim2/5.4.SQP_subprob2.pdf)
 - Discussão dos pacotes computacionais [WORHP](https://worhp.de/) e [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
 
 
@@ -115,9 +115,9 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
    *Referência 1: [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)*  
    *Referência 2: Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008.*
 
-   - [**SLIDES** Dualidade em Programação Não Linear, parte 1](/files/otim2/6.1.Dualidade1.pdf)
-   - [**SLIDES** Dualidade em Programação Não Linear, parte 2](/files/otim2/6.2.Dualidade2.pdf)
-   - [**SLIDES** Método de planos de corte / Resolução de sistemas de inequações convexas](/files/otim2/6.3.Planos_corte.pdf)
+   - [**SLIDES** - Dualidade em Programação Não Linear, parte 1](/files/otim2/6.1.Dualidade1.pdf)
+   - [**SLIDES** - Dualidade em Programação Não Linear, parte 2](/files/otim2/6.2.Dualidade2.pdf)
+   - [**SLIDES** - Método de planos de corte / Resolução de sistemas de inequações convexas](/files/otim2/6.3.Planos_corte.pdf)
      - Código Julia
 
 1. **O Problema de Quadrados Mínimos Linear e Não-Linear**
