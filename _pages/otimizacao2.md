@@ -60,24 +60,23 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
 ### Métodos de Penalidades
 
-#### Penalização externa
+1. Penalização externa
 
-*Referência [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
+   *Referência [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
-- [**SLIDES** Penalização externa pura e controle de admissibilidade](/files/otim2/1.Penalizacao_pura_admissibilidade.pdf)
-- Slides Otimização 1:
-- [**SLIDES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
-- [**SLIDES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)  
+   - [**SLIDES** Penalização externa pura e controle de admissibilidade](/files/otim2/1.Penalizacao_pura_admissibilidade.pdf)
+   - Slides Otimização 1:
+   - [**SLIDES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
+   - [**SLIDES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)  
 
 
-#### Método do Lagrangeano aumentado
+1. Método do Lagrangeano aumentado
+   *Referência [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
-*Referência [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
-
-- [**SLIDES** Apresentação](/files/otim2/2.1.LA_apresentacao.pdf)
-- [**SLIDES** Convergência teórica, parte 1](/files/otim2/2.2.LA_convergencia1.pdf)
-- [**SLIDES** Convergência teórica, parte 2](/files/otim2/2.3.LA_convergencia2.pdf)
-- **Pacote computacional [Algencan](https://www.ime.usp.br/~egbirgin/tango/codes.php#algencan)**
+   - [**SLIDES** Apresentação](/files/otim2/2.1.LA_apresentacao.pdf)
+   - [**SLIDES** Convergência teórica, parte 1](/files/otim2/2.2.LA_convergencia1.pdf)
+   - [**SLIDES** Convergência teórica, parte 2](/files/otim2/2.3.LA_convergencia2.pdf)
+   - **Pacote computacional [Algencan](https://www.ime.usp.br/~egbirgin/tango/codes.php#algencan)**
 
 
 #### Penalização interna / barreiras / Pontos interiores
