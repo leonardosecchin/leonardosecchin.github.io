@@ -107,7 +107,7 @@ end
 function armijo(nlp, x, f, gradf, d, eta)
 
     # calcula gradf' * d
-    gtd = gradf' * d;
+    gtd = gradf' * d
 
     # passo inicial
     t = 1
