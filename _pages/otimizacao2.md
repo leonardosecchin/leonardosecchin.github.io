@@ -65,9 +65,9 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
    - [**SLIDES** Penalização externa pura e controle de admissibilidade](/files/otim2/1.Penalizacao_pura_admissibilidade.pdf)
-   - Slides Otimização 1:
+   - Slides Otimização 1 (revisão):
      - [**SLIDES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
-     - [**SLIDES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)  
+     - [**SLIDES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)
 
 
 1. **Método do Lagrangeano aumentado**
