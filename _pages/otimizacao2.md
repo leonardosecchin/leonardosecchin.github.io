@@ -118,6 +118,8 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
 - [**SLIDES** Dualidade em Programação Não Linear, parte 1](/files/otim2/6.1.Dualidade1.pdf)
 - [**SLIDES** Dualidade em Programação Não Linear, parte 2](/files/otim2/6.2.Dualidade2.pdf)
+- [**SLIDES** Método de planos de corte / Resolução de sistemas de inequações convexas](/files/otim2/6.3.Planos_corte.pdf)
+  - Código Julia
 
 #### O Problema de Quadrados Mínimos Linear e Não-Linear
 
