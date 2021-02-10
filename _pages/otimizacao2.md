@@ -24,7 +24,8 @@ author_profile: true
 
 ## Texto Complementar
 
-- [Izmailov, A.; Solodov, M. Otimização vol 2\. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-2.html)
+- [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)
+- [Izmailov, A.; Solodov, M. Otimização vol 2. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-2.html)
 
 <!-- ## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643) -->
 
@@ -43,32 +44,83 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 - Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
 - Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a).
 
-## Conteúdo
+## Material
 
 <!--1.  A linguagem de modelagem [AMPL](https://ampl.com/)
     1.  Resolvedores fornecidos com AMPL
     2.  Resolvendo modelos em AMPL-->
 
-1.  A linguagem de programação Julia
-    1. [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
-    1. [Julia para Otimização - primeiros passos](/juliaopt/)
+### A linguagem de programação Julia
+- [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
+- [Julia para Otimização - primeiros passos](/juliaopt/)
 
-1.  [Revisão das condições de Karush-Kuhn-Tucker (KKT)](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
 
-1.  Métodos de Penalidades
-    1.  Penalidade externa pura (ref [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf))
-    1.  Método do Lagrangeano Aumentado (ref [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf))
-        - Apresentação do pacote computacional [Algencan](https://www.ime.usp.br/~egbirgin/tango/codes.php#algencan)
-    1.  Penalidade interna / barreiras / Pontos interiores
-        - Apresentação do pacote computacional [Ipopt](https://coin-or.github.io/Ipopt/)
-1.  Métodos de Região de Confiança
-    1.  Programação Quadrática Sequencial com regiões de confiança
-        - Apresentação dos pacotes computacionais [WORHP](https://worhp.de/) e [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
-1.  Dualidade
-    1.  O problema dual geral
-    1.  Dualidade Fraca. Dualidade Forte em problemas convexos
-    1.  Casos de interesse (problemas lineares e quadráticos)
-1.  O Problema de Quadrados Mínimos Linear e Não-Linear
+### [Revisão das condições de Karush-Kuhn-Tucker (KKT)](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
+
+
+### Métodos de Penalidades
+
+#### Penalização externa
+
+*Referência [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
+
+- [**SLIDES** Penalização externa pura e controle de admissibilidade](/files/otim2/1.Penalizacao_pura_admissibilidade.pdf)
+- Slides Otimização 1:
+- [**SLIDES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
+- [**SLIDES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)  
+
+
+#### Método do Lagrangeano aumentado
+
+*Referência [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
+
+- [**SLIDES** Apresentação](/files/otim2/2.1.LA_apresentacao.pdf)
+- [**SLIDES** Convergência teórica, parte 1](/files/otim2/2.2.LA_convergencia1.pdf)
+- [**SLIDES** Convergência teórica, parte 2](/files/otim2/2.3.LA_convergencia2.pdf)
+- **Pacote computacional [Algencan](https://www.ime.usp.br/~egbirgin/tango/codes.php#algencan)**
+
+
+#### Penalização interna / barreiras / Pontos interiores
+
+*Referência [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
+
+- [**SLIDES** Penalização interna](/files/otim2/3.Penalizacao_interna.pdf)
+- [**TEXTO** Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
+- **Pacote computacional [Ipopt](https://coin-or.github.io/Ipopt/)**
+
+
+### Regiões de confiança
+
+*Referências*
+1. *[Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
+2. *[Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/)*
+
+- [**SLIDES** Estratégia de regiões de confiança](/files/otim2/4.Regioes_confianca.pdf)
+
+
+### Programação quadrática sequencial
+
+*Referência [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
+
+- [**SLIDES** Programação Quadrática Sequencial (SQP) básica para restrições de igualdade](/files/otim2/5.1.SQP_basico_igualdades.pdf)
+- [**SLIDES** Boa definição do SQP básico e algumas questões práticas do método](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)
+- [**SLIDES** Subproblemas quadráticos, parte 1](/files/otim2/5.3.SQP_subprob1.pdf)
+- [**SLIDES** Subproblemas quadráticos, parte 2](/files/otim2/5.4.SQP_subprob2.pdf)
+- Discussão dos pacotes computacionais [WORHP](https://worhp.de/) e [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
+
+### Outros tópicos
+
+#### Dualidade
+
+*Referências:*
+1. *[Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)*
+1. *Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008.*
+
+- [**SLIDES** Dualidade em Programação Não Linear, parte 1](/files/otim2/6.1.Dualidade1.pdf)
+- [**SLIDES** Dualidade em Programação Não Linear, parte 2](/files/otim2/6.2.Dualidade2.pdf)
+
+#### O Problema de Quadrados Mínimos Linear e Não-Linear
+
 
 ## Vídeos interessantes sobre Otimização
 

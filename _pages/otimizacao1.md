@@ -56,47 +56,47 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 ### Conceitos básicos
 
 - Texto referência para este módulo: capítulo 1 do livro de Ana Friedlander.
-- [**SLIDES** - Conceitos básicos](https://leonardosecchin.github.io/files/otim1/1.Conceitos_basicos.pdf)
+- [**SLIDES** - Conceitos básicos](/files/otim1/1.Conceitos_basicos.pdf)
 - [VÍDEO: Uma visão geral da otimização - fala do prof. Jose Mario Martinez (Unicamp)](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
 
 ### Otimização sem restrições
 
 - Texto referência para este módulo: capítulo 2 do livro de Ana Friedlander.
 - Texto complementar para este módulo: capítulo 2 do livro de Karas e Ribeiro.
-- [**SLIDES** - Otimização sem restrições](https://leonardosecchin.github.io/files/otim1/2.Otimizacao_sem_restricoes.pdf)
+- [**SLIDES** - Otimização sem restrições](/files/otim1/2.Otimizacao_sem_restricoes.pdf)
 - Faça todos os exercícios do Capítulo 2 do livro de Ana Friedlander
 
 ### Convexidade
 
 - Texto referência para este módulo: capítulo 3 do livro de Ana Friedlander.
 - Texto complementar para este módulo: capítulo 3 do livro de Karas e Ribeiro.
-- [**SLIDES** - Convexidade](https://leonardosecchin.github.io/files/otim1/3.Convexidade.pdf)
+- [**SLIDES** - Convexidade](/files/otim1/3.Convexidade.pdf)
 
 ### Métodos para otimização sem restrições
 
-- [**SLIDES** - Métodos de descida gerais](https://leonardosecchin.github.io/files/otim1/4.1.Metodos_descida_gerais.pdf)
-- [**SLIDES** - Convergência dos métodos de descida](https://leonardosecchin.github.io/files/otim1/4.3.Convergencia_metodos_descida.pdf)
-- [**SLIDES** - Método de Newton](https://leonardosecchin.github.io/files/otim1/4.2.Metodo_de_Newton.pdf)
-- [**SLIDES** - Convergência global vs local](https://leonardosecchin.github.io/files/otim1/4.4.Convergencia_global_vs_local.pdf)
-- [**SLIDES** - Convergência do método de Newton](https://leonardosecchin.github.io/files/otim1/4.5.Convergencia_Newton.pdf)
-- [**SLIDES** - Método do gradiente com passo constante e sua complexidade](https://leonardosecchin.github.io/files/otim1/4.7.Gradiente_passo_cte.pdf)
-- [**SLIDES** - Gradientes conjugados](https://leonardosecchin.github.io/files/otim1/4.6.Gradientes_conjugados.pdf)
+- [**SLIDES** - Métodos de descida gerais](/files/otim1/4.1.Metodos_descida_gerais.pdf)
+- [**SLIDES** - Convergência dos métodos de descida](/files/otim1/4.3.Convergencia_metodos_descida.pdf)
+- [**SLIDES** - Método de Newton](/files/otim1/4.2.Metodo_de_Newton.pdf)
+- [**SLIDES** - Convergência global vs local](/files/otim1/4.4.Convergencia_global_vs_local.pdf)
+- [**SLIDES** - Convergência do método de Newton](/files/otim1/4.5.Convergencia_Newton.pdf)
+- [**SLIDES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.7.Gradiente_passo_cte.pdf)
+- [**SLIDES** - Gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
 
 ### Otimização com restrições
 
-- [**SLIDES** - Otimização com restrições; condições de Karush-Kuhn-Tucker (KKT)](https://leonardosecchin.github.io/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
+- [**SLIDES** - Otimização com restrições; condições de Karush-Kuhn-Tucker (KKT)](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
 
 ### Métodos para otimização com restrições
 
-- [**SLIDES** - Minimização com restrições lineares de igualdade](https://leonardosecchin.github.io/files/otim1/6.1.Min_restricoes_lineares_igualdade.pdf)
-- [**SLIDES** - Minimização com restrições lineares de desigualdade; método das restrições ativas](https://leonardosecchin.github.io/files/otim1/6.2.Min_restricoes_lineares_desig-restricoes_ativas.pdf)
-- [**SLIDES** - Penalização externa](https://leonardosecchin.github.io/files/otim1/6.3.Penalizacao_externa.pdf)
-- [**SLIDES** - Prova das condições KKT via penalização externa](https://leonardosecchin.github.io/files/otim1/6.4.KKT_via_penalizacao.pdf)
-- [**SLIDES** - Método do gradiente projetado](https://leonardosecchin.github.io/files/otim1/6.11.Gradiente_projetado.pdf)
-- [**SLIDES** - Penalização interna](https://leonardosecchin.github.io/files/otim1/6.7.Penalizacao_interna.pdf)
-- [**SLIDES** - Programação Quadrática Sequencial (PQS ou "SQP", do inglês) - algoritmo básico](https://leonardosecchin.github.io/files/otim1/6.8.SQP.pdf)
-- [**SLIDES** - Estratégia de pontos interiores para programação linear](https://leonardosecchin.github.io/files/otim1/6.9.Pontos_interiores_para_PL.pdf)
-- [**SLIDES** - SQP para restrições não lineares de igualdade e desigualdade](https://leonardosecchin.github.io/files/otim1/6.10.SQP_subprob_IP.pdf)
+- [**SLIDES** - Minimização com restrições lineares de igualdade](/files/otim1/6.1.Min_restricoes_lineares_igualdade.pdf)
+- [**SLIDES** - Minimização com restrições lineares de desigualdade; método das restrições ativas](/files/otim1/6.2.Min_restricoes_lineares_desig-restricoes_ativas.pdf)
+- [**SLIDES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
+- [**SLIDES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)
+- [**SLIDES** - Método do gradiente projetado](/files/otim1/6.11.Gradiente_projetado.pdf)
+- [**SLIDES** - Penalização interna](/files/otim1/6.7.Penalizacao_interna.pdf)
+- [**SLIDES** - Programação Quadrática Sequencial (PQS ou "SQP", do inglês) - algoritmo básico](/files/otim1/6.8.SQP.pdf)
+- [**SLIDES** - Estratégia de pontos interiores para programação linear](/files/otim1/6.9.Pontos_interiores_para_PL.pdf)
+- [**SLIDES** - SQP para restrições não lineares de igualdade e desigualdade](/files/otim1/6.10.SQP_subprob_IP.pdf)
 
 
 ## Vídeos interessantes sobre Otimização
