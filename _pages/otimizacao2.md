@@ -62,7 +62,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
 1. **Penalização externa**
 
-   *Referência [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
+   *Referência: [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
    - [**SLIDES** Penalização externa pura e controle de admissibilidade](/files/otim2/1.Penalizacao_pura_admissibilidade.pdf)
    - Slides Otimização 1:
@@ -72,7 +72,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
 1. **Método do Lagrangeano aumentado**
 
-   *Referência [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
+   *Referência: [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
    - [**SLIDES** Apresentação](/files/otim2/2.1.LA_apresentacao.pdf)
    - [**SLIDES** Convergência teórica, parte 1](/files/otim2/2.2.LA_convergencia1.pdf)
@@ -82,7 +82,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
 1. **Penalização interna / barreiras / Pontos interiores**
 
-   *Referência [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
+   *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
    - [**SLIDES** Penalização interna](/files/otim2/3.Penalizacao_interna.pdf)
    - [**TEXTO** Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
@@ -91,7 +91,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
 ### Regiões de confiança
 
-*Referências*
+*Referências:*
 1. *[Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 2. *[Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/)*
 
