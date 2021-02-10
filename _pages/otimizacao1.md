@@ -26,8 +26,8 @@ author_profile: true
 
 ## Textos Complementares
 
-- [Izmailov, A.; Solodov, M. Otimização vol 1\. SBM](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)
-- [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
+- [Izmailov, A.; Solodov, M. Otimização vol 1. SBM](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)
+- [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
 
 
 <!-- ## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643) -->

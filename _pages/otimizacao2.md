@@ -15,7 +15,7 @@ author_profile: true
 ## Textos de referência
 
 - [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)
-- [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
+- [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
 - [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/)
 - Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008.
 - Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006.
@@ -62,7 +62,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
 1. **Penalização externa**
 
-   *Referência: [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
+   *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
    - [**SLIDES** - Penalização externa pura e controle de admissibilidade](/files/otim2/1.Penalizacao_pura_admissibilidade.pdf)
    - Slides Otimização 1 (revisão):
@@ -70,9 +70,9 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
      - [**SLIDES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)
 
 
-1. **Método do Lagrangeano aumentado**
+1. **Método do Lagrangiano aumentado**
 
-   *Referência: [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
+   *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
    - [**SLIDES** - Apresentação](/files/otim2/2.1.LA_apresentacao.pdf)
    - [**SLIDES** - Convergência teórica, parte 1](/files/otim2/2.2.LA_convergencia1.pdf)
