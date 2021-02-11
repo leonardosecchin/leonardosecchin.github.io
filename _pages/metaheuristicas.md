@@ -92,7 +92,6 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 *   [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
 *   Curiosidade: busque no Google “tabu search papers” e veja a quantidade de pesquisa usando a técnica!
 
-
 ## Simulated Annealing
 
 *   **[Código Matlab/Octave](https://drive.google.com/file/d/1HADurl67sMhoggwrzxWhSWyfGPKVPjhT/view?usp=sharing) (código comentado)**  
@@ -169,6 +168,16 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 *   Um resumo de no mínimo 1 página é desejável. Não é para traduzir o texto!
 
 ## Atividade 2
+
+1. Baixe o arquivo [`CreateNNSolution.m`](https://drive.google.com/file/d/1a-VuWkyhnspiovRiGUXO8KBXVjiyRGhg/view?usp=sharing) no mesmo diretório da busca tabu. Ele contém uma função para cálculo de uma solução do TSP através da heurística de vizinho mais próximo (NN - *Nearest Neighbor*)
+1. Use NN para criar a solução inicial para a busca tabu. Você pode trocar a permutação inicial randomizada em `ts.m` pela linha
+~~~
+sol.Position=CreateNNSolution(model);
+~~~
+1. Rode a "busca tabu" para `berlin52.tsp` e compare a execução com permutação inicial aleatória
+1. Implemente o seguinte critério de parada adicional: **"Pare se durante 10 iterações consecutivas a função objetivo não melhora"**
+1. Execute seu código para algumas instâncias da TSPLIB e decida se é efetivo na resolução (use as instâncias editadas [deste arquivo](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view?usp=sharing)). Compare os custos obtidos com os melhores reportados na literatura ([veja-os aqui](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/stsp-sol.html)).
+1. Obs: talvez você precise aumentar o número máximo de iterações para instâncias maiores...
 
 <!--*   Baixe o arquivo ZIP com o código do Simulated Annealing (aula 14/08 acima);
 *   Na aula vimos o método padrão aplicado ao TSP. Execute a versão com populações (diretório “02 TSP using SA (Population-Based)”);
