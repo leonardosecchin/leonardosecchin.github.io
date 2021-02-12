@@ -129,7 +129,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 1.  [IMECC Unicamp no facebook](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
 1.  [Grupo de otimização IMECC Unicamp](http://www.ime.unicamp.br/~martinez/seminarios.html)
 
-## Material de Otimização II de períodos passados:
+<!--## Material de Otimização II de períodos passados:
 
 - [**2018/2**](/otimizacao2-2018-2/)
-- [**2019/2**](/otimizacao2-2019-2/)
+- [**2019/2**](/otimizacao2-2019-2/)-->

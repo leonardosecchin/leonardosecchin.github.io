@@ -177,7 +177,7 @@ julia> P = nothing
 - Para sair do Julia, execute `exit()` ou tecle **Ctrl+d**. Isso apagará da memória todos os objetos criados.
 
 
-# Uso do Julia para otimização - primeiros passos
+# Uso do Julia em otimização - primeiros passos
 
 [Neste link](/juliaopt/) você encontra dicas e exercícios para os primeiros passos na escrita e resolução de problemas de otimização com o Julia.
 
