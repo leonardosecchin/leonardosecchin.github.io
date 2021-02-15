@@ -331,14 +331,14 @@ A seguir listo alguns excelentes pacotes.
 Algencan é uma implementação do método de Lagrangiano aumentado escrito por E. Birgin e J.M. Martínez. É um *software livre* implementado em Fortran. Uma interface para Julia com leitura de estruturas `NLPmodels` foi escrita por P.J.S. Silva.
 
 - [Página oficial](https://www.ime.usp.br/~egbirgin/tango/codes.php)
-- **Interface para Julia:** pacote [`NLPModelsAlgencan`](https://github.com/pjssilva/NLPModelsAlgencan.jl)
+- **Interface NLPModels Julia:** pacote [`NLPModelsAlgencan`](https://github.com/pjssilva/NLPModelsAlgencan.jl)
 
 ## Ipopt - Interior Point Optimizer
 
 Ipopt é uma implementação do método de pontos interiores, isto é, uma estratégia de penalização interna com barreira logarítmica e Newton nos subproblemas. É um *software livre* implementado em C++. É mantido pela fundação [COIN-OR](https://www.coin-or.org/).
 
 - [Documentação oficial](https://coin-or.github.io/Ipopt/)
-- **Interface para Julia:** pacote [`Ipopt`](https://github.com/jump-dev/Ipopt.jl)
+- **Interface NLPModels Julia:** pacote [`NLPModelsIpopt`](https://github.com/JuliaSmoothOptimizers/NLPModelsIpopt.jl)
 
 ## Interfaces para *softwares* proprietários
 
@@ -348,7 +348,7 @@ Existem interfaces para *softwares* proprietários. Neste caso você precisará 
 - **IBM Cplex:** [site do desenvolvedor](https://www.ibm.com/products/ilog-cplex-optimization-studio), [*interface* Julia](https://github.com/jump-dev/CPLEX.jl)
 - **Xpress:** [site do desenvolvedor](https://www.fico.com/en/products/fico-xpress-optimization), [*interface* Julia](https://github.com/jump-dev/Xpress.jl)
 - **Mosek:** [site do desenvolvedor](https://www.mosek.com/), [*interface* Julia](https://github.com/jump-dev/MosekTools.jl)
-- **Knitro:** [site do desenvolvedor](https://www.artelys.com/knitro), [*interface* Julia](https://github.com/jump-dev/KNITRO.jl)
+- **Knitro:** [site do desenvolvedor](https://www.artelys.com/knitro), [*interface* Julia](https://github.com/jump-dev/KNITRO.jl), [*interface* NLPModels Julia](https://github.com/JuliaSmoothOptimizers/NLPModelsKnitro.jl)
 
 
 
@@ -421,11 +421,13 @@ Uma linguagem de modelagem muito utilizada é o [AMPL](https://ampl.com/). Na ve
 
 É possível exportar os modelos AMPL para o formato livre `.nl`. Veja a [documentação](https://ampl.com/resources/the-ampl-book/chapter-downloads/) oficial.
 
-## Outras fontes
+## Outras fontes de problemas / formatos
 
-O pacote `OptimizationProblems` contém alguns problemas irrestritos, muitos deles presentes na CUTEst. Os problemas vêm na estrutura `JuMP`, e você precisará convertê-los para `NLPmodels` a fim de usufruir de derivadas automáticas (veja Exemplo 1). Acesse a [página oficial](https://github.com/JuliaSmoothOptimizers/OptimizationProblems.jl) do pacote para instruções de uso.
+1. O pacote `OptimizationProblems` contém alguns problemas irrestritos, muitos deles presentes na CUTEst. Os problemas vêm na estrutura `JuMP`, e você precisará convertê-los para `NLPmodels` a fim de usufruir de derivadas automáticas (veja Exemplo 1). Acesse a [página oficial](https://github.com/JuliaSmoothOptimizers/OptimizationProblems.jl) do pacote para instruções de uso.
 
+1. Se pretende minimizar funções quadráticas, você pode ler matrizes da [Suite Sparse Matrix Collection](https://sparse.tamu.edu/). Trata-se de uma enorme reunião de matrizes, inclusive de grande porte provenientes de aplicações reais, disponíveis em vários formatos. É possível filtrar por tipos de matrizes (simétricas, definidas positivas, condicionamento etc). Com a *interface* [`SuiteSparseMatrixCollection`](https://github.com/JuliaSmoothOptimizers/SuiteSparseMatrixCollection.jl), é possível ler carregar matrizes da coletânea direto no Julia.
 
+1. Em programação linear/quadrática, há os formatos de arquivo `MPS` e `QPS` (por exemplo, o CPLEX trabalha lê esses formatos). Uma *interface* para leitura desse tipo de arquivos no Julia vem no pacote [`QPSReader`](https://github.com/JuliaSmoothOptimizers/QPSReader.jl).
 
 
 # Exercício 9
