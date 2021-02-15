@@ -5,7 +5,7 @@ permalink: /juliaopt/
 author_profile: true
 ---
 
-Nesta página você encontrará exercícios simples para iniciar a escrita e resolução de problemas de otimização em Julia. Não é um tutorial completo sobre, e poderá ser expandido ao longo do curso. Evidentemente, há muito material na internet que você pode acessar.
+Nesta página você encontrará exercícios simples para iniciar a escrita e resolução de problemas de otimização em Julia. Não é um tutorial completo sobre, e poderá ser expandido ao longo do curso. Evidentemente, há muito material na internet que você pode acessar. Um deles é o [curso de Abel Siqueira (UFPR) no Youtube](https://www.youtube.com/playlist?list=PLOOY0eChA1uyk_01nGJVmcQGvcJq9h6_6).
 
 
 # Pré-requisitos
@@ -20,8 +20,10 @@ Pacotes utilizados nos exercícios (alguns necessitam de instalação):
 - Comando de impressão na tela estilo C: `Printf`
 - Plotagem de gráficos: `Plots`
 
+<br>
 
 # Exercício 1
+---
 
 **Objetivo:** escrever um modelo simples de otimização irrestrita.
 
@@ -268,7 +270,7 @@ As opções são separadas por vírgula. Eis algumas delas:
 - **Forçar mesma proporção entre eixos:** `aspect_ratio=:equal`
 
 É possível trabalhar plots aninhados (*subplots*) ou até mesmo fazer figuras animadas. Mais exemplos e configurações:
-- [https://docs.juliaplots.org/latest/](https://docs.juliaplots.org/latest/)
+- <https://docs.juliaplots.org/latest/>
 - [Um tutorial](https://sites.google.com/view/oficinadejuliapetmecanicaufes/gr%C3%A1ficos/gr%C3%A1ficos-bidimensionais?authuser=0)
 
 
@@ -405,8 +407,8 @@ Isso é útil quando queremos resolver vários problemas em série.
 ## Problemas no formato aberto .nl
 
 É comum que modelos de otimização sejam disponibilizados em um formato livre com extensão `.nl`. No Julia, há dois pacotes para manipulação desse tipo de arquivo:
-- **`AmplNLReader`:** Lê arquivos `.nl` ([link oficial](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl))
-- **`AmplNLWriter`:** Escreve arquivos `.nl` a partir de estruturas `JuMP` ([link oficial](https://github.com/jump-dev/AmplNLWriter.jl))
+- **`AmplNLReader`:** Lê arquivos `.nl` ([link](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl))
+- **`AmplNLWriter`:** Escreve arquivos `.nl` a partir de estruturas `JuMP` ([link](https://github.com/jump-dev/AmplNLWriter.jl))
 
 Exemplos:
 
