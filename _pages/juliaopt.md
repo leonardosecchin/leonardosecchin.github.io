@@ -146,11 +146,7 @@ julia> include("juliaoptex3.jl");
 No arquivo `juliaoptex3.jl` há duas funções definidas e a variável `a` setada. Você pode executar:
 ~~~
 julia> a
-~~~
-~~~
 julia> msg(123)
-~~~
-~~~
 julia> soma(5,8)
 ~~~
 
@@ -308,11 +304,9 @@ Adicionando a restrição não linear:
 julia> @NLconstraint(P, x[1]^2 - x[2] <= 0)
 ~~~
 
-Exibindo o modelo construído e transformando-o para *NLPModels*:
+Exibindo o modelo construído e transformando-o para **NLPModels**:
 ~~~
 julia> println(P)
-~~~
-~~~
 julia> nlp = MathOptNLPModel(P)
 ~~~
 
@@ -322,34 +316,37 @@ julia> nlp = MathOptNLPModel(P)
 
 **Objetivo:** resolver modelos de otimização restrita e irrestrita por métodos disponíveis.
 
-Ao longo da disciplina ["Otimização 2"](/otimizacao2/) utilizamos interfaces para pacotes de otimização com restrições. Todos os pacotes leêm estruturas `NLPmodels`, com derivadas automáticas, como nosso `gradiente` do Exemplo 4.
+Ao longo da disciplina ["Otimização 2"](/otimizacao2/) utilizamos interfaces para pacotes de otimização com restrições. Sempre que disponível, damos preferência à pacotes que leêm estruturas `NLPmodels`, com derivadas automáticas, como nosso `gradiente` do Exemplo 4.
 
 A seguir listo alguns excelentes pacotes.
 
 ## Algencan
 
-Algencan é uma implementação do método de Lagrangiano aumentado escrito por E. Birgin e J.M. Martínez. É um *software livre* implementado em Fortran. Uma interface para Julia com leitura de estruturas `NLPmodels` foi escrita por P.J.S. Silva.
+Algencan é uma implementação do método de Lagrangiano aumentado escrito por E. Birgin e J.M. Martínez. É um *software* livre implementado em Fortran. Uma interface para Julia com leitura de estruturas `NLPmodels` foi escrita por P.J.S. Silva.
 
 - [Página oficial](https://www.ime.usp.br/~egbirgin/tango/codes.php)
 - **Interface NLPModels Julia:** pacote [`NLPModelsAlgencan`](https://github.com/pjssilva/NLPModelsAlgencan.jl)
 
-## Ipopt - Interior Point Optimizer
+## Ipopt - *Interior Point Optimizer*
 
-Ipopt é uma implementação do método de pontos interiores, isto é, uma estratégia de penalização interna com barreira logarítmica e Newton nos subproblemas. É um *software livre* implementado em C++. É mantido pela fundação [COIN-OR](https://www.coin-or.org/).
+Ipopt é uma implementação do método de pontos interiores, isto é, uma estratégia de penalização interna com barreira logarítmica e Newton nos subproblemas. É um *software* livre implementado em C++. É mantido pela organização *"Computation Infrastructure for Operations Research"* ([COIN-OR](https://www.coin-or.org/)).
 
 - [Documentação oficial](https://coin-or.github.io/Ipopt/)
 - **Interface NLPModels Julia:** pacote [`NLPModelsIpopt`](https://github.com/JuliaSmoothOptimizers/NLPModelsIpopt.jl)
 
 ## Interfaces para *softwares* proprietários
 
-Existem interfaces para *softwares* proprietários. Neste caso você precisará obter o *software* e licença de uso de forma independente.
+Existem interfaces para *softwares* proprietários. Neste caso você precisará obter o *software* e licença de uso de forma independente. Alguns pacotes são feitos para lidar apenas com modelos em **JuMP** (i.e., não usam NLPModels). Consulte a documentação do pacote para detalhes de uso.
 
-- **Gurobi:** [site do desenvolvedor](https://www.gurobi.com/) / [*interface* Julia](https://github.com/jump-dev/Gurobi.jl)
-- **IBM Cplex:** [site do desenvolvedor](https://www.ibm.com/products/ilog-cplex-optimization-studio) / [*interface* Julia](https://github.com/jump-dev/CPLEX.jl)
-- **Xpress:** [site do desenvolvedor](https://www.fico.com/en/products/fico-xpress-optimization) / [*interface* Julia](https://github.com/jump-dev/Xpress.jl)
-- **Mosek:** [site do desenvolvedor](https://www.mosek.com/) / [*interface* Julia](https://github.com/jump-dev/MosekTools.jl)
-- **Knitro:** [site do desenvolvedor](https://www.artelys.com/knitro) / [*interface* Julia](https://github.com/jump-dev/KNITRO.jl) / [*interface* NLPModels Julia](https://github.com/JuliaSmoothOptimizers/NLPModelsKnitro.jl)
+- **Gurobi:** [site do desenvolvedor](https://www.gurobi.com/) / [interface Julia](https://github.com/jump-dev/Gurobi.jl)
+- **IBM Cplex:** [site do desenvolvedor](https://www.ibm.com/products/ilog-cplex-optimization-studio) / [interface Julia](https://github.com/jump-dev/CPLEX.jl)
+- **Xpress:** [site do desenvolvedor](https://www.fico.com/en/products/fico-xpress-optimization) / [interface Julia](https://github.com/jump-dev/Xpress.jl)
+- **Mosek:** [site do desenvolvedor](https://www.mosek.com/) / [interface Julia](https://github.com/jump-dev/MosekTools.jl)
+- **Knitro:** [site do desenvolvedor](https://www.artelys.com/knitro) / [interface Julia](https://github.com/jump-dev/KNITRO.jl) / [interface NLPModels Julia](https://github.com/JuliaSmoothOptimizers/NLPModelsKnitro.jl)
 
+## Outros algoritmos
+
+- A organização *"Computation Infrastructure for Operations Research"* (COIN-OR) possui implementações livres de vários métodos, incluindo métodos enumerativos para programação linear interna mista (*branch-and-cut*), metaheurísticas, métodos para programação não linear, convexa, estocástica e semi-definida. Veja a [lista de projetos da COIN-OR](https://www.coin-or.org/projects/). É comum cada projeto ter sua interface para Julia. Geralmente as interfaces são para modelos `JuMP`, e os links podem ser acessados no Github de cada projeto.
 
 
 # Exercício 8
@@ -425,9 +422,9 @@ Uma linguagem de modelagem muito utilizada é o [AMPL](https://ampl.com/). Na ve
 
 1. O pacote `OptimizationProblems` contém alguns problemas irrestritos, muitos deles presentes na CUTEst. Os problemas vêm na estrutura `JuMP`, e você precisará convertê-los para `NLPmodels` a fim de usufruir de derivadas automáticas (veja Exemplo 1). Acesse a [página oficial](https://github.com/JuliaSmoothOptimizers/OptimizationProblems.jl) do pacote para instruções de uso.
 
-1. Se pretende minimizar funções quadráticas, você pode ler matrizes da [Suite Sparse Matrix Collection](https://sparse.tamu.edu/). Trata-se de uma enorme reunião de matrizes, inclusive de grande porte provenientes de aplicações reais, disponíveis em vários formatos. É possível filtrar por tipo de matriz (simétricas, definidas positivas, condicionamento etc). Com a *interface* [`SuiteSparseMatrixCollection`](https://github.com/JuliaSmoothOptimizers/SuiteSparseMatrixCollection.jl) é possível carregar matrizes da coletânea direto no Julia.
+1. Se pretende minimizar funções quadráticas, você pode ler matrizes da [Suite Sparse Matrix Collection](https://sparse.tamu.edu/). Trata-se de uma enorme reunião de matrizes, inclusive de grande porte provenientes de aplicações reais, disponíveis em vários formatos. É possível filtrar por tipo de matriz (simétricas, definidas positivas, condicionamento etc). Com o pacote [`SuiteSparseMatrixCollection`](https://github.com/JuliaSmoothOptimizers/SuiteSparseMatrixCollection.jl) é possível carregar matrizes da coletânea direto no Julia.
 
-1. Em programação linear/quadrática, os formatos livres de arquivo `MPS` e `QPS` são usados (por exemplo, o CPLEX lê esses formatos). Uma *interface* para leitura desses tipos de arquivos no Julia vem no pacote [`QPSReader`](https://github.com/JuliaSmoothOptimizers/QPSReader.jl).
+1. Em programação linear/quadrática, os formatos livres de arquivo `MPS` e `QPS` são usados (por exemplo, o CPLEX lê esses formatos). Uma interface para leitura desses tipos de arquivos no Julia vem no pacote [`QPSReader`](https://github.com/JuliaSmoothOptimizers/QPSReader.jl).
 
 
 # Exercício 9
