@@ -25,6 +25,8 @@ Pacotes utilizados nos exercícios (alguns necessitam de instalação):
 
 # Exercício 1
 
+---
+
 **Objetivo:** escrever um modelo simples de otimização irrestrita.
 
 Vamos escrever o problema de duas variáveis
