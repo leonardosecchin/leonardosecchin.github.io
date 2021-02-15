@@ -20,10 +20,10 @@ Pacotes utilizados nos exercícios (alguns necessitam de instalação):
 - Comando de impressão na tela estilo C: `Printf`
 - Plotagem de gráficos: `Plots`
 
+
 <br>
 
 # Exercício 1
----
 
 **Objetivo:** escrever um modelo simples de otimização irrestrita.
 
@@ -68,6 +68,8 @@ julia> nlp = MathOptNLPModel(P)
 
 O modelo `nlp` está pronto para ser resolvido pelos métodos! A estrutura `nlp` fornece as derivadas de 1a e 2a ordens aos métodos sem a necessidade de calculá-las.
 
+
+<br>
 
 # Exercício 2
 
@@ -128,6 +130,7 @@ julia> nlp = MathOptNLPModel(P)
 - Você pode setar valores iniciais na criação das variáveis. Por exemplo, `@variable(P, 1 <= x[1:m] <= 4, start=1)` criará as $m$ variáveis, todas com valor inicial $1$.
 
 
+<br>
 
 # Exercício 3
 
@@ -155,6 +158,7 @@ julia> soma(5,8)
 Você pode definir várias funções, variáveis e objetos em um ou mais arquivos. Você deverá incluir cada arquivo que criar. **Abra o arquivo `juliaoptex3.jl` e veja como ele foi feito.**
 
 
+<br>
 
 # Exercício 4
 
@@ -168,6 +172,7 @@ Após estudar e ler as instruções de execução no código, faça:
 - Modifique o código para implementar a interpolação quadrática, como descrito nos slides 11 a 13 [deste link](/files/otim1/4.1.Metodos_descida_gerais.pdf). Compare os métodos.
 
 
+<br>
 
 # Exercício 5
 
@@ -274,7 +279,7 @@ As opções são separadas por vírgula. Eis algumas delas:
 - [Um tutorial](https://sites.google.com/view/oficinadejuliapetmecanicaufes/gr%C3%A1ficos/gr%C3%A1ficos-bidimensionais?authuser=0)
 
 
-
+<br>
 
 # Exercício 6
 
@@ -313,6 +318,7 @@ julia> nlp = MathOptNLPModel(P)
 ~~~
 
 
+<br>
 
 # Exercício 7
 
@@ -350,6 +356,8 @@ Existem interfaces para *softwares* proprietários. Neste caso você precisará 
 
 - A organização *"Computation Infrastructure for Operations Research"* (COIN-OR) possui implementações livres de vários métodos, incluindo métodos enumerativos para programação linear interna mista (*branch-and-cut*), metaheurísticas, métodos para programação não linear, convexa, estocástica e semi-definida. Veja a [lista de projetos da COIN-OR](https://www.coin-or.org/projects/). É comum cada projeto ter sua interface para Julia. Geralmente as interfaces são para modelos `JuMP`, e os links podem ser acessados no Github de cada projeto.
 
+
+<br>
 
 # Exercício 8
 
@@ -428,6 +436,8 @@ Uma linguagem de modelagem muito utilizada é o [AMPL](https://ampl.com/). Na ve
 
 1. Em programação linear/quadrática, os formatos livres de arquivo `MPS` e `QPS` são usados (por exemplo, o CPLEX lê esses formatos). Uma interface para leitura desses tipos de arquivos no Julia vem no pacote [`QPSReader`](https://github.com/JuliaSmoothOptimizers/QPSReader.jl).
 
+
+<br>
 
 # Exercício 9
 
