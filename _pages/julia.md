@@ -184,8 +184,9 @@ julia> P = nothing
 
 # Links úteis sobre Julia
 
-- Sítio oficial da linguagem: [https://julialang.org](https://julialang.org)
-- Julia no GitHub: [https://github.com/JuliaLang/julia](https://github.com/JuliaLang/julia)
-- Lista de pacotes: [https://julialang.org/packages](https://julialang.org/packages)
-- Documentação oficial: [https://docs.julialang.org](https://docs.julialang.org)
-- [Tutorial, Prof. Leandro Martínez (Unicamp)](http://m3g.iqm.unicamp.br/main/didatico/simulacoes/tutorial-Julia.pdf)
+- Sítio oficial da linguagem: <https://julialang.org>
+- Julia no GitHub: <https://github.com/JuliaLang/julia>
+- Lista de pacotes: <https://julialang.org/packages>
+- Documentação oficial: <https://docs.julialang.org>
+- *ThinkJulia* - Documentação completa em português: <https://juliaintro.github.io/JuliaIntroBR.jl>
+<!--- [Tutorial, Prof. Leandro Martínez (Unicamp)](http://m3g.iqm.unicamp.br/main/didatico/simulacoes/tutorial-Julia.pdf)-->
