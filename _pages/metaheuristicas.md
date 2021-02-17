@@ -95,7 +95,8 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 ## Simulated Annealing
 
 *   **[Código Matlab/Octave](https://drive.google.com/file/d/1HADurl67sMhoggwrzxWhSWyfGPKVPjhT/view?usp=sharing) (código comentado)**  
-    _Fonte: [http://yarpiz.com/223/ypea105-simulated-annealing](http://yarpiz.com/223/ypea105-simulated-annealing)_
+    _Fonte: [http://yarpiz.com/223/ypea105-simulated-annealing](http://yarpiz.com/223/ypea105-simulated-annealing)_  
+    _Obs: o pacote `octave-statistics` é necessário para este código_
 *   Referência: cap 10 do livro de Glover
 *   [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
 <!--*   **Atividade 2 (ver abaixo)**-->
