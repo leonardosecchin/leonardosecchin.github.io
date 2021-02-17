@@ -157,7 +157,8 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 
 ## Leitura(s) recomendada(s)
 
-*   [Análise de Sörensen sobre a profusão de artigos nos últimos anos e seu rigor científico](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12001)
+*   [Análise de Sörensen sobre a profusão de artigos nos últimos anos e seu rigor científico](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12001)  
+    Uma versão com acesso aberto está disponível [neste link](https://www.researchgate.net/publication/237009138_Metaheuristics_--_the_metaphor_exposed).
 
 
 # ATIVIDADES
