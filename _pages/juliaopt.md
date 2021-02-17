@@ -335,6 +335,8 @@ Algencan é uma implementação do método de Lagrangiano aumentado escrito por 
 - [Página oficial](https://www.ime.usp.br/~egbirgin/tango/codes.php)
 - **Interface NLPModels Julia:** pacote [`NLPModelsAlgencan`](https://github.com/pjssilva/NLPModelsAlgencan.jl)
 
+*Obs.: para compilar `NLPModelsAlgencan`, você precisará instalar a biblioteca de álgebra linear BLAS no seu sistema operacional. No Ubuntu, instale o pacote `libopenblas-dev`.*
+
 ## Ipopt - *Interior Point Optimizer*
 
 Ipopt é uma implementação do método de pontos interiores, isto é, uma estratégia de penalização interna com barreira logarítmica e Newton nos subproblemas. É um *software* livre implementado em C++. É mantido pela organização *"Computation Infrastructure for Operations Research"* ([COIN-OR](https://www.coin-or.org/)).
