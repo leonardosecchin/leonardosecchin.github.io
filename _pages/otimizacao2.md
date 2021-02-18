@@ -75,8 +75,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
    - [**SLIDES** - Apresentação](/files/otim2/2.1.LA_apresentacao.pdf)
-   - [**SLIDES** - Convergência teórica, parte 1](/files/otim2/2.2.LA_convergencia1.pdf)
-   - [**SLIDES** - Convergência teórica, parte 2](/files/otim2/2.3.LA_convergencia2.pdf)
+   - [**SLIDES** - Convergência teórica](/files/otim2/2.2.LA_convergencia.pdf)
    - **Pacote computacional [Algencan](https://www.ime.usp.br/~egbirgin/tango/codes.php#algencan)**
 
 
