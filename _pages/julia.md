@@ -18,13 +18,13 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - Ferramentas diversas para manipulação eficiente de matrizes (esparsas, inclusive), bem como rotinas usuais de Álgebra Linear (parecido com o Matlab). Em particular, Julia trabalha com Hessianas esparsas.
 
 Dentre as vantagens do Julia sobre o Matlab, destacam-se:
-- Julia é *software* livre, pode ser instalado e utilizado sem custo (respeitando as condições da licença do MIT);
+- Julia é *software* livre, pode ser instalado e utilizado sem custo, respeitando as condições da licença do MIT;
 
-- A comunidade acadêmica cada vez mais usa Julia (pelo menos os pesquisadores de otimização não linear). Isso torna vivo o desenvolvimento de novos códigos/interfaces para métodos e bibliotecas;
+- A comunidade acadêmica cada vez mais usa Julia, pelo menos os pesquisadores de otimização não linear. Isso torna vivo o desenvolvimento de novos códigos/interfaces para métodos e bibliotecas;
 
 - Ao mesmo tempo que Julia oferece uma linguagem amigável como o Matlab/Octave, ao contrário destes, Julia compila os códigos (Matlab/Octave são linguagens interpretadas). Isso faz uma enorme diferença no desempenho. No Julia, laços podem ser feitos sem grandes problemas, enquanto que no Matlab eles devem ser evitados sempre que possível pois tornam a execução muito lenta;
 
-- Julia possui um sistema de pacotes similar ao de distruibuições GNU/Linux como o Ubuntu e o Mint. Portanto, a instalação de um novo pacote é feita diretamente da internet dentro do Julia, sem complicações. O sistema de pacotes do Julia também atualiza os pacotes com as últimas versões dos desenvolvedores (como no Ubuntu ou Mint);
+- Julia possui um sistema de pacotes similar ao de distruibuições GNU/Linux como o Ubuntu e o Mint. Portanto, a instalação de um novo pacote é feita diretamente da internet dentro do Julia, sem complicações. O sistema de pacotes do Julia também atualiza os pacotes com as últimas versões dos desenvolvedores, como no Ubuntu ou Mint;
 
 - Julia possui desempenho geral muitas vezes similar à linguagens de baixo nível como C e Fortran, e superior ao Matlab e sobretudo ao Octave. Ou seja, Julia combina a facilidade do Matlab e o desempenho de linguagens de baixo nível.
 
@@ -80,7 +80,7 @@ Não aconselho usar o Julia do repositório do GNU/Linux, a versão geralmente �
 
 # Iniciando o uso do Julia
 
-Julia é executado pelo terminal de comandos (para usuários Windows, recomendo instalar um terminal de comandos melhor que o disponível junto ao Windows).
+Julia é executado pelo terminal de comandos. Para usuários Windows, recomendo instalar um terminal de comandos melhor que o disponível junto ao Windows.
 
 - No terminal, execute `julia` (ou `./julia` do diretório da instalação). Isso entrará no ambiante Julia. Se tudo der certo, você verá o logotipo do Julia, a versão instalada e uma linha pronta para receber comandos:
 ~~~
@@ -90,7 +90,7 @@ julia>
 - Neste estágio, você pode executar comandos no Julia. Por exemplo, multiplicar duas matrizes:
 ~~~
 julia> A=[1 2; 3 4]  
- 2×2 Array{Int64,2}:  
+2×2 Array{Int64,2}:  
  1  2  
  3  4
 ~~~
@@ -158,13 +158,13 @@ Existem plataformas (IDEs) gráficas que se integram ao Julia. Uma delas é o [J
 
 - O terminal de comandos do Julia comporta-se como o Linux. Você pode começar a digitar um comando e teclar `TAB --> TAB` que verá as terminações possíveis. Isso dá agilidade e ajuda a lembrar dos comandos.
 
-- O Julia possui ajuda para comandos dentro de seu ambiente. Para alternar para o "ambiente de ajuda", digite `?` (sinal de interrogação). A Linha de comandos tornará
+- O Julia possui ajuda para comandos dentro de seu ambiente. Para alternar para o "ambiente de ajuda", digite `?` (sinal de interrogação). A linha de comandos tornará
 ~~~
 help?>
 ~~~
-Basta digitar o comando e teclar Enter. A função `TAB --> TAB` funciona no ambiente de ajuda também.
+Basta digitar o comando e teclar "Enter". A função `TAB --> TAB` também funciona no ambiente de ajuda.
 
-- É possível alternar entre o terminal do Julia e o terminal do Linux (caso esteja usando Linux) teclando `;` (ponto e vírgula). Isso é bom para navegar entre diretórios sem sair do Julia (e assim não perder os objetos na memória), bem como executar comandos a nível de Linux (*shell*) caso queira. Comandos úteis do terminal Linux para diretórios:
+- É possível alternar entre o terminal do Julia e o terminal do Linux (caso esteja usando Linux) teclando `;` (ponto e vírgula). Isso é bom para navegar entre diretórios sem sair do Julia, e assim não perder os objetos na memória, bem como executar comandos à nível *shell* do Linux. Comandos úteis do terminal Linux para diretórios:
   - `pwd`: imprimi o diretório atual
   - `cd [diretorio]`: muda de diretório. Aceita diretórios relativos, tais como `../dir1` (`dir1` no diretório pai), ou `dir1/dir2` (subdiretórios na pasta atual).
   - O comando `cd [TAB --> TAB]` funciona e é útil para listar os diretórios da pasta atual e autocompletar nomes parcialmente digitados.
@@ -187,6 +187,6 @@ julia> P = nothing
 - Sítio oficial da linguagem: <https://julialang.org>
 - Julia no GitHub: <https://github.com/JuliaLang/julia>
 - Lista de pacotes: <https://julialang.org/packages>
-- Documentação oficial: <https://docs.julialang.org>
-- *ThinkJulia* - Documentação completa em português: <https://juliaintro.github.io/JuliaIntroBR.jl>
+- Documentação oficial (em inglês): <https://docs.julialang.org>
+- *ThinkJulia* - Uma documentação completa em português: <https://juliaintro.github.io/JuliaIntroBR.jl>
 <!--- [Tutorial, Prof. Leandro Martínez (Unicamp)](http://m3g.iqm.unicamp.br/main/didatico/simulacoes/tutorial-Julia.pdf)-->
