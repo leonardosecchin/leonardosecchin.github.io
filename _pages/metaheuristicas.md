@@ -69,7 +69,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 *   **Atividade 1 para entrega** (veja o AVA)
 
 
-## O problema do caixeiro viajante
+## O problema do caixeiro viajante (Travelling Salesman Problem - TSP)
 
 Todos os códigos apresentados neste curso são feitos para resolver o problema do caixeiro viajante (em inglês, *Travelling Salesman Problem* - TSP). Desta forma, podemos focar nos métodos. o TSP é um problema clássico e de difícil resolução. Ele servirá como "saco de pancadas" para os métodos.
 *   [Uma apresentação do TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
@@ -84,7 +84,7 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 * Visualização [on line](https://tspvis.com/) do funcionamento de algoritmos para o TSP.
 
 
-## Busca Tabu
+## Busca Tabu (Tabu Search - TS)
 
 *   **[Código Matlab/Octave](https://drive.google.com/file/d/1umgrhf6QrPpQtbnYkpACRtFQCwJWKoK_/view?usp=sharing) (código comentado)**  
     _Fonte: [http://yarpiz.com/243/ypea116-tabu-search](http://yarpiz.com/243/ypea116-tabu-search)_
@@ -92,17 +92,16 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 *   [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
 *   Curiosidade: busque no Google “tabu search papers” e veja a quantidade de pesquisa usando a técnica!
 
-## Simulated Annealing
+## Simulated Annealing (SA)
 
 *   **[Código Matlab/Octave](https://drive.google.com/file/d/1HADurl67sMhoggwrzxWhSWyfGPKVPjhT/view?usp=sharing) (código comentado)**  
     _Fonte: [http://yarpiz.com/223/ypea105-simulated-annealing](http://yarpiz.com/223/ypea105-simulated-annealing)_  
     _Obs: o pacote `octave-statistics` é necessário para este código_
 *   Referência: cap 10 do livro de Glover
 *   [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
-<!--*   **Atividade 2 (ver abaixo)**-->
 
 
-## Ant Colony (Colônia de formigas)
+## Colônia de formigas (Ant Colony Optimization - ACO)
 
 *   **[Código Matlab/Octave](https://drive.google.com/file/d/1cQ5wtYWb1_JscJSKOG6YiHG5wYY-Vapg/view?usp=sharing) (código comentado)**  
     _Fonte: [http://yarpiz.com/53/ypea103-ant-colony-optimization](http://yarpiz.com/53/ypea103-ant-colony-optimization)_
@@ -127,7 +126,7 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 *   **Funções-teste (retirado da terceira referência acima): **[**metah.funcoes-teste**](http://blog.ufes.br/leonardosecchin/files/2018/08/metah.funcoes-teste.pdf)
 
 
-## Algoritmos Genéticos
+## Algoritmo Genético (Genetic Algorithm - GA)
 
 *   [Slides de Estéfane Lacerda (UFRN)](https://www.dca.ufrn.br/~estefane/metaheuristicas/index.html) – somente slides 1, 2, 3 e 6
 *   Slides editados (para aula): [1\. ag_binario](https://drive.google.com/file/d/1SCOCEyOHZmUgHga-J8IYPdX2UrlxZ2jz/view?usp=sharing) ; [2\. ag_tsp](https://drive.google.com/file/d/1jftC9l-HwpB0PYON3YwYrN2lP87aUBsg/view?usp=sharing)
@@ -136,7 +135,7 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 <!--*   **Atividade 3 (ver abaixo)**-->
 
 
-## Particle Swarm (Nuvem de partículas)
+## Nuvem de partículas (Particle Swarm Optimization - PSO)
 
 *   **[Código Matlab/Octave](https://drive.google.com/file/d/1q9W2SjF0vXIX4dfD55jBool1RvXPSSxI/view?usp=sharing) (código comentado).**  
     _Fonte: [http://yarpiz.com/50/ypea102-particle-swarm-optimization](http://yarpiz.com/50/ypea102-particle-swarm-optimization)_
@@ -145,7 +144,7 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 *   [Slides resumidos com “equações de movimento”](https://drive.google.com/file/d/1TDujiXzrHaolRYQilgXdzhBSsCKBfX58/view?usp=sharing) (editadas a partir de slides do projeto Yarpiz — [originais aqui](http://yarpiz.com/wp-content/uploads/2016/05/yarpiz-ytea101-notes.pdf))
 
 
-## GRASP
+## GRASP (Greedy Randomized Adaptive Search Procedure)
 
 *   **[Código Matlab/Octave de um GRASP para o TSP](https://drive.google.com/file/d/1ZdYhhQHka7aDrDlxtwvtuMIp6gVv-pHv/view?usp=sharing)**  
     _Fonte: [https://github.com/warloff/GRASP-for-Traveling-Salesman](https://github.com/warloff/GRASP-for-Traveling-Salesman)_
