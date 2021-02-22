@@ -192,13 +192,11 @@ sol.Position=CreateNNSolution(model);
 
 ## Trabalho computacional 1
 
-O trabalho pode ser feito individualmente ou em dupla.
-
-Nota máxima: **10,0 pontos**
-
-Data limite para entrega: **15 de março**
-
-Critério de avaliação: análise do relatório PDF enviado.
+- O trabalho pode ser feito individualmente ou em dupla.
+- Nota máxima: **10,0 pontos**
+- Data limite para entrega: **15 de março**
+- Critério de avaliação: análise do relatório PDF enviado.
+- O ESTUDANTE/GRUPO DEVE ENVIAR O RELATÓRIO PARA secchinleo@gmail.com
 
 **Leia atentamente o PDF no link abaixo antes de qualquer teste numérico!**
 
