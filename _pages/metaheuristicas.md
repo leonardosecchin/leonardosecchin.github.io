@@ -190,6 +190,28 @@ sol.Position=CreateNNSolution(model);
     *   Compare os gráficos gerados pelos algoritmos para o valor da função objetivo e tire conclusões acerca da qualidade das soluções e da velocidade de decrescimento da função objetivo;
     *   Faça seus testes também com o problema “berlin52.tsp”-->
 
+## Trabalho computacional 1
+
+O trabalho pode ser feito individualmente ou em dupla.
+
+Nota máxima: **10,0 pontos**
+
+Data limite para entrega: **15 de março**
+
+Critério de avaliação: análise do relatório PDF enviado.
+
+**Leia atentamente o PDF no link abaixo antes de qualquer teste numérico!**
+
+[*** TRABALHO 1 ***](https://drive.google.com/file/d/1xd__iqTUhQD0_nLobUsuO0Kk0Wu-8lxn/view)
+
+**Arquivos auxiliares:**
+
+- [Código heurística NN - Nearest Neighbor](https://drive.google.com/file/d/1a-VuWkyhnspiovRiGUXO8KBXVjiyRGhg/view)
+- [Código da heurística 2-OPT](https://drive.google.com/file/d/1IdEeljHysvkf3BzkUmqW2j59GGkiOPM3/view)
+- [Instâncias TSP Euclidiano](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view)
+
+
+
 ## Atividade 3
 
 <!--*   **Objetivo: programar um Algoritmo Genético (AG) para resolver o TSP; familiarizar-se com ajuste de parâmetros, testes numéricos, etc.**
