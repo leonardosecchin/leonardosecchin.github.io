@@ -35,7 +35,7 @@ Para saber mais sobre o Julia, consulte o [Wikipedia](https://en.wikipedia.org/w
 
 ## Método 1: Pacotes pré-compilados (mais fácil)
 
-1. Baixe a última **versão estável** para seu sistema em [https://julialang.org/downloads](https://julialang.org/downloads)
+1. Baixe a última **versão estável** para seu sistema em <https://julialang.org/downloads>
 1. Siga as instruções de instalação
 
 Após a instalação, o Julia estará pronto para uso. Você pode executá-lo via terminal:
@@ -43,9 +43,12 @@ Após a instalação, o Julia estará pronto para uso. Você pode executá-lo vi
 julia
 ~~~
 
+*Você pode tentar o [Julia PRO](https://juliacomputing.com/products/juliapro/), um ambiente que vem com interface gráfica, disponível para Linux, Mac e Windows.*
+
+
 ## Método 2: Compilar do código-fonte (para *experts* no GNU/Linux)
 
-1. Clone o repositório Git [https://github.com/JuliaLang/julia](https://github.com/JuliaLang/julia) executando no terminal, a partir de sua pasta de preferência (por exemplo, sua pasta pessoal),
+1. Clone o repositório Git <https://github.com/JuliaLang/julia> executando no terminal, a partir de sua pasta de preferência (por exemplo, sua pasta pessoal),
 ~~~
 git clone https://github.com/JuliaLang/julia.git
 ~~~
@@ -55,7 +58,7 @@ git clone https://github.com/JuliaLang/julia.git
 cd julia
 ~~~
 
-1. Neste repositório há versões do Julia ainda em teste. Recomendo instalar a última **versão estável**. Para isso, acesse [https://julialang.org/downloads](https://julialang.org/downloads) e veja qual a versão corrente na seção "releases" no lado direito. No momento da escrita deste tutorial, a última versão estável é a 1.5.3. Aponte a versão executando
+1. Neste repositório há versões do Julia ainda em teste. Recomendo instalar a última **versão estável**. Para isso, acesse <https://julialang.org/downloads> e veja qual a versão corrente na seção "releases" no lado direito. No momento da escrita deste tutorial, a última versão estável é a 1.5.3. Aponte a versão executando
 ~~~
 git checkout v1.5.3
 ~~~
@@ -80,7 +83,7 @@ Não aconselho usar o Julia do repositório do GNU/Linux, a versão geralmente �
 
 # Iniciando o uso do Julia
 
-Julia é executado pelo terminal de comandos. Para usuários Windows, recomendo instalar um terminal de comandos melhor que o disponível junto ao Windows.
+O Julia padrão é executado pelo terminal de comandos. Para usuários Windows, recomendo instalar um terminal de comandos melhor que o disponível junto ao Windows (por exemplo, o [cmder](https://cmder.net/)).
 
 - No terminal, execute `julia` (ou `./julia` do diretório da instalação). Isso entrará no ambiante Julia. Se tudo der certo, você verá o logotipo do Julia, a versão instalada e uma linha pronta para receber comandos:
 ~~~
