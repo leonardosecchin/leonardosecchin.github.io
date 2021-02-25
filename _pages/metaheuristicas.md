@@ -113,17 +113,16 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 
 ## Evolução Diferencial
 
-*   **[Código Matlab/Octave](https://drive.google.com/file/d/12NKXXIfaK94O4ei6N2qjcqvjftKJu4Hm/view?usp=sharing) (código comentado)**
+*   **[Código Matlab/Octave](https://drive.google.com/file/d/12NKXXIfaK94O4ei6N2qjcqvjftKJu4Hm/view?usp=sharing) (código comentado)**  
     _Fonte: [http://yarpiz.com/231/ypea107-differential-evolution](http://yarpiz.com/231/ypea107-differential-evolution)_
 *   [Artigo que definiu o método, pela primeira vez](https://link.springer.com/article/10.1023/A:1008202821328) (baixe pela universidade)
-*   [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf) (introdução geral sobre metaheurísticas)
 *   [**Slides de Kelly Fleetwood**](http://www.maths.uq.edu.au/MASCOS/Multi-Agent04/Fleetwood.pdf)** (exclusivamente sobre evolução diferencial)**
 *   Evolução diferencial é uma técnica da classe dos Algoritmos Evolucionários. Essa classe é amplamente estudada. Veja alguns livros dedicados exclusivamente ao assunto:
     *   [Artigo 1](https://www.springer.com/us/book/9780387221960)
     *   [Artigo 2](https://www.springer.com/la/book/9781849961288)
     *   **Um livro somente sobre Evolução Diferencial: **[**Feoktistov, Vitaliy. Differential Evolution – In Search of Solutions, Springer, 2006.**](https://www.springer.com/us/book/9780387368955)
     *   Uma referência em português: [Brandão, Saramago. Métodos estocásticos de otimização: algoritmos genéticos e evolução diferencial, SBMAC, 2011.](http://www.sbmac.org.br/arquivos/notas/livro_55.pdf)
-*   **Funções-teste (retirado da terceira referência acima): **[**metah.funcoes-teste**](http://blog.ufes.br/leonardosecchin/files/2018/08/metah.funcoes-teste.pdf)
+*   **Funções-teste (retirado da terceira referência acima): **[**metah.funcoes-teste**](https://drive.google.com/file/d/1-uG0uM2BvYLMa93LL_KAH3qWhsOT9SLy/view?usp=sharing)
 
 
 ## Algoritmo Genético (Genetic Algorithm - GA)
