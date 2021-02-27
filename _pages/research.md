@@ -14,9 +14,8 @@ author_profile: true
 
 ## [Talks / Slides de apresentações](/talks/)
 
-## List of publications
 
-### Submitted
+## Submitted articles
 
 1. [On scaled stopping criteria for a safeguarded augmented Lagrangian method with theoretical guarantees](http://www.optimization-online.org/DB_HTML/2020/08/7985.html)  
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin, P. J. S. Silva  
@@ -39,7 +38,8 @@ author_profile: true
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
    Optimization Online, 2019
 
-### Research Articles
+
+## Published articles
 
 1. [New sequential optimality conditions for mathematical problems with complementarity constraints and algorithmic consequences](https://epubs.siam.org/doi/10.1137/18M121040X)  
    R. Andreani, G. Haeser, L. D. Secchin, P. J. S. Silva  
@@ -69,7 +69,8 @@ author_profile: true
    L. D. Secchin  
    TEMA (São Carlos), 2012
 
-### Conference Papers
+
+## Conference papers
 
 1. [A note on the convergence of an augmented Lagrangian algorithm to second-order stationary points](https://www.researchgate.net/profile/Leonardo_Secchin/publication/323178751_A_note_on_the_convergence_of_an_augmented_Lagrangian_algorithm_to_second-order_stationary_points/links/5a84c0b6aca272c99ac388d8/A-note-on-the-convergence-of-an-augmented-Lagrangian-algorithm-to-second-order-stationary-points.pdf)  
    R. Andreani, L. D. Secchin  
@@ -79,9 +80,9 @@ author_profile: true
    R. Andreani, S. A. Santos, L. D. Secchin  
    Proceeding Series of the Brazilian Society of Computational and Applied Mathematics, 2018
 
-## See also
+<!--## See also
 
 - [Curriculum Lattes (in portuguese)](http://lattes.cnpq.br/4273961903394165)
 - [Researchgate profile](https://www.researchgate.net/profile/Leonardo_Secchin)
 - [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=Ak9JXRUAAAAJ)
-- [ORCID](https://orcid.org/0000-0002-9224-9051)
+- [ORCID](https://orcid.org/0000-0002-9224-9051)-->
