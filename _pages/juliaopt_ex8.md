@@ -87,7 +87,7 @@ Se pretende minimizar funções quadráticas, você pode ler matrizes da [Suite 
    - O pacote `SuiteSparseMatrixCollection` baixa as matrizes automaticamente para o diretório de trabalho do próprio Julia. Por exemplo, o trecho a seguir baixa as matrizes do grupo [**HB**](https://sparse.tamu.edu/HB) que são simétricas, definidas positivas e com dimensão $\leq 1000$:
    ~~~
    julia> using SuiteSparseMatrixCollection
-   julia> matrizes = ssmc[(ssmc.columns.rows .≤ 1000) .& (ssmc.columns.group .== "HB") .& (ssmc.columns.numericalSym .== "symmetric") .& (ssmc.columns.posDef.== "yes")]
+   julia> matrizes = ssmc[(ssmc.columns.rows .<= 1000) .& (ssmc.columns.group .== "HB") .& (ssmc.columns.numericalSym .== "symmetric") .& (ssmc.columns.posDef.== "yes")]
    julia> fetch_ssmc(matrizes, format="MM")
    ~~~
    (veja a documentação do pacote para atualizações, caso os comandos acima não funcionem). Para acessar a primeira matriz da coleção `matrizes`, capturamos o diretório em que o arquivo da matriz se encontra e a carregamos na variável `A`:
