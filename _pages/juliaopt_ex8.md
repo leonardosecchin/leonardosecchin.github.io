@@ -58,21 +58,31 @@ julia> nlp = CUTEstModel("[diretorio dos arquivos SIF]/[outro problema]");
 
 Isso é útil quando queremos resolver vários problemas em série.
 
+
 ## Problemas no formato aberto .nl
 
 É comum que modelos de otimização sejam disponibilizados em um formato livre com extensão `.nl`. No Julia, há dois pacotes para manipulação desse tipo de arquivo:
 - **`AmplNLReader`:** Lê arquivos `.nl` ([link](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl))
-- **`AmplNLWriter`:** Escreve arquivos `.nl` a partir de estruturas `JuMP` ([link](https://github.com/jump-dev/AmplNLWriter.jl))
+- **`AmplNLWriter`:** Escreve arquivos `.nl` a partir de estruturas de modelagem próprias ([link](https://github.com/jump-dev/AmplNLWriter.jl))
 
-Exemplos:
+A seguir, um exemplo de leitura de um arquivo `.nl`. Isso é útil quando uma biblioteca de problemas é disponibilizada nesse formato, ou em arquivos do AMPL (veja seção seguinte).
 
---- EM BREVE ---
+Suponha que no diretório em que Julia foi executado exista o arquivo `modelo.nl`. Para criar o modelo `nlp`, já na estrutura `NLPModels`, é muito simples:
+
+~~~
+julia> using AmplNLReader
+julia> nlp = AmplModel("modelo.nl")
+~~~
+
+Por sua vez, o pacote `AmplNLWriter` escreve arquivos `.nl`, mas a partir de estruturas próprias de modelagem (isto é, você terá que criar o modelo já na estrutura do `AmplNLWriter`). É possível "conectar" `AmplNLWriter` diretamente à resolvedores sem passar por arquivos `.nl`, como se estivéssemos no ambiente do AMPL. Veja a documentação do pacote para detalhes.
+
 
 ## A linguagem de modelagem AMPL
 
-Uma linguagem de modelagem muito utilizada é o [AMPL](https://ampl.com/). Na verdade, AMPL é um ambiente de otimização, traz consigo alguns resolvedores. No entanto, o AMPL **não é *software* livre**. É necessária uma licença do *software* para usufruir de todas as funcionalidades. Uma versão demonstração limitada está disponível no [site do desenvolvedor](https://ampl.com/).
+Uma linguagem de modelagem muito utilizada é o [AMPL](https://ampl.com/). Na verdade, o AMPL tal como disponibilizado é uma espécie de "ambiente de otimização" pois traz consigo alguns resolvedores. No entanto, o AMPL **não é *software* livre**. É necessária uma licença para usufruir de todas as suas funcionalidades. Uma versão limitada de demonstração está disponível no [site do desenvolvedor](https://ampl.com/).
 
 É possível exportar os modelos AMPL para o formato livre `.nl`. Veja a [documentação](https://ampl.com/resources/the-ampl-book/chapter-downloads/) oficial.
+
 
 ## Outras fontes de problemas / formatos
 
