@@ -82,7 +82,7 @@ Teste o método de gradiente com interpolação quadrática nos problemas irrest
 
 Implemente o método do gradiente espectral projetado **a partir do código [`gradiente_interp.jl`](/files/julia/gradiente_interp.jl)**. No arquivo [**testesSIF.jl**](/files/julia/testesSIF.jl) há instruções para inserir sua implementação. Rode `testesSIF.jl` sobre os [**problemas irrestritos**](/files/julia/cutest_irrestrito.zip).
 
-Veja [**aqui**](/files/julia/resultados.txt) um exemplo da saída gerada pela rotina `testesSIF`, com dois métodos implementados (`gradiente_interp.jl` e SPG).
+Veja [**aqui**](/files/julia/resultados.txt) um exemplo da saída gerada pela rotina `testesSIF`, com dois métodos (`gradiente_interp.jl` e SPG).
 
 ### Exercício 3
 
