@@ -61,7 +61,7 @@ Observações:
 É possível executar comandos Julia através do navegador de internet. Para tanto, você precisará instalar o pacote `IJulia`. A partir da linha de comandos do Julia, podemos entrar no **Jupyter**, uma espécie de ambiente gráfico que funciona pelo navegador:
 
 ~~~
-julia> using IJulia;
+julia> using IJulia
 julia> notebook()
 ~~~
 
