@@ -1,23 +1,26 @@
 ###################################################
-# METODO DO GRADIENTE, COMO DESCRITO NO SLIDE 29 DE
-#   https://leonardosecchin.github.io/files/otim1/4.1.Metodos_descida_gerais.pdf
+# METODO DO GRADIENTE COM BUSCA LINEAR ARMIJO + INTERPOLAÇÃO QUADRÁTICA + SALVAGUARDAS
+# Veja
+#   leonardosecchin.github.io/files/otim1/4.1.Metodos_descida_gerais.pdf
+#
+# Aqui, a busca linear segue o proposto na implementação de referência do SPG:
+#   www.ime.usp.br/~egbirgin/tango/codes.php
+#
 # Autor: Leonardo D. Secchin
-# Data : 31/01/2021
+# Data : 06/03/2021
 #
 # Exemplos de uso:
-#   gradiente(nlp);
-#   gradiente(nlp, x0=[1;1]);
-#   gradiente(nlp, eps=1e-8);
-#   x, f, gradnorm, iter, status = gradiente(nlp, x0=[1;1], eps=1e-8, maxiter=2000, saidas=true);
+#   gradiente_interp(nlp);
+#   gradiente_interp(nlp, x0=[1;1]);
+#   gradiente_interp(nlp, eps=1e-8);
+#   x, f, gradnorm, iter, status = gradiente_interp(nlp, x0=[1;1], eps=1e-8, maxiter=2000, saidas=true);
 # onde 'nlp' é a estrutura MathOptNLPModel do problema.
 ###################################################
 
-# carrega pacotes necessários
-using JuMP, NLPModels, NLPModelsJuMP, Printf, LinearAlgebra
-
+using Printf, LinearAlgebra, NLPModels
 
 # FUNÇÃO PRINCIPAL
-function gradiente(nlp; x0=nothing, eps=1.0e-6, maxiter=1000, saidas=true)
+function gradiente_interp(nlp; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=true)
 
     # DADOS DE ENTRADA
     # nlp     : estrutura MathOptNLPModel do problema
@@ -37,7 +40,7 @@ function gradiente(nlp; x0=nothing, eps=1.0e-6, maxiter=1000, saidas=true)
     status = 1
 
     # parâmetro busca linear inexata (Armijo)
-    eta = 0.5
+    eta = 1e-4
 
     # define ponto inicial caso não fornecido
     if x0 == nothing
@@ -66,8 +69,8 @@ function gradiente(nlp; x0=nothing, eps=1.0e-6, maxiter=1000, saidas=true)
         # direção descida
         d = -gradf
 
-        # retorna novo iterando após busca linear (Armijo)
-        x, f = armijo(nlp, x, f, gradf, d, eta)
+        # retorna novo iterando após busca linear (Armijo + interpolação quadrática)
+        x, f = buscalinear(nlp, x, f, gradf, d, eta)
 
         # atualiza dados do iterando
         gradf    = grad(nlp, x)
@@ -103,22 +106,51 @@ function gradiente(nlp; x0=nothing, eps=1.0e-6, maxiter=1000, saidas=true)
 end
 
 
-# BUSCA LINEAR
-function armijo(nlp, x, f, gradf, d, eta)
+# BUSCA LINEAR COM INTERPOLAÇÃO QUADRÁTICA E SALVAGUARDAS
+#
+# Código implementado como no SPG disponível em
+#   www.ime.usp.br/~egbirgin/tango/codes.php
+#
+# Aqui, a interpolação quadrática é tentada sucessivas vezes nos pontos x+t*d.
+# Salvaguardas são empregadas, isto é, caso o passo da
+# interpolação seja próximo de 0 ou 1, usa backtracking (divide por 2).
+# Essa estratégia une a aceleração da interpolação quadrática
+# com um melhor controle de passos extremos.
+#
+# Ao calcular o passo da interpolação no ponto x+t*d, aparece um t^2.
+# Em
+#   leonardosecchin.github.io/files/otim1/4.1.Metodos_descida_gerais.pdf
+# só calculamos a interpolação referente ao ponto x+d. Você pode
+# refazer as contas dessa aula e verificar que aparece o t^2 quando o ponto
+# de referência é x+t*d.
+#
+function buscalinear(nlp, x, f, gradf, d, eta)
 
     # calcula gradf' * d
     gtd = gradf' * d
 
     # passo inicial
-    t = 1
+    t = 1.0
 
-    # Armijo com backtracking
-    xnew = x + t*d
+    xnew = x + d
     fnew = obj(nlp, xnew)
 
-    while t > 1e-20 && fnew > f + t*eta*gtd
-        # divide t por 10
-        t /= 10.0
+    # enquanto Armijo não é satisfeito, atualiza t...
+    while fnew > f + t*eta*gtd
+        # se t for próximo de 0, usa backtracking
+        if t <= 0.1
+            t /= 2.0
+        else
+            # passo da interpolação quadrática
+            tquad = - 0.5*gtd*(t^2) / (fnew - f - gtd)
+
+            # se tquad for próximo de 1, usa backtracking
+            if (tquad < 0.1) || (tquad > 0.9)
+                tquad = t / 2.0
+            end
+
+            t = tquad
+        end
 
         # nova tentativa
         xnew = x + t*d
