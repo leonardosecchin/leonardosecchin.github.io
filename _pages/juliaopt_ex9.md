@@ -74,6 +74,8 @@ O arquivo ZIP a seguir contém problemas sem restrições selecionados da CUTEst
 
 *Fonte: bitbucket.org/optrove/sif*
 
+*Obs.: é possível resolver vários problemas `.SIF` em paralelo. Veja <github.com/JuliaSmoothOptimizers/CUTEst.jl>.*
+
 ### Exercício 1
 
 Teste o método de gradiente com interpolação quadrática nos problemas irrestritos selecionados, como explicado acima.

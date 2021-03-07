@@ -1,2 +1,0 @@
-O valor da variável x é    0.560
-O valor da variável n é 10
