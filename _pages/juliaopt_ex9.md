@@ -9,25 +9,25 @@ author_profile: true
 
 **Objetivo:** gravar arquivos de texto, tabelar resultados.
 
-Para gravar arquivos de texto, o Julia dispõe de comandos nativos, semelhantes ao C:
+Para gravar arquivos de texto, o Julia dispõe de comandos nativos semelhantes ao C:
 - `open`: abre um arquivo
 - `write`: grava um texto no *buffer* (memória)
-- `flush`: descarrega os textos do *buffer* e grava no arquivo (gravação em disco)
+- `flush`: descarrega os textos do *buffer* no arquivo (grava em disco)
 - `close`: fecha o arquivo, descarregando todo o *buffer*
 
-O exemplo a seguir abre o arquivo "saida.txt" em modo **escrita**, grava o texto "Alo mundo!" e fecha-o. Caso o arquivo "saida.txt" não exista, ele é criado. Caso exista, todo o conteúdo será substituído.
+O exemplo a seguir abre o arquivo "saida.txt" em modo **escrita** (opção "w"), grava o texto "Alo mundo!" e o fecha. Caso o arquivo "saida.txt" não exista, ele é criado. Caso exista, todo o conteúdo será substituído.
 
 ~~~
 julia> arq = open("saida.txt", "w")
-julia> write(arq, "Alo mundo!")
+julia> write(arq, "Alô mundo!")
 julia> close(arq)
 ~~~
 
-Quando estamos executando um algoritmo para vários problemas, é comum abrir um arquivo em modo **inserção** (ou *append*). Assim, toda nova gravação será feita no fim do arquivo, e o conteúdo antigo não é perdido:
+Quando estamos executando um algoritmo sobre vários problemas, é comum abrir um arquivo em modo **inserção** (ou *append*). Assim, toda nova gravação será feita no fim do arquivo, e o conteúdo antigo não é perdido. Para tanto, basta usar a opção "a" no comando `open`:
 
 ~~~
 julia> arq = open("saida.txt", "a")
-julia> write(arq, "Uma nova linha, sem excluir o conteudo anterior.")
+julia> write(arq, "Uma nova linha, sem excluir o conteúdo anterior.")
 julia> close(arq)
 ~~~
 
@@ -58,7 +58,7 @@ julia> close(arq);
 
 O exemplo a seguir executa o método do gradiente com interpolação quadrática em problemas da CUTEst.
 
-No [Exercício 4](/juliaopt_ex4/) foi sugerida a implementação do método do gradiente com busca linear por interpolação quadrática. O método a seguir emprega essa estratégia baseada na implementação do método do gradiente espectral projetado (do inglês, SPG), em Fortran, desenvolvido por Birgin, Martinez e Raydan, e disponível em <https://www.ime.usp.br/~egbirgin/tango/codes.php>. Trata-se de uma estratégia com mais detalhes do que visto em aula. Ela costuma funcionar muito bem na prática. Baixe o código no *link* abaixo e veja detalhes na função `buscalinear`:
+No [Exercício 4](/juliaopt_ex4/) foi sugerida a implementação do método do gradiente com busca linear por interpolação quadrática. O método a seguir emprega tal estratégia baseada na implementação do método do gradiente espectral projetado (do inglês, SPG), em Fortran, desenvolvido por Birgin, Martinez e Raydan, e disponível em <www.ime.usp.br/~egbirgin/tango/codes.php>. Trata-se de uma estratégia com mais detalhes do que visto em aula. Ela costuma funcionar muito bem na prática. Baixe o código no *link* abaixo e veja detalhes na função `buscalinear`:
 
 - [**gradiente_interp.jl** - Método do gradiente com busca linear Armijo + interpolação quadrática + salvaguardas](/files/julia/gradiente_interp.jl)
 
@@ -80,9 +80,9 @@ Teste o método de gradiente com interpolação quadrática nos problemas irrest
 
 ### Exercício 2
 
-Implemente o método do gradiente espectral projetado **a partir do código [`gradiente_interp.jl`](/files/julia/gradiente_interp.jl)**. No arquivo [**testesSIF.jl**](/files/julia/testesSIF.jl) há instruções para inserir sua implementação. Rode `testesSIF.jl` sobre os [**problemas irrestritos**](/files/julia/cutest_irrestrito.zip).
+Implemente o método do gradiente espectral projetado **a partir do código [`gradiente_interp.jl`](/files/julia/gradiente_interp.jl)**. No arquivo [**`testesSIF.jl`**](/files/julia/testesSIF.jl) há instruções para inserir sua implementação. Rode `testesSIF` sobre os [**problemas irrestritos**](/files/julia/cutest_irrestrito.zip).
 
-Veja [**aqui**](/files/julia/resultados.txt) um exemplo da saída gerada pela rotina `testesSIF`, com dois métodos (`gradiente_interp.jl` e SPG).
+Veja um [**exemplo da saída gerada**](/files/julia/resultados.txt) pela rotina `testesSIF`, com dois métodos (`gradiente_interp.jl` e SPG).
 
 ### Exercício 3
 
