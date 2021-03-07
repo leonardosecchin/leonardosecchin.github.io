@@ -30,7 +30,7 @@ author_profile: true
 ## Listas de exercícios e trabalhos
 
 - [LISTA 1 - Métodos de penalidades](https://drive.google.com/file/d/1CMOR5fsCtm5e1Krh0dSHuF5bqHF6-06s/view?usp=sharing)
-- TRABALHO COMPUTACIONAL 1 - Método do gradiente projetado
+- [TRABALHO COMPUTACIONAL 1 - Método do gradiente projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing)
 - TRABALHO COMPUTACIONAL 2 - Método de pontos interiores aplicado à programação linear
 - LISTA 2 - Programação quadrática sequencial, dualidade
 
