@@ -94,4 +94,4 @@ Usando o mesmo código `testesSIF.jl`, teste sua implementação do gradiente es
 
 *Fonte: bitbucket.org/optrove/sif*
 
-Lembre-se que neste caso o método do gradiente puro não pode ser aplicado, pois não está preparado para lidar limitantes nas variáveis. A rotina `testesSIF` identifica automaticamente se no problema há variáveis limitadas ou não.
+Lembre-se que neste caso o método do gradiente puro não pode ser aplicado, pois não está preparado para lidar com limitantes nas variáveis. A rotina `testesSIF` identifica automaticamente se no problema há variáveis limitadas ou não.
