@@ -66,7 +66,7 @@ A fim de aplicar o método acima em vários problemas de forma automatizada, bai
 
 - [**testesSIF.jl** - Testes automatizados com problemas da CUTEst](/files/julia/testesSIF.jl)
 
-Este código executa o método do gradiente a partir sobre um diretório com arquivos `.SIF` (os arquivos da CUTEst). Você pode lembrar como carregar esse arquivos no Julia revendo o [Exercício 8](/juliaopt_ex8/).
+Este código executa o método do gradiente a sobre um diretório com arquivos `.SIF` (os arquivos da CUTEst). Você pode lembrar como carregar esses arquivos no Julia revendo o [Exercício 8](/juliaopt_ex8/).
 
 O arquivo ZIP a seguir contém problemas sem restrições selecionados da CUTEst. Descompacte-o para a pasta `sif` dentro do mesmo diretório que os códigos anteriores e execute `testesSIF()`.
 
