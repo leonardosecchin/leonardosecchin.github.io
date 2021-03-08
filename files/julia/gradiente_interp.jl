@@ -70,7 +70,7 @@ function gradiente_interp(nlp; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=tru
         d = -gradf
 
         # retorna novo iterando após busca linear (Armijo + interpolação quadrática)
-        x, f = buscalinear(nlp, x, f, gradf, d, eta)
+        x, f = buscalinear(nlp, x, f, f, gradf, d, eta)
 
         # atualiza dados do iterando
         gradf    = grad(nlp, x)
@@ -124,7 +124,10 @@ end
 # refazer as contas dessa aula e verificar que aparece o t^2 quando o ponto
 # de referência é x+t*d.
 #
-function buscalinear(nlp, x, f, gradf, d, eta)
+# A variável "fmax" neste código será igual à "f". No SPG, "fmax" receberá o
+# máximo dos últimos valores de f, enquanto "f" receberá o valor de f no ponto
+# corrente.
+function buscalinear(nlp, x, f, fmax, gradf, d, eta)
 
     # calcula gradf' * d
     gtd = gradf' * d
@@ -136,7 +139,7 @@ function buscalinear(nlp, x, f, gradf, d, eta)
     fnew = obj(nlp, xnew)
 
     # enquanto Armijo não é satisfeito, atualiza t...
-    while fnew > f + t*eta*gtd
+    while fnew > fmax + t*eta*gtd
         # se t for próximo de 0, usa backtracking
         if t <= 0.1
             t /= 2.0
