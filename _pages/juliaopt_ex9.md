@@ -56,9 +56,9 @@ julia> close(arq);
 
 ## Tabelando resultados - exemplo completo
 
-O exemplo a seguir executa o método do gradiente com interpolação quadrática em problemas da CUTEst.
+O exemplo a seguir executa o método do gradiente com interpolação quadrática em problemas da [CUTEst](/juliaopt_ex8/).
 
-No [Exercício 4](/juliaopt_ex4/) foi sugerida a implementação do método do gradiente com busca linear por interpolação quadrática. O método a seguir emprega tal estratégia baseada na implementação do método do gradiente espectral projetado (do inglês, SPG), em Fortran, desenvolvido por Birgin, Martinez e Raydan, e disponível em <www.ime.usp.br/~egbirgin/tango/codes.php>. Trata-se de uma estratégia com mais detalhes do que visto em aula. Ela costuma funcionar muito bem na prática. Baixe o código no *link* abaixo e veja detalhes na função `buscalinear`:
+No [Exercício 4](/juliaopt_ex4/) foi sugerida a implementação do método do gradiente com busca linear por interpolação quadrática. O método a seguir emprega tal estratégia baseada na implementação do método do gradiente espectral projetado (do inglês, SPG), em Fortran, desenvolvido por Birgin, Martinez e Raydan, e disponível em [www.ime.usp.br/~egbirgin/tango/codes.php](www.ime.usp.br/~egbirgin/tango/codes.php). Trata-se de uma estratégia com mais detalhes do que visto em aula. Ela costuma funcionar muito bem na prática. Baixe o código no *link* abaixo e veja detalhes na função `buscalinear`:
 
 - [**gradiente_interp.jl** - Método do gradiente com busca linear Armijo + interpolação quadrática + salvaguardas](/files/julia/gradiente_interp.jl)
 
@@ -74,7 +74,7 @@ O arquivo ZIP a seguir contém problemas sem restrições selecionados da CUTEst
 
 *Fonte: bitbucket.org/optrove/sif*
 
-*Obs.: é possível resolver vários problemas `.SIF` em paralelo. Veja <github.com/JuliaSmoothOptimizers/CUTEst.jl>.*
+*Obs.: é possível resolver vários problemas `.SIF` em paralelo. Veja [github.com/JuliaSmoothOptimizers/CUTEst.jl](github.com/JuliaSmoothOptimizers/CUTEst.jl).*
 
 ### Exercício 1
 
