@@ -53,7 +53,7 @@ function testesSIF(; sifpath="sif")
             if compilar
                 nlp = CUTEstModel(sifdir[i]);
                 gradiente_interp(nlp, maxiter=1, saidas=false);
-                spg(nlp, maxiter=1, saidas=false);
+#                 spg(nlp, maxiter=1, saidas=false); #***** IMPLEMENTE SPG E DESCOMENTE ESTA LINHA  *****
                 compilar = false
                 finalize(nlp)
             end
@@ -108,9 +108,9 @@ function testesSIF(; sifpath="sif")
                 ###############################################
                 if nlp.meta.ncon == 0
 
-                    #***************************************************************
-                    #***** IMPLEMENTE SPG E EXECUTE-O COMO NAS LINHAS A SEGUIR *****
-                    #***************************************************************
+                    #**********************************************************
+                    #***** IMPLEMENTE SPG E DESCOMENTE AS LINHAS A SEGUIR *****
+                    #**********************************************************
 
 #                     println("Resolvendo "*probname*" pelo método do gradiente espectral projetado...")
 # 
