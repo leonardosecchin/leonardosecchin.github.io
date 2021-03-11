@@ -13,7 +13,7 @@
 #   gradiente_interp(nlp);
 #   gradiente_interp(nlp, x0=[1;1]);
 #   gradiente_interp(nlp, eps=1e-8);
-#   x, f, gradnorm, iter, status = gradiente_interp(nlp, x0=[1;1], eps=1e-8, maxiter=2000, saidas=true);
+#   x, f, gsupn, iter, status = gradiente_interp(nlp, x0=[1;1], eps=1e-8, maxiter=2000, saidas=true);
 # onde 'nlp' é a estrutura MathOptNLPModel do problema.
 ###################################################
 
@@ -32,7 +32,7 @@ function gradiente_interp(nlp; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=tru
     # DADOS DE SAÍDA
     # x       : último iterando
     # f       : f(x)
-    # gradnorm: norma do infinito do gradiente de f
+    # gsupn   : norma do supremo do gradiente de f
     # iter    : número de iterações
     # status  : 0=sucesso, 1=falha
 
@@ -54,27 +54,28 @@ function gradiente_interp(nlp; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=tru
     end
 
     # f, gradiente e norma
-    x        = float(x0)
-    f        = obj(nlp, x)
-    gradf    = grad(nlp, x)
-    gradnorm = norm(gradf, Inf)
+    x     = float(x0)
+    f     = obj(nlp, x)
+    g     = grad(nlp, x)
+    gsupn = norm(g, Inf)
 
     # imprimi cabeçalho saídas
     if saidas
         @printf("\nit     \tf         |grad|\n==========================")
-        @printf("\n%d\t%8.2e  %8.2e", iter, f, gradnorm)
+        @printf("\n%d\t%8.2e  %8.2e", iter, f, gsupn)
     end
 
-    while gradnorm > eps && iter < maxiter
-        # direção descida
-        d = -gradf
+    while gsupn > eps && iter < maxiter
+        # direção
+        d = -g
 
         # retorna novo iterando após busca linear (Armijo + interpolação quadrática)
-        x, f = buscalinear(nlp, x, f, f, gradf, d, eta)
+        x, f = buscalinear(nlp, x, f, f, g, d, eta)
 
         # atualiza dados do iterando
-        gradf    = grad(nlp, x)
-        gradnorm = norm(gradf, Inf)
+        g     = grad(nlp, x)
+        gsupn = norm(g, Inf)
+
         iter += 1
 
         # imprimi iteração corrente
@@ -82,12 +83,12 @@ function gradiente_interp(nlp; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=tru
             if mod(iter,20) == 0
                 @printf("\n\nit     \tf         |grad|\n==========================")
             end
-            @printf("\n%d\t%8.2e  %8.2e", iter, f, gradnorm)
+            @printf("\n%d\t%8.2e  %8.2e", iter, f, gsupn)
         end
     end
 
     # status de sucesso
-    if gradnorm <= eps
+    if gsupn <= eps
         status = 0
     end
 
@@ -102,7 +103,7 @@ function gradiente_interp(nlp; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=tru
         println("*******************************\n")
     end
 
-    return x, f, gradnorm, iter, status
+    return x, f, gsupn, iter, status
 end
 
 
@@ -127,10 +128,10 @@ end
 # A variável "fmax" neste código será igual à "f". No SPG, "fmax" receberá o
 # máximo dos últimos valores de f, enquanto "f" receberá o valor de f no ponto
 # corrente.
-function buscalinear(nlp, x, f, fmax, gradf, d, eta)
+function buscalinear(nlp, x, f, fmax, g, d, eta)
 
-    # calcula gradf' * d
-    gtd = gradf' * d
+    # calcula g' * d
+    gtd = g' * d
 
     # passo inicial
     t = 1.0
