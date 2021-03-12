@@ -106,7 +106,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
 - [**SLIDES** - Programação Quadrática Sequencial (SQP) básica para restrições de igualdade](/files/otim2/5.1.SQP_basico_igualdades.pdf)
 - [**SLIDES** - Boa definição do SQP básico e algumas questões práticas do método](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)
-- [**SLIDES** - Subproblemas quadráticos](/files/otim2/5.3.SQP_subprob.pdf)
+- [**SLIDES** - Subproblemas quadráticos com regiões de confiança](/files/otim2/5.3.SQP_subprob.pdf)
 - Discussão dos pacotes computacionais [WORHP](https://worhp.de/) e [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
 
 
