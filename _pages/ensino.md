@@ -12,17 +12,17 @@ author_profile: true
 - [**Metaheurísticas**  
   (Matemática Industrial)](/metaheuristicas/)
 
-## OUTROS
+## A linguagem de programação Julia
 
-- [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
-- [Julia para Otimização - primeiros passos](/juliaopt/)
+- [Tutorial para instalação e uso do Julia](/julia/)
+- [**Julia para Otimização** - primeiros passos](/juliaopt/)
 
-## TODAS AS DISCIPLINAS
+## Disciplinas já ministradas
 
 - [**Álgebra Linear**  
   (vários cursos)](/algebra-linear/)
 - [**Cálculo III**  
-  (Matemática Industrial, Engenharias e Ciência da Computação](/calculo3/)
+  (Matemática Industrial, Engenharias e Ciência da Computação)](/calculo3/)
 - [**Laboratório de Matemática**  
   (Matemática Industrial e Licenciatura em Matemática)](/laboratorio-de-matematica/)
 - [**Matemática Básica**  
@@ -33,12 +33,12 @@ author_profile: true
   (Matemática Industrial)](/otimizacao1/)
 - [**Otimização 2**  
   (Matemática Industrial)](/otimizacao2/)
-- [**Geometria Analítica (listas de exercícios)**](https://drive.google.com/file/d/1Z3oxequQlLdjKyLiXw6Yq0JT4rLmm-gL/view?usp=sharing)
-- [**Noções de Lógica (notas de aula)**](https://drive.google.com/file/d/0B-G5znuapK7JRk9laWRVOWFGTFE/view?usp=sharing)
-- [**Análise Convexa (listas de exercícios)**](https://drive.google.com/file/d/14dBCjGENT4phLsUo7Ip7_nvQ-Rp2D7Ev/view?usp=sharing)
-- **Programação Linear**
+- [**Geometria Analítica** (listas de exercícios)](https://drive.google.com/file/d/1Z3oxequQlLdjKyLiXw6Yq0JT4rLmm-gL/view?usp=sharing)
+- [**Noções de Lógica** (notas de aula)](https://drive.google.com/file/d/0B-G5znuapK7JRk9laWRVOWFGTFE/view?usp=sharing)
+- [**Análise Convexa** (listas de exercícios)](https://drive.google.com/file/d/14dBCjGENT4phLsUo7Ip7_nvQ-Rp2D7Ev/view?usp=sharing)
+- **Programação Linear** (notas de aula)
 
-## [Programas das disciplinas do Departamento de Matemática Aplicada](http://www.matematicaaplicada.saomateus.ufes.br/programas-de-disciplinas-do-dma)
+<!--## [Programas das disciplinas do Departamento de Matemática Aplicada](http://www.matematicaaplicada.saomateus.ufes.br/programas-de-disciplinas-do-dma)-->
 
 ## Vídeo-aulas de terceiros
 

@@ -10,14 +10,14 @@ Nesta página você encontrará exercícios simples para iniciar a escrita e res
 
 # Pré-requisitos
 
-- Antes de fazer os exercícios, leia atentamente o [tutorial de instalação](/julia/) do Julia. **Sugiro se familiarizar com as dicas descritas na seção "Dicas" deste link.**
+- Antes de fazer os exercícios, leia atentamente o [tutorial de instalação](/julia/) do Julia. **Sugiro familiarizar-se com as dicas descritas na seção "Dicas" deste link.**
 
 Pacotes utilizados nos exercícios (alguns necessitam de instalação):
 - Escrita dos modelos de otimização: `JuMP`. Documentação completa [aqui](https://jump.dev/JuMP.jl/stable/)
 - Modelos de otimização com derivadas automáticas: `NLPModels`, `NLPModelsJuMP`. Como avaliar funções e suas derivadas, veja [este link](https://github.com/JuliaSmoothOptimizers/NLPModels.jl)
 - Rotinas de álgebra linear: `LinearAlgebra`
-- Armazenamento de matrizes esparsas: `SparseArrays`
-- Comando de impressão na tela estilo C: `Printf`
+<!--- Armazenamento de matrizes esparsas: `SparseArrays`-->
+- Impressão na tela/arquivo estilo C: `Printf`
 - Plotagem de gráficos: `Plots`
 
 
@@ -32,3 +32,4 @@ Pacotes utilizados nos exercícios (alguns necessitam de instalação):
 - [Exercício 7](/juliaopt_ex7): resolvendo modelos de otimização restrita e irrestrita por métodos disponíveis.
 - [Exercício 8](/juliaopt_ex8): acessando bibliotecas de problemas-teste usadas na literatura.
 - [Exercício 9](/juliaopt_ex9): gravando arquivos de texto; tabelando resultados.
+- [Exercício 10](/juliaopt_ex10): executando códigos fora do ambiente Julia
