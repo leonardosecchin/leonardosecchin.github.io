@@ -90,6 +90,8 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
    - [**SLIDES** - Penalização interna](/files/otim2/3.Penalizacao_interna.pdf)
    - [**TEXTO** - Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
    - **Pacote computacional [Ipopt](https://coin-or.github.io/Ipopt/)**
+     - [Veja casos de uso do Ipopt em situações reais](https://projects.coin-or.org/Ipopt/wiki/SuccessStories)
+     - [Referência bibliográfica do Ipopt](https://link.springer.com/article/10.1007/s10107-004-0559-y) (versão alternativa [acesso livre](http://www.optimization-online.org/DB_HTML/2004/03/836.html))
 
 
 ### Regiões de confiança
@@ -107,7 +109,11 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 - [**SLIDES** - Programação Quadrática Sequencial (SQP) básica para restrições de igualdade](/files/otim2/5.1.SQP_basico_igualdades.pdf)
 - [**SLIDES** - Boa definição do SQP básico e algumas questões práticas do método](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)
 - [**SLIDES** - Subproblemas quadráticos com regiões de confiança](/files/otim2/5.3.SQP_subprob.pdf)
-- Discussão dos pacotes computacionais [WORHP](https://worhp.de/) e [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
+- Discussão dos pacotes computacionais
+  - [WORHP](https://worhp.de/)
+    - [Principal referência bibliográfica do pacote](https://link.springer.com/chapter/10.1007%2F978-1-4614-4469-5_4)
+    - Outra referência com [acesso livre](https://www.math.uni-bremen.de/zetem/cms/media.php/279/2546042wassel.pdf)
+  - [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
 
 
 ### Outros tópicos
