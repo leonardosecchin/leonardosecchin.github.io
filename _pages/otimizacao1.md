@@ -36,11 +36,12 @@ author_profile: true
 
 - 3 avaliações, sendo no mínimo 1 prova escrita.-->
 
-
-## Listas de exercícios
+## Listas de exercícios e trabalhos
 
 - [LISTA 1 – Conceitos básicos, otimização irrestrita, convexidade](https://drive.google.com/file/d/1yV6DClaPT3zCmB1JkfnVq_j4g77-8EJU/view?usp=sharing)
 - [LISTA 2 – Otimização sem restrições](https://drive.google.com/file/d/1_SjC-bMI8S4rQViRZ5LZe1Ef4oad1jwv/view?usp=sharing)
+- TRABALHO COMPUTACIONAL 1 - Método dos gradientes conjugados
+- TRABALHO COMPUTACIONAL 2 - Método do gradiente espectral projetado<!--](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing)-->
 - [LISTA 3 – Otimização com restrições](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing)
 
 
@@ -82,6 +83,16 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**SLIDES** - Convergência do método de Newton](/files/otim1/4.5.Convergencia_Newton.pdf)
 - [**SLIDES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.7.Gradiente_passo_cte.pdf)
 - [**SLIDES** - Gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
+  - **Trabalho 1:** implementação e teste do método dos gradientes conjugados (veja seção "listas de exercícios e trabalhos")
+
+### A linguagem de programação Julia
+
+Julia é uma linguagem de programação de alto nível surgida em 2012, que implementa várias ferramentas para uso geral em matemática aplicada. Em particular, Julia possui várias ferramentas para otimização. É muito parecida com o Matlab, portanto os códigos são fáceis de entender. Os trabalhos computacionais desta disciplina serão feitos em Julia. A seguir você encontra instruções de instalação, bem como exercícios simples que ajudarão você a dar os primeiros passos nas ferramentas de otimização disponíveis no Julia.
+
+- [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
+- [Julia para Otimização - primeiros passos](/juliaopt/)
+  - Leia/Faça os exercícios 1, 2, 3, 4, 5, 8 e 9 do *link* acima
+  - Em especial, faça o [**Exercício 4**](/juliaopt_ex4/) sobre implementação do método do gradiente em Julia
 
 ### Otimização com restrições
 
@@ -94,8 +105,10 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**SLIDES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
 - [**SLIDES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)
 - [**SLIDES** - Método do gradiente projetado](/files/otim1/6.9.Gradiente_projetado.pdf)
+- **SLIDES** - Método do gradiente espectral projetado (SPG)
+  - **Trabalho 2:** Implementação do SPG em Julia (veja seção "listas de exercícios e trabalhos")
 - [**SLIDES** - Penalização interna](/files/otim1/6.5.Penalizacao_interna.pdf)
-- [**SLIDES** - Programação Quadrática Sequencial (PQS ou "SQP", do inglês) - algoritmo básico](/files/otim1/6.6.SQP.pdf)
+- [**SLIDES** - Programação Quadrática Sequencial (SQP, do inglês) - algoritmo básico](/files/otim1/6.6.SQP.pdf)
 - [**SLIDES** - Estratégia de pontos interiores para programação linear](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
 - [**SLIDES** - SQP para restrições não lineares de igualdade e desigualdade](/files/otim1/6.8.SQP_subprob_IP.pdf)
 
@@ -106,6 +119,6 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 -  [Grupo de Otimização IMECC Unicamp](http://www.ime.unicamp.br/~martinez/seminarios.html)
 
 
-## Material de Otimização I ministrada em períodos passados
+<!--## Material de Otimização I ministrada em períodos passados
 
-- **[2019/1](/otimizacao1-2019-1/)**
+- **[2019/1](/otimizacao1-2019-1/)**-->

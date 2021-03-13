@@ -20,20 +20,7 @@ author_profile: true
 
 ## Aulas 2019/1
 
-1.  [12/03 – Preliminares](https://drive.google.com/open?id=1PBl3CGWB82QZk8rWp7co3oRsp3uKpsIq)
-2.  [14/03 – Exemplos](https://drive.google.com/open?id=1i3vJhnFr9OJ3xNZfEJWDWgOgmsOapl5A)
-3.  [19/03 – Exemplos e condições de otimalidade para otimização sem restrições](https://drive.google.com/file/d/15-VfX7wP-L8kUbgjh3ZjMgQOgfnGpM8T/view?usp=drivesdk)
-4.  [21/03 – Condições de otimalidade](https://drive.google.com/file/d/1aM2ShygSGEiBxHp3YmFnAf1zH2NRZUNY/view?usp=drivesdk)
-5.  [26/03 – Convexidade](https://drive.google.com/open?id=1laCW-SL4L0j3uIEs_51eqU-TtWhqJfwT)
-6.  [28/03 – Esquema geral para algoritmos de descida](https://drive.google.com/open?id=1HxlAv-79kiGZVnfzwjWLBNlNRXOhu_Rh)
-7.  [02/04 – Cálculo do tamanho do passo (busca linear); condição de Armijo](https://drive.google.com/open?id=17rwVUpAiaVVguPI6lrv78YElBNzEDok-)
-8.  [04/04 – Cálculo de direções de descida – Métodos do Gradiente, Newton e Quase-Newton; condições do ângulo e beta](https://drive.google.com/open?id=1Hy2HaPoSToopJivOBOyZ5DANLUcJYwew)
-9.  [09/04 – Método de Newton puro e globalizado](https://drive.google.com/file/d/1SSsAYQH-YR2VMOKHcVltHz3HJ0QwXlLi/view?usp=drivesdk) —- **[Prova convergência esquema descida](https://drive.google.com/open?id=1f7Kf-knx6WqhYQd5RjdW4cjTuYVaQpGf)**
-10.  [11/04 – Ordem de convergência](https://drive.google.com/file/d/1gufZ8FLC6dmWQyrlbfzHxYj9M7nJcxRm/view?usp=drivesdk) —- [**Prova convergência método de Newton**](https://drive.google.com/open?id=1FaBxKMdK4TJOaMGDiOz2P3Cz4l4N3LYV)
-     -  Leitura interessante: [Artigo sobre o desenvolvimento da ideia Newtoniana ao longo dos anos (download acessando pela Universidade)](https://doi.org/10.1007/978-3-319-94015-1_9)
-11.  [16/04 – Método dos Gradientes Conjugados para minimização de quadráticas estritamente convexas (= resolução de sistemas lineares com matriz simétrica definida positiva)](https://drive.google.com/open?id=1jc3w_T6ylwTOcm79W-teVnYXEWzdfU7N)
-     -  Veja o tópico “Resolução de sistemas lineares quadrados usando Gradientes Conjugados” dos exercícios selecionados
-12.  18/04 – [Aula laboratório] Uso de pacotes computacionais em otimização
+1.   18/04 – [Aula laboratório] Uso de pacotes computacionais em otimização
      -  [Ambiente AMPL (demonstração gratuita) para download](https://ampl.com/try-ampl/download-a-free-demo/). Neste link você pode:
         -  Baixar a AMPL IDE para seu sistema (Windows/Linux)
         -  Ver os solvers disponíveis para uso e suas especificações (algoritmos implementados e problemas que se aplicam)
@@ -45,24 +32,7 @@ author_profile: true
      -  **TAREFA 4:** Minimize usando AMPL a função do Exercício 5 (2a parte) da Lista de Exercícios 1. Verifique se o ponto estacionário do item (a) foi encontrado, ou se outro ponto foi atingido
      -  **TAREFA 5 (lousa):** Escrever em AMPL o problema $\min \, -x^2 \ \text{s.a.} \ -10 \leq x \leq 10$. Resolver utilizando MINOS e GUROBI com ponto inicial $x=0$. Fazer o mesmo com ponto inicial $x=1$. Analise a solução dos algoritmos em ambos os casos.
         -  [Arquivo do modelo](https://drive.google.com/open?id=1J5B-Th6XFmEmjdt6f_6OPSHslIGihLe4)
-13.  [23/04 – Método dos Gradientes Conjugados para quadráticas quaisquer. Aplicação para cálculo de direções Newtonianas](https://drive.google.com/file/d/1tQknDA8AEbXQsXBd8UHEJP0-_gmQiwNd/view?usp=drivesdk)
-14.  [25/04 – Otimização com restrições – condições de Karush-Kuhn-Tucker (KKT) (motivação geométrica)](https://drive.google.com/open?id=1mEj47JIKDO6CeRAv8ptcvO6JfQzDQtGS)
-15.  [30/04 – KKT, pontos regulares e convexidade](https://drive.google.com/file/d/1bgp8z4aigNX4xoTAyF3r6r5az9LTDr0A/view?usp=drivesdk)
-16.  [02/05 – Minimização com restrições lineares de igualdade (capítulos 7 e 8 do livro de Ana Friedlander)](https://drive.google.com/open?id=1ww58_Jmnpn92QQuTxYyw7_3K_BfZZ8Lo)
-17.  [07/05 – Minimização com restrições lineares de desigualdade, parte 1 (capítulos 9 e 10 do livro de Ana Friedlander)](https://drive.google.com/open?id=16YQY82w2UBZ00M5-9hRrupL8gmdHSfPd)
-18.  [09/05 – Minimização com restrições lineares de desigualdade, parte 2](https://drive.google.com/file/d/1WC0e-IhqLGuHENBbtCJQZnh3rjmjlwpH/view?usp=drivesdk)
-19.  [14/05 – Estratégia de penalização externa](https://drive.google.com/open?id=1OgFeMsSdSpY9dt8ppRcWbsymyQsM7jmz)
-20.  [16/05 – Convergência da estratégia de penalização externa](https://drive.google.com/file/d/1bzgryw0Dw0_bognvDVTAPUZP7pS1M95a/view?usp=drivesdk)
-21.  [28/05 – Demonstração das condições de Karush-Kuhn-Tucker via penalização externa’](https://drive.google.com/open?id=12vlGu5iZgLccCVGqdH72GTOoMZRGaYMK)
-22.  [30/05 – Exercícios](https://drive.google.com/open?id=1sJKY_a15U26TUHwgzTjHBQ6juaFYrq4Z)
-23.  [04/06 – Exercícios](https://drive.google.com/open?id=1Ulk5G4zxgOEBywBJeIobIBAKQRBuxe1C)
-24.  [06/06 – Exercícios](https://drive.google.com/open?id=10J67KGyD8dam4zehhzPiIGe6DU4pl6ml)
-25.  11/06 – Exercícios
-26.  [13/06 – Penalização interna / pontos interiores / método de barreiras](https://drive.google.com/open?id=1p16qV6tEMwd6wv2-zCfXuiOadaFQ1SDE)
-     -  Referência para esta aula: seção 10.1 de [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf). **É recomendada a leitura desta referência!**
-27.  [18/06 – Programação quadrática sequencial para restrições de igualdade](https://drive.google.com/file/d/1QxJmRZ5Ez8WuhKx9xHditQ76GwDyUqzG/view?usp=drivesdk)
-28.  [25/06 – Pontos Interiores para restrições lineares](https://drive.google.com/open?id=1i84lEqKUEhX6VJBj3RpDkMS6RPl38J9L)
-29.  27/06 – [Programação quadrática sequencial para restrições de igualdade e desigualdade](https://drive.google.com/open?id=1gokBR72K3qG_yYu2r9avf_b2FVczGHnY) / [aula laboratório] O pacote Ipopt (pontos interiores)
+1.   27/06 – **aula laboratório** O pacote Ipopt (pontos interiores)
      -  [Baixe o Ipopt para AMPL (prefira 64 bits quando possível)](https://ampl.com/products/solvers/open-source/)
      -  Discussão da [referência bibliográfica](http://www.optimization-online.org/DB_HTML/2004/03/836.html) em sala
      -  **TAREFA:** faça as tarefas da aula do dia 18/04 usando o Ipopt

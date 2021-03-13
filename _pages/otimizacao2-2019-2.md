@@ -7,10 +7,6 @@ author_profile: true
 
 ## AULAS
 
-*   **Apresentação**
-    1.  TAREFA: Ler os capítulos 1 ao 4 (até a seção 4.1) do livro [Martínez, J. M. Otimização prática usando o Lagrangeano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
-*   **Revisão Condições de Karush-Kuhn-Tucker (KKT)**  
-    (aulas [14](https://drive.google.com/file/d/1mEj47JIKDO6CeRAv8ptcvO6JfQzDQtGS/view) e [15](https://drive.google.com/file/d/1bgp8z4aigNX4xoTAyF3r6r5az9LTDr0A/view) de Otimização I 2019/1)
 *   **[lab] Modelagem e resolução de problemas através do AMPL**
     1.  [Ambiente AMPL (demonstração gratuita) para download](https://ampl.com/try-ampl/download-a-free-demo/). Neste link você pode:
         1.  Baixar o AMPL para seu sistema (Windows/Linux)
@@ -34,9 +30,6 @@ author_profile: true
         3.  [Configurações iniciais para simulações de dinâmica molecular via empacotamento de moléculas – PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml). Veja [artigo](http://m3g.iqm.unicamp.br/packmol/packmol2.pdf)
         4.  Problemas de localização retirado [deste artigo](https://dl.acm.org/citation.cfm?doid=502800.502803), seção 3
         5.  [Estudo de tabelas de imposto de renda via otimização](https://drive.google.com/open?id=1o7mGGrE4Tdt7rREdd4LWB-yyu4nwuvGq)
-*   [**Penalidade Externa Pura / controle de admissibilidade**](https://drive.google.com/file/d/1DnDtD7dc5LL30bfPuAvdapjh90GFOi86/view?usp=drivesdk)
-    1.  Penalidade externa de curso anterior: aulas [19](https://drive.google.com/file/d/1OgFeMsSdSpY9dt8ppRcWbsymyQsM7jmz/view) e [20](https://drive.google.com/file/d/1bzgryw0Dw0_bognvDVTAPUZP7pS1M95a/view?usp=drivesdk) de Otimização I 2019/1
-    2.  [Prova das condições KKT usando penalidade externa pura](https://drive.google.com/open?id=12vlGu5iZgLccCVGqdH72GTOoMZRGaYMK) (aula 21 de Otimização I 2019/1)
 *   **[lab] Pacote** [**ALGENCAN**](https://www.ime.usp.br/~egbirgin/tango/codes.php) **(Lagrangeano Aumentado)**  
     Roteiro da aula:
     1.  [Baixe os arquivos fonte do ALGENCAN](https://www.ime.usp.br/~egbirgin/tango/downloads.php)
@@ -82,7 +75,6 @@ author_profile: true
         4.  Execute  
             **./algencan -=**  
             e veja outras opções de personalização via terminal de comandos
-*   **[Método do Lagrangeano Aumentado – parte 1 de 3 (Apresentação)](https://drive.google.com/open?id=1ycpA3ZNl6cWMMRp_wY6mNR5ovPJ5HD8P)**
 *   **[lab] Mais sobre AMPL**
     1.  Uma maneira simples de integrar ALGENCAN (ou qualquer outro pacote compilado com a interface AMPL) ao ambiente AMPL
         1.  Ao seguir os procedimentos para compilação de ALGENCAN com interface AMPL da aula 5, criamos o executável  
@@ -105,14 +97,6 @@ author_profile: true
         1.  É possível integrar a capacidade de ler modelos .nl a um código próprio. Ou seja, você pode escrever o código do seu algoritmo em C/C++/Fortran e fazê-lo capturar FO, restrições, seus gradientes e hessianas que a interface AMPL fornece. Para ter uma ideia de como isso foi feito em ALGENCAN, veja o arquivo  
             **[…]/algencan-3.1.1/sources/interfaces/ampl/amplwrapper.c**  
             [Neste link](https://ampl.com/resources/hooking-your-solver-to-ampl/), você encontra a documentação para escrever sua própria interface AMPL
-*   **[Método do Lagrangeano Aumentado – parte 2 de 3 (convergência teórica)](https://drive.google.com/open?id=1o2gK8BfzL01r5a27j_ADBb6TemU6W-NE)**
-*   [**Método do Lagrangeano Aumentado – parte 3 de 3 (convergência teórica)**](https://drive.google.com/open?id=1tLQGAdBCJffP8QMuluHWywaD-oRwaXq5)
-*   [**Penalização Interna / Método de barreiras / Pontos interiores**](https://drive.google.com/open?id=1N00iFh-e3vz4xOyzixg1JKqa8zp1HJm-)
-*   **Pontos interiores aplicado à Programação Linear; apresentação, discussão e atendimento acerca do Trabalho 1 com prática em laboratório**
-    1.  **[Texto de apoio](https://drive.google.com/open?id=17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW)**
-    2.  Veja o primeiro trabalho na seção de avaliações
-*   **[Estratégia de regiões de confiança](https://drive.google.com/open?id=1OLzPh2dD_TVz2bxXtAP9Mhyh9uvQkvA6)**
-*   **[Programação Quadrática Sequencial (SQP) básica para restrições de igualdade](https://drive.google.com/open?id=1olsE4ts4a-Yt81t51S_MjHX9uxRWr-df)**
 *   **[lab] Pacotes IPOPT (pontos interiores), SNOPT e WORHP (ambos SQP) para o ambiente AMPL**
     1.  IPOPT (Interior Point OPTimizer)
         1.  [Baixe o Ipopt para AMPL (prefira 64 bits quando possível)](https://ampl.com/products/solvers/open-source/)
@@ -127,15 +111,6 @@ author_profile: true
         2.  Para saber mais sobre o WORHP, veja sua principal [referência bibliográfica](https://link.springer.com/chapter/10.1007/978-1-4614-4469-5_4)
     4.  [Problemas para teste (arquivos .mod)](https://wiki.mcs.anl.gov/leyffer/index.php/MacMPEC)
     5.  [Mais problemas para teste](https://ampl.com/NEW/COMPLEMENT/index.html)
-*   **[Boa definição do SQP básico e algumas questões práticas do método](https://drive.google.com/open?id=11uQaOwruRMrqAJQiH_mPDTf_MzTmmW8W)**
-*   **[Subproblemas quadráticos (parte 1 de 2)](https://drive.google.com/open?id=1T6jf7BmuxUDfi1xzFl6jMhy6AYFInq6F)**
-*   **[Subproblemas quadráticos (parte 2 de 2)](https://drive.google.com/open?id=1Obeovb-4VjTfdV_H20-JCozJYxX6cVVM)**
-*   **[Dualidade em Programação Não Linear (parte 1)](https://drive.google.com/open?id=1NRZUEr72nmoQqA6-_joTFYCaikdjqpEA)**  
-    Referências:  
-    (i) Izmailov, A.; Solodov, M. Otimização vol 1\. SBM.  
-    (ii) Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008.
-*   **[Dualidade em Programação Não Linear (parte 2)](https://drive.google.com/file/d/1YrQrZpa4B2sVPcS84Y2Yb8zdLQ8zHZfw/view?usp=drivesdk)**
-*   **[Método de planos de corte / Resolução de sistemas de inequações convexas](https://drive.google.com/open?id=1OXwC7JNp9p_KFy2_xJFS8ixFMtJRVitZ)**
 *   **[lab] Resolução de sistemas via planos de corte**
     1.  Baixe o [código octave](https://drive.google.com/open?id=1Y5O66A8jWGUFJk2psBSuIKufsw17Ry5t)
     2.  O arquivo “cortes.m” implementa o método de planos de corte para resolução de sistemas lineares
