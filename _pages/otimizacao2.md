@@ -90,8 +90,8 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
    *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
    - [**SLIDES** - Penalização interna](/files/otim2/3.Penalizacao_interna.pdf)
-   - [**SLIDES** - Pontos interiores para restrições lineares](/files/otim2/3.1.Pontos_interiores_lineares.pdf)
    - [**TEXTO** - Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
+     - [**SLIDES** - Estratégia de pontos interiores para programação linear](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
    - **Pacote computacional livre Ipopt**
      - [Sítio oficial](https://coin-or.github.io/Ipopt/)
      - [Veja casos de uso do Ipopt em situações reais](https://projects.coin-or.org/Ipopt/wiki/SuccessStories)

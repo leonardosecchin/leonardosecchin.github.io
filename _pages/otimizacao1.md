@@ -93,11 +93,11 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**SLIDES** - Minimização com restrições lineares de desigualdade; método das restrições ativas](/files/otim1/6.2.Min_restricoes_lineares_desig-restricoes_ativas.pdf)
 - [**SLIDES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
 - [**SLIDES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)
-- [**SLIDES** - Método do gradiente projetado](/files/otim1/6.11.Gradiente_projetado.pdf)
-- [**SLIDES** - Penalização interna](/files/otim1/6.7.Penalizacao_interna.pdf)
-- [**SLIDES** - Programação Quadrática Sequencial (PQS ou "SQP", do inglês) - algoritmo básico](/files/otim1/6.8.SQP.pdf)
-- [**SLIDES** - Estratégia de pontos interiores para programação linear](/files/otim1/6.9.Pontos_interiores_para_PL.pdf)
-- [**SLIDES** - SQP para restrições não lineares de igualdade e desigualdade](/files/otim1/6.10.SQP_subprob_IP.pdf)
+- [**SLIDES** - Método do gradiente projetado](/files/otim1/6.9.Gradiente_projetado.pdf)
+- [**SLIDES** - Penalização interna](/files/otim1/6.5.Penalizacao_interna.pdf)
+- [**SLIDES** - Programação Quadrática Sequencial (PQS ou "SQP", do inglês) - algoritmo básico](/files/otim1/6.6.SQP.pdf)
+- [**SLIDES** - Estratégia de pontos interiores para programação linear](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
+- [**SLIDES** - SQP para restrições não lineares de igualdade e desigualdade](/files/otim1/6.8.SQP_subprob_IP.pdf)
 
 
 ## Vídeos interessantes sobre Otimização
