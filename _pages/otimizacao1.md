@@ -77,6 +77,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**SLIDES** - Métodos de descida gerais](/files/otim1/4.1.Metodos_descida_gerais.pdf)
 - [**SLIDES** - Convergência dos métodos de descida](/files/otim1/4.3.Convergencia_metodos_descida.pdf)
 - [**SLIDES** - Método de Newton](/files/otim1/4.2.Metodo_de_Newton.pdf)
+  - Leitura interessante: [Artigo sobre o desenvolvimento da ideia Newtoniana ao longo dos anos (download acessando pela Universidade)](https://doi.org/10.1007/978-3-319-94015-1_9)
 - [**SLIDES** - Convergência global vs local](/files/otim1/4.4.Convergencia_global_vs_local.pdf)
 - [**SLIDES** - Convergência do método de Newton](/files/otim1/4.5.Convergencia_Newton.pdf)
 - [**SLIDES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.7.Gradiente_passo_cte.pdf)

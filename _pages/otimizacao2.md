@@ -80,7 +80,9 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
    - [**SLIDES** - Apresentação](/files/otim2/2.1.LA_apresentacao.pdf)
    - [**SLIDES** - Convergência teórica](/files/otim2/2.2.LA_convergencia.pdf)
-   - **Pacote computacional [Algencan](https://www.ime.usp.br/~egbirgin/tango/codes.php#algencan)**
+   - **Pacote computacional livre Algencan**
+     - [Sítio oficial](https://www.ime.usp.br/~egbirgin/tango/codes.php#algencan)
+     - Referências bibliográficas do Algencan: [1. artigo inicial](https://epubs.siam.org/doi/10.1137/060654797?mobileUi=0) (versão alternativa com [acesso livre](https://www.ime.usp.br/~egbirgin/publications/abms2-siam.pdf)), [2. livro](https://epubs.siam.org/doi/book/10.1137/1.9781611973365) e [3. texto em português com acesso livre](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
 
 
 1. **Penalização interna / barreiras / Pontos interiores**
@@ -89,9 +91,14 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solic
 
    - [**SLIDES** - Penalização interna](/files/otim2/3.Penalizacao_interna.pdf)
    - [**TEXTO** - Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
-   - **Pacote computacional [Ipopt](https://coin-or.github.io/Ipopt/)**
+   - **Pacote computacional livre Ipopt**
+     - [Sítio oficial](https://coin-or.github.io/Ipopt/)
      - [Veja casos de uso do Ipopt em situações reais](https://projects.coin-or.org/Ipopt/wiki/SuccessStories)
-     - [Referência bibliográfica do Ipopt](https://link.springer.com/article/10.1007/s10107-004-0559-y) (versão alternativa [acesso livre](http://www.optimization-online.org/DB_HTML/2004/03/836.html))
+     - [Referência bibliográfica do Ipopt](https://link.springer.com/article/10.1007/s10107-004-0559-y) (versão alternativa com [acesso livre](http://www.optimization-online.org/DB_HTML/2004/03/836.html))
+   - Outros pacotes (proprietários) que empregam a técnica de penalização interna
+       - Veja o algoritmo de barreira do CPLEX (*barrier algorithm*) para problemas [lineares](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/barrier/02_barrier_intro.html), [quadráticos](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qp/01_QP_title_synopsis.html), e [quadráticos com restrições quadráticas](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qcp/01_QCP_title_synopsis.html).
+       - Leia a [descrição do *software* KNITRO](https://software.com.br/p/knitro?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB).
+       - Leia a [descrição do *software* GUROBI](http://www.gurobi.com/products/features-benefits).
 
 
 ### Regiões de confiança
