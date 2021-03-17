@@ -82,14 +82,14 @@ Existem plataformas (IDEs) gráficas que se integram ao Julia. Uma delas é o [J
 
 Outra alternativa "tudo em um" é o [JuliaPro](https://juliacomputing.com/products/juliapro/). Este pacote instala a base do Julia e o ambiente gráfico de uma só vez.
 
-É possível ainda utilizar seu navegador de internet como saída gráfica através do [notebooks Jupyter ou JupyterLab](https://jupyter.org/).
+É possível ainda utilizar seu navegador de internet como saída gráfica através do [Jupyter ou JupyterLab](https://jupyter.org/).
 
-De qualquer forma, assim como no Matlab/Octave, a principal via de utilização do Julia é a linha de comandos (você de fato deve programar seus códigos!). Portanto é essencial familiarizar-se com os comandos do Julia.
+De qualquer forma, assim como no Matlab/Octave, a principal via de utilização do Julia é a linha de comandos. Portanto é essencial familiarizar-se com seus comandos.
 
 
 ## Recomendações
 
-Não aconselho usar o Julia do repositório do GNU/Linux, a versão geralmente é defasada. Além disso, alguns pacotes podem não funcionar.
+Não aconselho usar o Julia do repositório do GNU/Linux pois a versão geralmente é defasada. Além disso, alguns pacotes podem não funcionar.
 
 
 # Iniciando o uso do Julia
