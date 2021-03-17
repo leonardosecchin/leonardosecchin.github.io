@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Julia para Otimização"
+title: "Julia para Otimização - Exercício 1"
 permalink: /juliaopt_ex1/
 author_profile: true
 ---
 
-# Exercício 1
-
-**Objetivo:** escrever um modelo simples de otimização irrestrita.
+## Objetivo: escrever um modelo simples de otimização irrestrita.
 
 Vamos escrever o problema de duas variáveis
 

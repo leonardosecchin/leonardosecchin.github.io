@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Julia para Otimização"
+title: "Julia para Otimização - Exercício 9"
 permalink: /juliaopt_ex9/
 author_profile: true
 ---
 
-# Exercício 9
-
-**Objetivo:** gravar arquivos de texto, tabelar resultados.
+## Objetivo: gravar arquivos de texto, tabelar resultados.
 
 Para gravar arquivos de texto, o Julia dispõe de comandos nativos semelhantes ao C:
 - `open`: abre um arquivo

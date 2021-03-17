@@ -43,8 +43,6 @@ Após a instalação, o Julia estará pronto para uso. Você pode executá-lo vi
 julia
 ~~~
 
-*Você pode tentar o [Julia PRO](https://juliacomputing.com/products/juliapro/), um ambiente que vem com interface gráfica, disponível para Linux, Mac e Windows.*
-
 
 ## Método 2: Compilar do código-fonte (para *experts* no GNU/Linux)
 

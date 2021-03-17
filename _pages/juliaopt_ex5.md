@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Julia para Otimização"
+title: "Julia para Otimização - Exercício 5"
 permalink: /juliaopt_ex5/
 author_profile: true
 ---
 
-# Exercício 5
-
-**Objetivo:** construir gráficos.
+## Objetivo: construir gráficos.
 
 Vamos plotar em uma só figura o histórico de $f$ e $\|\nabla f\|_\infty$ para o problema do [Exercício 1](/juliaopt_ex1). Você precisará do pacote `Plots`.
 

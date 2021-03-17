@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Julia para Otimização"
+title: "Julia para Otimização - Exercício 7"
 permalink: /juliaopt_ex7/
 author_profile: true
 ---
 
-# Exercício 7
-
-**Objetivo:** resolver modelos de otimização restrita e irrestrita por métodos disponíveis.
+## Objetivo: resolver modelos de otimização restrita e irrestrita por métodos disponíveis.
 
 Ao longo da disciplina ["Otimização 2"](/otimizacao2/) utilizamos interfaces para pacotes de otimização com restrições. Sempre que disponível, damos preferência à pacotes que leêm estruturas `NLPmodels`, com derivadas automáticas, como nosso `gradiente` do [Exercício 4](/juliaopt_ex4/).
 

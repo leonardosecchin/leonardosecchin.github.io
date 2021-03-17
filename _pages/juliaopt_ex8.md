@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Julia para Otimização"
+title: "Julia para Otimização - Exercício 8"
 permalink: /juliaopt_ex8/
 author_profile: true
 ---
 
-# Exercício 8
-
-**Objetivo:** acessar bibliotecas de problemas-teste usadas na literatura.
+## Objetivo: acessar bibliotecas de problemas-teste usadas na literatura.
 
 Bibliotecas de problemas para testes estão disponíveis, e são comumente utilizadas na pesquisa. A seguir, listo duas das principais fontes de problemas: arquivos `.SIF` (CUTEst) e `.nl`.
 

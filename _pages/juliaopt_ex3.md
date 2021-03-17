@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Julia para Otimização"
+title: "Julia para Otimização - Exercício 3"
 permalink: /juliaopt_ex3/
 author_profile: true
 ---
 
-# Exercício 3
-
-**Objetivo:** carregar e executar códigos salvos em arquivos.
+## Objetivo: carregar e executar códigos salvos em arquivos.
 
 Os códigos em Julia, assim como Matlab/Octave, podem ser escritos em arquivos. A extensão padrão é `.jl`.
 

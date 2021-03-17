@@ -5,7 +5,7 @@ permalink: /juliaopt_ex10/
 author_profile: true
 ---
 
-## **Objetivo:** executar códigos fora do ambiente Julia.
+## Objetivo: executar códigos fora do ambiente Julia.
 
 É possível executar um código Julia a partir do terminal do sistema, sem entrar no Julia. Isso é útil quando queremos rodar testes longos em uma máquina remota, permitindo que os deixemos executando mesmo após deslogar.
 

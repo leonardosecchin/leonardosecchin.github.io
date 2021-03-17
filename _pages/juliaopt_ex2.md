@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Julia para Otimização"
+title: "Julia para Otimização - Exercício 2"
 permalink: /juliaopt_ex2/
 author_profile: true
 ---
 
-# Exercício 2
-
-**Objetivo:** escrever um modelo de otimização a partir de variáveis do ambiente.
+## Objetivo: escrever um modelo de otimização a partir de variáveis do ambiente.
 
 Vamos escrever o modelo
 

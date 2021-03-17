@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Julia para Otimização"
+title: "Julia para Otimização - Exercício 6"
 permalink: /juliaopt_ex6/
 author_profile: true
 ---
 
-# Exercício 6
-
-**Objetivo:** escrever um modelo de otimização com restrições.
+## Objetivo: escrever um modelo de otimização com restrições.
 
 Considere o problema com restrições
 
