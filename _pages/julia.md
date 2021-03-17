@@ -83,7 +83,7 @@ Não aconselho usar o Julia do repositório do GNU/Linux, a versão geralmente �
 
 # Iniciando o uso do Julia
 
-O Julia padrão é executado pelo terminal de comandos. Para usuários Windows, recomendo instalar um terminal de comandos melhor que o disponível junto ao Windows (por exemplo, o [cmder](https://cmder.net/)).
+O Julia padrão é executado pelo terminal de comandos. Para usuários Windows, recomendo usar um terminal de comandos melhor que o `cmd`. Por exemplo, Powershell (já presente no Windows 10) ou [cmder](https://cmder.net/)).
 
 - No terminal, execute `julia` (ou `./julia` do diretório da instalação). Isso entrará no ambiante Julia. Se tudo der certo, você verá o logotipo do Julia, a versão instalada e uma linha pronta para receber comandos:
 ~~~
