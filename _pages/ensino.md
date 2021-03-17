@@ -27,8 +27,8 @@ author_profile: true
   (Matemática Industrial e Licenciatura em Matemática)](/laboratorio-de-matematica/)
 - [**Matemática Básica**  
   (Matemática Industrial)](/matematica-basica/)
-- [**Metaheurísticas**  
-  (Matemática Industrial)](/metaheuristicas/)
+<!--- [**Metaheurísticas**  
+  (Matemática Industrial)](/metaheuristicas/)-->
 - [**Otimização 1**  
   (Matemática Industrial)](/otimizacao1/)
 - [**Otimização 2**  
