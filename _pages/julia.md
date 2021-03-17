@@ -83,7 +83,7 @@ Não aconselho usar o Julia do repositório do GNU/Linux, a versão geralmente �
 
 # Iniciando o uso do Julia
 
-O Julia padrão é executado pelo terminal de comandos. Para usuários Windows, recomendo usar um terminal de comandos melhor que o `cmd`. Por exemplo, Powershell (já presente no Windows 10) ou [cmder](https://cmder.net/)).
+O Julia padrão é executado pelo terminal de comandos. Para usuários Windows, recomendo usar um terminal de comandos melhor que o `cmd`. Por exemplo, *Powershell* (já presente no Windows 10) ou [cmder](https://cmder.net/).
 
 - No terminal, execute `julia` (ou `./julia` do diretório da instalação). Isso entrará no ambiante Julia. Se tudo der certo, você verá o logotipo do Julia, a versão instalada e uma linha pronta para receber comandos:
 ~~~
@@ -159,7 +159,7 @@ Existem plataformas (IDEs) gráficas que se integram ao Julia. Uma delas é o [J
 
 # Dicas
 
-- O terminal de comandos do Julia comporta-se como o Linux. Você pode começar a digitar um comando e teclar `TAB --> TAB` que verá as terminações possíveis. Isso dá agilidade e ajuda a lembrar dos comandos.
+- O terminal de comandos do Julia comporta-se como o GNU/Linux. Você pode começar a digitar um comando e teclar `TAB --> TAB` que verá as terminações possíveis. Isso dá agilidade e ajuda a lembrar dos comandos.
 
 - O Julia possui ajuda para comandos dentro de seu ambiente. Para alternar para o "ambiente de ajuda", digite `?` (sinal de interrogação). A linha de comandos tornará
 ~~~
@@ -167,15 +167,18 @@ help?>
 ~~~
 Basta digitar o comando e teclar "Enter". A função `TAB --> TAB` também funciona no ambiente de ajuda.
 
-- É possível alternar entre o terminal do Julia e o terminal do Linux (caso esteja usando Linux) teclando `;` (ponto e vírgula). Isso é bom para navegar entre diretórios sem sair do Julia, e assim não perder os objetos na memória, bem como executar comandos à nível *shell* do Linux. Comandos úteis do terminal Linux para diretórios:
-  - `pwd`: imprimi o diretório atual
-  - `cd [diretorio]`: muda de diretório. Aceita diretórios relativos, tais como `../dir1` (`dir1` no diretório pai), ou `dir1/dir2` (subdiretórios na pasta atual).
-  - O comando `cd [TAB --> TAB]` funciona e é útil para listar os diretórios da pasta atual e autocompletar nomes parcialmente digitados.
+- É possível alternar entre o terminal do Julia e o terminal do GNU/Linux teclando `;` (ponto e vírgula). Isso é interessante quando precisamos executar comandos à nível de terminal do GNU/Linux sem perder os objetos do Julia na memória. Por exemplo, você pode editar um arquivo de texto com o editor `nano`:
+~~~
+julia> ;nano arquivo.txt
+~~~
 
-- Para excluir objetos da memória na mesma sessão do Julia, basta setá-los como `nothing`. Por exemplo, se `P` foi definido e quer limpá-lo, execute
-~~~
-julia> P = nothing
-~~~
+- É possível navegar entre diretórios sem sair do ambiente Julia. Alguns comandos:
+  - `pwd()`: imprimi o diretório atual
+  - `cd("[diretorio]")`: muda de diretório. Aceita diretórios relativos, tais como `../dir1` (`dir1` no diretório pai), ou `dir1/dir2` (subdiretórios na pasta atual).
+  - O comando `cd("[TAB --> TAB]` funciona e é útil para listar os diretórios da pasta atual e autocompletar nomes parcialmente digitados.
+  - Obs.: se preferir, você pode também navegar entre diretórios usando o terminal do GNU/Linux (teclando ponto e vírgula).
+
+- Julia possui um "tipo vazio" chamado `nothing` que pode ser útil em certas situações. Você pode setar objetos como `nothing`.
 
 - Para sair do Julia, execute `exit()` ou tecle **Ctrl+d**. Isso apagará da memória todos os objetos criados.
 
