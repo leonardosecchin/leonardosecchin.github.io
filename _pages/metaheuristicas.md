@@ -138,7 +138,7 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 
 *   **[Código Matlab/Octave](https://drive.google.com/file/d/1q9W2SjF0vXIX4dfD55jBool1RvXPSSxI/view?usp=sharing) (código comentado).**  
     _Fonte: [http://yarpiz.com/50/ypea102-particle-swarm-optimization](http://yarpiz.com/50/ypea102-particle-swarm-optimization)_
-*   [Slides editados de Estéfane Lacerda, UFRN](https://drive.google.com/file/d/1ENpP6vWD6Qj-HteDyRq47HT3OgS2EvKq/view?usp=sharing) (apresentados em aula); slides originais [aqui](http://www.dca.ufrn.br/~estefane/metaheuristicas/pso.pdf)
+*   [Slides editados de Estéfane Lacerda, UFRN](https://drive.google.com/file/d/1ENpP6vWD6Qj-HteDyRq47HT3OgS2EvKq/view?usp=sharing); slides originais [aqui](http://www.dca.ufrn.br/~estefane/metaheuristicas/pso.pdf)
 *   [Vídeo-aulas do projeto Yarpiz (em inglês)](http://yarpiz.com/440/ytea101-particle-swarm-optimization-pso-in-matlab-video-tutorial). Veja a parte 1/3 para explicação do algoritmo.
 *   [Slides resumidos com “equações de movimento”](https://drive.google.com/file/d/1TDujiXzrHaolRYQilgXdzhBSsCKBfX58/view?usp=sharing) (editadas a partir de slides do projeto Yarpiz — [originais aqui](http://yarpiz.com/wp-content/uploads/2016/05/yarpiz-ytea101-notes.pdf))
 
@@ -147,7 +147,8 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 
 *   **[Código Matlab/Octave de um GRASP para o TSP](https://drive.google.com/file/d/1ZdYhhQHka7aDrDlxtwvtuMIp6gVv-pHv/view?usp=sharing)**  
     _Fonte: [https://github.com/warloff/GRASP-for-Traveling-Salesman](https://github.com/warloff/GRASP-for-Traveling-Salesman)_
-*   [Slides](https://drive.google.com/file/d/1pUrwz80FL-kh61fIKWNDtDP5MbuYzfW1/view?usp=sharing)
+*   [Slides do prof. Lucas Batista (UFMG)](http://www.cpdee.ufmg.br/~lusoba/disciplinas/eee933/slides/lusoba/13_GRASP.pdf)
+*   [Outros slides](https://drive.google.com/file/d/1pUrwz80FL-kh61fIKWNDtDP5MbuYzfW1/view?usp=sharing)
 *   [Problemas TSP adaptados ao código de GRASP](https://drive.google.com/file/d/1kZdt_S4vJScXHIa4PRQ7-LQgBZzF3jo9/view?usp=sharing)
 *   Referências:
     *   cap 8 do livro de Glover
@@ -157,6 +158,11 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 
 *   [Análise de Sörensen sobre a profusão de artigos nos últimos anos e seu rigor científico](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12001)  
     Uma versão com acesso aberto está disponível [neste link](https://www.researchgate.net/publication/237009138_Metaheuristics_--_the_metaphor_exposed).
+
+## Materiais de terceiros
+
+*   [Vídeo-aulas do prof. Bruno Prata (Eng. Produção/UFC)](https://www.youtube.com/watch?v=KxodOzWXKr4&list=PLu8hAanCQCJrVubIw9c5RAQXyWAn95qEe)
+*   [Slides do prof. Lucas Batista (Eng. Elétrica/UFMG)](http://www.cpdee.ufmg.br/~lusoba/disciplinas/eee933/slides/lusoba/)
 
 
 # ATIVIDADES
