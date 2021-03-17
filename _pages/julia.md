@@ -76,6 +76,17 @@ Após o término, sua instalação do Julia estará pronta para uso. Você pode 
 Você também pode criar um atalho no seu `.bashrc` ou `.profile`. Para desinstalar o Julia neste método, simplesmente apague os diretórios `julia` e `.julia`.
 
 
+## Julia com ambiente gráfico
+
+Existem plataformas (IDEs) gráficas que se integram ao Julia. Uma delas é o [Juno](https://junolab.org/).
+
+Outra alternativa "tudo em um" é o [JuliaPro](https://juliacomputing.com/products/juliapro/). Este pacote instala a base do Julia e o ambiente gráfico de uma só vez.
+
+É possível ainda utilizar seu navegador de internet como saída gráfica através do [notebooks Jupyter ou JupyterLab](https://jupyter.org/).
+
+De qualquer forma, assim como no Matlab/Octave, a principal via de utilização do Julia é a linha de comandos (você de fato deve programar seus códigos!). Portanto é essencial familiarizar-se com os comandos do Julia.
+
+
 ## Recomendações
 
 Não aconselho usar o Julia do repositório do GNU/Linux, a versão geralmente é defasada. Além disso, alguns pacotes podem não funcionar.
@@ -83,9 +94,9 @@ Não aconselho usar o Julia do repositório do GNU/Linux, a versão geralmente �
 
 # Iniciando o uso do Julia
 
-O Julia padrão é executado pelo terminal de comandos. Para usuários Windows, recomendo usar um terminal de comandos melhor que o `cmd`. Por exemplo, *Powershell* (já presente no Windows 10) ou [cmder](https://cmder.net/).
+O Julia "padrão", sem interface gráfica, é executado pelo terminal de comandos do sistema. Para usuários Windows, recomendo usar um terminal de comandos melhor que o `cmd`. Por exemplo, *Powershell* (já presente no Windows 10) ou [cmder](https://cmder.net/).
 
-- No terminal, execute `julia` (ou `./julia` do diretório da instalação). Isso entrará no ambiante Julia. Se tudo der certo, você verá o logotipo do Julia, a versão instalada e uma linha pronta para receber comandos:
+- No terminal do sistema, execute `julia` (ou `./julia` do diretório da instalação). Isso entrará no ambiante Julia. Se tudo der certo, você verá o logotipo do Julia, a versão instalada e uma linha pronta para receber comandos:
 ~~~
 julia>
 ~~~
@@ -128,21 +139,21 @@ As ferramentas de otimização de nosso interesse vêm na forma de pacotes. Prim
 ~~~
 Isso também irá atualizar as versões dos pacotes existentes, e pode ser feito sempre que desejar.
 
-- Para adicionar pacotes, use `add [pacote]`. Por exemplo, para adicionar o pacote `JuMP` (pacote para modelagem de problemas de otimização), execute:
+- Para adicionar pacotes, use `add [pacote]`. Por exemplo, para adicionar o pacote `JuMP` (pacote para modelagem de problemas de otimização) execute:
 ~~~
 (@v1.x) pkg> add JuMP
 ~~~
 
   **Observações:**
   - Julia diferencia maiúsculas de minúsculas. Assim, `add jump` não irá funcionar!
-  - A instalação de um pacote é feita uma única vez, ele ficará para sempre disponível.
+  - A instalação de um pacote é feita uma única vez, ficando para sempre disponível.
 
 - Após instalar seus pacotes, você pode voltar ao ambiente de comandos Julia teclando "backspace".
 
 
 ## Usando pacotes instalados
 
-Assim como no Matlab, um pacote Julia precisa ser carregado para uso, sempre que o Julia é aberto. Dentro do ambiente Julia, execute
+Assim como no Matlab, um pacote Julia precisa ser carregado para uso sempre que o Julia for aberto. Dentro do ambiente Julia, execute
 ~~~
 julia> using JuMP
 ~~~
@@ -150,11 +161,6 @@ julia> using JuMP
 Isso carregará o pacote `JuMP` na memória e suas funções internas ficarão disponíveis para uso.
 
 **Importante: o Julia compilará o pacote na primeira vez em que for carregado. Isso leva um tempo, mas é feito uma única vez.**
-
-
-<!--## Ambiente gráfico para Julia
-
-Existem plataformas (IDEs) gráficas que se integram ao Julia. Uma delas é o [Juno](https://junolab.org/).-->
 
 
 # Dicas
@@ -165,20 +171,21 @@ Existem plataformas (IDEs) gráficas que se integram ao Julia. Uma delas é o [J
 ~~~
 help?>
 ~~~
-Basta digitar o comando e teclar "Enter". A função `TAB --> TAB` também funciona no ambiente de ajuda.
+Basta digitar o comando e teclar "Enter". A funcionalidade `TAB --> TAB` também está disponível no ambiente de ajuda.
 
 - É possível alternar entre o terminal do Julia e o terminal do GNU/Linux teclando `;` (ponto e vírgula). Isso é interessante quando precisamos executar comandos à nível de terminal do GNU/Linux sem perder os objetos do Julia na memória. Por exemplo, você pode editar um arquivo de texto com o editor `nano`:
 ~~~
-julia> ;nano arquivo.txt
+julia> ;
+shell> nano arquivo.txt
 ~~~
 
 - É possível navegar entre diretórios sem sair do ambiente Julia. Alguns comandos:
   - `pwd()`: imprimi o diretório atual
   - `cd("[diretorio]")`: muda de diretório. Aceita diretórios relativos, tais como `../dir1` (`dir1` no diretório pai), ou `dir1/dir2` (subdiretórios na pasta atual).
   - O comando `cd("[TAB --> TAB]` funciona e é útil para listar os diretórios da pasta atual e autocompletar nomes parcialmente digitados.
-  - Obs.: se preferir, você pode também navegar entre diretórios usando o terminal do GNU/Linux (teclando ponto e vírgula).
+  - Obs.: se preferir, você pode também navegar entre diretórios a partir do terminal do GNU/Linux (teclando ponto e vírgula).
 
-- Julia possui um "tipo vazio" chamado `nothing` que pode ser útil em certas situações. Você pode setar objetos como `nothing`.
+- Julia possui um "tipo vazio" chamado `nothing` que pode ser útil em certas situações. Você pode setar objetos como `nothing` normalmente.
 
 - Para sair do Julia, execute `exit()` ou tecle **Ctrl+d**. Isso apagará da memória todos os objetos criados.
 
