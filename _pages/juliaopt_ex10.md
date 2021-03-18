@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Julia para Otimização - Exercício 10"
+title: "Julia para Otimização - Exemplo 10"
 permalink: /juliaopt_ex10/
 author_profile: true
 ---
@@ -14,7 +14,7 @@ Por exemplo, para rodar o código `roda.jl` basta executar, a partir do terminal
 > julia roda.jl
 ~~~
 
-É importante que no arquivo `roda.jl` incluamos todos os pacotes e arquivos necessários para a execução. Por exemplo, para rodar os testes do [Exercício 9](/juliaopt_ex9/), o arquivo `roda.jl` deverá conter as linhas
+É importante que no arquivo `roda.jl` incluamos todos os pacotes e arquivos necessários para a execução. Por exemplo, para rodar os testes do [Exemplo 9](/juliaopt_ex9/), o arquivo `roda.jl` deverá conter as linhas
 ~~~
 include("testesSIF.jl")
 testesSIF()

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Julia para Otimização - Exercício 1"
+title: "Julia para Otimização - Exemplo 1"
 permalink: /juliaopt_ex1/
 author_profile: true
 ---

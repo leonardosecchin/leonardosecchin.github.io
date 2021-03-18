@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Julia para Otimização - Exercício 6"
+title: "Julia para Otimização - Exemplo 6"
 permalink: /juliaopt_ex6/
 author_profile: true
 ---
@@ -19,7 +19,7 @@ $$
 
 *Este problema pode ser encontrado no livro de Karas e Ribeiro, ou no slide 2 [deste link](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf).*
 
-Siga as instruções do [Exercício 1](/juliaopt_ex1/) para criar o modelo, variáveis e função objetivo.
+Siga as instruções do [Exemplo 1](/juliaopt_ex1/) para criar o modelo, variáveis e função objetivo.
 
 **Antes de criar a estrutura `MathOptNLPModel`**, você deve adicionar as restrições ao modelo `P`.
 

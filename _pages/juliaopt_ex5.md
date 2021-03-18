@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Julia para Otimização - Exercício 5"
+title: "Julia para Otimização - Exemplo 5"
 permalink: /juliaopt_ex5/
 author_profile: true
 ---
 
 ## Objetivo: construir gráficos.
 
-Vamos plotar em uma só figura o histórico de $f$ e $\|\nabla f\|_\infty$ para o problema do [Exercício 1](/juliaopt_ex1). Você precisará do pacote `Plots`.
+Vamos plotar em uma só figura o histórico de $f$ e $\|\nabla f\|_\infty$ para o problema do [Exemplo 1](/juliaopt_ex1). Você precisará do pacote `Plots`.
 
-Salve o arquivo [gradiente2.jl](/files/julia/gradiente2.jl). É a mesma implementação do [Exercício 4](/juliaopt_ex4), mas com retorno do histórico de execução.
+Salve o arquivo [gradiente2.jl](/files/julia/gradiente2.jl). É a mesma implementação do [Exemplo 4](/juliaopt_ex4), mas com retorno do histórico de execução.
 
 ## Método 1 - Gerando gráficos pela linha de comandos do Julia
 
@@ -18,7 +18,7 @@ Carregando `gradiente2.jl` (supondo que esteja no diretório do arquivo):
 julia> include("gradiente2.jl")
 ~~~
 
-Todos os pacotes necessários ja serão carregados. **Construa a estrutura `nlp` como no [Exercício 1](/juliaopt_ex1).**
+Todos os pacotes necessários ja serão carregados. **Construa a estrutura `nlp` como no [Exemplo 1](/juliaopt_ex1).**
 
 Executando o método a partir do ponto $x_0=(1,1)$ e guardando a saída:
 ~~~
@@ -65,7 +65,7 @@ julia> notebook()
 
 Isso abrirá uma página com o Jupyter, e você poderá navegar entre as pastas do seu computador.
 
-Um *notebook* é um "caderno" de comandos em série. Salve o *notebook* [grafico.ipynb](/files/julia/grafico.ipynb), que contém todos os comandos para este exercício.
+Um *notebook* é um "caderno" de comandos em série. Salve o *notebook* [grafico.ipynb](/files/julia/grafico.ipynb), que contém todos os comandos para este exemplo.
 
 Dentro do Jupyter, abra `grafico.ipynb`. Você pode executar os comandos em sequência clicando no botão "Run", ou teclando Ctrl+Enter em cada linha. **Ao executar uma linha, aparecerá "[*]". Isso siginifca que o Julia está processando. Quando o Julia terminar o processamento da linha, aparecerá um número referente à ordem de execução**.
 

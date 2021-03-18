@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Julia para Otimização - Exercício 3"
+title: "Julia para Otimização - Exemplo 3"
 permalink: /juliaopt_ex3/
 author_profile: true
 ---
@@ -9,7 +9,7 @@ author_profile: true
 
 Os códigos em Julia, assim como Matlab/Octave, podem ser escritos em arquivos. A extensão padrão é `.jl`.
 
-Para este exercício, salve o arquivo `juliaoptex3.jl` ([link](/files/julia/juliaoptex3.jl)) no diretório que desejar.
+Para este exemplo, salve o arquivo `juliaoptex3.jl` ([link](/files/julia/juliaoptex3.jl)) no diretório que desejar.
 
 Execute o Julia do diretório que escolheu. Se preferir, você pode navegar entre diretórios através de comandos do terminal Linux (veja "Dicas" [aqui](/julia/)), teclando `;` (ponto e vírgula) para abrir um "ambiente de *shell*".
 

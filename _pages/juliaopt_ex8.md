@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Julia para Otimização - Exercício 8"
+title: "Julia para Otimização - Exemplo 8"
 permalink: /juliaopt_ex8/
 author_profile: true
 ---
@@ -40,7 +40,7 @@ julia> using CUTEst
 julia> nlp = CUTEstModel("[diretorio dos arquivos SIF]/SPARSQUR");
 ~~~
 
-Podemos assim resolver o modelo com nossa implementação do gradiente (veja [Exercício 4](/juliaopt_ex4/)):
+Podemos assim resolver o modelo com nossa implementação do gradiente (veja [Exemplo 4](/juliaopt_ex4/)):
 
 ~~~
 julia> include("[diretorio]/gradiente.jl");
@@ -86,7 +86,7 @@ Uma linguagem de modelagem muito utilizada é o [AMPL](https://ampl.com/). Na ve
 
 ### Problemas irrestritos
 
-O pacote `OptimizationProblems` contém alguns problemas irrestritos, muitos deles presentes na CUTEst. Os problemas vêm na estrutura `JuMP`, e você precisará convertê-los para `NLPmodels` a fim de usufruir de derivadas automáticas (veja [Exercício 1](/juliaopt_ex1)). Acesse a [página oficial](https://github.com/JuliaSmoothOptimizers/OptimizationProblems.jl) do pacote para instruções de uso.
+O pacote `OptimizationProblems` contém alguns problemas irrestritos, muitos deles presentes na CUTEst. Os problemas vêm na estrutura `JuMP`, e você precisará convertê-los para `NLPmodels` a fim de usufruir de derivadas automáticas (veja [Exemplo 1](/juliaopt_ex1)). Acesse a [página oficial](https://github.com/JuliaSmoothOptimizers/OptimizationProblems.jl) do pacote para instruções de uso.
 
 ### Matrizes esparsas da *Suite Sparse Matrix Collection*
 
