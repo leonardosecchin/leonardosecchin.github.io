@@ -183,8 +183,6 @@ shell> nano arquivo.txt
   - O comando `cd("[TAB --> TAB]` funciona e é útil para listar os diretórios da pasta atual e autocompletar nomes parcialmente digitados.
   - Obs.: se preferir, você pode também navegar entre diretórios a partir do terminal do GNU/Linux (teclando ponto e vírgula).
 
-- Julia possui um "tipo vazio" chamado `nothing` que pode ser útil em certas situações. Você pode setar objetos como `nothing` normalmente.
-
 - Para sair do Julia, execute `exit()` ou tecle **Ctrl+d**. Isso apagará da memória todos os objetos criados.
 
 
