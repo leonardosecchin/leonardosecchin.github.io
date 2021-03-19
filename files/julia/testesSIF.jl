@@ -22,7 +22,7 @@ include("gradiente_interp.jl")
 # include("spg.jl")  #***** IMPLEMENTE SPG E INCLUA O ARQUIVO AQUI  *****
 
 
-function testesSIF(; sifpath="sif")
+function testesSIF(; sifpath=pwd()*"/sif")
 
     sifdir = readdir(sifpath, join=true)
 
@@ -156,11 +156,19 @@ function testesSIF(; sifpath="sif")
             finalize(nlp);
         else
             println("============================================\n"*
-                    "  Um erro ocorreu.\n"*
-                    "  Isso pode ter sido causado por um CTRL+C acionado no meio do processo.\n"*
-                    "  Assim, o problema SIF não foi finalizado, e a estrutura nlp foi perdida.\n"*
-                    "  Finalize o Julia e recarregue os scripts.\n"*
+                    "  Um erro ocorreu :(\n"*
+                    "  Isso pode ter sido causado por\n"*
+                    "  1. um CTRL+C acionado no meio do processo.\n"*
+                    "     Assim, o problema SIF não foi finalizado, e a estrutura nlp foi perdida.\n"*
+                    "     Re-inclua testesSIF.jl e tente novamente. Caso não dê certo, finalize o\n"*
+                    "     Julia e recarregue os scripts;\n"*
+                    "  2. uso de espaços no caminho do diretório sif. Aparentemente o pacote\n"*
+                    "     CUTEst.jl não lida bem com espaços. Certifique-se de que diretórios\n"*
+                    "     e arquivos não possuam espaços.\n"*
                     "============================================");
+            println("Erro:\n");
+            println(err);
+            println("\nObs: você pode descomentar o bloco try-catch para visualizar a saída completa do erro.")
         end
     end
 end

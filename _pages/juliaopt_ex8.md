@@ -56,6 +56,8 @@ julia> nlp = CUTEstModel("[diretorio dos arquivos SIF]/[outro problema]");
 
 Isso é útil quando queremos resolver vários problemas em série.
 
+**ALERTA IMPORTANTE: aparentemente o pacote `CUTEst.jl` não lida bem com diretórios/arquivos que contenham espaços. Se você encontrar erros na execução de `CUTEstModel`, considere colocar os arquivos `SIF` em caminhos sem espaços.**
+
 
 ## Problemas no formato aberto .nl
 

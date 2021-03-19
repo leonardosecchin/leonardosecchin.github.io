@@ -74,6 +74,9 @@ O arquivo ZIP a seguir contém problemas sem restrições selecionados da CUTEst
 
 *Obs.: é possível resolver vários problemas `.SIF` em paralelo. Veja [github.com/JuliaSmoothOptimizers/CUTEst.jl](github.com/JuliaSmoothOptimizers/CUTEst.jl).*
 
+**ALERTA IMPORTANTE: aparentemente o pacote `CUTEst.jl` não lida bem com diretórios/arquivos que contenham espaços. Se você encontrar erros na execução de `CUTEstModel` (comando presente em `testesSIF.jl`), considere colocar os arquivos `SIF` em caminhos sem espaços.**
+
+
 ### Exemplo 1
 
 Teste o método de gradiente com interpolação quadrática nos problemas irrestritos selecionados, como explicado acima.
