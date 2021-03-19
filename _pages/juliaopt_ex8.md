@@ -11,27 +11,11 @@ Bibliotecas de problemas para testes estão disponíveis, e são comumente utili
 
 ## CUTEst - Constrained and Unconstrained Testing Environment with safe threads
 
-Esta é a principal bilbioteca para testes com problemas gerais. Ela reúne mais de 1300 problemas, entre lineares e não lineares, restritos e irrestritos. Cada problema é composto por um arquivo `.SIF`. A coleção completa dos problemas pode ser obtida pelo repositório <https://bitbucket.org/optrove/sif>. No GNU/linux, basta executar o seguinte comando de dentro da pasta que deseja guardar os problemas:
+Esta é a principal bilbioteca para testes com problemas gerais. Ela reúne mais de 1300 problemas, entre lineares e não lineares, restritos e irrestritos. Cada problema é composto por um arquivo `.SIF`.
 
-~~~
-git clone https://bitbucket.org/optrove/sif ./mastsif
-~~~
+### *INTERFACE* JULIA PARA CUTEst
 
-Isso criará a pasta `mastsif` contendo os arquivos `.SIF`.
-
-<!-- *ALERTA: a biblioteca completa tem mais de 2Gb!* -->
-
-**Outras (sub-)bibliotecas menores (cerca de 230Mb):**
-
-- Problemas convexos de Maros & Meszaros:
-  ~~~
-  git clone https://bitbucket.org/optrove/maros-meszaros ./marosmeszaros
-  ~~~
-- Problemas lineares (PL's) da Netlib: descompacte o arquivo [deste link](ftp://ftp.numerical.rl.ac.uk/pub/cutest/netlib.tar.gz).
-
-### *INTERFACE* JULIA PARA ARQUIVOS .SIF
-
-No Julia, é possível ler arquivos `.SIF` com o pacote `CUTEst`. **Ao instalar este pacote, todos os problemas da CUTEst são automaticamente baixados, logo não é necessário baixar manualmente os problemas como explicado acima.** A [página oficial](https://github.com/JuliaSmoothOptimizers/CUTEst.jl) do pacote traz instruções de uso. As características de cada problema podem ser encontradas [neste link](http://www.cuter.rl.ac.uk/Problems/mastsif.shtml).
+No Julia, é possível ler arquivos `.SIF` com o pacote `CUTEst`. **Ao instalar este pacote, todos os problemas da CUTEst são automaticamente baixados, logo não é necessário baixá-los manualmente.** A [página oficial](https://github.com/JuliaSmoothOptimizers/CUTEst.jl) do pacote traz instruções de uso. As características de cada problema podem ser encontradas [neste link](http://www.cuter.rl.ac.uk/Problems/mastsif.shtml).
 
 Como exemplo, vamos ler o problema irrestrito `SPARSQUR`. A estrutura `NLPmodels` (a mesma dos exemplos anteriores) é criada diretamente do arquivo `.SIF`:
 
@@ -56,7 +40,67 @@ julia> nlp = CUTEstModel("[outro problema]");
 
 Isso é útil quando queremos resolver vários problemas em série.
 
-Como já dissemos, o pacote `CUTEst` baixa todos os problemas da CUTEst automaticamente para o diretório de trabalho do Julia. Porém, caso você já tenha um diretório próprio com arquivos `.SIF`, você pode carregar os problemas fornecendo o caminho completo do arquivo:
+#### Selecionando problemas da CUTEst
+
+O pacote `CUTEst` fornece uma maneira de selecionar problemas de forma muito simples. Os comandos a seguir retornam o vetor `probs` contendo os nomes dos problemas. Você pode usá-lo para automatizar a resolução de vários problemas selecionados de acordo com sua necessidade.
+
+Selecionando **todos** os problemas da CUTEst:
+~~~
+julia> probs = CUTEst.select()
+~~~
+
+Selecionando problemas com no máximo 100 variáveis:
+~~~
+julia> probs = CUTEst.select(max_var=100)
+~~~
+
+Selecionando problemas com número de variáveis entre 10 e 100, e que não possuam restrições além de limitantes nas variáveis:
+~~~
+julia> probs = CUTEst.select(min_var=10, max_var=100, max_con=0)
+~~~
+
+Selecionando todos os problemas irrestritos:
+~~~
+julia> probs = CUTEst.select(max_con=0, only_free_var=true)
+~~~
+
+Há muitas outras possibilidades. A seguir uma lista de *tags* que você pode utilizar:
+- **max_var=[número]**: número máximo de variáveis
+- **min_var=[número]**: número mínimo de variáveis
+- **max_con=[número]**: número mínimo de restrições ``ordinárias'' ($h(x)=0$ e $g(x)\leq 0$)
+- **only_free_var=true**: somente problemas com todas variáveis livres?
+- **only_bnd_var=true**: somente problemas com algumas variáveis limitadas?
+- **only_equ_con=true**: somente problemas com restrições ordinárias de igualdade?
+- **only_ineq_con=true**: somente problemas com restrições ordinárias de desigualdade?
+- **only_linear_con=true**: somente problemas com todas restrições ordinárias lineares?
+- **only_nonlinear_con=true**: somente problemas com algumas restrições ordinárias não lineares?
+- **objtype=T**: tipo da função objetivo, onde **T** pode assumir
+  - **"none"**: sem função objetivo (problema de viabilidade)
+  - **"constant"**: função objetivo constante
+  - **"linear"**: função objetivo linear
+  - **"quadratic"**: função objetivo quadrática
+  - **"sum_of_squares"**: função objetivo igual a uma soma de quadrados
+  - **"other"**: outro tipo não especificado acima
+  O comando `CUTEst.objtypes` lista os tipos acima.
+
+
+### USANDO PROBLEMAS BAIXADOS MANUALMENTE
+
+A coleção completa dos problemas pode ser obtida manualmente pelo repositório <https://bitbucket.org/optrove/sif>. No GNU/linux, basta executar o seguinte comando de dentro da pasta que deseja guardar os problemas:
+
+~~~
+git clone https://bitbucket.org/optrove/sif ./mastsif
+~~~
+
+Isso criará a pasta `mastsif` contendo os arquivos `.SIF`. Você pode baixar (sub-)bibliotecas menores (cerca de 230Mb):
+
+- Problemas convexos de Maros & Meszaros:
+  ~~~
+  git clone https://bitbucket.org/optrove/maros-meszaros ./marosmeszaros
+  ~~~
+- Problemas lineares (PL's) da Netlib: descompacte o arquivo [deste link](ftp://ftp.numerical.rl.ac.uk/pub/cutest/netlib.tar.gz).
+
+Como já dissemos, o pacote `CUTEst` baixa todos os problemas da CUTEst automaticamente para o diretório de trabalho do Julia. Porém, caso você já tenha um diretório próprio com arquivos `.SIF` baixados manualmente, você pode carregar os problemas fornecendo o caminho completo do arquivo:
 
 ~~~
 julia> nlp = CUTEstModel("[seu diretorio de arquivos SIF]/SPARSQUR");
