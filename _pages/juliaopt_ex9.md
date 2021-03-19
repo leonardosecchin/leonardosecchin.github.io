@@ -5,6 +5,8 @@ permalink: /juliaopt_ex9/
 author_profile: true
 ---
 
+[<< voltar para "Julia para Otimização"](/juliaopt/)
+
 ## Objetivo: gravar arquivos de texto, tabelar resultados.
 
 Para gravar arquivos de texto, o Julia dispõe de comandos nativos semelhantes ao C:
@@ -74,7 +76,7 @@ O arquivo ZIP a seguir contém problemas sem restrições selecionados da CUTEst
 
 *Obs.: é possível resolver vários problemas `.SIF` em paralelo. Veja [github.com/JuliaSmoothOptimizers/CUTEst.jl](github.com/JuliaSmoothOptimizers/CUTEst.jl).*
 
-**ALERTA IMPORTANTE: aparentemente o pacote `CUTEst.jl` não lida bem com diretórios/arquivos que contenham espaços. Se você encontrar erros na execução de `CUTEstModel` (comando presente em `testesSIF.jl`), considere colocar os arquivos `SIF` em caminhos sem espaços.**
+**ALERTA IMPORTANTE: no momento da escrita deste manual, o pacote `CUTEst.jl` não lida com diretórios/arquivos que contenham espaços. Se você encontrar erros na execução de `CUTEstModel` (comando presente em `testesSIF.jl`), considere colocar os arquivos `SIF` em caminhos sem espaços.**
 
 
 ### Exemplo 1

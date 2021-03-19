@@ -5,6 +5,8 @@ permalink: /juliaopt_ex2/
 author_profile: true
 ---
 
+[<< voltar para "Julia para Otimização"](/juliaopt/)
+
 ## Objetivo: escrever um modelo de otimização a partir de variáveis do ambiente.
 
 Vamos escrever o modelo

@@ -5,6 +5,8 @@ permalink: /juliaopt_ex5/
 author_profile: true
 ---
 
+[<< voltar para "Julia para Otimização"](/juliaopt/)
+
 ## Objetivo: construir gráficos.
 
 Vamos plotar em uma só figura o histórico de $f$ e $\|\nabla f\|_\infty$ para o problema do [Exemplo 1](/juliaopt_ex1). Você precisará do pacote `Plots`.

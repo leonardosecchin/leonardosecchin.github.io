@@ -5,6 +5,8 @@ permalink: /juliaopt_ex4/
 author_profile: true
 ---
 
+[<< voltar para "Julia para Otimização"](/juliaopt/)
+
 ## Objetivo: implementar um método simples de gradiente.
 
 Salve o arquivo [gradiente.jl](/files/julia/gradiente.jl). Ele contém uma implementação simples do método do gradiente descrito no slide 29 [deste link](/files/otim1/4.1.Metodos_descida_gerais.pdf). Sugiro que reveja o método e acompanhe o código.

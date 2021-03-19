@@ -5,6 +5,8 @@ permalink: /juliaopt_ex8/
 author_profile: true
 ---
 
+[<< voltar para "Julia para Otimização"](/juliaopt/)
+
 ## Objetivo: acessar bibliotecas de problemas-teste usadas na literatura.
 
 Bibliotecas de problemas para testes estão disponíveis, e são comumente utilizadas na pesquisa. A seguir, listo duas das principais fontes de problemas: arquivos `.SIF` (CUTEst) e `.nl`.
@@ -40,9 +42,9 @@ julia> nlp = CUTEstModel("[outro problema]");
 
 Isso é útil quando queremos resolver vários problemas em série.
 
-#### Selecionando problemas da CUTEst
+### Selecionando problemas da CUTEst
 
-O pacote `CUTEst` fornece uma maneira de selecionar problemas de forma muito simples. Os comandos a seguir retornam o vetor `probs` contendo os nomes dos problemas. Você pode usá-lo para automatizar a resolução de vários problemas selecionados de acordo com sua necessidade.
+O pacote `CUTEst` fornece uma maneira simples de selecionar problemas. Os comandos a seguir retornam o vetor `probs` contendo os nomes dos problemas. Você pode usá-lo para automatizar a resolução de problemas selecionados de acordo com sua necessidade, executando algo como `nlp = CUTEstModel(probs[k])` (`k` de 1 até `length(probs)`).
 
 Selecionando **todos** os problemas da CUTEst:
 ~~~
@@ -64,24 +66,25 @@ Selecionando todos os problemas irrestritos:
 julia> probs = CUTEst.select(max_con=0, only_free_var=true)
 ~~~
 
-Há muitas outras possibilidades. A seguir uma lista de *tags* que você pode utilizar:
+Há muitas outras possibilidades. A seguir, uma lista de *tags* que você pode utilizar:
 - **max_var=[número]**: número máximo de variáveis
 - **min_var=[número]**: número mínimo de variáveis
-- **max_con=[número]**: número mínimo de restrições ``ordinárias'' ($h(x)=0$ e $g(x)\leq 0$)
-- **only_free_var=true**: somente problemas com todas variáveis livres?
-- **only_bnd_var=true**: somente problemas com algumas variáveis limitadas?
-- **only_equ_con=true**: somente problemas com restrições ordinárias de igualdade?
-- **only_ineq_con=true**: somente problemas com restrições ordinárias de desigualdade?
-- **only_linear_con=true**: somente problemas com todas restrições ordinárias lineares?
-- **only_nonlinear_con=true**: somente problemas com algumas restrições ordinárias não lineares?
+- **max_con=[número]**: número mínimo de restrições ordinárias ($h(x)=0$ e $g(x)\leq 0$)
+- **only_free_var=true**: somente problemas com todas as variáveis livres
+- **only_bnd_var=true**: somente problemas com algumas variáveis limitadas
+- **only_equ_con=true**: somente problemas com restrições ordinárias de igualdade
+- **only_ineq_con=true**: somente problemas com restrições ordinárias de desigualdade
+- **only_linear_con=true**: somente problemas com todas as restrições ordinárias lineares
+- **only_nonlinear_con=true**: somente problemas com algumas restrições ordinárias não lineares
 - **objtype=T**: tipo da função objetivo, onde **T** pode assumir
   - **"none"**: sem função objetivo (problema de viabilidade)
   - **"constant"**: função objetivo constante
   - **"linear"**: função objetivo linear
   - **"quadratic"**: função objetivo quadrática
-  - **"sum_of_squares"**: função objetivo igual a uma soma de quadrados
+  - **"sum_of_squares"**: função objetivo igual à uma soma de quadrados
   - **"other"**: outro tipo não especificado acima
-  O comando `CUTEst.objtypes` lista os tipos acima.
+
+O comando `CUTEst.objtypes` lista os tipos de função objetivo acima.
 
 
 ### USANDO PROBLEMAS BAIXADOS MANUALMENTE
@@ -100,15 +103,15 @@ Isso criará a pasta `mastsif` contendo os arquivos `.SIF`. Você pode baixar (s
   ~~~
 - Problemas lineares (PL's) da Netlib: descompacte o arquivo [deste link](ftp://ftp.numerical.rl.ac.uk/pub/cutest/netlib.tar.gz).
 
-Como já dissemos, o pacote `CUTEst` baixa todos os problemas da CUTEst automaticamente para o diretório de trabalho do Julia. Porém, caso você já tenha um diretório próprio com arquivos `.SIF` baixados manualmente, você pode carregar os problemas fornecendo o caminho completo do arquivo:
+Como já dissemos, o pacote `CUTEst` baixa todos os problemas da CUTEst automaticamente para o diretório de trabalho do Julia. Porém, caso você já tenha um diretório próprio com arquivos `.SIF` baixados manualmente ou simplesmente não queira usar aquele criado pelo Julia, você pode carregar os problemas fornecendo o caminho completo do arquivo:
 
 ~~~
 julia> nlp = CUTEstModel("[seu diretorio de arquivos SIF]/SPARSQUR");
 ~~~
 
-Uma outra maneira é mudar a variável de ambiente **MASTSIF**. O comando `CUTEstModel` toma como padrão o caminho dessa variável (caso ela não estiver definida em seu sistema, `CUTEstModel` usará o caminho dos problemas baixados automaticamente).
+Uma outra maneira é mudar a variável de ambiente **MASTSIF**. O comando `CUTEstModel` toma como padrão o caminho dessa variável (caso ela não estiver definida em seu sistema, `CUTEstModel` usará o caminho dos problemas baixados automaticamente). Isso é útil quando você já usa a CUTEst em um código não Julia.
 
-**ALERTA IMPORTANTE: aparentemente o pacote `CUTEst.jl` não lida bem com diretórios/arquivos que contenham espaços. Se você encontrar erros na execução de `CUTEstModel`, considere colocar os arquivos `SIF` em caminhos sem espaços.**
+**ALERTA IMPORTANTE: no momento da escrita deste manual, o pacote `CUTEst.jl` não lida com diretórios/arquivos que contenham espaços. Se você encontrar erros na execução de `CUTEstModel`, considere colocar os arquivos `SIF` em caminhos sem espaços.**
 
 
 ## Problemas no formato aberto .nl

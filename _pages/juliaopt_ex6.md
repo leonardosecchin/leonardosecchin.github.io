@@ -5,6 +5,8 @@ permalink: /juliaopt_ex6/
 author_profile: true
 ---
 
+[<< voltar para "Julia para Otimização"](/juliaopt/)
+
 ## Objetivo: escrever um modelo de otimização com restrições.
 
 Considere o problema com restrições

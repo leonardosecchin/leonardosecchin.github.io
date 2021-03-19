@@ -5,6 +5,8 @@ permalink: /juliaopt_ex1/
 author_profile: true
 ---
 
+[<< voltar para "Julia para Otimização"](/juliaopt/)
+
 ## Objetivo: escrever um modelo simples de otimização irrestrita.
 
 Vamos escrever o problema de duas variáveis
