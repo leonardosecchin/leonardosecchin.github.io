@@ -19,7 +19,7 @@ git clone https://bitbucket.org/optrove/sif ./mastsif
 
 Isso criará a pasta `mastsif` contendo os arquivos `.SIF`.
 
-*ALERTA: a biblioteca completa tem mais de 2Gb!*
+<!-- *ALERTA: a biblioteca completa tem mais de 2Gb!* -->
 
 **Outras (sub-)bibliotecas menores (cerca de 230Mb):**
 
@@ -31,13 +31,13 @@ Isso criará a pasta `mastsif` contendo os arquivos `.SIF`.
 
 ### *INTERFACE* JULIA PARA ARQUIVOS .SIF
 
-No Julia, é possível ler arquivos `.SIF` com o pacote `CUTEst`. A [página oficial](https://github.com/JuliaSmoothOptimizers/CUTEst.jl) do pacote traz instruções de uso. As características de cada problema podem ser encontradas [neste link](http://www.cuter.rl.ac.uk/Problems/mastsif.shtml).
+No Julia, é possível ler arquivos `.SIF` com o pacote `CUTEst`. **Ao instalar este pacote, todos os problemas da CUTEst são automaticamente baixados, logo não é necessário baixar manualmente os problemas como explicado acima.** A [página oficial](https://github.com/JuliaSmoothOptimizers/CUTEst.jl) do pacote traz instruções de uso. As características de cada problema podem ser encontradas [neste link](http://www.cuter.rl.ac.uk/Problems/mastsif.shtml).
 
 Como exemplo, vamos ler o problema irrestrito `SPARSQUR`. A estrutura `NLPmodels` (a mesma dos exemplos anteriores) é criada diretamente do arquivo `.SIF`:
 
 ~~~
 julia> using CUTEst
-julia> nlp = CUTEstModel("[diretorio dos arquivos SIF]/SPARSQUR");
+julia> nlp = CUTEstModel("SPARSQUR");
 ~~~
 
 Podemos assim resolver o modelo com nossa implementação do gradiente (veja [Exemplo 4](/juliaopt_ex4/)):
@@ -51,10 +51,18 @@ Para ler outro problema da CUTEst, é necessário finalizar a instância ativa:
 
 ~~~
 julia> finalize(nlp);
-julia> nlp = CUTEstModel("[diretorio dos arquivos SIF]/[outro problema]");
+julia> nlp = CUTEstModel("[outro problema]");
 ~~~
 
 Isso é útil quando queremos resolver vários problemas em série.
+
+Como já dissemos, o pacote `CUTEst` baixa todos os problemas da CUTEst automaticamente para o diretório de trabalho do Julia. Porém, caso você já tenha um diretório próprio com arquivos `.SIF`, você pode carregar os problemas fornecendo o caminho completo do arquivo:
+
+~~~
+julia> nlp = CUTEstModel("[seu diretorio de arquivos SIF]/SPARSQUR");
+~~~
+
+Uma outra maneira é mudar a variável de ambiente **MASTSIF**. O comando `CUTEstModel` toma como padrão o caminho dessa variável (caso ela não estiver definida em seu sistema, `CUTEstModel` usará o caminho dos problemas baixados automaticamente).
 
 **ALERTA IMPORTANTE: aparentemente o pacote `CUTEst.jl` não lida bem com diretórios/arquivos que contenham espaços. Se você encontrar erros na execução de `CUTEstModel`, considere colocar os arquivos `SIF` em caminhos sem espaços.**
 
