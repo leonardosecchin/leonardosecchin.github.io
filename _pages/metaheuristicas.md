@@ -148,8 +148,7 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 *   **[Código Matlab/Octave de um GRASP para o TSP](https://drive.google.com/file/d/1ZdYhhQHka7aDrDlxtwvtuMIp6gVv-pHv/view?usp=sharing)**  
     _Fonte: [https://github.com/warloff/GRASP-for-Traveling-Salesman](https://github.com/warloff/GRASP-for-Traveling-Salesman)_
 *   [Slides do prof. Lucas Batista (UFMG)](http://www.cpdee.ufmg.br/~lusoba/disciplinas/eee933/slides/lusoba/13_GRASP.pdf)
-*   [Outros slides](https://drive.google.com/file/d/1pUrwz80FL-kh61fIKWNDtDP5MbuYzfW1/view?usp=sharing)
-*   [Problemas TSP adaptados ao código de GRASP](https://drive.google.com/file/d/1kZdt_S4vJScXHIa4PRQ7-LQgBZzF3jo9/view?usp=sharing)
+<!--*   [Outros slides](https://drive.google.com/file/d/1pUrwz80FL-kh61fIKWNDtDP5MbuYzfW1/view?usp=sharing)-->
 *   Referências:
     *   cap 8 do livro de Glover
 
