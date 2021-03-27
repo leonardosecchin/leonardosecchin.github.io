@@ -20,6 +20,7 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 - Tópicos variados em otimização não linear. Uma referência com vários tópicos é o livro “Numerical Optimization” de Nocedal e Wright
 - Modelos típicos de Pesquisa Operacional (em particular, de programação inteira mista), vistos nas disciplinas “Pesquisa Operacional I e II” (Exemplos: [DRLP](https://link.springer.com/article/10.1007/s11590-018-1263-9); [Grade de horários](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i))
 - O ensino de Pesquisa Operacional/Otimização no Ensino Médio *(depende de parceria com docente da área de educação matemática)*
+- Variantes BFGS para otimização irrestrita ([ref 1](https://doi.org/10.1093/imanum/11.3.325), [ref 2](https://doi.org/10.1016/S0377-0427(00)00540-9), [ref 3](https://doi.org/10.1186/s13660-017-1453-5), [ref 4](https://doi.org/10.1007/s40314-018-0620-8))
 
 <!-- - Método do q-gradiente ([ref 1](http://dx.doi.org/10.1016/j.ejor.2016.01.001), [ref 2](https://journalofinequalitiesandapplications.springeropen.com/articles/10.1186/s13660-021-02554-6)) -->
 
