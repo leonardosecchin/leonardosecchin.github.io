@@ -212,8 +212,7 @@ sol.Position=CreateNNSolution(model);
 - [Instâncias TSP Euclidiano](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view)
 
 
-
-## Atividade 3
+<!--## Atividade 3-->
 
 <!--*   **Objetivo: programar um Algoritmo Genético (AG) para resolver o TSP; familiarizar-se com ajuste de parâmetros, testes numéricos, etc.**
 *   Escolha 2 mutações e 2 crossover’s para comparar (veja slides da aula de 23/08)
@@ -223,14 +222,19 @@ sol.Position=CreateNNSolution(model);
 *   Os valores ótimos de cada problema podem ser encontrados [aqui](https://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/STSP.html).
 *   **<span style="color: #ff0000">Fazer um relatório e entregar os códigos. O trabalho é individual.</span>**-->
 
-## Atividade 4
 
-<!--Esta atividade consiste na apresentação, pelo aluno, de um artigo selecionado. Cada aluno escolherá um artigo e fará uma apresentação contendo:
+## Atividade 3
 
-*   o problema e a metodologia de resolução (metaheurística usada/adaptada pelo(s) autore(s));
-*   reprodução, pelo menos parcial, dos testes numéricos. O aluno deverá programar o método e realizar os testes, comparando com os testes relatados no artigo (pode-se utilizar os códigos das aulas ou outros que estiverem disponíveis na internet, em qualquer linguagem de programação).
+Esta atividade consiste na apresentação, pelo aluno, de um artigo selecionado. Cada aluno escolherá um artigo e fará uma apresentação explicando:
 
-_**Critérios de pontuação da apresentação:**_
+- o problema estudado, sua aplicação;
+- a metodologia de resolução (metaheurística usada/adaptada pelo(s) autore(s));
+- detalhes da representação dos dados;
+- detalhes do funcionamento do algoritmo;
+- discussão dos testes numéricos apresentados.
+<!--- reprodução, pelo menos parcial, dos testes numéricos. O aluno deverá programar o método e realizar os testes, comparando com os testes relatados no artigo (pode-se utilizar os códigos das aulas ou outros que estiverem disponíveis na internet, em qualquer linguagem de programação).-->
+
+<!--_**Critérios de pontuação da apresentação:**_
 
 *   Qualidade da apresentação (slides, material digital ou impresso…)
 *   Organização das ideias e sequência lógica do assunto
@@ -260,47 +264,78 @@ _**Média final das apresentações:**_
 *   A média final M.ap das apresentações será a média aritmética das notas de cada apresentação:  
     <span style="color: #0000ff">**M.ap = (ap.1 + ap.2 + ap.3 + …) / n**</span>
 *   Observe que é possível   M.ap > 10   caso o grupo realize mais de uma apresentação.
+-->
 
 **_Artigos selecionados:_**
 
 [**A Hybrid Grouping Genetic Algorithm for the Multiple-Type Access Node Location Problem**](https://link.springer.com/chapter/10.1007/978-3-642-04394-9_46)  
-O. Alonso-Garrido, S. Salcedo-Sanz, L. E. Agustín-Blas, E. G. Ortiz-García, A. M. Pérez-Bellido, J. A. Portilla-Figueras.
-
-* * *
-
-**[Four-bar Mechanism Synthesis for n Desired Path Points Using Simulated Annealing](https://link.springer.com/chapter/10.1007/978-3-540-72960-0_2)**  
-Horacio Martínez-Alfaro
+O. Alonso-Garrido, S. Salcedo-Sanz, L.E. Agustín-Blas, E.G. Ortiz-García, A.M. Pérez-Bellido, J.A. Portilla-Figueras.
 
 * * *
 
 [**A simple and robust Simulated Annealing algorithm for scheduling workover rigs on onshore oil fields**](https://www.sciencedirect.com/science/article/pii/S0360835210003220)  
-Glaydston Mattos Ribeiro, Geraldo Regis Mauri, Luiz Antonio Nogueira Lorena
+G.M. Ribeiro, G.R. Mauri, L.A.N. Lorena
 
 * * *
 
 [**A simple and effective genetic algorithm for the two-stage capacitated facility location problem**](https://www.sciencedirect.com/science/article/pii/S0360835214001764)  
-Diogo R.M. Fernandes, Caroline Rocha, Daniel Aloise, Glaydston M. Ribeiro, Enilson M. Santos, Allyson Silva
+D.R.M. Fernandes, C. Rocha, D. Aloise, G.M. Ribeiro, E.M. Santos, A. Silva
 
-_Instâncias para testes:_ [_https://www.gerad.ca/~aloise/publications.html_](https://www.gerad.ca/~aloise/publications.html)
+_Instâncias para testes: [https://www.gerad.ca/~aloise/publications.html](https://www.gerad.ca/~aloise/publications.html)_
 
 * * *
 
 [**A greedy randomized adaptive search procedure for the point-feature cartographic label placement**](https://www.sciencedirect.com/science/article/pii/S0098300407001033)  
-Gildásio Lecchi Cravo, Glaydston Mattos Ribeiro, Luiz Antonio Nogueira Lorena
+G.L. Cravo, G.M. Ribeiro, L.A.N. Lorena
 
 _Instâncias para testes: [http://www.lac.inpe.br/~lorena/instancias.html](http://www.lac.inpe.br/~lorena/instancias.html)  (seção “Map labeling”)_
 
 * * *
 
 [**Simulated annealing and tabu search approaches for the Corridor Allocation Problem**](https://www.sciencedirect.com/science/article/abs/pii/S0377221713005808)  
-H.Ahonen, A.G.de Alvarenga, A.R.S.Amaral.
+H. Ahonen, A.G.de Alvarenga, A.R.S. Amaral.
 
 _Instâncias para testes: (tabelas C.4, C.5 e C.6 do artigo) [CAP-Amaral 2012](#)  
 Instâncias tratadas para Octave: [CAP-Amaral_m](#)_
 
 * * *
 
-**_Outros artigos:_**
+[**A Biased Random-Key Genetic Algorithm for the Traffic Counting Location Problem**](https://ieeexplore.ieee.org/abstract/document/8923993)  
+G. Clímaco, P.H. Gonzalez, G.M. Ribeiro, G.R. Mauri, L. Simonetti
+
+* * *
+
+[**Four-bar Mechanism Synthesis for n Desired Path Points Using Simulated Annealing**](https://link.springer.com/chapter/10.1007/978-3-540-72960-0_2)  
+H. Martínez-Alfaro
+
+* * *
+
+[**Dynamic Load Balancing Using an Ant Colony Approach in Micro-cellular Mobile Communications Systems**](https://link.springer.com/chapter/10.1007/978-3-540-72960-0_7)  
+S.-S. Kim, A.E. Smith, S.-J. Hong
+
+* * *
+
+[**Tabu Search Heuristic for Point-Feature Cartographic Label Placement**](https://link.springer.com/article/10.1023%2FA%3A1013720231747)  
+M. Yamamoto, G. Camara, L.A.N. Lorena
+
+* * *
+
+[**A GRASP algorithm for solving large-scale single row facility layout problems**](https://www.sciencedirect.com/science/article/abs/pii/S0305054819300486)  
+G.L. Cravo, A.R.S. Amaral
+
+* * *
+
+[**Single row facility layout problem using a permutation-based genetic algorithm**](https://www.sciencedirect.com/science/article/abs/pii/S0377221711002712)  
+D. Datta, A.R.S. Amaral, J.R. Figueira
+
+* * *
+
+[**Coevolutionary Genetic Algorithm to Solve Economic Dispatch**](https://link.springer.com/chapter/10.1007/978-3-540-72960-0_15)  
+M.M.A. Samed, M.A.S.S. Ravagnani
+
+* * *
+
+<!--**_Outros artigos:_**
 
 [Artigo 1](https://link.springer.com/chapter/10.1007/978-3-540-72960-0_15)
 
@@ -310,8 +345,5 @@ Instâncias tratadas para Octave: [CAP-Amaral_m](#)_
 
 * * *
 
-[Artigo 3](https://link.springer.com/content/pdf/10.1023/A:1013720231747)
-
-* * *
-
 [Artigo 4](https://www.sciencedirect.com/science/article/pii/S0305054811001298)-->
+
