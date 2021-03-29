@@ -149,17 +149,24 @@ O pacote `OptimizationProblems` contém alguns problemas irrestritos, muitos del
 
 Se pretende minimizar funções quadráticas, você pode ler matrizes da [Suite Sparse Matrix Collection](https://sparse.tamu.edu/). Trata-se de uma enorme reunião de matrizes, inclusive de grande porte provenientes de aplicações reais, disponíveis em vários formatos. É possível filtrar por tipo de matriz (simétricas, definidas positivas, condicionamento etc). Com o pacote [`SuiteSparseMatrixCollection`](https://github.com/JuliaSmoothOptimizers/SuiteSparseMatrixCollection.jl) é possível carregar matrizes da coletânea direto no Julia.
    - Na coletânea, as matrizes vêm em 3 formatos para escolha. Um deles é o formato Matrix Market (MM). No Julia, você precisará do pacote [`MatrixMarket`](https://github.com/JuliaSparse/MatrixMarket.jl) para ler matrizes neste formato.
-   - O pacote `SuiteSparseMatrixCollection` baixa as matrizes automaticamente para o diretório de trabalho do próprio Julia. Por exemplo, o trecho a seguir baixa as matrizes do grupo [**HB**](https://sparse.tamu.edu/HB) que são simétricas, definidas positivas e com dimensão $\leq 1000$:
+   - O pacote `SuiteSparseMatrixCollection` baixa as matrizes automaticamente para o diretório de trabalho do próprio Julia. Por exemplo, o trecho a seguir seleciona e baixa as matrizes do grupo [**HB**](https://sparse.tamu.edu/HB) que são reais, simétricas, definidas positivas e com dimensão $\leq 1000$:
    ~~~
    julia> using SuiteSparseMatrixCollection
-   julia> matrizes = ssmc[(ssmc.columns.rows .<= 1000) .& (ssmc.columns.group .== "HB") .& (ssmc.columns.numericalSym .== "symmetric") .& (ssmc.columns.posDef.== "yes")]
+   julia> matrizes = ssmc[(ssmc.nrows .<= 1000) .& (ssmc.group .== "HB") .& (ssmc.numerical_symmetry .== 1) .& (ssmc.real .== true) .& (ssmc.positive_definite .== true), :]
    julia> fetch_ssmc(matrizes, format="MM")
    ~~~
-   (veja a documentação do pacote para atualizações, caso os comandos acima não funcionem). Para acessar a primeira matriz da coleção `matrizes`, capturamos o diretório em que o arquivo da matriz se encontra e a carregamos na variável `A`:
+   Para acessar a primeira matriz da coleção `matrizes`, primeiro capturamos os diretórios em que os arquivos da matrizes se encontram:
    ~~~
    julia> using MatrixMarket
-   julia> path = matrix_path(matrizes.columns[1], format="MM")
-   julia> A = MatrixMarket.mmread(path * "/" * matrizes.columns[1].name * ".mtx")
+   julia> path = matrix_paths(matrizes, format="MM")
+   ~~~
+   O vetor `path` conterá os diretórios das matrizes. Podemos ler a primeira matriz fazendo:
+   ~~~
+   julia> A = MatrixMarket.mmread(path[1] * "/" * matrizes.name[1] * ".mtx")
+   ~~~
+   ou
+   ~~~
+   julia> A = MatrixMarket.mmread(joinpath(path[1], "$(matrizes.name[1]).mtx"))
    ~~~
 
 ### Formatos típicos em PL e programação quadrática
