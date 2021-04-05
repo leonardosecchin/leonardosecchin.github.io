@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - [**Um resultado ótimo sobre a convergência global de um método de Lagrangiano aumentado**](https://drive.google.com/file/d/1RB9NrsuoH7kdgEUYCpotsfjJhElUu9Sh/view?usp=sharing) *(in portuguese)*  
-  Seminário Brasileira de Otimização (web), 2021
+  Seminário Brasileiro de Otimização (web), 2021
 
 - [**Sobre a convergência de estratégias de Lagrangeano Aumentado**](https://drive.google.com/open?id=1jbapb8c0jpNrEfmYgLbZd6at5fDLbLQ6) *(in portuguese)*  
   Seminários de Otimização Contínua USP/Unicamp (web), 2020
