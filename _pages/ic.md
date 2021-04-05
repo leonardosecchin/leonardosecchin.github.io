@@ -24,6 +24,12 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 
 <!-- - Método do q-gradiente ([ref 1](http://dx.doi.org/10.1016/j.ejor.2016.01.001), [ref 2](https://journalofinequalitiesandapplications.springeropen.com/articles/10.1186/s13660-021-02554-6)) -->
 
+### Linguagens de programação
+
+Nos trabalhos que requerem implementação computacional, recomendo o uso da linguagem **Julia**. Nela, a escrita de modelos de otimização, o acesso à bancos de problemas-teste e o uso de pacotes de otimização consagrados é fácil. Essas características nem sempre estão disponíveis em C, Fortran ou mesmo Python. Além disso, é fácil programar em Julia (assemelha-se ao Matlab) e sua eficiência é comparada à linguagens de baixo nível como C e Fortran. Portanto, mesmo que você domine uma linguagem de programação como Python, recomendo considerar o uso do Julia.
+
+Você encontra mais detalhes da linguagem [neste link](/julia/) e exemplos para iniciar o uso do Julia em otimização [neste link](/juliaopt/).
+
 ### Orientações em andamento
 
 - 2020-2021 (TCC). Condições sequenciais de otimalidade em otimização (título provisório).  
