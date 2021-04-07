@@ -140,7 +140,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    - [**SLIDES** - Método de planos de corte / Resolução de sistemas de inequações convexas](/files/otim2/6.3.Planos_corte.pdf)
      - Código Julia
 
-1. **O Problema de mínimos quadrados linear e não-linear**
+1. **O Problema de quadrados mínimos linear e não-linear**
 
 
 
