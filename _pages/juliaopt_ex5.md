@@ -124,6 +124,6 @@ julia> fig = scatter!(x, y, label="", fill=(0,:orange,0.5));
 julia> fig = annotate!(0, 0.6, L"\textrm{área}=\int_{-1}^1 x^2 \, dx");
 julia> savefig(fig, "ex5.png");
 ~~~
-produz a figura abaixo. Note que utilizamos o pacote `LaTeXStrings`, que traduz comandos Latex em textos no Julia.
+produz a figura abaixo. Note que utilizamos o pacote `LaTeXStrings`, que traduz comandos Latex.
 
 ![Exemplo 5](/files/julia/ex5.png)
