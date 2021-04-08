@@ -22,6 +22,6 @@ include("testesSIF.jl")
 testesSIF()
 ~~~
 
-A primeira linha include o arquivo `testesSIF.jl` (que consideramos estar no mesmo diretório que `roda.jl`), e a segunda linha invoca a função `testesSIF()` definida neste arquivo. Ou seja, o arquivo `roda.jl` deve conter exatamente os comandos que faríamos dentro do ambiente Julia, em ordem.
+A primeira linha inclui o arquivo `testesSIF.jl` (que consideramos estar no mesmo diretório que `roda.jl`), e a segunda linha invoca a função `testesSIF()` definida neste arquivo. Ou seja, o arquivo `roda.jl` deve conter exatamente os comandos que faríamos dentro do ambiente Julia, em ordem.
 
 Ao término da execução, toda a memória alocada para as estruturas do Julia é liberada.

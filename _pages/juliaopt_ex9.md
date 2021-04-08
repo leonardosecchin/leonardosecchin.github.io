@@ -79,17 +79,17 @@ O arquivo ZIP a seguir contém problemas sem restrições selecionados da CUTEst
 **ALERTA IMPORTANTE: no momento da escrita deste manual, o pacote `CUTEst.jl` não lida com diretórios/arquivos que contenham espaços. Se você encontrar erros na execução de `CUTEstModel` (comando presente em `testesSIF.jl`), considere colocar os arquivos `SIF` em caminhos sem espaços.**
 
 
-### Exemplo 1
+### Exercício 1
 
 Teste o método de gradiente com interpolação quadrática nos problemas irrestritos selecionados, como explicado acima.
 
-### Exemplo 2
+### Exercício 2
 
 Implemente o método do gradiente espectral projetado **a partir do código [`gradiente_interp.jl`](/files/julia/gradiente_interp.jl)**. No arquivo [`testesSIF.jl`](/files/julia/testesSIF.jl) há instruções para inserir sua implementação. Rode `testesSIF` sobre os [**problemas irrestritos selecionados**](/files/julia/cutest_irrestrito.zip).
 
 Veja um [**exemplo da saída gerada**](/files/julia/resultados.txt) pela rotina `testesSIF`, com dois métodos (`gradiente_interp.jl` e SPG).
 
-### Exemplo 3
+### Exercício 3
 
 Usando o mesmo código `testesSIF.jl`, teste sua implementação do gradiente espectral projetado para os problemas com restrições de caixa (variáveis com limitantes) selecionados da CUTEst:
 

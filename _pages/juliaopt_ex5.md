@@ -71,7 +71,7 @@ Um *notebook* é um "caderno" de comandos em série. Salve o *notebook* [grafico
 
 Dentro do Jupyter, abra `grafico.ipynb`. Você pode executar os comandos em sequência clicando no botão "Run", ou teclando Ctrl+Enter em cada linha. **Ao executar uma linha, aparecerá "[*]". Isso siginifca que o Julia está processando. Quando o Julia terminar o processamento da linha, aparecerá um número referente à ordem de execução**.
 
-Este método garante que o gráfico será mostrado na tela do navegador.
+Neste método, o gráfico será mostrado na tela do navegador.
 
 Estude o *notebook* e mude-o como quiser. Você pode retirar o `;` (ponto e vírgula) no final de cada linha para ver a saída do Julia (assim como no ambiente de comandos do Julia).
 
@@ -81,7 +81,7 @@ Estude o *notebook* e mude-o como quiser. Você pode retirar o `;` (ponto e vír
 O comando `plot` aceita personalização. Por exemplo, para mudar título e texto do eixo $x$:
 
 ~~~
-julia> fig = plot(histf,label="f", title="Função objetivo", xlabel="iter");
+julia> fig = plot(histf, label="f", title="Função objetivo", xlabel="iter");
 ~~~
 
 As opções são separadas por vírgula. Eis algumas delas:
@@ -108,3 +108,21 @@ As opções são separadas por vírgula. Eis algumas delas:
 É possível trabalhar plots aninhados (*subplots*) ou até mesmo fazer figuras animadas. Mais exemplos e configurações:
 - <https://docs.juliaplots.org/latest/>
 - [Um tutorial](https://sites.google.com/view/oficinadejuliapetmecanicaufes/gr%C3%A1ficos/gr%C3%A1ficos-bidimensionais?authuser=0)
+
+
+## Outros comandos interessantes
+
+É possível plotar pontos para funções discretas com o comando `scatter`. Também, o comando `annotate` imprimi textos nas coordenadas indicadas.
+
+O trecho a seguir
+~~~
+julia> using Plots, LaTeXStrings
+julia> x = -1:0.1:1
+julia> y(x) = x^2
+julia> fig = plot(x, y, label=L"f(x)=x^2");
+julia> fig = scatter!(x, y, label="", fill=(0,:orange,0.5));
+julia> fig = annotate!(0, 0.6, L"\textrm{área}=\int_{-1}^1 x^2 \, dx");
+julia> savefig(fig, "ex5.png");
+~~~
+produz a seguinte figura:
+![Exemplo 5](/files/julia/ex5.png)
