@@ -114,7 +114,7 @@ As opções são separadas por vírgula. Eis algumas delas:
 
 É possível plotar pontos para funções discretas com o comando `scatter`. Também, o comando `annotate` imprimi textos nas coordenadas indicadas.
 
-O trecho a seguir
+Como exemplo, o trecho a seguir
 ~~~
 julia> using Plots, LaTeXStrings
 julia> x = -1:0.1:1
@@ -124,5 +124,6 @@ julia> fig = scatter!(x, y, label="", fill=(0,:orange,0.5));
 julia> fig = annotate!(0, 0.6, L"\textrm{área}=\int_{-1}^1 x^2 \, dx");
 julia> savefig(fig, "ex5.png");
 ~~~
-produz a seguinte figura:
+produz a figura seguinte. Note que utilizamos o pacote `LaTeXStrings`, que traduz comandos Latex em textos do Julia.
+
 ![Exemplo 5](/files/julia/ex5.png)
