@@ -49,3 +49,5 @@ julia> nlp = MathOptNLPModel(P)
 ~~~
 
 O modelo `nlp` está pronto para ser resolvido pelos métodos! A estrutura `nlp` fornece as derivadas de 1a e 2a ordens aos métodos sem a necessidade de calculá-las.
+
+A estrutura `nlp.meta` contém propriedades do problema. Por exemplo, `nlp.meta.nvar` e `nlp.meta.ifree` contém o número de variáveis e o vetor de índices das variáveis livres, respectivamente. Consulte a [página do pacote NLPModels](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) para uma descrição de todas as opções.

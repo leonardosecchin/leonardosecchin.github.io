@@ -40,3 +40,5 @@ Exibindo o modelo construído e transformando-o para **NLPModels**:
 julia> println(P)
 julia> nlp = MathOptNLPModel(P)
 ~~~
+
+A estrutura `nlp.meta` contém propriedades do problema. Por exemplo, `nlp.meta.nvar` e `nlp.meta.ifree` contém o número de variáveis e o vetor de índices das variáveis livres, respectivamente. Consulte a [página do pacote NLPModels](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) para uma descrição de todas as opções.
