@@ -92,7 +92,7 @@ Há muitas outras possibilidades. A seguir, uma lista de *tags* que você pode u
   - **"linear"**: apenas restrições lineares
   - **"quadratic"**: apenas restrições quadráticas
   - **"general"**: restrições mais gerais que as categorias acima
-  - Obs: o comando `CUTEst.contypes` lista os tipos de função objetivo acima.
+  - Obs: o comando `CUTEst.contypes` lista os tipos de restrições acima.
 
 
 ### USANDO PROBLEMAS BAIXADOS MANUALMENTE
