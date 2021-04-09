@@ -83,8 +83,16 @@ Há muitas outras possibilidades. A seguir, uma lista de *tags* que você pode u
   - **"quadratic"**: função objetivo quadrática
   - **"sum_of_squares"**: função objetivo igual à uma soma de quadrados
   - **"other"**: outro tipo não especificado acima
-
-O comando `CUTEst.objtypes` lista os tipos de função objetivo acima.
+  - Obs: o comando `CUTEst.objtypes` lista os tipos de função objetivo acima.
+- **contype=C**: categoria das restrições, onde **C** pode assumir
+  - **"unc"**: sem restrições (problema irrestrito)
+  - **"fixed_vars"**: restrições somente fixando variáveis
+  - **"bounds"**: somente limitantes em variáveis
+  - **"network"**: restrições representam a matriz de adjacência de uma rede
+  - **"linear"**: apenas restrições lineares
+  - **"quadratic"**: apenas restrições quadráticas
+  - **"general"**: restrições mais gerais que as categorias acima
+  - Obs: o comando `CUTEst.contypes` lista os tipos de função objetivo acima.
 
 
 ### USANDO PROBLEMAS BAIXADOS MANUALMENTE
