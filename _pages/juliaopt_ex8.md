@@ -90,7 +90,7 @@ Há muitas outras possibilidades. A seguir, uma lista de *tags* que você pode u
   - **"bounds"**: somente limitantes em variáveis
   - **"network"**: restrições representam a matriz de adjacência de uma rede
   - **"linear"**: apenas restrições lineares
-  - **"quadratic"**: apenas restrições quadráticas
+  - **"quadratic"**: apenas restrições quadráticas (inclue as lineares)
   - **"general"**: restrições mais gerais que as categorias acima
   - Obs: o comando `CUTEst.contypes` lista os tipos de restrições acima.
 
