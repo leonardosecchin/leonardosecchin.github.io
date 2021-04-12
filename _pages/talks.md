@@ -5,11 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
+- [**Lagrangiano aumentado com critério de parada escalado**](https://drive.google.com/file/d/1ElFeZxVK01JYEf4JpCrNr_TjTJiRvHw6/view?usp=sharing) *(in portuguese)*  
+  Seminário de Otimização Contínua Unicamp/USP (web), 2021
+
 - [**Um resultado ótimo sobre a convergência global de um método de Lagrangiano aumentado**](https://drive.google.com/file/d/1RB9NrsuoH7kdgEUYCpotsfjJhElUu9Sh/view?usp=sharing) *(in portuguese)*  
   Seminário Brasileiro de Otimização (web), 2021
 
 - [**Sobre a convergência de estratégias de Lagrangeano Aumentado**](https://drive.google.com/open?id=1jbapb8c0jpNrEfmYgLbZd6at5fDLbLQ6) *(in portuguese)*  
-  Seminários de Otimização Contínua USP/Unicamp (web), 2020
+  Seminário de Otimização Contínua Unicamp/USP (web), 2020
   
 - [**Condições sequenciais de otimalidade em Otimização Contínua**](https://drive.google.com/open?id=1UOQ_CFm3yPapuoWBxL1sKI6LMZClJUpq) *(in portuguese)*  
   XIV EnCPos, 2019
