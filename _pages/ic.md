@@ -32,7 +32,7 @@ Você encontra mais detalhes da linguagem [neste link](/julia/) e exemplos para 
 
 ### Orientações em andamento
 
-- 2020-2021 (TCC). Condições sequenciais de otimalidade em otimização (título provisório).  
+- 2020-2021 (TCC). Uma condição sequencial de otimalidade em otimização não linear e sua aplicação a um método de lagrangiano aumentado.  
   Aluno: Thiago Mantegazini
 
 - 2020-2021 (IC). Variantes do método do gradiente para otimização irrestrita.  
