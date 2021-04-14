@@ -7,7 +7,7 @@ author_profile: true
 
 [<< voltar para "Julia para Otimização"](/juliaopt/)
 
-## Objetivo: tabelar resultados de usando DataFrames.
+## Objetivo: tabelar resultados usando DataFrames.
 
 Vimos no [Exemplo 9](/juliaopt_ex9/) como escrever uma tabela de resultados em arquivo TXT. Essa forma rústica assemelha-se à estratégia comumente adotada em programas C ou Fortran. Porém, o Julia oferece um recurso mais inteligente para lidar com dados tabelados: o objeto **DataFrame**. Este recurso está presente no pacote `DataFrames.jl`. Consulte a [página do pacote](github.com/JuliaData/DataFrames.jl).
 
