@@ -33,3 +33,4 @@ Pacotes utilizados nos exemplos:
 - [Exemplo 8](/juliaopt_ex8): acessando bibliotecas de problemas-teste usadas na literatura.
 - [Exemplo 9](/juliaopt_ex9): gravando arquivos de texto; tabelando resultados.
 - [Exemplo 10](/juliaopt_ex10): executando códigos fora do ambiente Julia
+- [Exemplo 11](/juliaopt_ex11): salvando objetos em arquivos
