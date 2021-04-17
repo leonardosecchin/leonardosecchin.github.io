@@ -51,6 +51,7 @@ Dentre os métodos implementados estão:
 - Newton com regiões de confiança,
 - pontos interiores para caixas
 - e até as metaheurísticas *Simulated Annealing* e *Particle Swarm*.
+
 Veja a [documentação](https://julianlsolvers.github.io/Optim.jl/stable/) para detalhes.
 
 ## Outros algoritmos
