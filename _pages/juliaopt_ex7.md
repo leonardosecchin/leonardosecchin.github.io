@@ -11,7 +11,7 @@ author_profile: true
 
 Ao longo da disciplina ["Otimização 2"](/otimizacao2/) utilizamos interfaces para pacotes de otimização com restrições. Sempre que disponível, damos preferência à pacotes que leêm estruturas `NLPmodels`, com derivadas automáticas, como nosso `gradiente` do [Exemplo 4](/juliaopt_ex4/).
 
-A seguir listo alguns excelentes pacotes.
+A seguir listo alguns excelentes pacotes. Alguns possuem interface para `NLPModels`, outros para `JuMP`, e outros para ambas as estruturas.
 
 ## Algencan
 
@@ -38,6 +38,20 @@ Existem interfaces para *softwares* proprietários. Neste caso você precisará 
 - **Xpress:** [site do desenvolvedor](https://www.fico.com/en/products/fico-xpress-optimization) / [interface Julia](https://github.com/jump-dev/Xpress.jl)
 - **Mosek:** [site do desenvolvedor](https://www.mosek.com/) / [interface Julia](https://github.com/jump-dev/MosekTools.jl)
 - **Knitro:** [site do desenvolvedor](https://www.artelys.com/knitro) / [interface Julia](https://github.com/jump-dev/KNITRO.jl) / [interface NLPModels Julia](https://github.com/JuliaSmoothOptimizers/NLPModelsKnitro.jl)
+- **WORHP:** [site do desenvolvedor](https://worhp.de/) / [interface Julia](https://github.com/freemin7/WorhpOpt.jl)
+
+## Pacote Optim
+
+O pacote `Optim.jl` contém métodos para otimização irrestrita e sobre caixas. Acesse a [página do pacote](https://julianlsolvers.github.io/Optim.jl/).
+
+Dentre os métodos implementados estão:
+- [gradientes conjugados de Hager e Zhang](https://doi.org/10.1145/1132973.1132979)
+- BFGS e BFGS com memória limitada (L-BFGS),
+- método de Newton puro,
+- Newton com regiões de confiança,
+- pontos interiores para caixas
+- e até as metaheurísticas *Simulated Annealing* e *Particle Swarm*.
+Veja a [documentação](https://julianlsolvers.github.io/Optim.jl/stable/) para detalhes.
 
 ## Outros algoritmos
 
