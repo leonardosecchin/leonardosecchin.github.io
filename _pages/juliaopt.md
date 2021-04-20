@@ -12,7 +12,7 @@ Nesta página você encontrará exemplos/exercícios simples para iniciar a escr
 
 - Antes estudar os exemplos, leia atentamente o [tutorial de instalação](/julia/) do Julia. **Sugiro familiarizar-se com as dicas descritas na seção "Dicas" deste link.**
 
-Pacotes utilizados nos exemplos:
+Principais pacotes utilizados nos exemplos:
 - Escrita dos modelos de otimização: `JuMP`. Documentação completa [aqui](https://jump.dev/JuMP.jl/stable/)
 - Modelos de otimização com derivadas automáticas: `NLPModels`, `NLPModelsJuMP`. Como avaliar funções e suas derivadas, veja [este link](https://github.com/JuliaSmoothOptimizers/NLPModels.jl)
 - Rotinas de álgebra linear: `LinearAlgebra`
@@ -20,6 +20,7 @@ Pacotes utilizados nos exemplos:
 - Impressão na tela/arquivo estilo C: `Printf`
 - Plotagem de gráficos: `Plots`
 
+Outros pacotes são apresentados nos exemplos.
 
 # Exemplos
 
