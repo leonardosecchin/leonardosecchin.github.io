@@ -35,3 +35,4 @@ Pacotes utilizados nos exemplos:
 - [Exemplo 10](/juliaopt_ex10): executando códigos fora do ambiente Julia
 - [Exemplo 11](/juliaopt_ex11): salvando objetos em arquivos
 - [Exemplo 12](/juliaopt_ex12): tabelando resultados de forma inteligente com *DataFrames*
+- [Exemplo 13](/juliaopt_ex13): tratando erros de execução
