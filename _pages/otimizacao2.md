@@ -138,7 +138,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    - [**SLIDES** - Dualidade em Programação Não Linear, parte 1](/files/otim2/6.1.Dualidade1.pdf)
    - [**SLIDES** - Dualidade em Programação Não Linear, parte 2](/files/otim2/6.2.Dualidade2.pdf)
    - [**SLIDES** - Método de planos de corte / Resolução de sistemas de inequações convexas](/files/otim2/6.3.Planos_corte.pdf)
-     - Código Julia
+     - [Código Julia](https://drive.google.com/file/d/1hEk6GZaokQ9bMBIAqXTdC5bkQau_pacC/view?usp=sharing)
 
 1. **O Problema de quadrados mínimos linear e não-linear**
 
