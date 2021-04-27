@@ -30,10 +30,6 @@ author_profile: true
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
    Optimization Online, 2020
 
-1. [On the convergence of augmented Lagrangian strategies for nonlinear programming](http://www.optimization-online.org/DB_HTML/2020/03/7701.html)  
-   R. Andreani, A. R. V. Cárdenas, A. Ramos, A. Ribeiro, L. D. Secchin  
-   Optimization Online, 2020
-
 1. [Optimality conditions for nonlinear second-order cone programming and symmetric cone programming](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
    Optimization Online, 2019
@@ -41,23 +37,27 @@ author_profile: true
 
 ## Published articles
 
-1. [New sequential optimality conditions for mathematical problems with complementarity constraints and algorithmic consequences](https://epubs.siam.org/doi/10.1137/18M121040X)  
+1. [On the convergence of augmented Lagrangian strategies for nonlinear programming](https://doi.org/10.1093/imanum/drab021)  
+   R. Andreani, A. R. Velazco, A. Ramos, A. A. Ribeiro, L. D. Secchin  
+   IMA Journal of Numerical Analysis, 2021
+
+1. [New sequential optimality conditions for mathematical problems with complementarity constraints and algorithmic consequences](https://doi.org/10.1137/18M121040X)  
    R. Andreani, G. Haeser, L. D. Secchin, P. J. S. Silva  
    SIAM Journal on Optimization, 2019
 
-1. [Bilevel optimization with a multiobjective problem in the lower level](https://link.springer.com/article/10.1007/s11075-018-0576-1)  
+1. [Bilevel optimization with a multiobjective problem in the lower level](https://doi.org/10.1007/s11075-018-0576-1)  
    R. Andreani, V. A. Ramirez, S. A. Santos, L. D. Secchin  
    Numerical Algorithms, 2019
 
-1. [A Sequential Optimality Condition Related to the Quasi-normality Constraint Qualification and Its Algorithmic Consequences](https://epubs.siam.org/doi/abs/10.1137/17M1147330)  
+1. [A Sequential Optimality Condition Related to the Quasi-normality Constraint Qualification and Its Algorithmic Consequences](https://doi.org/10.1137/17M1147330)  
    R. Andreani, N. S. Fazzio, M. L. Schuverdt, L. D. Secchin  
    SIAM Journal on Optimization, 2019
 
-1. [An improved mixed-integer programming model for the double row layout of facilities](https://link.springer.com/article/10.1007/s11590-018-1263-9)  
+1. [An improved mixed-integer programming model for the double row layout of facilities](https://doi.org/10.1007/s11590-018-1263-9)  
    L. D. Secchin, A. R. S. Amaral  
    Optimization Letters, 2019
 
-1. [Convergence properties of a second order augmented Lagrangian method for mathematical programs with complementarity constraints](https://epubs.siam.org/doi/abs/10.1137/17M1125698)  
+1. [Convergence properties of a second order augmented Lagrangian method for mathematical programs with complementarity constraints](https://doi.org/10.1137/17M1125698)  
    R. Andreani, L. D. Secchin, P. J. S. Silva  
    SIAM Journal on Optimization, 2018
 
@@ -76,7 +76,7 @@ author_profile: true
    R. Andreani, L. D. Secchin  
    Proceeding Series of the Brazilian Society of Computational and Applied Mathematics, 2018
 
-1. [Estratégias de restauração inexata aplicadas a problemas de otimização com restrições de Pareto](https://proceedings.sbmac.org.br/sbmac/article/view/2059)  
+1. [Estratégias de restauração inexata aplicadas a problemas de otimização com restrições de Pareto](https://doi.org/10.5540/03.2018.006.01.0359)  
    R. Andreani, S. A. Santos, L. D. Secchin  
    Proceeding Series of the Brazilian Society of Computational and Applied Mathematics, 2018
 
