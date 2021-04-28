@@ -12,6 +12,13 @@ author_profile: true
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
 
+## Objetivos da disciplina
+
+- Estudar os fundamentos dos métodos de resolução clássicos para programação não linear, sobretudo com restrições
+- Analisar aspectos teóricos e numéricos dos métodos
+- Implementar algoritmos em computador e testá-los em problemas da literatura
+- Promover a utilização de pacotes computacionais, discutindo seus comportamentos numéricos e aspectos teóricos (discussão de artigos científicos e manuais)
+
 ## Textos de referência
 
 - [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)
@@ -36,11 +43,11 @@ author_profile: true
 
 <!-- ## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643) -->
 
-## ATENÇÃO: Turma 2020/2E
+<!--## ATENÇÃO: Turma 2020/2E
 
 No segundo semestre letivo especial de 2020, as informações, material de estudo, tarefas, avaliações e aulas gravadas estarão disponíveis pelo Ambiente Virtual de Aprendizagem (AVA-UFES), [NESTE LINK](https://ava.ufes.br/course/view.php?id=16074). O(a) aluno(a) deverá fazer login com sua senha do portal do aluno para ter acesso ao curso.
 
-Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solicite acesso enviando email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo seu **nome completo** e **endereço de email @edu.ufes.br**.
+Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solicite acesso enviando email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo seu **nome completo** e **endereço de email @edu.ufes.br**.-->
 
 ## Formas de avaliação
 
@@ -88,7 +95,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
      - Referências bibliográficas do Algencan: [1. artigo inicial](https://epubs.siam.org/doi/10.1137/060654797?mobileUi=0) (versão alternativa com [acesso livre](https://www.ime.usp.br/~egbirgin/publications/abms2-siam.pdf)), [2. livro](https://epubs.siam.org/doi/book/10.1137/1.9781611973365) e [3. texto em português com acesso livre](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
 
 
-1. **Penalização interna / barreiras / Pontos interiores**
+1. **Penalização interna / barreiras / pontos interiores**
 
    *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
@@ -121,38 +128,32 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - [**SLIDES** - Boa definição do SQP básico e algumas questões práticas do método](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)
 - [**SLIDES** - Subproblemas quadráticos com regiões de confiança](/files/otim2/5.3.SQP_subprob.pdf)
 - [**SLIDES** - SQP para problemas com restrições não lineares de igualdade e desigualdade](/files/otim2/5.4.SQP_subprob_IP.pdf)
-- Discussão dos pacotes computacionais
+- **Pacotes computacionais**
   - [WORHP](https://worhp.de/)
     - [Principal referência bibliográfica do pacote](https://link.springer.com/chapter/10.1007%2F978-1-4614-4469-5_4)
     - Outra referência com [acesso livre](https://www.math.uni-bremen.de/zetem/cms/media.php/279/2546042wassel.pdf)
   - [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
 
 
-### Outros tópicos
+### Dualidade em programação não linear
 
-1. **Dualidade**
+*Referência 1: [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)*  
+*Referência 2: Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008.*
 
-   *Referência 1: [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)*  
-   *Referência 2: Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008.*
+- [**SLIDES** - Dualidade em Programação Não Linear, parte 1](/files/otim2/6.1.Dualidade1.pdf)
+- [**SLIDES** - Dualidade em Programação Não Linear, parte 2](/files/otim2/6.2.Dualidade2.pdf)
+- [**SLIDES** - Método de planos de corte / Resolução de sistemas de inequações convexas](/files/otim2/6.3.Planos_corte.pdf)
+  - [Código Julia](https://drive.google.com/file/d/1hEk6GZaokQ9bMBIAqXTdC5bkQau_pacC/view?usp=sharing)
 
-   - [**SLIDES** - Dualidade em Programação Não Linear, parte 1](/files/otim2/6.1.Dualidade1.pdf)
-   - [**SLIDES** - Dualidade em Programação Não Linear, parte 2](/files/otim2/6.2.Dualidade2.pdf)
-   - [**SLIDES** - Método de planos de corte / Resolução de sistemas de inequações convexas](/files/otim2/6.3.Planos_corte.pdf)
-     - [Código Julia](https://drive.google.com/file/d/1hEk6GZaokQ9bMBIAqXTdC5bkQau_pacC/view?usp=sharing)
 
-1. **O Problema de quadrados mínimos linear e não-linear**
+### O Problema de quadrados mínimos linear e não-linear
 
-   *Referência: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006.*
+*Referência: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006.*
 
-   - [**SLIDES** - Quadrados mínimos linear](/files/otim2/6.4.quadrados_min_linear.pdf)
+- [**SLIDES** - Quadrados mínimos linear](/files/otim2/6.4.quadrados_min_linear.pdf)
 
 
 ## Vídeos interessantes sobre Otimização
 
 1.  [IMECC Unicamp no facebook](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
 1.  [Grupo de otimização IMECC Unicamp](http://www.ime.unicamp.br/~martinez/seminarios.html)
-
-<!--## Material de Otimização II de períodos passados:
-
-- [**2018/2**](/otimizacao2-2018-2/)
-- [**2019/2**](/otimizacao2-2019-2/)-->

@@ -42,13 +42,7 @@ author_profile: true
 *   *** RESULTADO PARCIAL ***-->
 
 
-## Notas de Aula
-
-<!--- [**NOTAS DE AULA**](https://leonardosecchin.github.io/files/alglin/notas-AL.pdf)-->
-- **NOTAS DE AULA**
-
-
-## Conteúdo adicional
+## Conteúdo
 
 ### Matrizes
 
@@ -59,13 +53,13 @@ author_profile: true
 
 ### Sistemas Lineares
 
-<!--- [Exercícios livro-texto (Boldrini) - Capítulo 2](https://drive.google.com/file/d/1ul17tDNq1nPVV_0BzAidjyaQ-cR4xQXf/view)-->
+- Exercícios livro-texto (Boldrini) - Capítulo 2
 - Vídeos básicos (nível ensino médio) do IMPA/Obmep. Veja as seções "Sistemas lineares" em [https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75)
 
 
 ### Determinantes
 
-<!--- [Exercícios livro-texto (Boldrini) - Capítulo 3](https://drive.google.com/file/d/1FUeuMRqESIm02YMIZ0RQeOCTX8nXXxfK/view)-->
+- Exercícios livro-texto (Boldrini) - Capítulo 3
 
 
 ### Espaços Vetoriais
@@ -74,12 +68,12 @@ author_profile: true
 - [VÍDEO-AULA (Prof. Possani, USP): Independência / Dependência linear](https://www.youtube.com/watch?v=A7hwTnMmW_s&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=2)
 - [VÍDEO-AULA (Prof. Possani, USP): Base, dimensão e revisão de sistemas lineares](https://www.youtube.com/watch?v=iaMTWxAS8FA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=3)
 - [VÍDEO-AULA (Prof. Possani, USP): Mudança de base - SOMENTE ATÉ 34:50](https://www.youtube.com/watch?v=6dSJViDpe8U&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=9)
-<!--- [Exercícios livro-texto (Boldrini) - Capítulo 4](https://drive.google.com/file/d/1ETwG3qjFQTNNJ5N0p1Uq0XZIbe8_yYFg/view)-->
+- Exercícios livro-texto (Boldrini) - Capítulo 4
 
 
 ### Transformações lineares
 
-<!--- [Exercícios livro-texto (Boldrini) - Capítulo 5](https://drive.google.com/file/d/1wakryLEheaBS1h_perJST0ecrSPZbx05/view)-->
+- Exercícios livro-texto (Boldrini) - Capítulo 5
 - Vídeos básicos (nível ensino médio) do IMPA/Obmep.  
 [A geometria das transformações lineares](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=203)  
 [Operando com transformações lineares](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=204)
@@ -87,23 +81,23 @@ author_profile: true
 
 ### Autovalores e autovetores
 
-<!--- [Exercícios livro-texto (Boldrini) - Capítulo 6](https://drive.google.com/file/d/1GfC_zBqSAcCxtxpQNCFz7NbQwdxV3ue-/view)-->
+- Exercícios livro-texto (Boldrini) - Capítulo 6
 
 
 ### Diagonalização
 
-<!--- [Exercícios livro-texto (Boldrini) - Capítulo 7](https://drive.google.com/file/d/1zTEbIHY4WxS7gvz0QHn8RSUxxny3z1I0/view)-->
+- Exercícios livro-texto (Boldrini) - Capítulo 7
 
 
 ### Produto interno
 
-<!--- [Exercícios livro-texto (Boldrini) - Capítulo 8](https://drive.google.com/file/d/1yUE7kXYI2QUOs-mfWa5-nO7FXWcdT78g/view)-->
+- Exercícios livro-texto (Boldrini) - Capítulo 8
 
 
 ### Aplicações da Álgebra Linear
 
 Álgebra Linear aplica-se à uma infinidade de situações!!! Veja abaixo referências com algumas delas.
 
-*   Seções 1.8, 1.9, 4.12, 5.4, 7.4, 9.6 e todo o capítulo 10 do livro “Álgebra Linear com aplicações” (10a edição) de Anton e Rorres. Disponível [neste link](http://www.professores.uff.br/jcolombo/wp-content/uploads/sites/124/2018/08/Algebra_Linear_com_Aplica_10_-Edi_Anton_Rorres.pdf)
+*   Seções 1.8, 1.9, 4.12, 5.4, 7.4, 9.6 e todo o capítulo 10 do livro “Álgebra Linear com aplicações” (10a edição) de Anton e Rorres.
 *   Seções 1.9, 2.7, 2.8, 4.8, 4.9, 5.6, 5.7, 6.5, 6.6, 6.8, 7.5 do livro “Álgebra Linear e suas aplicações” de David Lay
 *   … e no google é fácil de encontrar inúmeras aplicações!!!

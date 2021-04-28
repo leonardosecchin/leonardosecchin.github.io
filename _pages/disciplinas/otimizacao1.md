@@ -13,6 +13,14 @@ author_profile: true
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20I%20-%20DMA11995.pdf)
 
+## Objetivos da disciplina
+
+- Estudar conceitos básicos em programação não linear
+- Estudar os fundamentos dos métodos de resolução clássicos para programação não linear, sobretudo sem restrições
+- Analisar aspectos teóricos e numéricos dos métodos
+- Implementar algoritmos em computador e testá-los em problemas da literatura
+- Promover a utilização de pacotes computacionais sempre que possível
+
 
 ## Textos de referência
 
@@ -117,8 +125,3 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 -  [IMECC Unicamp no facebook](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
 -  [Grupo de Otimização IMECC Unicamp](http://www.ime.unicamp.br/~martinez/seminarios.html)
-
-
-<!--## Material de Otimização I ministrada em períodos passados
-
-- **[2019/1](/otimizacao1-2019-1/)**-->
