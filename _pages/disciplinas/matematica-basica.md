@@ -8,14 +8,14 @@ author_profile: true
 ## CONTEÚDO
 
 1.  Conjuntos numéricos (números naturais, inteiros, reais)
-2.  Funções (conceito, gráfico)
-3.  Funções afins, quadráticas, modulares, compostas, inversas, pares e ímpares
-4.  Funções logarítmicas e exponenciais
-5.  Trigonometria no triângulo retângulo e na circunferência
-6.  Equações trigonométricas, Lei dos Senos, Lei dos Cossenos
-7.  Funções trigonométricas (seno, cosseno, etc, e inversas)
-8.  Números complexos
-9.  Polinômios
+1.  Funções (conceito, gráfico)
+1.  Funções afins, quadráticas, modulares, compostas, inversas, pares e ímpares
+1.  Funções logarítmicas e exponenciais
+1.  Trigonometria no triângulo retângulo e na circunferência
+1.  Equações trigonométricas, Lei dos Senos, Lei dos Cossenos
+1.  Funções trigonométricas (seno, cosseno, etc, e inversas)
+1.  Números complexos
+1.  Polinômios
 
 ## [PROGRAMA DA DISCIPLINA](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Matem%C3%A1tica%20B%C3%A1sica%20-%20DMA11166.pdf)
 
@@ -50,7 +50,7 @@ OU, no caso contrário,
 *   [Mat_Bas_2018.1_P2](https://drive.google.com/file/d/1S6YHbRqypAa2oE2rGcuHPoVUhng9xxD4/view?usp=sharing)
 *   [Mat_Bas_2018.1_P3](https://drive.google.com/file/d/1g-AS1Bwdq2H2qx1Vxq721BvEGHceW4pE/view?usp=sharing)
 
-Respostas da terceira prova:
+<!--Respostas da terceira prova:
 
 1.  (a) arccos x e arcsen x são as funções inversas de cos x e sen x, respectivamente  
     (b) e (c) [-1,1]
@@ -71,7 +71,7 @@ Respostas da terceira prova:
     (b) Escreva z_1 e z_2 na forma trigonométrica usando variáveis rho_1, rho_2, theta_1, theta_2 … Faça a soma z_1+z_2 na forma trigonométrica. Colocando partes em evidência, você verá aparecer  
     cos theta_1 * cos theta_2  +  sen theta_1 * sen theta_2  
     Isso é   cos( theta_1 – theta_2).  Conclua a desigualdade usando o fato que  
-    -1  <=  cos( theta_1 – theta_2)  <=  1.
+    -1  <=  cos( theta_1 – theta_2)  <=  1.-->
 
 ## MONITORIA
 
