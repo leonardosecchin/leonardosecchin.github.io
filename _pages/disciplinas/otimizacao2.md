@@ -141,7 +141,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
      - [Código Julia](https://drive.google.com/file/d/1hEk6GZaokQ9bMBIAqXTdC5bkQau_pacC/view?usp=sharing)
 
 1. **O Problema de quadrados mínimos linear e não-linear**
-
+   - [**SLIDES** - Quadrados mínimos linear](/files/otim2/6.4.quadrados_min_linear.pdf)
 
 
 ## Vídeos interessantes sobre Otimização
