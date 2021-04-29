@@ -151,6 +151,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 *Referência: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006.*
 
 - [**SLIDES** - Quadrados mínimos linear](/files/otim2/6.4.quadrados_min_linear.pdf)
+- [**SLIDES** - Quadrados mínimos não linear - método de Gauss-Newton](/files/otim2/6.5.Quad_min_naolinear_Gauss_Newton.pdf)
 
 
 ## Vídeos interessantes sobre Otimização
