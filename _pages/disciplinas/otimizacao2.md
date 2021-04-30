@@ -39,7 +39,7 @@ author_profile: true
 - [LISTA 1 - Métodos de penalidades](https://drive.google.com/file/d/1CMOR5fsCtm5e1Krh0dSHuF5bqHF6-06s/view?usp=sharing)
 - [TRABALHO COMPUTACIONAL 1 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing)
 - [TRABALHO COMPUTACIONAL 2 - Método de pontos interiores aplicado à programação linear](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing)
-- LISTA 2 - Programação quadrática sequencial, dualidade
+- [LISTA 2 - Programação quadrática sequencial, dualidade](https://drive.google.com/file/d/107lofrTIsihgnHR43QJ53fxjp3_9lO61/view?usp=sharing)
 
 <!-- ## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643) -->
 
