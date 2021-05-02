@@ -180,3 +180,7 @@ Se pretende minimizar funções quadráticas, você pode ler matrizes da [Suite 
 ### Formatos típicos em PL e programação quadrática
 
 Em programação linear/quadrática, os formatos livres de arquivo `MPS` e `QPS` são usados (por exemplo, o CPLEX lê esses formatos). Uma interface para leitura desses tipos de arquivos no Julia vem no pacote [`QPSReader`](https://github.com/JuliaSmoothOptimizers/QPSReader.jl).
+
+### Problemas de quadrados mínimos não lineares
+
+O pacote [`NLSModels`](https://github.com/JuliaSmoothOptimizers/NLSProblems.jl) traz os problemas de quadrados mínimos não lineares de [Moré, Garbow e Hillstrom (1981)](https://doi.org/10.1145/355934.355936) em formato `NLPModels`.
