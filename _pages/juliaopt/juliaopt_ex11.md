@@ -40,6 +40,6 @@ O método anterior é bom porque grava essencialmente qualquer tipo de dado exat
 
 É comum precisarmos exportar dados tabelados em formatos acessíveis por editores como OpenCalc ou Excel. É claro que podemos sempre optar pelo formato de texto puro TXT. Porém, existem pacotes que podem minimizar o trabalho manual de converter arquivos TXT. São eles:
 
-- **CSV.jl**: grava/lê tabelas em formato CSV. Acesse a [página do pacote](csv.juliadata.org/)
-- **XLSX.jl**: grava/lê tabelas em formato Excel. Acesse a [página do pacote](github.com/felipenoris/XLSX.jl)
-- **OdsIO.jl**: grava/lê tabelas em formato ODS (LibreOffice, OpenOffice). Acesse a [página do pacote](github.com/sylvaticus/OdsIO.jl)
+- **CSV.jl**: grava/lê tabelas em formato CSV. Acesse a [página do pacote](https://csv.juliadata.org/)
+- **XLSX.jl**: grava/lê tabelas em formato Excel. Acesse a [página do pacote](https://github.com/felipenoris/XLSX.jl)
+- **OdsIO.jl**: grava/lê tabelas em formato ODS (LibreOffice, OpenOffice). Acesse a [página do pacote](https://github.com/sylvaticus/OdsIO.jl)
