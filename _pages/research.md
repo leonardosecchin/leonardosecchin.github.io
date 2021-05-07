@@ -38,7 +38,7 @@ author_profile: true
 ## Published articles
 
 1. [On the convergence of augmented Lagrangian strategies for nonlinear programming](https://doi.org/10.1093/imanum/drab021)  
-   R. Andreani, A. R. Velazco, A. Ramos, A. A. Ribeiro, L. D. Secchin  
+   R. Andreani, A. Ramos, A. A. Ribeiro, L. D. Secchin, A. R. Velazco  
    IMA Journal of Numerical Analysis, 2021
 
 1. [New sequential optimality conditions for mathematical problems with complementarity constraints and algorithmic consequences](https://doi.org/10.1137/18M121040X)  
