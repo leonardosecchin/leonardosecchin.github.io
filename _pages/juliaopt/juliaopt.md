@@ -37,3 +37,4 @@ Outros pacotes são apresentados nos exemplos.
 - [Exemplo 11](/juliaopt_ex11/): salvando objetos em arquivos
 - [Exemplo 12](/juliaopt_ex12/): tabelando resultados de forma inteligente com *DataFrames*
 - [Exemplo 13](/juliaopt_ex13/): tratando erros de execução
+- [Exemplo 14](/juliaopt_ex14/): calculando tempos de execução

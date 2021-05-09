@@ -5,7 +5,7 @@
 # tabela saídas em "resultados.txt".
 #
 # Autor: Leonardo D. Secchin
-# Data : mar 2021
+# Data : mai 2021
 #
 # Uso:
 #   testesSIF(sifpath="caminho diretório SIFs")
@@ -35,8 +35,8 @@ function testesSIF(; sifpath=pwd()*"/sif")
     try
 
     # escreve cabeçalho no arquivo de saída
-    write(arq, "\n\n        Prob |      n | método |    it |         f |     grad | st | tempo (s)\n"*
-                   "==============================================================================\n")
+    write(arq, "\n\n        Prob |      n | método |    it |         f |     grad | st |\n"*
+                   "====================================================================\n")
     flush(arq)
 
     compilar = true
@@ -69,7 +69,7 @@ function testesSIF(; sifpath=pwd()*"/sif")
             if nlp.meta.minimize == true
 
                 # escreve dados do problema no arquivo de saída
-                write(arq, "-------------|--------|--------|-------|-----------|----------|----|----------\n")
+                write(arq, "-------------|--------|--------|-------|-----------|----------|----|\n")
                 write(arq, @sprintf("%12s | %6d", probname, nlp.meta.nvar))
                 flush(arq)
 
@@ -88,13 +88,11 @@ function testesSIF(; sifpath=pwd()*"/sif")
                     println("Resolvendo "*probname*" pelo método do gradiente...")
 
                     # aplica gradiente a partir do ponto inicial fornecido no problema
-                    tempoinicial = time()
                     ~, gra_f, gra_g, gra_it, gra_st = gradiente_interp(nlp, x0=nlp.meta.x0, maxiter=maxit, saidas=false);
-                    tempofinal = time()
 
                     # escreve resultado no arquivo de saida
-                    write(arq, @sprintf(" |   grad | %5d | %9.2e | %8.2e | %2d | %4.6f\n",
-                            gra_it, gra_f, gra_g, gra_st, tempofinal-tempoinicial))
+                    write(arq, @sprintf(" |   grad | %5d | %9.2e | %8.2e | %2d |\n",
+                            gra_it, gra_f, gra_g, gra_st))
                     flush(arq)
 
                     primeiro_res = false
@@ -113,22 +111,20 @@ function testesSIF(; sifpath=pwd()*"/sif")
                     #**********************************************************
 
 #                     println("Resolvendo "*probname*" pelo método do gradiente espectral projetado...")
-# 
+#
 #                     # aplica SPG a partir do ponto inicial fornecido no problema
-#                     tempoinicial = time()
 #                     ~, spg_f, spg_g, spg_it, spg_st = spg(nlp, x0=nlp.meta.x0, maxiter=maxit, saidas=false);
-#                     tempofinal = time()
-# 
+#
 #                     # escreve resultado no arquivo de saida
 #                     # se já há linha de método anterior, tabula adequadamente
 #                     if !primeiro_res
 #                         write(arq, "             |       ")
 #                     end
-# 
-#                     write(arq, @sprintf(" |    spg | %5d | %9.2e | %8.2e | %2d | %4.6f\n",
-#                             spg_it, spg_f, spg_g, spg_st, tempofinal-tempoinicial))
+#
+#                     write(arq, @sprintf(" |    spg | %5d | %9.2e | %8.2e | %2d |\n",
+#                             spg_it, spg_f, spg_g, spg_st))
 #                     flush(arq)
-# 
+#
 #                     primeiro_res = false
 
                 end
