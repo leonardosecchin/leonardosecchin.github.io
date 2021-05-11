@@ -26,16 +26,16 @@ author_profile: true
    R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
    Optimization Online, 2020
 
-1. [On the use of Jordan Algebras for improving global convergence of an Augmented Lagrangian method in nonlinear semidefinite programming](http://www.optimization-online.org/DB_HTML/2020/05/7787.html)  
-   R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
-   Optimization Online, 2020
-
 1. [Optimality conditions for nonlinear second-order cone programming and symmetric cone programming](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
    Optimization Online, 2019
 
 
 ## Published articles
+
+1. [On the use of Jordan Algebras for improving global convergence of an Augmented Lagrangian method in nonlinear semidefinite programming](https://doi.org/10.1007/s10589-021-00281-8)  
+   R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
+   Computational Optimization and Applications, 2021
 
 1. [On the convergence of augmented Lagrangian strategies for nonlinear programming](https://doi.org/10.1093/imanum/drab021)  
    R. Andreani, A. Ramos, A. A. Ribeiro, L. D. Secchin, A. R. Velazco  
