@@ -60,7 +60,7 @@ Você encontra mais detalhes da linguagem [neste link](/julia/) e exemplos para 
 
 ### Bolsas para estudantes
 
-Há possibilidade de bolsa(s) de iniciação científica, a depender da disponibilidade de recursos previstos nos Editais de IC. Na escolha do bolsista são considerados aspectos como desempenho curricular, entrevista e situação de vulnerabilidade sócioeconômica (cadastro em programas de assitência estudantil).
+Há possibilidade de bolsa(s) de iniciação científica, a depender da disponibilidade de recursos previstos nos Editais de IC. Na escolha do bolsista são considerados aspectos como desempenho curricular, entrevista e situação de vulnerabilidade sócioeconômica (cadastro em programas de assistência estudantil).
 
 ## Modelos não oficiais em Latex
 
