@@ -32,9 +32,6 @@ Você encontra mais detalhes da linguagem [neste link](/julia/) e exemplos para 
 
 ### Orientações em andamento
 
-- 2020-2021 (TCC). Uma condição sequencial de otimalidade em otimização não linear e sua aplicação a um método de lagrangiano aumentado.  
-  Aluno: Thiago Mantegazini
-
 - 2020-2021 (IC). Variantes do método do gradiente para otimização irrestrita.  
   Aluno: Elivandro Oliveira Grippa  
   [RESUMO](https://drive.google.com/file/d/1AsCeRaIqg_82Q-irbgp4zOW4UcmuQDKt/view?usp=sharing)
@@ -45,6 +42,8 @@ Você encontra mais detalhes da linguagem [neste link](/julia/) e exemplos para 
 
 ### Orientações concluídas
 
+- 2021 (TCC). Uma condição sequencial de otimalidade em otimização não linear e sua aplicação a um método lagrangiano aumentado.  
+  Aluno: Thiago Mantegazini
 - 2020 (IC). [Métodos e formulações para o problema de layout em fila dupla](https://drive.google.com/file/d/1OQmZN3R_ZWwI8yjiXoLhmeDEDke4r3zy/view?usp=sharing)  
   Aluno: Manoel de Almeida Rocha Neto
 - 2014 (TCC). [Problemas de escalonamento](https://drive.google.com/open?id=1Ce6xReyjM8JvqyMbGXB_pd7tjFyrb5Np)  
