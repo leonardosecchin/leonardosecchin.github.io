@@ -40,7 +40,7 @@ Você encontra mais detalhes da linguagem [neste link](/julia/) e exemplos para 
 
 ### Orientações concluídas
 
-- 2021 (TCC). Uma condição sequencial de otimalidade em otimização não linear e sua aplicação a um método lagrangiano aumentado.  
+- 2021 (TCC). Uma condição sequencial de otimalidade em otimização não linear e sua aplicação a um método lagrangiano aumentado  
   Aluno: Thiago Mantegazini
 - 2020 (IC). Métodos e formulações para o problema de layout em fila dupla  
   Aluno: Manoel de Almeida Rocha Neto  
