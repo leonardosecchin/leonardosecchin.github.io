@@ -17,6 +17,10 @@ author_profile: true
 
 ## Submitted articles
 
+1. [Linear Convergence of Quasi-Newton Methods for Solving Constrained Generalized Equations](http://www.optimization-online.org/DB_HTML/2021/05/8400.html)  
+   R. Andreani, R. M. Carvalho, L. D. Secchin, G. N. Silva  
+   Optimization Online, 2021
+
 1. [On scaled stopping criteria for a safeguarded augmented Lagrangian method with theoretical guarantees](http://www.optimization-online.org/DB_HTML/2020/08/7985.html)  
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin, P. J. S. Silva  
    Optimization Online, 2020  
