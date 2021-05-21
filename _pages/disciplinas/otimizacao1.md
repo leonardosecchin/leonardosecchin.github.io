@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas síncronas
 
-- --<!--Quartas-feiras: 07:30 - 08:30-->
-- --<!--Quintas-feiras: 09:30 - 10:30-->
+- Terças-feiras: 11:00 - 12:00
+- Quintas-feiras: 9:30 - 10:30
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20I%20-%20DMA11995.pdf)
@@ -40,9 +40,9 @@ author_profile: true
 
 <!-- ## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643) -->
 
-<!--## Formas de avaliação:
+## Formas de avaliação:
 
-- 3 avaliações, sendo no mínimo 1 prova escrita.-->
+- provas escritas, trabalhos computacionais ou apresentações orais.
 
 ## Listas de exercícios e trabalhos
 

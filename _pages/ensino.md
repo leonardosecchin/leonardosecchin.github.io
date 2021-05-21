@@ -9,8 +9,8 @@ author_profile: true
 
 - [**Otimização 1**  
   (Matemática Industrial)](/otimizacao1/)
-<!--- [**Tópicos em Pesquisa Operacional**  
-  (Matemática Industrial)](/topicospo/)-->
+- [**Tópicos em Pesquisa Operacional**  
+  (Matemática Industrial)](/topicospo/)
 
 ## A linguagem de programação Julia
 
