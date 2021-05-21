@@ -13,6 +13,7 @@ author_profile: true
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20I%20-%20DMA11995.pdf)
 
+
 ## Objetivos da disciplina
 
 - Estudar conceitos básicos em programação não linear
@@ -38,11 +39,16 @@ author_profile: true
 - [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
 
 
-<!-- ## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643) -->
+## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643)
+
+- Todo o material do curso, como slides e referências, estará disponível exclusivamente nesta página
+- Notas das atividades e **aulas gravadas** serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos
+
 
 ## Formas de avaliação:
 
 - provas escritas, trabalhos computacionais ou apresentações orais.
+
 
 ## Listas de exercícios e trabalhos
 
@@ -68,6 +74,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**SLIDES** - Conceitos básicos](/files/otim1/1.Conceitos_basicos.pdf)
 - [VÍDEO: Uma visão geral da otimização - fala do prof. Jose Mario Martinez (Unicamp)](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
 
+
 ### Otimização sem restrições
 
 - Texto referência para este módulo: capítulo 2 do livro de Ana Friedlander.
@@ -75,11 +82,13 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**SLIDES** - Otimização sem restrições](/files/otim1/2.Otimizacao_sem_restricoes.pdf)
 - Faça todos os exercícios do Capítulo 2 do livro de Ana Friedlander
 
+
 ### Convexidade
 
 - Texto referência para este módulo: capítulo 3 do livro de Ana Friedlander.
 - Texto complementar para este módulo: capítulo 3 do livro de Karas e Ribeiro.
 - [**SLIDES** - Convexidade](/files/otim1/3.Convexidade.pdf)
+
 
 ### Métodos para otimização sem restrições
 
@@ -93,24 +102,28 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**SLIDES** - Gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
   - **Trabalho 1:** implementação e teste do método dos gradientes conjugados (veja seção "listas de exercícios e trabalhos")
 
+
 ### A linguagem de programação Julia
 
 Julia é uma linguagem de programação de alto nível surgida em 2012, que implementa várias ferramentas para uso geral em matemática aplicada. Em particular, Julia possui várias ferramentas para otimização. É muito parecida com o Matlab, portanto os códigos são fáceis de entender. Os trabalhos computacionais desta disciplina serão feitos em Julia. A seguir você encontra instruções de instalação, bem como exemplos simples que ajudarão você a dar os primeiros passos nas ferramentas de otimização disponíveis no Julia.
 
 - [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
 - [Julia para Otimização - primeiros passos](/juliaopt/)
-  - Estude os exemplos 1, 2, 3, 4, 5, 8, 9, 12 e 14 do *link* acima
+  - Estude os exemplos 1 a 5, 8, 9, 12 e 14 do *link* acima
   - Em especial, faça o [**Exemplo 4**](/juliaopt_ex4/) sobre implementação do método do gradiente em Julia
+
 
 ### Comparação do desempenho de diferentes algoritmos
 
-- Texto complementar para este módulo: seção 6.3 do livro de Karas e Ribeiro.
-- **SLIDES** - Perfis de desempenho de Dolan e Moré
-  - gerando perfis de desempenho com o Julia
+- Texto referência para este módulo: seção 6.3 do livro de Karas e Ribeiro.
+- **SLIDES** - Perfis de desempenho segundo [Dolan e Moré](https://link.springer.com/article/10.1007/s101070100263)
+  - [BenchmarkProfiles.jl](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl) - gerando perfis de desempenho com o Julia
+
 
 ### Otimização com restrições
 
 - [**SLIDES** - Otimização com restrições; condições de Karush-Kuhn-Tucker (KKT)](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
+
 
 ### Métodos para otimização com restrições
 
