@@ -5,12 +5,12 @@ permalink: /ensino/
 author_profile: true
 ---
 
-## DISCIPLINAS 2020/2E
+## DISCIPLINAS 2021/1E
 
-- [**Otimização 2**  
-  (Matemática Industrial)](/otimizacao2/)
-- [**Metaheurísticas**  
-  (Matemática Industrial)](/metaheuristicas/)
+- [**Otimização 1**  
+  (Matemática Industrial)](/otimizacao1/)
+<!--- [**Tópicos em Pesquisa Operacional**  
+  (Matemática Industrial)](/topicospo/)-->
 
 ## A linguagem de programação Julia
 
@@ -27,8 +27,8 @@ author_profile: true
   (Matemática Industrial e Licenciatura em Matemática)](/laboratorio-de-matematica/)
 - [**Matemática Básica**  
   (Matemática Industrial)](/matematica-basica/)
-<!--- [**Metaheurísticas**  
-  (Matemática Industrial)](/metaheuristicas/)-->
+- [**Metaheurísticas**  
+  (Matemática Industrial)](/metaheuristicas/)
 - [**Otimização 1**  
   (Matemática Industrial)](/otimizacao1/)
 - [**Otimização 2**  
