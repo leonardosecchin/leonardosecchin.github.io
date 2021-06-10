@@ -94,6 +94,7 @@ As opções são separadas por vírgula. Eis algumas delas:
 - **Tamanho da fonte da legenda:** `legendfont=font(12)`
 - **Marcas nos eixos:** `xtick=(0:0.5:10, ["\$ $(i) \$" for i in 0:0.5:10])`, `ytick=-1:0.5:1`
 - **Tamanho da fonte das marcas:** `xtickfont=font(15)`, `ytickfont=font(20)` ou `tickfont=font(10)`
+- **Mudar todos os textos para fonte padrão do Latex:** `fontfamily="Computer Modern"`
 - **Limites nos eixos:** `xlims=(0,10)`, `ylims=(-1,1)`
 - **Tamanho da imagem em pixels:** `size=(500,400)`
 - **Espessura da linha do gráfico em pixels:** `lw=5`
