@@ -87,14 +87,14 @@ julia> fig = plot(histf, label="f", title="Função objetivo", xlabel="iter");
 As opções são separadas por vírgula. Eis algumas delas:
 
 *Textos:*
-- **Texto do título:** `title="Texto"`
+- **Texto do título:** `title="Texto do título"`
 - **Texto dos eixos**: `xlabel="x"`, `ylabel="y"`
 - **Texto da legenda:** `label="f"`
 
 *Eixos:*
 - **Marcas nos eixos:** `xtick=(0:0.5:10, ["\$ $(i) \$" for i in 0:0.5:10])`, `ytick=-1:0.5:1`
 - **Limites nos eixos:** `xlims=(0,10)`, `ylims=(-1,1)`
-- **Escala nos eixos:** `xscale/yscale=:identity/ :ln/log2/ :log10`
+- **Escala dos eixos:** `xscale/yscale=:identity :ln :log2 :log10`
 - **Forçar mesma proporção entre eixos:** `aspect_ratio=:equal`
 
 *Fontes:*
@@ -106,13 +106,13 @@ As opções são separadas por vírgula. Eis algumas delas:
 
 *Linhas dos gráficos:*
 - **Espessura da linha do gráfico em pixels:** `lw=3`
-- **Estilo da linha do gráfico:** `ls=:dot/ :dash/ :auto/ :dashdot/ :dashdotdot/ :solid`
-- **Cor da linha do gráfico:** `color=:black/ :red/ :blue/ :yellow/ :cyan/ :orange...` ou `color=RGB(.1, .3, 1)`
-- **Marcas no gráfico:** `markershape=:none/ :auto/ :circle/ :rect/ :star5/ :diamond/ :hexagon/ :cross/ :xcross/ :utriangle/ :dtriangle/ :rtriangle/ :ltriangle/ :pentagon/ :heptagon/ :octagon/ :star4/ :star6/ :star7/ :star8/ :vline/ :hline/ :+/ :x`
+- **Estilo da linha do gráfico:** `ls=:solid` (padrão) `:dot :dash :auto :dashdot :dashdotdot`
+- **Cor da linha do gráfico:** `color=:black :red :blue :yellow :cyan :orange...` ou `color=RGB(.1, .3, 1)`
+- **Marcas no gráfico:** `markershape=:none` (padrão) `:auto :circle :rect :star5 :diamond :hexagon :cross :xcross :utriangle :dtriangle :rtriangle :ltriangle :pentagon :heptagon :octagon :star4 :star6 :star7 :star8 :vline :hline :+ :x`
 - **Tamanho das marcas do gráfico em pixels:** `markersize=4`
 
 *Outras configurações da legenda:*
-- **Posição da legenda:** `legend=:right/ :left/ :top/ :bottom/ :inside/ :best/ :topright/ :topleft/ :bottomleft/ :bottomright`
+- **Posição da legenda:** `legend=:right :left :top :bottom :inside :best :topright :topleft :bottomleft :bottomright`
 - **Ocultar legenda:** `leg=false`
 - **Cor do fundo da legenda:** `background_color_legend=:[COR]` ou `background_color_legend=:transparent` (fundo transparente)
 
