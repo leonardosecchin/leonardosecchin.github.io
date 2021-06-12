@@ -94,7 +94,7 @@ As opções são separadas por vírgula. Eis algumas delas:
 *Eixos:*
 - **Marcas nos eixos:** `xtick=(0:0.5:10, ["\$ $(i) \$" for i in 0:0.5:10])`, `ytick=-1:0.5:1`
 - **Limites nos eixos:** `xlims=(0,10)`, `ylims=(-1,1)`
-- **Escala dos eixos:** `xscale/yscale=:identity :ln :log2 :log10`
+- **Escala dos eixos:** `xscale/yscale=:identity :log10`
 - **Forçar mesma proporção entre eixos:** `aspect_ratio=:equal`
 
 *Fontes:*
