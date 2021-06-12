@@ -94,7 +94,7 @@ As opções são separadas por vírgula. Eis algumas delas:
 *Eixos:*
 - **Marcas nos eixos:** `xtick=(0:0.5:10, ["\$ $(i) \$" for i in 0:0.5:10])`, `ytick=-1:0.5:1`
 - **Limites nos eixos:** `xlims=(0,10)`, `ylims=(-1,1)`
-- **Escala nos eixos:** `xscale/yscale=:identity/:ln/log2/:log10`
+- **Escala nos eixos:** `xscale/yscale=:identity/ :ln/log2/ :log10`
 - **Forçar mesma proporção entre eixos:** `aspect_ratio=:equal`
 
 *Fontes:*
@@ -106,20 +106,20 @@ As opções são separadas por vírgula. Eis algumas delas:
 
 *Linhas dos gráficos:*
 - **Espessura da linha do gráfico em pixels:** `lw=3`
-- **Estilo da linha do gráfico:** `ls=:dot/:dash/:auto/:dashdot/:dashdotdot/:solid`
-- **Cor da linha do gráfico:** `color=:black/:red/:blue/:yellow/:cyan/:orange...` ou `color=RGB(.1, .3, 1)`
-- **Marcas no gráfico:** `markershape=:none/:auto/:circle/:rect/:star5/:diamond/:hexagon/:cross/:xcross/:utriangle/:dtriangle/:rtriangle/:ltriangle/:pentagon/:heptagon/:octagon/:star4/:star6/:star7/:star8/:vline/:hline/:+/:x`
+- **Estilo da linha do gráfico:** `ls=:dot/ :dash/ :auto/ :dashdot/ :dashdotdot/ :solid`
+- **Cor da linha do gráfico:** `color=:black/ :red/ :blue/ :yellow/ :cyan/ :orange...` ou `color=RGB(.1, .3, 1)`
+- **Marcas no gráfico:** `markershape=:none/ :auto/ :circle/ :rect/ :star5/ :diamond/ :hexagon/ :cross/ :xcross/ :utriangle/ :dtriangle/ :rtriangle/ :ltriangle/ :pentagon/ :heptagon/ :octagon/ :star4/ :star6/ :star7/ :star8/ :vline/ :hline/ :+/ :x`
 - **Tamanho das marcas do gráfico em pixels:** `markersize=4`
 
 *Outras configurações da legenda:*
-- **Posição da legenda:** `legend=:right/:left/:top/:bottom/:inside/:best/:topright/:topleft/:bottomleft/:bottomright`
+- **Posição da legenda:** `legend=:right/ :left/ :top/ :bottom/ :inside/ :best/ :topright/ :topleft/ :bottomleft/ :bottomright`
 - **Ocultar legenda:** `leg=false`
 - **Cor do fundo da legenda:** `background_color_legend=:[COR]` ou `background_color_legend=:transparent` (fundo transparente)
 
 *Imagem:*
 - **Tamanho da imagem em pixels:** `size=(500,400)`
 - **Preencher área abaixo do gráfico:** `fill=(0,:orange,0.5)` (altura referência $y=0$, cor laranja, 50% de opacidade)
-- **Margens:** `bottom_margin=5mm`, `left_margin=10mm`, `top_margin=15mm`
+<!-- - **Margens:** `bottom_margin=5mm`, `left_margin=10mm`, `top_margin=15mm` -->
 
 Há muitas outras opções de personalização. Por exemplo, é possível trabalhar plots aninhados (*subplots*) ou até mesmo fazer figuras animadas. Veja mais exemplos e configurações em
 - <https://docs.juliaplots.org/latest/> ou ainda <https://docs.juliaplots.org/latest/generated/supported/>
