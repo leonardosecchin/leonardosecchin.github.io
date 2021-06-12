@@ -86,28 +86,43 @@ julia> fig = plot(histf, label="f", title="Função objetivo", xlabel="iter");
 
 As opções são separadas por vírgula. Eis algumas delas:
 
+*Textos:*
 - **Texto do título:** `title="Texto"`
-- **Tamanho da fonte do título:** `titlefont=font(40)`
 - **Texto dos eixos**: `xlabel="x"`, `ylabel="y"`
-- **Tamanho da fonte dos eixos:** `xguidefont=font(30)`, `yguidefont=font(20)` ou `guidefont=font(20)`
 - **Texto da legenda:** `label="f"`
-- **Tamanho da fonte da legenda:** `legendfont=font(12)`
+
+*Eixos:*
 - **Marcas nos eixos:** `xtick=(0:0.5:10, ["\$ $(i) \$" for i in 0:0.5:10])`, `ytick=-1:0.5:1`
-- **Tamanho da fonte das marcas:** `xtickfont=font(15)`, `ytickfont=font(20)` ou `tickfont=font(10)`
-- **Mudar todos os textos para fonte padrão do Latex:** `fontfamily="Computer Modern"`
 - **Limites nos eixos:** `xlims=(0,10)`, `ylims=(-1,1)`
-- **Tamanho da imagem em pixels:** `size=(500,400)`
-- **Espessura da linha do gráfico em pixels:** `lw=5`
-- **Estilo da linha do gráfico:** `ls=:dot/:dash/:auto/:dashdot/:dashdotdot/:solid`
-- **Cor da linha do gráfico:** `color="black/red/blue/yellow/cyan/orange..."` ou `color=RGB(.1, .3, 1)`
-- **Escala logarítmica no eixo $y$:** `yscale=:log10`
-- **Ocultar legenda:** `leg=false`
-- **Preencher área abaixo do gráfico:** `fill=(0,:orange,0.5)` (altura referência $y=0$, cor laranja, 50% de opacidade)
-- **Margens:** `bottom_margin=5mm`, `left_margin=10mm`, `top_margin=15mm`
+- **Escala nos eixos:** `xscale/yscale=:identity/:ln/log2/:log10`
 - **Forçar mesma proporção entre eixos:** `aspect_ratio=:equal`
 
-É possível trabalhar plots aninhados (*subplots*) ou até mesmo fazer figuras animadas. Mais exemplos e configurações:
-- <https://docs.juliaplots.org/latest/>
+*Fontes:*
+- **Tamanho da fonte do título:** `titlefont=font(40)`
+- **Tamanho da fonte dos eixos:** `xguidefont=font(30)`, `yguidefont=font(20)` ou `guidefont=font(20)`
+- **Tamanho da fonte das marcas:** `xtickfont=font(15)`, `ytickfont=font(20)` ou `tickfont=font(10)`
+- **Tamanho da fonte da legenda:** `legendfont=font(12)`
+- **Mudar tudo para fonte padrão do Latex:** `fontfamily="Computer Modern"`
+
+*Linhas dos gráficos:*
+- **Espessura da linha do gráfico em pixels:** `lw=3`
+- **Estilo da linha do gráfico:** `ls=:dot/:dash/:auto/:dashdot/:dashdotdot/:solid`
+- **Cor da linha do gráfico:** `color=:black/:red/:blue/:yellow/:cyan/:orange...` ou `color=RGB(.1, .3, 1)`
+- **Marcas no gráfico:** `markershape=:none/:auto/:circle/:rect/:star5/:diamond/:hexagon/:cross/:xcross/:utriangle/:dtriangle/:rtriangle/:ltriangle/:pentagon/:heptagon/:octagon/:star4/:star6/:star7/:star8/:vline/:hline/:+/:x`
+- **Tamanho das marcas do gráfico em pixels:** `markersize=4`
+
+*Outras configurações da legenda:*
+- **Posição da legenda:** `legend=:right/:left/:top/:bottom/:inside/:best/:topright/:topleft/:bottomleft/:bottomright`
+- **Ocultar legenda:** `leg=false`
+- **Cor do fundo da legenda:** `background_color_legend=:[COR]` ou `background_color_legend=:transparent` (fundo transparente)
+
+*Imagem:*
+- **Tamanho da imagem em pixels:** `size=(500,400)`
+- **Preencher área abaixo do gráfico:** `fill=(0,:orange,0.5)` (altura referência $y=0$, cor laranja, 50% de opacidade)
+- **Margens:** `bottom_margin=5mm`, `left_margin=10mm`, `top_margin=15mm`
+
+Há muitas outras opções de personalização. Por exemplo, é possível trabalhar plots aninhados (*subplots*) ou até mesmo fazer figuras animadas. Veja mais exemplos e configurações em
+- <https://docs.juliaplots.org/latest/> ou ainda <https://docs.juliaplots.org/latest/generated/supported/>
 - [Um tutorial](https://sites.google.com/view/oficinadejuliapetmecanicaufes/gr%C3%A1ficos/gr%C3%A1ficos-bidimensionais?authuser=0)
 
 
