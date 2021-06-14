@@ -41,8 +41,8 @@ author_profile: true
 
 ## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643)
 
-- Todo o material do curso, como slides e referências, estará disponível exclusivamente nesta página
-- Notas das atividades e **aulas gravadas** serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos
+- Todo o material do curso, como slides e referências, estará disponível exclusivamente nesta página.
+- Notas das atividades e **aulas gravadas** serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos.
 
 
 ## Formas de avaliação:
