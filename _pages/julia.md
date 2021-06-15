@@ -56,10 +56,11 @@ git clone https://github.com/JuliaLang/julia.git
 cd julia
 ~~~
 
-1. Neste repositório há versões do Julia ainda em teste. Recomendo instalar a última **versão estável**. Para isso, acesse <https://github.com/JuliaLang/julia> e veja qual a versão corrente na seção "releases" no lado direito. No momento da escrita deste tutorial, a última versão estável é a 1.5.3. Aponte a versão executando
+1. Neste repositório há versões do Julia ainda em teste. Recomendo instalar a última **versão estável**. Para isso, acesse <https://github.com/JuliaLang/julia> e veja qual a versão corrente na seção "releases" no lado direito da página. Aponte a versão executando
 ~~~
-git checkout v1.5.3
+git checkout v1.x.x
 ~~~
+onde **v1.x.x** é a versão corrente.
 
 1. Compile o Julia executando
 ~~~
