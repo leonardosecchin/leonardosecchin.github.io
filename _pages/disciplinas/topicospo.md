@@ -25,12 +25,15 @@ Ementa variável.
 
 ### Métodos de pontos interiores para programação linear
 
-1. Tragetória central
-1. Método seguidor de caminhos
+1. [Preliminares e o método primal afim escala (Dikin)](/files/topicospo/PTO_INT-primal_afim_escala.pdf)
+   - Leitura introdutória: capítulo 1 do livro de Wright (páginas 1 a 6)
+1. Método dual afim escala
+1. Tragetória central e o método seguidor de caminhos
 1. Método preditor-corretor de Mehrota
 1. Implementação computacional
 
 Referências:
+- Vanderbei, R. J. Linear programming. Foundations and extensions. 3 ed, Springer, 2008.
 - Wright, S. J. Primal-Dual Interior-Point Methods. SIAM, 1997.
 - Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006 (capítulo 14).
 
