@@ -159,7 +159,7 @@ julia> using JuMP
 
 Isso carregará o pacote `JuMP` na memória e suas funções internas ficarão disponíveis para uso.
 
-**Importante: o Julia compilará o pacote na primeira vez em que for carregado. Isso leva um tempo, mas é feito uma única vez.**
+**Importante: nas versões até 1.5.x, o Julia compilará o pacote na primeira vez em que for carregado. Isso leva um tempo, mas é feito uma única vez. A partir da versão 1.6.x, a compilação é feita no momento da instalação do pacote.**
 
 
 # Dicas
