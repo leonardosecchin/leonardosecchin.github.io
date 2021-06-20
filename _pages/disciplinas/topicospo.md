@@ -25,7 +25,7 @@ Ementa variável.
 
 ### Métodos de pontos interiores para programação linear
 
-1. [Preliminares e o método primal afim escala (Dikin)](/files/topicospo/PTO_INT-primal_afim_escala.pdf)
+1. [Preliminares e o método primal afim escala (Dikin)](/files/topicospo/PTO_INT_1-primal_afim_escala.pdf)
    - Leitura introdutória: capítulo 1 do livro de Wright (páginas 1 a 6)
 1. Método dual afim escala
 1. Tragetória central e o método seguidor de caminhos
