@@ -38,23 +38,25 @@ Referências:
 - Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006 (capítulo 14).
 
 
+### A linguagem de programação Julia
+
+1. Apresentação
+1. Julia para otimização
+
+Referências:
+- <https://leonardosecchin.github.io/julia/>
+
+
 ### Comparação de desempenho entre algoritmos
 
 1. Perfis de desempenho de Dolan e Moré
+1. O pacote Julia `BenchmarkProfiles`
+1. Exemplos
 
 Referências:
 - [Dolan, Elizabeth D.; Moré, Jorge J. Benchmarking optimization software with performance profiles. Math. Program., Ser. A 91: 201-213 (2002).](https://doi.org/10.1007/s101070100263)
 - [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/) (seção 6.3)
-
-
-### Linguagens de modelagem em otimização (a verificar)
-
-1. AMPL
-1. Julia
-
-Referências:
-- <https://ampl.com/> e <https://ampl.com/resources/the-ampl-book/>
-- <https://leonardosecchin.github.io/julia/>
+- <https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl>
 
 
 ### Relaxação lagrangiana para programação linear inteira mista
@@ -81,7 +83,7 @@ Referências:
 - <https://paperswithcode.com/methods/category/optimization>
 
 
-### Geração de colunas (a verificar)
+### Geração de colunas
 
 1. Decomposição de Dantzig-Wolfe
 1. Método de geração de colunas
