@@ -29,6 +29,7 @@ Ementa variável.
    - Leitura introdutória: capítulo 1 do livro de Wright (páginas 1 a 6)
 1. [Método dual afim escala](/files/topicospo/PTO_INT_2-dual_afim_escala.pdf)
 1. [Método primal dual afim escala](/files/topicospo/PTO_INT_3-primal_dual_afim_escala.pdf)
+   - [Exemplo da diferença entre usar ou não AMD antes de Cholesky (código Julia)](/files/topicospo/PTO_INT-amd_ex.zip)
 1. Tragetória central e o método seguidor de caminhos
 1. Método preditor-corretor de Mehrota
 1. Implementação computacional
