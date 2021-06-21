@@ -29,10 +29,13 @@ Ementa variável.
    - Leitura introdutória: capítulo 1 do livro de Wright (páginas 1 a 6)
 1. [Método dual afim escala](/files/topicospo/PTO_INT_2-dual_afim_escala.pdf)
 1. [Método primal dual afim escala](/files/topicospo/PTO_INT_3-primal_dual_afim_escala.pdf)
+   - Sobre a heurística *Approximate Minimum Degree* (AMD)
+     - [Artigo que propôs a heurística](http://dx.doi.org/10.1137/S0895479894278952)
+     - Muita pesquisa foi feita sobre métodos para reordenamento. Julia e Matlab usam a eficiente rotina [CHOLMOD](https://www.researchgate.net/publication/220492578_Algorithm_887_CHOLMOD_Supernodal_Sparse_Cholesky_Factorization_and_UpdateDowndate).
    - [Exemplo da diferença entre usar ou não AMD antes de Cholesky (código Julia)](/files/topicospo/PTO_INT-amd_ex.zip)
 1. Tragetória central e o método seguidor de caminhos
 1. Método preditor-corretor de Mehrota
-1. Implementação computacional
+1. **ATIVIDADE:** Implementação computacional do método preditor-corretor
 
 Referências:
 - Vanderbei, R. J. Linear programming. Foundations and extensions. 3 ed, Springer, 2008.
