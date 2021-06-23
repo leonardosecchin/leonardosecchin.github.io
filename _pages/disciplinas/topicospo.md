@@ -36,7 +36,7 @@ Ementa variável.
 1. Tragetória central e o método seguidor de caminhos
 1. Método preditor-corretor de Mehrota
 1. **[LISTA DE EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1yCbcSB4R-kmOqpZBTEzHVcqMyU6lspVO/view?usp=sharing)**
-   - **Código base para o exercício 6:** método primal-dual afim escala (em breve)
+   - Código base para o exercício 6 (em breve)
    - Problemas-testes selecionados (em breve)
 
 Referências:
