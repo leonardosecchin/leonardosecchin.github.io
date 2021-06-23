@@ -37,7 +37,7 @@ Ementa variável.
 1. Método preditor-corretor de Mehrota
 1. **[LISTA DE EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1yCbcSB4R-kmOqpZBTEzHVcqMyU6lspVO/view?usp=sharing)**
    - Código base para o exercício 6 (em breve)
-   - Problemas-testes selecionados (em breve)
+   - Problemas-teste selecionados (em breve)
 
 Referências:
 - Vanderbei, R. J. Linear programming. Foundations and extensions. 3 ed, Springer, 2008.
