@@ -35,7 +35,9 @@ Ementa variável.
    - [Exemplo da diferença entre usar ou não AMD antes de Cholesky (código Julia)](/files/topicospo/PTO_INT-amd_ex.zip)
 1. Tragetória central e o método seguidor de caminhos
 1. Método preditor-corretor de Mehrota
-1. **ATIVIDADE:** Implementação computacional do método preditor-corretor
+1. **[LISTA DE EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1yCbcSB4R-kmOqpZBTEzHVcqMyU6lspVO/view?usp=sharing)**
+   - **Código base para o exercício 6:** método primal-dual afim escala (em breve)
+   - Problemas-testes selecionados (em breve)
 
 Referências:
 - Vanderbei, R. J. Linear programming. Foundations and extensions. 3 ed, Springer, 2008.
