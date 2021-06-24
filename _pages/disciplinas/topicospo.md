@@ -21,9 +21,9 @@ Ementa variável.
 - Notas das atividades e **aulas gravadas** serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos.
 
 
-## Tópicos selecionados
+# Tópicos selecionados
 
-### Métodos de pontos interiores para programação linear
+## Métodos de pontos interiores para programação linear
 
 1. [Preliminares e o método primal afim escala (Dikin)](/files/topicospo/PTO_INT_1-primal_afim_escala.pdf)
    - Leitura introdutória: capítulo 1 do livro de Wright (páginas 1 a 6)
@@ -44,17 +44,8 @@ Referências:
 - Wright, S. J. Primal-Dual Interior-Point Methods. SIAM, 1997.
 - Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006 (capítulo 14).
 
-* * *
 
-***
-
-*****
-
-- - -
-
----------------------------------------
-
-### A linguagem de programação Julia
+## A linguagem de programação Julia
 
 1. Apresentação
 1. Julia para otimização
@@ -66,7 +57,7 @@ Referências:
 - [Pequeno tutorial sobre Julia](https://leonardosecchin.github.io/julia/) e links internos
 
 
-### Comparação de desempenho entre algoritmos
+## Comparação de desempenho entre algoritmos
 
 1. Perfis de desempenho de Dolan e Moré
 1. O pacote Julia `BenchmarkProfiles`
@@ -79,7 +70,7 @@ Referências:
 - [Pacote Julia BenchmarkProfiles](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl)
 
 
-### Relaxação lagrangiana para programação linear inteira mista
+## Relaxação lagrangiana para programação linear inteira mista
 
 1. Função lagrangiano e propriedades
 1. Relaxação lagrangiana de um problema linear
@@ -91,7 +82,7 @@ Referências:
 - [Florentino, H. O. Relaxação lagrangeana em programação inteira. Dissertação de Mestrado (ICMC/USP), São Carlos, 1990.](https://teses.usp.br/teses/disponiveis/55/55134/tde-20022019-110621/pt-br.php)
 
 
-### Algoritmos de otimização em aprendizado de máquina
+## Algoritmos de otimização em aprendizado de máquina
 
 1. Método do gradiente
 1. Redes Neurais
@@ -103,7 +94,7 @@ Referências:
 - [paperswithcode.com](https://paperswithcode.com/methods/category/optimization)
 
 
-### Geração de colunas
+## Geração de colunas
 
 1. Decomposição de Dantzig-Wolfe
 1. Método de geração de colunas
@@ -114,7 +105,7 @@ Referências:
 - Munari, P.; Morabito, R. A branch-price-and-cut algorithm for the vehicle routing problem with time windows and multiple deliverymen. TOP 26, 437–464 (2018). [artigo revista](https://doi.org/10.1007/s11750-018-0481-8); [PDF acesso livre](http://www.optimization-online.org/DB_FILE/2016/01/5289.pdf)
 
 
-<!--### Otimização não suave (a verificar)
+<!--## Otimização não suave (a verificar)
 
 1. Subgradiente e subdiferencial
 1. *Bundle method*-->
