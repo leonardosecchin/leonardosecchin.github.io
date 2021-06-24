@@ -37,7 +37,7 @@ Ementa variável.
    - [Código base para o exercício 6 (primal-dual afim escala em Julia)](/files/topicospo/pontos_interiores.jl)
    - [Estrutura de esparsidade dos problemas-teste selecionados](/files/topicospo/PTO_INT-prob_testes_A.zip)
 
-Referências:
+**Referências:**
 - Vanderbei, R. J. Linear programming. Foundations and extensions. 3 ed, Springer, 2008.
 - Wright, S. J. Primal-Dual Interior-Point Methods. SIAM, 1997.
 - Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006 (capítulo 14).
@@ -51,7 +51,7 @@ Referências:
    - Instalar o Julia em sua máquina, do acordo com [este link](https://leonardosecchin.github.io/julia)
    - Estudar os exemplos 1, 2, 3, 4, 5, 6, 8, 12 e 14 [deste link](https://leonardosecchin.github.io/juliaopt/)
 
-Referências:
+**Referências:**
 - [Pequeno tutorial sobre Julia](https://leonardosecchin.github.io/julia/) e links internos
 
 
@@ -62,7 +62,7 @@ Referências:
 1. Exemplos
 1. **EXERCÍCIOS DO TÓPICO (em breve)**
 
-Referências:
+**Referências:**
 - Dolan, Elizabeth D.; Moré, Jorge J. Benchmarking optimization software with performance profiles. Math. Program., Ser. A 91: 201-213 (2002). [artigo revista](https://doi.org/10.1007/s101070100263); [PDF acesso aberto](https://arxiv.org/abs/cs/0102001)
 - [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/) (seção 6.3)
 - [Pacote Julia BenchmarkProfiles](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl)
@@ -75,7 +75,7 @@ Referências:
 1. Subgradiente/subdiferencial, método do subgradiente
 1. Resolução do problema lagrangiano via método do subgradiente
 
-Referências:
+**Referências:**
 - [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
 - [Florentino, H. O. Relaxação lagrangeana em programação inteira. Dissertação de Mestrado (ICMC/USP), São Carlos, 1990.](https://teses.usp.br/teses/disponiveis/55/55134/tde-20022019-110621/pt-br.php)
 
@@ -87,7 +87,7 @@ Referências:
 1. Uma breve introdução ao treinamento de redes neurais: método do gradiente estocástico e variantes
 1. Exemplos e aplicações
 
-Referências:
+**Referências:**
 - [Livro on-line "Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/)
 - [paperswithcode.com](https://paperswithcode.com/methods/category/optimization)
 
@@ -98,7 +98,7 @@ Referências:
 1. Método de geração de colunas
 1. *Branch-and-Cut-and-Price* -- estudo de caso
 
-Referências:
+**Referências:**
 - [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
 - Munari, P.; Morabito, R. A branch-price-and-cut algorithm for the vehicle routing problem with time windows and multiple deliverymen. TOP 26, 437–464 (2018). [artigo revista](https://doi.org/10.1007/s11750-018-0481-8); [PDF acesso livre](http://www.optimization-online.org/DB_FILE/2016/01/5289.pdf)
 
