@@ -33,7 +33,8 @@ Ementa variável.
    - [Exemplo da diferença entre usar ou não AMD antes de Cholesky (código Julia)](/files/topicospo/PTO_INT-amd_ex.zip)
 1. Tragetória central e o método seguidor de caminhos
 1. Método preditor-corretor de Mehrota
-1. **[EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1yCbcSB4R-kmOqpZBTEzHVcqMyU6lspVO/view?usp=sharing)**
+
+**[EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1yCbcSB4R-kmOqpZBTEzHVcqMyU6lspVO/view?usp=sharing)**
    - [Código base para o exercício 6 (primal-dual afim escala em Julia)](/files/topicospo/pontos_interiores.jl)
    - [Estrutura de esparsidade dos problemas-teste selecionados](/files/topicospo/PTO_INT-prob_testes_A.zip)
 
@@ -47,7 +48,8 @@ Ementa variável.
 
 1. Apresentação
 1. Julia para otimização
-1. **EXERCÍCIOS DO TÓPICO:**
+
+**EXERCÍCIOS DO TÓPICO:**
    - Instalar o Julia em sua máquina, do acordo com [este link](https://leonardosecchin.github.io/julia)
    - Estudar os exemplos 1, 2, 3, 4, 5, 6, 8, 12 e 14 [deste link](https://leonardosecchin.github.io/juliaopt/)
 
@@ -60,7 +62,8 @@ Ementa variável.
 1. Perfis de desempenho de Dolan e Moré
 1. O pacote Julia `BenchmarkProfiles`
 1. Exemplos
-1. **EXERCÍCIOS DO TÓPICO (em breve)**
+
+**EXERCÍCIOS DO TÓPICO (em breve)**
 
 **Referências:**
 - Dolan, Elizabeth D.; Moré, Jorge J. Benchmarking optimization software with performance profiles. Math. Program., Ser. A 91: 201-213 (2002). [artigo revista](https://doi.org/10.1007/s101070100263); [PDF acesso aberto](https://arxiv.org/abs/cs/0102001)
