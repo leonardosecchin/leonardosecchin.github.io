@@ -36,14 +36,23 @@ Ementa variável.
 1. Tragetória central e o método seguidor de caminhos
 1. Método preditor-corretor de Mehrota
 1. **[EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1yCbcSB4R-kmOqpZBTEzHVcqMyU6lspVO/view?usp=sharing)**
-   - Código base para o exercício 6 (em breve)
-   - Problemas-teste selecionados (em breve)
+   - [Código base para o exercício 6 (primal-dual afim escala em Julia)](/files/topicospo/pontos_interiores.jl)
+   - [Estrutura de esparsidade dos problemas-teste selecionados](/files/topicospo/PTO_INT-prob_testes_A.zip)
 
 Referências:
 - Vanderbei, R. J. Linear programming. Foundations and extensions. 3 ed, Springer, 2008.
 - Wright, S. J. Primal-Dual Interior-Point Methods. SIAM, 1997.
 - Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006 (capítulo 14).
 
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
 
 ### A linguagem de programação Julia
 
@@ -54,7 +63,7 @@ Referências:
    - Estudar os exemplos 1, 2, 3, 4, 5, 6, 8, 12 e 14 [deste link](https://leonardosecchin.github.io/juliaopt/)
 
 Referências:
-- <https://leonardosecchin.github.io/julia/>
+- [Pequeno tutorial sobre Julia](https://leonardosecchin.github.io/julia/) e links internos
 
 
 ### Comparação de desempenho entre algoritmos
@@ -62,12 +71,12 @@ Referências:
 1. Perfis de desempenho de Dolan e Moré
 1. O pacote Julia `BenchmarkProfiles`
 1. Exemplos
-1. **[EXERCÍCIOS DO TÓPICO]()**
+1. **EXERCÍCIOS DO TÓPICO (em breve)**
 
 Referências:
-- [Dolan, Elizabeth D.; Moré, Jorge J. Benchmarking optimization software with performance profiles. Math. Program., Ser. A 91: 201-213 (2002).](https://doi.org/10.1007/s101070100263)
+- Dolan, Elizabeth D.; Moré, Jorge J. Benchmarking optimization software with performance profiles. Math. Program., Ser. A 91: 201-213 (2002). [artigo revista](https://doi.org/10.1007/s101070100263); [PDF acesso aberto](https://arxiv.org/abs/cs/0102001)
 - [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/) (seção 6.3)
-- <https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl>
+- [Pacote Julia BenchmarkProfiles](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl)
 
 
 ### Relaxação lagrangiana para programação linear inteira mista
@@ -90,8 +99,8 @@ Referências:
 1. Exemplos e aplicações
 
 Referências:
-- <http://neuralnetworksanddeeplearning.com/>
-- <https://paperswithcode.com/methods/category/optimization>
+- [Livro on-line "Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/)
+- [paperswithcode.com](https://paperswithcode.com/methods/category/optimization)
 
 
 ### Geração de colunas
@@ -102,7 +111,7 @@ Referências:
 
 Referências:
 - [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
-- <http://www.optimization-online.org/DB_FILE/2016/01/5289.pdf>
+- Munari, P.; Morabito, R. A branch-price-and-cut algorithm for the vehicle routing problem with time windows and multiple deliverymen. TOP 26, 437–464 (2018). [artigo revista](https://doi.org/10.1007/s11750-018-0481-8); [PDF acesso livre](http://www.optimization-online.org/DB_FILE/2016/01/5289.pdf)
 
 
 <!--### Otimização não suave (a verificar)
