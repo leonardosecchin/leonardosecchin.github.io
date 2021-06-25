@@ -329,13 +329,13 @@ function testar(; saidas=false)
         "LPnetlib/lp_stocfor2",
         "LPnetlib/lp_stocfor3",
         "LPnetlib/lp_truss",
-        "LPnetlib/lpi_itest6",
-        "LPnetlib/lpi_bgindy",
-        "LPnetlib/lpi_bgprtr",
-        "LPnetlib/lpi_itest2",
-        "LPnetlib/lpi_klein1",
-        "LPnetlib/lpi_klein2",
-        "LPnetlib/lpi_klein3"
+        "LPnetlib/lpi_itest2", #inviável
+        "LPnetlib/lpi_itest6", #inviável
+        "LPnetlib/lpi_bgindy", #inviável
+        "LPnetlib/lpi_bgprtr", #inviável
+        "LPnetlib/lpi_klein1", #inviável
+        "LPnetlib/lpi_klein2", #inviável
+        "LPnetlib/lpi_klein3"  #inviável
     ];
 
     # cabeçalho tabela com resultados
