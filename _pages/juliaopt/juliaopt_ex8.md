@@ -172,6 +172,8 @@ Se pretende minimizar funções quadráticas, você pode ler matrizes da [Suite 
    julia> A = MatrixMarket.mmread(joinpath(paths[1], "$(matrizes.name[1]).mtx"))
    ~~~
 
+Se tiver problemas com o pacote `SuiteSparseMatrixCollection`, uma alternativa é o pacote [`MatrixDepot`](https://github.com/JuliaMatrices/MatrixDepot.jl). Este último pacote também baixa matrizes automaticamente.
+
 ### Formatos típicos em PL e programação quadrática
 
 Em programação linear/quadrática, os formatos livres de arquivo `MPS` e `QPS` são usados (por exemplo, o CPLEX lê esses formatos). Uma interface para leitura desses tipos de arquivos no Julia vem no pacote [`QPSReader`](https://github.com/JuliaSmoothOptimizers/QPSReader.jl).
