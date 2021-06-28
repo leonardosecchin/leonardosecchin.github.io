@@ -31,7 +31,7 @@ Ementa variável.
      - [Artigo que propôs a heurística](http://dx.doi.org/10.1137/S0895479894278952)
      - Muita pesquisa foi feita sobre métodos para reordenamento. Julia e Matlab usam a eficiente rotina [CHOLMOD](https://www.researchgate.net/publication/220492578_Algorithm_887_CHOLMOD_Supernodal_Sparse_Cholesky_Factorization_and_UpdateDowndate).
    - [Exemplo da diferença entre usar ou não AMD antes de Cholesky (código Julia)](/files/topicospo/PTO_INT-amd_ex.zip)
-1. Tragetória central e o método seguidor de caminhos
+1. [Tragetória central e o método seguidor de caminhos](/files/topicospo/PTO_INT_4-seguidor_caminhos.pdf)
 1. Método preditor-corretor de Mehrota
 
 **[EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1yCbcSB4R-kmOqpZBTEzHVcqMyU6lspVO/view?usp=sharing)**
