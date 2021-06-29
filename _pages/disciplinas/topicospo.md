@@ -34,7 +34,6 @@ Ementa variável.
 1. [Tragetória central e o método seguidor de caminhos](/files/topicospo/PTO_INT_4-seguidor_caminhos.pdf)
 1. Método preditor-corretor de Mehrota
    - Veja a [descrição do método preditor-corretor do CPLEX](https://www.ibm.com/docs/en/icos/20.1.0?topic=optimizer-introducing-barrier) (CPLEX Barrier)
-   - Descrição dos [algoritmos do pacote Gurobi](https://www.gurobi.com/pdfs/user-events/2016-frankfurt/Die-Algorithmen.pdf) (pontos interiores a partir do slide 18)
 
 **[EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1yCbcSB4R-kmOqpZBTEzHVcqMyU6lspVO/view?usp=sharing)**
    - [Código base para o exercício 6 (primal-dual afim escala em Julia)](/files/topicospo/pontos_interiores.jl)
