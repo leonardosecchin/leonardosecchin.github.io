@@ -38,6 +38,8 @@ Ementa variável.
 **[EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1yCbcSB4R-kmOqpZBTEzHVcqMyU6lspVO/view?usp=sharing)**
    - [Código base para o exercício 6 (primal-dual afim escala em Julia)](/files/topicospo/pontos_interiores.jl)
    - [Estrutura de esparsidade dos problemas-teste selecionados](/files/topicospo/PTO_INT-prob_testes_A.zip)
+   - [Resultados numéricos esperados nos problemas-teste selecionados](/files/topicospo/PTO_INT-resultados.txt)
+   - "Código extra": [interface Julia para o método preditor-corretor do CPLEX](/files/topicospo/cplex_barrier.jl)
 
 **Referências:**
 - Vanderbei, R. J. Linear programming. Foundations and extensions. 3 ed, Springer, 2008.
