@@ -113,11 +113,11 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   - Em especial, faça o [**Exemplo 4**](/juliaopt_ex4/) sobre implementação do método do gradiente em Julia
 
 
-### Comparação do desempenho de diferentes algoritmos
+<!--### Comparação do desempenho de diferentes algoritmos
 
 - Texto referência para este módulo: seção 6.3 do livro de Karas e Ribeiro.
 - **SLIDES** - Perfis de desempenho segundo [Dolan e Moré](https://link.springer.com/article/10.1007/s101070100263)
-  - [BenchmarkProfiles.jl](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl) - gerando perfis de desempenho com o Julia
+  - [BenchmarkProfiles.jl](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl) - gerando perfis de desempenho com o Julia-->
 
 
 ### Otimização com restrições
