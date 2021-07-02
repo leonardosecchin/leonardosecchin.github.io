@@ -57,11 +57,17 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
 
 ### em andamento
 
-- 2020-2021 (IC). Variantes do método do gradiente para otimização irrestrita.  
+- 2021-2022 (TCC). Métodos computacionais para otimização irrestrita e com restrições simples  
+  Aluno: Elivandro Oliveira Grippa  
+
+- 2021-2021 (TCC). Métodos de otimização para aprendizado de máquina supervisionado e aplicações  
+  Aluno: Matheus Becali Rocha  
+
+- 2020-2021 (IC). Variantes do método do gradiente para otimização irrestrita  
   Aluno: Elivandro Oliveira Grippa  
   [Resumo do projeto](https://drive.google.com/file/d/1AsCeRaIqg_82Q-irbgp4zOW4UcmuQDKt/view?usp=sharing)
 
-- 2020-2021 (IC). Introdução à otimização aplicada ao aprendizado de máquina supervisionado.  
+- 2020-2021 (IC). Introdução à otimização aplicada ao aprendizado de máquina supervisionado  
   Aluno: Matheus Becali Rocha  
   [Resumo do projeto](https://drive.google.com/file/d/1cy_d21RDGfP-VhFNRUdD7DFN5xI2ATQ-/view?usp=sharing)
 
