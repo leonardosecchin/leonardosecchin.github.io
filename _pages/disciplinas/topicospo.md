@@ -71,12 +71,12 @@ Ementa variável.
 1. Introdução
 1. Perfis de desempenho de Dolan e Moré
 1. O pacote Julia `BenchmarkProfiles`
-1. Exemplos
+1. Análise de perfis através de exemplos
 1. Dicas para contagem do tempo de execução
 
 [**SLIDES**](/files/topicospo/performance_profiles.pdf)
 
-**EXERCÍCIOS DO TÓPICO (em breve)**
+**[EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1VyF2i9UsLfe_OXj2JdBOaRiyYVvvEHH-/view?usp=sharing)**
 
 **Referências:**
 - Dolan, Elizabeth D.; Moré, Jorge J. Benchmarking optimization software with performance profiles. Math. Program., Ser. A 91: 201-213 (2002). [artigo revista](https://doi.org/10.1007/s101070100263); [PDF acesso aberto](https://arxiv.org/abs/cs/0102001)
