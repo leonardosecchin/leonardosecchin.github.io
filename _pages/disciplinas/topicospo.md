@@ -96,6 +96,7 @@ Ementa variável.
 **Referências:**
 - [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
 - [Florentino, H. O. Relaxação lagrangeana em programação inteira. Dissertação de Mestrado (ICMC/USP), São Carlos, 1990.](https://teses.usp.br/teses/disponiveis/55/55134/tde-20022019-110621/pt-br.php)
+- Fisher, Marshall L. The Lagrangian Relaxation Method for Solving Integer Programming Problems. Management Science 27(1), 1-18 (1981) [artigo revista (2004)](https://doi.org/10.1287/mnsc.1040.0263); [PDF aberto (1981)](http://www.dep.ufmg.br/old/professores/miranda/OtiComb/lagrange.pdf)
 
 
 ## TÓPICO 5: Algoritmos de otimização em aprendizado de máquina
@@ -122,7 +123,7 @@ Ementa variável.
 
 **Referências:**
 - [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
-- Munari, P.; Morabito, R. A branch-price-and-cut algorithm for the vehicle routing problem with time windows and multiple deliverymen. TOP 26, 437–464 (2018). [artigo revista](https://doi.org/10.1007/s11750-018-0481-8); [PDF acesso livre](http://www.optimization-online.org/DB_FILE/2016/01/5289.pdf)
+- Munari, P.; Morabito, R. A branch-price-and-cut algorithm for the vehicle routing problem with time windows and multiple deliverymen. TOP 26, 437-464 (2018). [artigo revista](https://doi.org/10.1007/s11750-018-0481-8); [PDF acesso livre](http://www.optimization-online.org/DB_FILE/2016/01/5289.pdf)
 
 
 <!--## TÓPICO 7: Otimização não suave (a verificar)
