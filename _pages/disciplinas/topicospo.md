@@ -23,6 +23,8 @@ Ementa variável.
 
 ## TÓPICO 1: Métodos de pontos interiores para programação linear
 
+**Conteúdo:**
+
 1. [Preliminares e o método primal afim escala (Dikin)](/files/topicospo/PTO_INT_1-primal_afim_escala.pdf)
    - Leitura introdutória: capítulo 1 do livro de Wright (páginas 1 a 6)
 1. [Método dual afim escala](/files/topicospo/PTO_INT_2-dual_afim_escala.pdf)
@@ -49,6 +51,8 @@ Ementa variável.
 
 ## TÓPICO 2: A linguagem de programação Julia
 
+**Conteúdo:**
+
 1. Apresentação
 1. Julia para otimização
 
@@ -62,9 +66,15 @@ Ementa variável.
 
 ## TÓPICO 3: Comparação de desempenho entre algoritmos
 
+**Conteúdo:**
+
+1. Introdução
 1. Perfis de desempenho de Dolan e Moré
 1. O pacote Julia `BenchmarkProfiles`
 1. Exemplos
+1. Dicas para contagem do tempo de execução
+
+[**SLIDES**](/files/topicospo/performance_profiles.pdf)
 
 **EXERCÍCIOS DO TÓPICO (em breve)**
 
@@ -75,6 +85,8 @@ Ementa variável.
 
 
 ## TÓPICO 4: Relaxação lagrangiana para programação linear inteira mista
+
+**Conteúdo:**
 
 1. Função lagrangiano e propriedades
 1. Relaxação lagrangiana de um problema linear
@@ -88,6 +100,8 @@ Ementa variável.
 
 ## TÓPICO 5: Algoritmos de otimização em aprendizado de máquina
 
+**Conteúdo:**
+
 1. Método do gradiente
 1. Redes Neurais
 1. Uma breve introdução ao treinamento de redes neurais: método do gradiente estocástico e variantes
@@ -100,6 +114,8 @@ Ementa variável.
 
 ## TÓPICO 6: Geração de colunas
 
+**Conteúdo:**
+
 1. Decomposição de Dantzig-Wolfe
 1. Método de geração de colunas
 1. *Branch-and-Cut-and-Price* -- estudo de caso
@@ -110,6 +126,8 @@ Ementa variável.
 
 
 <!--## TÓPICO 7: Otimização não suave (a verificar)
+
+**Conteúdo:**
 
 1. Subgradiente e subdiferencial
 1. *Bundle method*-->
