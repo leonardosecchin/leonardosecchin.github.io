@@ -143,7 +143,7 @@ As ferramentas de otimização e muitas outras vêm na forma de pacotes. Primeir
 
 - Após instalar seus pacotes, você pode voltar ao ambiente de comandos Julia teclando "backspace".
 
-O Julia gerencia pacotes de maneira similar à distrubuições GNU/Linux como Ubuntu e Mint. Você pode atualizar os pacotes instalados executando:
+O Julia gerencia pacotes de maneira similar à distrubuições GNU/Linux como Ubuntu e Mint. Você pode atualizar os pacotes instalados executando
 ~~~
 julia: ]up
 ~~~
