@@ -38,15 +38,15 @@ Ementa variável.
    - Veja a [descrição do método preditor-corretor do CPLEX](https://www.ibm.com/docs/en/icos/20.1.0?topic=optimizer-introducing-barrier) (CPLEX Barrier)
 
 **[EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1yCbcSB4R-kmOqpZBTEzHVcqMyU6lspVO/view?usp=sharing)**
-   - [Código base para o exercício 6 (primal-dual afim escala em Julia)](/files/topicospo/pontos_interiores.jl)
-   - [Estrutura de esparsidade dos problemas-teste selecionados](/files/topicospo/PTO_INT-prob_testes_A.zip)
-   - [Resultados numéricos esperados nos problemas-teste selecionados](/files/topicospo/PTO_INT-resultados.txt)
-   - "Código extra": [interface Julia para o método preditor-corretor do CPLEX](/files/topicospo/cplex_barrier.jl)
+- [Código base para o exercício 6 (primal-dual afim escala em Julia)](/files/topicospo/pontos_interiores.jl)
+- [Estrutura de esparsidade dos problemas-teste selecionados](/files/topicospo/PTO_INT-prob_testes_A.zip)
+- [Resultados numéricos esperados nos problemas-teste selecionados](/files/topicospo/PTO_INT-resultados.txt)
+- "Código extra": [interface Julia para o método preditor-corretor do CPLEX](/files/topicospo/cplex_barrier.jl)
 
 **Referências:**
 - Vanderbei, R. J. Linear programming. Foundations and extensions. 3 ed, Springer, 2008.
 - Wright, S. J. Primal-Dual Interior-Point Methods. SIAM, 1997.
-- Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006 (capítulo 14).
+- Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006 (capítulo 14).
 
 
 ## TÓPICO 2: A linguagem de programação Julia
@@ -57,8 +57,8 @@ Ementa variável.
 1. Julia para otimização
 
 **EXERCÍCIOS DO TÓPICO:**
-   - Instalar o Julia em sua máquina, do acordo com [este link](https://leonardosecchin.github.io/julia)
-   - Estudar os exemplos 1, 2, 3, 4, 5, 6, 8, 12 e 14 [deste link](https://leonardosecchin.github.io/juliaopt/)
+1. Instalar o Julia em sua máquina, do acordo com [este link](https://leonardosecchin.github.io/julia)
+1. Estudar os exemplos 1, 2, 3, 4, 5, 6, 8, 12 e 14 [deste link](https://leonardosecchin.github.io/juliaopt/)
 
 **Referências:**
 - [Pequeno tutorial sobre Julia](https://leonardosecchin.github.io/julia/) e links internos
@@ -79,9 +79,9 @@ Ementa variável.
 **[EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1VyF2i9UsLfe_OXj2JdBOaRiyYVvvEHH-/view?usp=sharing)**
 
 **Referências:**
-- Dolan, Elizabeth D.; Moré, Jorge J. Benchmarking optimization software with performance profiles. Math. Program., Ser. A 91: 201-213 (2002). [artigo revista](https://doi.org/10.1007/s101070100263); [PDF acesso aberto](https://arxiv.org/abs/cs/0102001)
-- [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/) (seção 6.3)
-- [Pacote Julia BenchmarkProfiles](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl)
+- *(artigo que propôs os perfis)* Dolan, Elizabeth D.; Moré, Jorge J. Benchmarking optimization software with performance profiles. Math. Program., Ser. A 91: 201-213 (2002). [artigo revista](https://doi.org/10.1007/s101070100263); [PDF acesso aberto](https://arxiv.org/abs/cs/0102001)
+- *(curta explicação -- seção 6.3)* [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/)
+- *(pacote para geração de perfis)* [Pacote Julia BenchmarkProfiles](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl)
 
 
 ## TÓPICO 4: Relaxação lagrangiana para programação linear inteira mista
@@ -90,27 +90,35 @@ Ementa variável.
 
 1. Função lagrangiano e propriedades
 1. Relaxação lagrangiana de um problema linear
-1. Subgradiente/subdiferencial, método do subgradiente
+1. Subgradiente/subdiferencial
+1. Método do subgradiente para funções convexas
+1. Convergência do método com passo fixo e passo decrescente
 1. Resolução do problema lagrangiano via método do subgradiente
 
+**EXERCÍCIOS DO TÓPICO:**
+- Implementação em Julia de uma relaxação lagrangiana para o problema *K-median* e resolução pelo método do subgradiente.
+
 **Referências:**
-- [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
-- [Florentino, H. O. Relaxação lagrangeana em programação inteira. Dissertação de Mestrado (ICMC/USP), São Carlos, 1990.](https://teses.usp.br/teses/disponiveis/55/55134/tde-20022019-110621/pt-br.php)
-- Fisher, Marshall L. The Lagrangian Relaxation Method for Solving Integer Programming Problems. Management Science 27(1), 1-18 (1981) [artigo revista (2004)](https://doi.org/10.1287/mnsc.1040.0263); [PDF aberto (1981)](http://www.dep.ufmg.br/old/professores/miranda/OtiComb/lagrange.pdf)
+- *(artigo guia)* Fisher, Marshall L. The Lagrangian Relaxation Method for Solving Integer Programming Problems. Management Science 27(1), 1-18 (1981) [artigo revista (2004)](https://doi.org/10.1287/mnsc.1040.0263); [PDF aberto (1981)](http://www.dep.ufmg.br/old/professores/miranda/OtiComb/lagrange.pdf)
+- *(método subgradiente e sua convergência -- seções 3.1 e 3.2)* Bertsekas, D. P. Convex Optimization Algorithms. Athena Scientific, 2015.
+- *(uma refereência completa -- capítulo 10)* [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
+
+**Outras:**
+- *(aplicação em branch-and-bound)* [Florentino, H. O. Relaxação lagrangeana em programação inteira. Dissertação de Mestrado (ICMC/USP), São Carlos, 1990.](https://teses.usp.br/teses/disponiveis/55/55134/tde-20022019-110621/pt-br.php)
 
 
 ## TÓPICO 5: Algoritmos de otimização em aprendizado de máquina
 
 **Conteúdo:**
 
-1. Método do gradiente
+1. Método do gradiente clássico (revisão)
 1. Redes Neurais
 1. Uma breve introdução ao treinamento de redes neurais: método do gradiente estocástico e variantes
 1. Exemplos e aplicações
 
 **Referências:**
-- [Livro on-line "Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/)
-- [paperswithcode.com](https://paperswithcode.com/methods/category/optimization)
+- *(curso básico)* [Livro on-line "Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/)
+- *(resumo de vários métodos)* [paperswithcode.com](https://paperswithcode.com/methods/category/optimization)
 
 
 ## TÓPICO 6: Geração de colunas
@@ -120,6 +128,9 @@ Ementa variável.
 1. Decomposição de Dantzig-Wolfe
 1. Método de geração de colunas
 1. *Branch-and-Cut-and-Price* -- estudo de caso
+
+**EXERCÍCIOS DO TÓPICO:**
+- Implementação de um método simples de geração de colunas usando Julia + CPLEX
 
 **Referências:**
 - [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
