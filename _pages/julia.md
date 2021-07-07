@@ -123,20 +123,14 @@ julia> A*B
 **Observação: o Julia compilará códigos na primeira vez em que os comandos forem executados. Nas rodadas seguintes a execução é rápida.**
 
 
-## Instalação de pacotes
+## Instalando/atualizando pacotes
 
-As ferramentas de otimização de nosso interesse vêm na forma de pacotes. Primeiro você deve instalar os pacotes dentro do Julia:
+As ferramentas de otimização e muitas outras vêm na forma de pacotes. Primeiro você deve instalar os pacotes dentro do Julia:
 
 - No ambiente Julia, digite `]` (colchete direito). Isso abrirá o "ambiente de pacotes":
 ~~~
 (@v1.x) pkg>
 ~~~
-
-- Antes de começar a adicionar pacotes, recomendo atualizar a lista deles ao menos uma vez:
-~~~
-(@v1.x) pkg> up
-~~~
-Isso também irá atualizar as versões dos pacotes existentes, e pode ser feito sempre que desejar.
 
 - Para adicionar pacotes, use `add [pacote]`. Por exemplo, para adicionar o pacote `JuMP` (pacote para modelagem de problemas de otimização) execute:
 ~~~
@@ -148,6 +142,11 @@ Isso também irá atualizar as versões dos pacotes existentes, e pode ser feito
   - A instalação de um pacote é feita uma única vez, ficando para sempre disponível.
 
 - Após instalar seus pacotes, você pode voltar ao ambiente de comandos Julia teclando "backspace".
+
+O Julia gerencia pacotes de maneira similar à distrubuições GNU/Linux como Ubuntu e Mint. Você pode atualizar os pacotes instalados executando:
+~~~
+julia: ]up
+~~~
 
 
 ## Usando pacotes instalados
