@@ -92,18 +92,18 @@ Ementa variável.
 1. Relaxação lagrangiana de um problema linear
 1. Subgradiente/subdiferencial
 1. Método do subgradiente para funções convexas
-1. Convergência do método com passo fixo e passo decrescente
+1. Convergência dos métodos com passo fixo e com passo decrescente
 1. Resolução do problema lagrangiano via método do subgradiente
 
 **EXERCÍCIOS DO TÓPICO:**
-- Implementação em Julia de uma relaxação lagrangiana para o problema *K-median* e resolução pelo método do subgradiente.
+- Implementação em Julia de uma relaxação lagrangiana para o problema *K-median* e resolução pelo método do subgradiente
 
 **Referências:**
 - *(artigo guia)* Fisher, Marshall L. The Lagrangian Relaxation Method for Solving Integer Programming Problems. Management Science 27(1), 1-18 (1981) [artigo revista (2004)](https://doi.org/10.1287/mnsc.1040.0263); [PDF aberto (1981)](http://www.dep.ufmg.br/old/professores/miranda/OtiComb/lagrange.pdf)
 - *(método subgradiente e sua convergência -- seções 3.1 e 3.2)* Bertsekas, D. P. Convex Optimization Algorithms. Athena Scientific, 2015.
-- *(uma refereência completa -- capítulo 10)* [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
+- *(uma referência completa -- capítulo 10)* [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
 
-**Outras:**
+**Outra:**
 - *(aplicação em branch-and-bound)* [Florentino, H. O. Relaxação lagrangeana em programação inteira. Dissertação de Mestrado (ICMC/USP), São Carlos, 1990.](https://teses.usp.br/teses/disponiveis/55/55134/tde-20022019-110621/pt-br.php)
 
 
@@ -112,13 +112,16 @@ Ementa variável.
 **Conteúdo:**
 
 1. Método do gradiente clássico (revisão)
-1. Redes Neurais
-1. Uma breve introdução ao treinamento de redes neurais: método do gradiente estocástico e variantes
+1. Modelos via redes neurais
+1. Treinamento de redes neurais
+1. Método do gradiente estocástico e variantes
+1. Convergência em probabilidade do método estocástico com passo fixo para funções fortemente convexas
 1. Exemplos e aplicações
 
 **Referências:**
 - *(curso básico)* [Livro on-line "Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/)
 - *(resumo de vários métodos)* [paperswithcode.com](https://paperswithcode.com/methods/category/optimization)
+- *(referência com demonstrações de teoremas)* Bottou, L; Curtis, F. E.; Nocedal, J. Optimization Methods for Large-Scale Machine Learning. SIAM Rev., 60(2), 223-311 (2018). [artigo revista](https://doi.org/10.1137/16M1080173); [PDF acesso livre](https://arxiv.org/abs/1606.04838)
 
 
 ## TÓPICO 6: Geração de colunas
@@ -134,7 +137,7 @@ Ementa variável.
 
 **Referências:**
 - [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
-- Munari, P.; Morabito, R. A branch-price-and-cut algorithm for the vehicle routing problem with time windows and multiple deliverymen. TOP 26, 437-464 (2018). [artigo revista](https://doi.org/10.1007/s11750-018-0481-8); [PDF acesso livre](http://www.optimization-online.org/DB_FILE/2016/01/5289.pdf)
+- *(estudo de caso)* Munari, P.; Morabito, R. A branch-price-and-cut algorithm for the vehicle routing problem with time windows and multiple deliverymen. TOP 26, 437-464 (2018). [artigo revista](https://doi.org/10.1007/s11750-018-0481-8); [PDF acesso livre](http://www.optimization-online.org/DB_FILE/2016/01/5289.pdf)
 
 
 <!--## TÓPICO 7: Otimização não suave (a verificar)
