@@ -99,8 +99,8 @@ Ementa variável.
 - Implementação em Julia de uma relaxação lagrangiana para o problema *K-median* e resolução pelo método do subgradiente
 
 **Referências:**
-- *(artigo guia)* Fisher, Marshall L. The Lagrangian Relaxation Method for Solving Integer Programming Problems. Management Science 27(1), 1-18 (1981) [artigo revista (2004)](https://doi.org/10.1287/mnsc.1040.0263); [PDF aberto (1981)](http://www.dep.ufmg.br/old/professores/miranda/OtiComb/lagrange.pdf)
-- *(método subgradiente e sua convergência -- seções 3.1 e 3.2)* Bertsekas, D. P. Convex Optimization Algorithms. Athena Scientific, 2015.
+- *(artigo guia)* Fisher, M. L. The Lagrangian Relaxation Method for Solving Integer Programming Problems. Management Science 27(1), 1-18 (1981) [artigo revista (2004)](https://doi.org/10.1287/mnsc.1040.0263); [PDF aberto (1981)](http://www.dep.ufmg.br/old/professores/miranda/OtiComb/lagrange.pdf)
+- *(método do subgradiente e sua convergência -- seções 3.1 e 3.2)* Bertsekas, D. P. Convex Optimization Algorithms. Athena Scientific, 2015.
 - *(uma referência completa -- capítulo 10)* [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
 
 **Outra:**
