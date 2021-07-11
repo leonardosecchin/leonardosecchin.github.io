@@ -88,8 +88,8 @@ Ementa variável.
 
 **Conteúdo:**
 
-1. Função lagrangiano e propriedades
-1. Relaxação lagrangiana de um problema linear
+1. [Função lagrangiano e a relaxação lagrangiana de um problema linear](/files/topicospo/RELAX_LAG_1-relaxacao.pdf)
+   - Explicação do exemplo [GAP (Generalized Assignment Problem)](https://en.wikipedia.org/wiki/Generalized_assignment_problem)
 1. Subgradiente/subdiferencial
 1. Método do subgradiente para funções convexas
 1. Convergência dos métodos com passo fixo e com passo decrescente
