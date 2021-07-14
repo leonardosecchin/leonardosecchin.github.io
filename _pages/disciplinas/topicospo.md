@@ -84,7 +84,7 @@ Ementa variável.
 - *(pacote para geração de perfis)* [Pacote Julia BenchmarkProfiles](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl)
 
 
-## TÓPICO 4: Relaxação lagrangiana para programação linear inteira mista
+## TÓPICO 4: Relaxação lagrangiana para programação linear inteira
 
 **Conteúdo:**
 
