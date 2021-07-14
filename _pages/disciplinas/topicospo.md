@@ -111,11 +111,12 @@ Ementa variável.
 
 **Conteúdo:**
 
-1. Método do gradiente clássico (revisão)
 1. Modelos via redes neurais
 1. Treinamento de redes neurais
+1. Método do gradiente clássico (revisão)
+1. Método do gradiente incremental
 1. Método do gradiente estocástico e variantes
-1. Convergência em probabilidade do método estocástico com passo fixo para funções fortemente convexas
+1. Convergência em probabilidade do método estocástico com passo constante para funções fortemente convexas
 1. Exemplos e aplicações
 
 **Referências:**
