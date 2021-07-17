@@ -92,7 +92,7 @@ Ementa variável.
    - Explicação do exemplo [GAP (Generalized Assignment Problem)](https://en.wikipedia.org/wiki/Generalized_assignment_problem)
 1. Subgradiente/subdiferencial
 1. Método do subgradiente para funções convexas
-1. Convergência dos métodos com passo fixo e com passo decrescente
+1. Convergência dos métodos com passo constante e com passo decrescente
 1. Resolução do problema lagrangiano via método do subgradiente
 
 **EXERCÍCIOS DO TÓPICO (em breve)**
