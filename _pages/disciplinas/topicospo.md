@@ -102,7 +102,7 @@ Ementa variável.
 **Referências:**
 - *(artigo guia)* Fisher, M. L. The Lagrangian Relaxation Method for Solving Integer Programming Problems. Management Science 27(1), 1-18 (1981) [artigo revista (2004)](https://doi.org/10.1287/mnsc.1040.0263); [PDF aberto (1981)](http://www.dep.ufmg.br/old/professores/miranda/OtiComb/lagrange.pdf)
 - *(método do subgradiente e sua convergência -- seções 3.1 e 3.2)* Bertsekas, D. P. Convex Optimization Algorithms. Athena Scientific, 2015.
-- *(um panorama geral -- capítulo 10)* [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
+- *(um panorama geral -- capítulo 10)* [Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021.](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.ch10)
 
 **Outra:**
 - *(aplicação em branch-and-bound)* [Florentino, H. O. Relaxação lagrangeana em programação inteira. Dissertação de Mestrado (ICMC/USP), São Carlos, 1990.](https://teses.usp.br/teses/disponiveis/55/55134/tde-20022019-110621/pt-br.php)
@@ -135,10 +135,10 @@ Ementa variável.
 1. *Branch-and-Cut-and-Price* -- estudo de caso
 
 **EXERCÍCIOS DO TÓPICO:**
-- Implementação de um método simples de geração de colunas usando Julia + CPLEX
+- Implementação de um método simples de geração de colunas usando Julia + CPLEX/GLPK
 
 **Referências:**
-- [Wolsey, L. A. Integer Programming. Wiley, 1998.](https://www.wiley.com/en-us/Integer+Programming-p-9780471283669)
+- *(um panorama geral -- Capítulo 11)* [Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021.](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.ch11)
 - *(estudo de caso)* Munari, P.; Morabito, R. A branch-price-and-cut algorithm for the vehicle routing problem with time windows and multiple deliverymen. TOP 26, 437-464 (2018). [artigo revista](https://doi.org/10.1007/s11750-018-0481-8); [PDF acesso livre](http://www.optimization-online.org/DB_FILE/2016/01/5289.pdf)
 
 
