@@ -90,14 +90,13 @@ Ementa variável.
 
 1. [Função lagrangiano e a relaxação lagrangiana de um problema linear](/files/topicospo/RELAX_LAG_1-relaxacao.pdf)
    - Explicação do exemplo [GAP (Generalized Assignment Problem)](https://en.wikipedia.org/wiki/Generalized_assignment_problem)
-1. Subgradiente/subdiferencial
+1. [Propriedades da função lagrangiano; subgradiente/subdiferencial](/files/topicospo/RELAX_LAG_2-subgrad.pdf)
 1. Método do subgradiente para funções convexas
 1. Convergência dos métodos com passo constante e com passo decrescente
 1. Resolução do problema lagrangiano via método do subgradiente
 
 **EXERCÍCIOS DO TÓPICO (em breve)**
 - [Código base para uso do CPLEX ou GLPK no Julia (problema de localização de facilidades não capacitado)](/files/topicospo/ufl.jl)
-<!--- Implementação em Julia de uma relaxação lagrangiana para o problema *K-median* e resolução pelo método do subgradiente-->
 
 **Referências:**
 - *(artigo guia)* Fisher, M. L. The Lagrangian Relaxation Method for Solving Integer Programming Problems. Management Science 27(1), 1-18 (1981) [artigo revista (2004)](https://doi.org/10.1287/mnsc.1040.0263); [PDF aberto (1981)](http://www.dep.ufmg.br/old/professores/miranda/OtiComb/lagrange.pdf)
