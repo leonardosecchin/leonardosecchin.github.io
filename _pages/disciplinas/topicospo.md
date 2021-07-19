@@ -42,6 +42,7 @@ Ementa variável.
 - [Estrutura de esparsidade dos problemas-teste selecionados](/files/topicospo/PTO_INT-prob_testes_A.zip)
 - [Resultados numéricos esperados nos problemas-teste selecionados](/files/topicospo/PTO_INT-resultados.txt)
 - "Código extra": [interface Julia para o método preditor-corretor do CPLEX](/files/topicospo/cplex_barrier.jl)
+- [`Tulip.jl`](https://github.com/ds4dm/Tulip.jl), uma boa implementação do método preditor-corretor com múltiplas correções em Julia
 
 **Referências:**
 - Vanderbei, R. J. Linear programming. Foundations and extensions. 3 ed, Springer, 2008.
