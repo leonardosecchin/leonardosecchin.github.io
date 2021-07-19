@@ -47,7 +47,7 @@ Ementa variável.
 **Referências:**
 - Vanderbei, R. J. Linear programming. Foundations and extensions. 3 ed, Springer, 2008.
 - *(capítulo 14)* Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006.
-- *(capítulo 9)* Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006. [(PDF internet)](http://www.ic.uff.br/~yuri/pl/Maculan.pdf)
+- *(capítulo 9)* Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006.
 
 **Outras:**
 - *(uma referência super completa para métodos primais-duais)* Wright, S. J. Primal-Dual Interior-Point Methods. SIAM, 1997.
@@ -109,7 +109,7 @@ Ementa variável.
 
 **Outras:**
 - *(aplicação em branch-and-bound)* [Florentino, H. O. Relaxação lagrangeana em programação inteira. Dissertação de Mestrado (ICMC/USP), São Carlos, 1990.](https://teses.usp.br/teses/disponiveis/55/55134/tde-20022019-110621/pt-br.php)
-- *(capítulo 11)* Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006. [(PDF internet)](http://www.ic.uff.br/~yuri/pl/Maculan.pdf)
+- *(capítulo 11)* Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006.
 
 ## TÓPICO 5: Algoritmos de otimização em aprendizado de máquina
 
@@ -141,7 +141,7 @@ Ementa variável.
 - Implementação de um método simples de geração de colunas usando Julia + CPLEX/GLPK
 
 **Referências:**
-- *(capítulo 7)* Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006. [(PDF internet)](http://www.ic.uff.br/~yuri/pl/Maculan.pdf)
+- *(capítulo 7)* Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006.
 - *(um panorama geral -- Capítulo 11)* [Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021.](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.ch11)
 - *(estudo de caso)* Munari, P.; Morabito, R. A branch-price-and-cut algorithm for the vehicle routing problem with time windows and multiple deliverymen. TOP 26, 437-464 (2018). [artigo revista](https://doi.org/10.1007/s11750-018-0481-8); [PDF acesso livre](http://www.optimization-online.org/DB_FILE/2016/01/5289.pdf)
 
