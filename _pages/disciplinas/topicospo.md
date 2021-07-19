@@ -95,7 +95,7 @@ Ementa variável.
 1. Convergência dos métodos com passo constante e com passo decrescente
 1. Resolução do problema lagrangiano via método do subgradiente
 
-**EXERCÍCIOS DO TÓPICO (em breve)**
+**[EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1EwxcJ7lcMM0r4ksb6fa-ViYExBHwb6ba/view?usp=sharing)**
 - [Código base para uso do CPLEX ou GLPK no Julia (problema de localização de facilidades não capacitado)](/files/topicospo/ufl.jl)
 
 **Referências:**
