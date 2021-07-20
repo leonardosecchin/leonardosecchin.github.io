@@ -75,6 +75,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**SLIDES** - Conceitos básicos](/files/otim1/1.Conceitos_basicos.pdf)
 - [VÍDEO: Uma visão geral da otimização - fala do prof. Jose Mario Martinez (Unicamp)](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
 
+* * *
 
 ### Otimização sem restrições
 
@@ -83,6 +84,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 - [**SLIDES** - Otimização sem restrições](/files/otim1/2.Otimizacao_sem_restricoes.pdf)
 
+* * *
 
 ### Convexidade
 
@@ -91,6 +93,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 - [**SLIDES** - Convexidade](/files/otim1/3.Convexidade.pdf)
 
+* * *
 
 ### Métodos para otimização sem restrições
 
@@ -144,6 +147,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - **SLIDES** - Perfis de desempenho segundo [Dolan e Moré](https://link.springer.com/article/10.1007/s101070100263)
   - [BenchmarkProfiles.jl](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl) - gerando perfis de desempenho com o Julia-->
 
+* * *
 
 ### Otimização com restrições
 
@@ -151,6 +155,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 - [**SLIDES** - Otimização com restrições; condições de Karush-Kuhn-Tucker (KKT)](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
 
+* * *
 
 ### Métodos para otimização com restrições
 
