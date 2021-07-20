@@ -70,7 +70,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 ### Conceitos básicos
 
-*Referência principal:* [**Friedlander, A. Elementos de Programação Não-Linear.**](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 1)**
+*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 1)**
 
 - [**SLIDES** - Conceitos básicos](/files/otim1/1.Conceitos_basicos.pdf)
 - [VÍDEO: Uma visão geral da otimização - fala do prof. Jose Mario Martinez (Unicamp)](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
@@ -79,7 +79,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 ### Otimização sem restrições
 
-*Referência principal:* [**Friedlander, A. Elementos de Programação Não-Linear.**](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 2)**  
+*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 2)**  
 *Referência complementar:* [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf) **(capítulo 2)**
 
 - [**SLIDES** - Otimização sem restrições](/files/otim1/2.Otimizacao_sem_restricoes.pdf)
@@ -88,7 +88,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 ### Convexidade
 
-*Referência principal:* [**Friedlander, A. Elementos de Programação Não-Linear.**](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 3)**  
+*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 3)**  
 > *Referência complementar:* [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf) **(capítulo 3)**
 
 - [**SLIDES** - Convexidade](/files/otim1/3.Convexidade.pdf)
@@ -99,7 +99,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 #### MÉTODOS DE DESCIDA GERAIS
 
-*Referência principal:* [**Friedlander, A. Elementos de Programação Não-Linear.**](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seção 6.1)**  
+*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seção 6.1)**  
 *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.1)**
 
 - [**SLIDES** - Métodos de descida gerais](/files/otim1/4.1.Metodos_descida_gerais.pdf)
@@ -109,7 +109,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 #### MÉTODO DE NEWTON
 
-*Referência principal:* [**Friedlander, A. Elementos de Programação Não-Linear.**](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 5, seção 6.2)**  
+*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 5, seção 6.2)**  
 *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.1)**
 
 - [**SLIDES** - Método de Newton](/files/otim1/4.2.Metodo_de_Newton.pdf)
@@ -151,7 +151,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Otimização com restrições
 
-*Referência principal:* [**Friedlander, A. Elementos de Programação Não-Linear.**](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seções 13.1 e 13.2)**
+*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seções 13.1 e 13.2)**
 
 - [**SLIDES** - Otimização com restrições; condições de Karush-Kuhn-Tucker (KKT)](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
 
@@ -159,7 +159,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Métodos para otimização com restrições
 
-*Referência principal 1:* [**Friedlander, A. Elementos de Programação Não-Linear.**](https://www.ime.unicamp.br/~friedlan/livro.pdf)  
+*Referência principal 1:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf)  
 *Referência principal 2:* [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf) **(capítulo 2)**  
 *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)
 
