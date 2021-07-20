@@ -89,7 +89,7 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 ### Convexidade
 
 *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 3)**  
-> *Referência complementar:* [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf) **(capítulo 3)**
+*Referência complementar:* [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf) **(capítulo 3)**
 
 - [**SLIDES** - Convexidade](/files/otim1/3.Convexidade.pdf)
 
@@ -97,38 +97,38 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 
 ### Métodos para otimização sem restrições
 
-#### MÉTODOS DE DESCIDA GERAIS
+1. **Métodos de descida gerais**
 
-*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seção 6.1)**  
-*Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.1)**
+   *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seção 6.1)**  
+   *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.1)**
 
-- [**SLIDES** - Métodos de descida gerais](/files/otim1/4.1.Metodos_descida_gerais.pdf)
-- [**SLIDES** - Convergência dos métodos de descida](/files/otim1/4.3.Convergencia_metodos_descida.pdf)
-  - Veja o Teorema 6.1.6 da referência complementar.
-
-
-#### MÉTODO DE NEWTON
-
-*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 5, seção 6.2)**  
-*Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.1)**
-
-- [**SLIDES** - Método de Newton](/files/otim1/4.2.Metodo_de_Newton.pdf)
-  - Leitura interessante: [Artigo sobre o desenvolvimento da ideia Newtoniana ao longo dos anos (download acessando pela Universidade)](https://doi.org/10.1007/978-3-319-94015-1_9)
-- [**SLIDES** - Convergência global vs local](/files/otim1/4.4.Convergencia_global_vs_local.pdf)
-- [**SLIDES** - Convergência do método de Newton](/files/otim1/4.5.Convergencia_Newton.pdf)
+   - [**SLIDES** - Métodos de descida gerais](/files/otim1/4.1.Metodos_descida_gerais.pdf)
+   - [**SLIDES** - Convergência dos métodos de descida](/files/otim1/4.3.Convergencia_metodos_descida.pdf)
+   - Veja o Teorema 6.1.6 da referência complementar.
 
 
-#### MÉTODO DO GRADIENTE COM PASSO CONSTANTE E INTRODUÇÃO À COMPLEXIDADE DE ALGORITMOS
+1. **Método de Newton**
 
-- [**SLIDES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.7.Gradiente_passo_cte.pdf)
+   *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 5, seção 6.2)**  
+   *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.1)**
+
+   - [**SLIDES** - Método de Newton](/files/otim1/4.2.Metodo_de_Newton.pdf)
+     - Leitura interessante: [Artigo sobre o desenvolvimento da ideia Newtoniana ao longo dos anos (download acessando pela Universidade)](https://doi.org/10.1007/978-3-319-94015-1_9)
+   - [**SLIDES** - Convergência global vs local](/files/otim1/4.4.Convergencia_global_vs_local.pdf)
+   - [**SLIDES** - Convergência do método de Newton](/files/otim1/4.5.Convergencia_Newton.pdf)
 
 
-#### MÉTODO DOS GRADIENTES CONJUGADOS
+1. **Método do gradiente com passo constante e introdução à complexidade de algoritmos**
 
-*Referência principal:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 5.3 do livro publicado pela Cengage)**
+   - [**SLIDES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.7.Gradiente_passo_cte.pdf)
 
-- [**SLIDES** - Método dos gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
-  - **Trabalho 1:** implementação e teste do método dos gradientes conjugados (veja seção "listas de exercícios e trabalhos")
+
+1. **Método dos gradientes conjugados**
+
+   *Referência principal:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 5.3 do livro publicado pela Cengage)**
+
+   - [**SLIDES** - Método dos gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
+     - **Trabalho 1:** implementação e teste do método dos gradientes conjugados (veja seção "listas de exercícios e trabalhos")
 
 
 ### A linguagem de programação Julia
