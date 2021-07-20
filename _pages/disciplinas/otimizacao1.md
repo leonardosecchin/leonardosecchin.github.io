@@ -121,11 +121,11 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 - [**SLIDES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.7.Gradiente_passo_cte.pdf)
 
 
-#### MÉTODO DE GRADIENTES CONJUGADOS
+#### MÉTODO DOS GRADIENTES CONJUGADOS
 
 > *Referência principal:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 5.3 do livro publicado pela Cengage)**
 
-- [**SLIDES** - Gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
+- [**SLIDES** - Método dos gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
   - **Trabalho 1:** implementação e teste do método dos gradientes conjugados (veja seção "listas de exercícios e trabalhos")
 
 
