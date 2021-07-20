@@ -80,8 +80,8 @@ Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie
 ### Otimização sem restrições
 =====
 
-- *Referência principal:* [**Friedlander, A. Elementos de Programação Não-Linear.**](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 2)**
-- *Referência complementar:* [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf) **(capítulo 2)**
+>> *Referência principal:* [**Friedlander, A. Elementos de Programação Não-Linear.**](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 2)**
+>> *Referência complementar:* [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf) **(capítulo 2)**
 
 - [**SLIDES** - Otimização sem restrições](/files/otim1/2.Otimizacao_sem_restricoes.pdf)
 - Faça todos os exercícios do Capítulo 2 do livro de Ana Friedlander
