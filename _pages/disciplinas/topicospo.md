@@ -110,22 +110,25 @@ Ementa variável.
 - *(aplicação em branch-and-bound)* [Florentino, H. O. Relaxação lagrangeana em programação inteira. Dissertação de Mestrado (ICMC/USP), São Carlos, 1990.](https://teses.usp.br/teses/disponiveis/55/55134/tde-20022019-110621/pt-br.php)
 - *(capítulo 11)* Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006.
 
+
 ## TÓPICO 5: Algoritmos de otimização em aprendizado de máquina
 
 **Conteúdo:**
 
-1. Método do gradiente clássico (revisão)
-1. Método do gradiente incremental
+1. Introdução
+1. Métodos do gradiente clássico e do gradiente incremental
+1. Um pouco de probabilidade
 1. Método do gradiente estocástico e variantes
-1. Modelos via redes neurais
-1. Treinamento de redes neurais
 1. Convergência em probabilidade do método estocástico com passo constante para funções fortemente convexas
+1. Modelagem via redes neurais
+1. Treinamento de redes neurais
 1. Exemplos e aplicações
 
 **Referências:**
 - *(curso básico)* [Livro on-line "Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/)
 - *(resumo de vários métodos)* [paperswithcode.com](https://paperswithcode.com/methods/category/optimization)
-- *(referência com demonstrações de teoremas)* Bottou, L; Curtis, F. E.; Nocedal, J. Optimization Methods for Large-Scale Machine Learning. SIAM Rev., 60(2), 223-311 (2018). [artigo revista](https://doi.org/10.1137/16M1080173); [PDF acesso livre](https://arxiv.org/abs/1606.04838)
+- *(convergência do método estocástico)* Bottou, L; Curtis, F. E.; Nocedal, J. Optimization Methods for Large-Scale Machine Learning. SIAM Rev., 60(2), 223-311 (2018). [artigo revista](https://doi.org/10.1137/16M1080173); [PDF acesso livre](https://arxiv.org/abs/1606.04838)
+- *(referência para probabilidade)* [Curso de teoria da probabilidade de Augusto Morgado e Ralph Teixeira (FGV)](https://sites.google.com/site/probfgv/) (link direto para as [notas de aula](https://sites.google.com/site/probfgv/Livro_probabilidade.pdf?attredirects=0))
 
 
 ## TÓPICO 6: Geração de colunas
