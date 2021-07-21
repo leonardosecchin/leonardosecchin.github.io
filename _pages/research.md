@@ -87,7 +87,7 @@ author_profile: true
 
 ## Others
 
-1. [Karush-Kuhn-Tucker Conditions](/files/kkt_ifors.pdf)
+1. [Karush-Kuhn-Tucker Conditions](/files/kkt_ifors.pdf)  
    M. L. Schuverdt, L. D. Secchin  
    IFORS News, 16(2):16-18, June 2021, ISSN 2223-4373
 
