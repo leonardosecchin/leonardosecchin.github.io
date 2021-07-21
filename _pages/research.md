@@ -84,6 +84,14 @@ author_profile: true
    R. Andreani, S. A. Santos, L. D. Secchin  
    Proceeding Series of the Brazilian Society of Computational and Applied Mathematics, 2018
 
+
+## Others
+
+1. [Karush-Kuhn-Tucker Conditions](/files/kkt_ifors.pdf)
+   M. L. Schuverdt, L. D. Secchin  
+   IFORS News, 16(2):16-18, June 2021, ISSN 2223-4373
+
+
 <!--## See also
 
 - [Curriculum Lattes (in portuguese)](http://lattes.cnpq.br/4273961903394165)
