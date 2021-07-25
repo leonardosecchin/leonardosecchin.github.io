@@ -96,7 +96,7 @@ Ementa variável.
    - Explicação do exemplo [GAP (Generalized Assignment Problem)](https://en.wikipedia.org/wiki/Generalized_assignment_problem)
 1. [Propriedades da função lagrangiano; subgradiente/subdiferencial](/files/topicospo/RELAX_LAG_2-subgrad.pdf)
 1. [Método do subgradiente para funções convexas e sua convergência](/files/topicospo/RELAX_LAG_3-metodo_subgrad.pdf)
-1. Resolução do problema lagrangiano via método do subgradiente
+1. [Resolução do problema lagrangiano via método do subgradiente](/files/topicospo/RELAX_LAG_4-relaxacao_subgrad.pdf)
 
 **[EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1EwxcJ7lcMM0r4ksb6fa-ViYExBHwb6ba/view?usp=sharing)**
 - [Código base para uso do CPLEX ou GLPK no Julia (problema de localização de facilidades não capacitado)](/files/topicospo/ufl.jl)
