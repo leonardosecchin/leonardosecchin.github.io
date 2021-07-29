@@ -82,7 +82,13 @@ Se a compilação terminou sem erros, sua instalação do Julia estará pronta p
 ./julia
 ~~~
 
-Você também pode criar um atalho no seu `.bashrc` ou `.profile`. Para desinstalar o Julia neste método, simplesmente apague os diretórios `julia` e `.julia`.
+Você também pode criar um atalho no seu `.bashrc` para que, executando `julia` de qualquer pasta, entre no Julia que acabou de instalar. Para tanto, edite o arquivo `.bashrc` (peça para exibir arquivos ocultos no seu gerenciador de arquivos) inserindo a linha
+~~~
+alias julia="[DIRETORIO DA INSTALACAO JULIA]/./julia"
+~~~
+
+
+Para desinstalar o Julia neste método, simplesmente apague os diretórios `julia` e `.julia`.
 
 
 ## Julia com ambiente gráfico
