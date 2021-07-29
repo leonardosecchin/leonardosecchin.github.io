@@ -62,12 +62,22 @@ git checkout v1.x.x
 ~~~
 onde **v1.x.x** é a versão corrente.
 
+1. Instale pré-requisitos no seu sistema. Para usuários do Ubuntu ou Mint, execute
+~~~
+sudo apt update
+sudo apt install gfortran libopenblas-dev
+~~~
+Isso instalará os pacotes `gfortran` e `libopenblas-dev` no seu sistema. O pacote `gfortran` é um compilador da linguagem Fortran, e `libopenblas-dev` é uma implementação das rotinas de álgebra linear de alto desempenho BLAS, necessárias para alguns pacotes do Julia.
+
+*Obs: para cada comando `sudo` será requerida a senha do usuário. Você pode instalar os pacotes em seu sistema a partir do usuário administrador `root` se preferir.*
+
 1. Compile o Julia executando
 ~~~
 make
 ~~~
+*Obs: caso seu sistema não possua os pacotes necessários instalados, a compilação será interrompida com um aviso da falta do pacote de sistema. Nesse caso, instale o pacote requerido e volte a executar make. Repita o processo até sanar todos os erros.*
 
-Após o término, sua instalação do Julia estará pronta para uso. Você pode executá-lo de dentro do diretório `julia`:
+Se a compilação terminou sem erros, sua instalação do Julia estará pronta para uso. Você pode executá-lo de dentro do diretório `julia`:
 ~~~
 ./julia
 ~~~
