@@ -115,10 +115,10 @@ Ementa variável.
 
 **Conteúdo:**
 
-1. Introdução
+1. [Introdução](/files/topicospo/ML_1-intro.pdf)
 1. Método do gradiente incremental
 1. Um pouco de probabilidade
-1. Método do gradiente estocástico (SGD) e variantes
+1. Método do gradiente estocástico (SG) e variantes
 1. Convergência em probabilidade do método estocástico com passo constante para funções fortemente convexas
 1. Modelagem via redes neurais
 1. Treinamento de redes neurais
@@ -128,7 +128,7 @@ Ementa variável.
 - *(curso básico)* [Livro on-line "Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/)
 - *(resumo de vários métodos)* [paperswithcode.com](https://paperswithcode.com/methods/category/optimization)
 - *(método do gradiente incremental -- seçãos 2.1.5)* Bertsekas, D. P. Convex Optimization Algorithms. Athena Scientific, 2015.
-- *(introdução e convergência do SGD)* Bottou, L; Curtis, F. E.; Nocedal, J. Optimization Methods for Large-Scale Machine Learning. SIAM Rev., 60(2), 223-311 (2018). [artigo revista](https://doi.org/10.1137/16M1080173); [PDF acesso livre](https://arxiv.org/abs/1606.04838)
+- *(introdução e convergência do SG)* Bottou, L; Curtis, F. E.; Nocedal, J. Optimization Methods for Large-Scale Machine Learning. SIAM Rev., 60(2), 223-311 (2018). [artigo revista](https://doi.org/10.1137/16M1080173); [PDF acesso livre](https://arxiv.org/abs/1606.04838)
 - *(texto sobre probabilidade)* [Curso "Teoria da Probabilidade" de A. Morgado e R. Teixeira (FGV)](https://sites.google.com/site/probfgv/) (link para [notas de aula](https://sites.google.com/site/probfgv/Livro_probabilidade.pdf?attredirects=0))
 
 
