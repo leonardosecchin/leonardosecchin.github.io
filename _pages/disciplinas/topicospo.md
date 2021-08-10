@@ -131,6 +131,9 @@ Ementa variável.
 - *(introdução e convergência do SG)* Bottou, L; Curtis, F. E.; Nocedal, J. Optimization Methods for Large-Scale Machine Learning. SIAM Rev., 60(2), 223-311 (2018). [artigo revista](https://doi.org/10.1137/16M1080173); [PDF acesso livre](https://arxiv.org/abs/1606.04838)
 - *(texto sobre probabilidade)* [Curso "Teoria da Probabilidade" de A. Morgado e R. Teixeira (FGV)](https://sites.google.com/site/probfgv/) (link para [notas de aula](https://sites.google.com/site/probfgv/Livro_probabilidade.pdf?attredirects=0))
 
+**Outra:**
+- Beck, A. First-Order Methods in Optimization. MOS-SIAM Series on Optimization, SIAM, 2017.
+
 
 ## TÓPICO 6: Geração de colunas
 
