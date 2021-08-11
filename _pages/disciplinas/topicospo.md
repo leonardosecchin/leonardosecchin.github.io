@@ -125,14 +125,14 @@ Ementa variável.
 1. Exemplos e aplicações
 
 **Referências:**
-- *(curso básico)* [Livro on-line "Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/)
-- *(resumo de vários métodos)* [paperswithcode.com](https://paperswithcode.com/methods/category/optimization)
-- *(método do gradiente incremental -- seçãos 2.1.5)* Bertsekas, D. P. Convex Optimization Algorithms. Athena Scientific, 2015.
-- *(introdução e convergência do SG)* Bottou, L; Curtis, F. E.; Nocedal, J. Optimization Methods for Large-Scale Machine Learning. SIAM Rev., 60(2), 223-311 (2018). [artigo revista](https://doi.org/10.1137/16M1080173); [PDF acesso livre](https://arxiv.org/abs/1606.04838)
+- *(introdução aprendizado de máquina)* Bottou, L; Curtis, F. E.; Nocedal, J. Optimization Methods for Large-Scale Machine Learning. SIAM Rev., 60(2), 223-311 (2018). [artigo revista](https://doi.org/10.1137/16M1080173); [PDF acesso livre](https://arxiv.org/abs/1606.04838)
+- *(introdução gradiente incremental -- seção 2.1.5)* Bertsekas, D. P. Convex Optimization Algorithms. Athena Scientific, 2015.
 - *(texto sobre probabilidade)* [Curso "Teoria da Probabilidade" de A. Morgado e R. Teixeira (FGV)](https://sites.google.com/site/probfgv/) (link para [notas de aula](https://sites.google.com/site/probfgv/Livro_probabilidade.pdf?attredirects=0))
+- *((sub)gradiente incremental/estocástico e convergência -- seções 8.3, 8.4)* Beck, A. First-Order Methods in Optimization. MOS-SIAM Series on Optimization, SIAM, 2017.
 
 **Outra:**
-- Beck, A. First-Order Methods in Optimization. MOS-SIAM Series on Optimization, SIAM, 2017.
+- *(curso básico)* [Livro on-line "Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/)
+- *(resumo de vários métodos)* [paperswithcode.com](https://paperswithcode.com/methods/category/optimization)
 
 
 ## TÓPICO 6: Geração de colunas
