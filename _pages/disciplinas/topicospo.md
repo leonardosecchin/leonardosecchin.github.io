@@ -117,7 +117,7 @@ Ementa variável.
 
 1. [Introdução](/files/topicospo/ML_1-intro.pdf)
 1. [Método do gradiente incremental](/files/topicospo/ML_2-incremental.pdf)
-1. Um pouco de probabilidade
+1. [Um pouco de probabilidade](/files/topicospo/ML_3-prob.pdf)
 1. Método do gradiente estocástico (SG) e variantes
 1. Convergência em probabilidade do método estocástico com passo constante para funções fortemente convexas
 1. Modelagem via redes neurais
