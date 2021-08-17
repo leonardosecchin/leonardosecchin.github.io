@@ -125,11 +125,10 @@ Ementa variável.
 1. Exemplos e aplicações
 
 **Alguns pacotes Julia para aprendizado de máquina:**
-- [Mocha.jl](https://developer.nvidia.com/blog/mocha-jl-deep-learning-julia/)
-- [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl)
-- [Interface Julia para TensorFlow](https://github.com/malmaud/TensorFlow.jl)
-- [Flux.jl](https://fluxml.ai/)
-- [Merlin.jl](https://github.com/hshindo/Merlin.jl)
+- [Flux.jl](https://fluxml.ai/) (implementado em Julia puro)
+- [Merlin.jl](https://github.com/hshindo/Merlin.jl) (implementado em Julia puro)
+- [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl) (interface para [scikit-learn](https://scikit-learn.org/stable/), implementado em Python)
+- [TensorFlow.jl](https://github.com/malmaud/TensorFlow.jl) (interface para ambiente [TensorFlow](https://www.tensorflow.org/))
 
 **Referências:**
 - *(introdução aprendizado de máquina)* Bottou, L; Curtis, F. E.; Nocedal, J. Optimization Methods for Large-Scale Machine Learning. SIAM Rev., 60(2), 223-311 (2018). [artigo revista](https://doi.org/10.1137/16M1080173); [PDF acesso livre](https://arxiv.org/abs/1606.04838)
