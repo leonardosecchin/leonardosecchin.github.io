@@ -124,13 +124,20 @@ Ementa variável.
 1. Treinamento de redes neurais
 1. Exemplos e aplicações
 
+**Alguns pacotes Julia para aprendizado de máquina:**
+- [Mocha.jl](https://developer.nvidia.com/blog/mocha-jl-deep-learning-julia/)
+- [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl)
+- [Interface Julia para TensorFlow](https://github.com/malmaud/TensorFlow.jl)
+- [Flux.jl](https://fluxml.ai/)
+- [Merlin.jl](https://github.com/hshindo/Merlin.jl)
+
 **Referências:**
 - *(introdução aprendizado de máquina)* Bottou, L; Curtis, F. E.; Nocedal, J. Optimization Methods for Large-Scale Machine Learning. SIAM Rev., 60(2), 223-311 (2018). [artigo revista](https://doi.org/10.1137/16M1080173); [PDF acesso livre](https://arxiv.org/abs/1606.04838)
 - *(introdução gradiente incremental -- seção 2.1.5)* Bertsekas, D. P. Convex Optimization Algorithms. Athena Scientific, 2015.
 - *(texto sobre probabilidade)* [Curso "Teoria da Probabilidade" de A. Morgado e R. Teixeira (FGV)](https://sites.google.com/site/probfgv/) (link para [notas de aula](https://sites.google.com/site/probfgv/Livro_probabilidade.pdf?attredirects=0))
 - *((sub)gradiente incremental/estocástico e convergência -- seções 8.3, 8.4)* Beck, A. First-Order Methods in Optimization. MOS-SIAM Series on Optimization, SIAM, 2017.
 
-**Outra:**
+**Outras:**
 - *(curso básico)* [Livro on-line "Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/)
 - *(resumo de vários métodos)* [paperswithcode.com](https://paperswithcode.com/methods/category/optimization)
 
