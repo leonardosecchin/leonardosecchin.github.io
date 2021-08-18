@@ -160,6 +160,7 @@ Se pretende minimizar funções quadráticas, você pode ler matrizes da [Suite 
    - O pacote `SuiteSparseMatrixCollection` baixa as matrizes automaticamente para o diretório de trabalho do próprio Julia. Por exemplo, o trecho a seguir seleciona e baixa as matrizes do grupo [**HB**](https://sparse.tamu.edu/HB) que são reais, simétricas, definidas positivas e com dimensão $\leq 1000$:
    ~~~
    julia> using SuiteSparseMatrixCollection, MatrixMarket
+   julia> ssmc = ssmc_db()
    julia> matrizes = ssmc[(ssmc.nrows .<= 1000) .& (ssmc.group .== "HB") .& (ssmc.numerical_symmetry .== 1) .& (ssmc.real .== true) .& (ssmc.positive_definite .== true), :]
    julia> paths = fetch_ssmc(matrizes, format="MM")
    ~~~
