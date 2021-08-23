@@ -130,6 +130,8 @@ Ementa variável.
 - [ScikitLearn.jl](https://github.com/cstjean/ScikitLearn.jl) (interface para [scikit-learn](https://scikit-learn.org/stable/), implementado em Python)
 - [TensorFlow.jl](https://github.com/malmaud/TensorFlow.jl) (interface para ambiente [TensorFlow](https://www.tensorflow.org/))
 
+**[EXERCÍCIOS DO TÓPICO (em construção)](https://drive.google.com/file/d/1HxhG4-H8jXr-VpQzZl2LigfqgvXko5IR/view?usp=sharing)**
+
 **Referências:**
 - *(introdução aprendizado de máquina)* Bottou, L; Curtis, F. E.; Nocedal, J. Optimization Methods for Large-Scale Machine Learning. SIAM Rev., 60(2), 223-311 (2018). [artigo revista](https://doi.org/10.1137/16M1080173); [PDF acesso livre](https://arxiv.org/abs/1606.04838)
 - *(introdução gradiente incremental -- seção 2.1.5)* Bertsekas, D. P. Convex Optimization Algorithms. Athena Scientific, 2015.
