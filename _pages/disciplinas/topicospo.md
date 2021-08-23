@@ -119,7 +119,7 @@ Ementa variável.
 1. [Método do gradiente incremental](/files/topicospo/ML_2-incremental.pdf)
 1. [Um pouco de probabilidade](/files/topicospo/ML_3-prob.pdf)
 1. [Método do gradiente estocástico (SG) e variantes](/files/topicospo/ML_4-sg.pdf)
-1. Convergência em probabilidade do método estocástico com passo constante para funções fortemente convexas
+1. [Convergência do método do gradiente estocástico para funções convexas](/files/topicospo/ML_5-convergencia_sg.pdf)
 1. Modelagem via redes neurais
 1. Treinamento de redes neurais
 1. Exemplos e aplicações
