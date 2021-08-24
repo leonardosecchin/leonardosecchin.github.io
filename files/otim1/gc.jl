@@ -129,7 +129,8 @@ function testar(; saidas=false, reinicia=false)
         "662_bus",
         "bcsstk21",
         "1138_bus",
-        "finan512"
+        "finan512",
+        "thermal2"
     ]
 
     # tabela com resultados
