@@ -121,7 +121,17 @@ Ementa variável.
 1. [Método do gradiente estocástico (SG) e variantes](/files/topicospo/ML_4-sg.pdf)
 1. [Convergência do método do gradiente estocástico para funções convexas](/files/topicospo/ML_5-convergencia_sg.pdf)
 1. [Treinamento de redes neurais - feedfoward e backpropagation](/files/topicospo/ML_6-treinamento.pdf)
-1. Exemplos e aplicações
+1. Exemplos
+   - [Diferença entre gradiente incremental e estocástico](/files/topicospo/ionosphere.zip)
+   - Pacote com *datasets* prontos para Julia: [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl)
+   - [Exemplo de uso do **Flux** no *dataset* MNIST (código)](/files/topicospo/mnist.jl)
+   - Sobre o *dataset* MNIST: [wikipedia](https://en.wikipedia.org/wiki/MNIST_database); [página do autor](http://yann.lecun.com/exdb/mnist/); [estatísticas dos dados](https://knowyourdata-tfds.withgoogle.com/#tab=STATS&dataset=mnist)
+   - Exemplos prontos de uso do **Flux**: [model-zoo](https://github.com/FluxML/model-zoo)
+
+**Conjunto de dados (*datasets*) disponíveis para uso:**
+- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+- [*Datasets* no TensorFlow](https://www.tensorflow.org/datasets/catalog/overview#all_datasets)
+- [Informações variadas sobre vários *datasets*](https://knowyourdata-tfds.withgoogle.com/)
 
 **Alguns pacotes Julia para aprendizado de máquina:**
 - [Flux.jl](https://fluxml.ai/) (implementado em Julia puro)
