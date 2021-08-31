@@ -35,9 +35,8 @@ using MLDatasets
 # CARREGA DATASET MNIST
 ##########################
 function carrega_dados(batchsize)
-#     ENV["DATADEPS_ALWAYS_ACCEPT"] = "true"
 
-    # carrega MNIST
+    # carrega/baixa MNIST
     #   (xtrain,ytrain): pares entrada-saída para treino da rede
     #   (xtest,ytest)  : pares entrada-saída para teste da rede treinada
     xtrain, ytrain = MLDatasets.MNIST.traindata(Float32)
