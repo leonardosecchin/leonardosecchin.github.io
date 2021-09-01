@@ -175,7 +175,6 @@ function treinar(; ninter = 32, eta = 4e-1, batchsize = 256, nepochs = 20)
     # Nesterov(η = 0.001, ρ = 0.9)  : método acelerado de Nesterov
     # RADAM(η = 0.001, β::Tuple = (0.9, 0.999)): Rectified ADAM
     # AdaMax(η = 0.001, β::Tuple = (0.9, 0.999))
-    # AdaMax(η = 0.001, β::Tuple = (0.9, 0.999))
     # AMSGrad(η = 0.001, β::Tuple = (0.9, 0.999))
     # NADAM(η = 0.001, β::Tuple = (0.9, 0.999))
     # ADAMW(η = 0.001, β::Tuple = (0.9, 0.999), decay = 0)
@@ -184,7 +183,7 @@ function treinar(; ninter = 32, eta = 4e-1, batchsize = 256, nepochs = 20)
     #
     # Legenda
     #   η: taxa de aprendizagem fixa (SGD) ou "de referência" (veja Adagrad, pg 16 de https://leonardosecchin.github.io/files/topicospo/ML_4-sg.pdf)
-    #   ρ: balanço do momento (beta da pg 20 de https://leonardosecchin.github.io/files/topicospo/ML_4-sg.pdf)
+    #   ρ: balanço do momento (β da pg 20 de https://leonardosecchin.github.io/files/topicospo/ML_4-sg.pdf)
     #   β: parâmetros de momento (não visto com detalhes em aula)
     # consulte https://fluxml.ai/Flux.jl/stable/training/optimisers/ para detalhes
 
