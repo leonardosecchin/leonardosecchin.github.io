@@ -121,7 +121,7 @@ Ementa variável.
 1. [Método do gradiente estocástico (SG) e variantes](/files/topicospo/ML_4-sg.pdf)
 1. [Convergência do método do gradiente estocástico para funções convexas](/files/topicospo/ML_5-convergencia_sg.pdf)
 1. [Treinamento de redes neurais - feedfoward e backpropagation](/files/topicospo/ML_6-treinamento.pdf)
-1. Exemplos
+1. Experimentos numéricos
    - [Diferença entre gradiente incremental e estocástico](/files/topicospo/ionosphere.zip)
    - Pacote com *datasets* prontos para Julia: [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl)
    - [Exemplo de uso do **Flux** no *dataset* MNIST (código)](/files/topicospo/ex_flux.jl)
@@ -156,12 +156,19 @@ Ementa variável.
 
 **Conteúdo:**
 
-1. Decomposição de Dantzig-Wolfe
-1. Método de geração de colunas
-1. *Branch-and-Cut-and-Price* -- estudo de caso
+1. Revisão do método primal Simplex, teorema de representação de poliedros
+1. Método de geração de colunas para problemas lineares (PLs) contínuos
+1. PLs com variáveis inteiras -- Decomposição de Dantzig-Wolfe
+1. Comentários sobre métodos enumerativos com geração de colunas -- *Branch-and-Price* e *Branch-and-Cut-and-Price*
 
 **EXERCÍCIOS DO TÓPICO:**
 - Implementação de um método simples de geração de colunas usando Julia + CPLEX/GLPK
+
+**Leituras interessantes:**
+
+- Geralmente o método de geração de colunas vem associado ao método Simplex, ou seja, o problema auxiliar, que fornece a nova coluna a entrar no problema mestre, é resolvido via Simplex. Mas isso não é obrigatório! É possível usar métodos de pontos interiores (tópico 1) no lugar do Simplex com sucesso. O mesmo vale para geração de colunas dentro de um esquema enumerativo ao resolver problemas com variáveis inteiras. Veja por exemplo [este artigo](https://proceedings.sbmac.org.br/sbmac/article/view/617/0) e suas referências.
+
+- Em alguns casos interessantes é possível usar relaxação lagrangiana (tópico 4) nos problemas do método de geração de colunas. Veja por exemplo o capítulo 9 [deste livro](https://link.springer.com/chapter/10.1007/0-387-25486-2_9).
 
 **Referências:**
 - *(capítulo 7)* Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006.
