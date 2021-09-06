@@ -24,7 +24,7 @@ author_profile: true
 *   IEZZI, Gelson e MURAKAMI, Carlos. Fundamentos de Matemática Elementar vol 1 (conjuntos, funções). Atual editora.
 *   IEZZI, Gelson. Fundamentos de Matemática Elementar vol 3 (Trigonometria). Atual editora.
 *   IEZZI, Gelson. Fundamentos de Matemática Elementar vol 6 (complexos, polinômios e equações). Atual editora.
-*   SARTIM, Ademir. Matemática Básica, volumes 1, 2 e 3\. Edufes.
+*   SARTIM, Ademir. Matemática Básica, volumes 1, 2 e 3. Edufes. **Baixe os livros gratuitamente [neste link](https://repositorio.ufes.br/browse?type=author&value=Sartim%2C+Ademir)**
 
 ## EXERCÍCIOS COMPLEMENTARES
 
