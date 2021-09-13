@@ -158,7 +158,7 @@ Ementa variável.
 
 1. [Elementos de Programação Linear (revisão): representação de poliedros e método Simplex](/files/topicospo/GER_COL_1-PL.pdf)
    - Revisão completa e exemplos no livro de Maculan e Fampa e nas notas de aula de PL disponibilizadas via AVA
-1. Método de geração de colunas para problemas lineares (PLs) contínuos
+1. [Método de geração de colunas para problemas lineares (PLs) contínuos](/files/topicospo/GER_COL_2-geracao_colunas.pdf)
 1. PLs com variáveis inteiras -- Decomposição de Dantzig-Wolfe
 1. Comentários sobre métodos enumerativos com geração de colunas -- *Branch-and-Price* e *Branch-and-Cut-and-Price*
 
