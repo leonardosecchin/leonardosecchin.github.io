@@ -55,7 +55,7 @@ author_profile: true
 - [LISTA 1 – Conceitos básicos, otimização irrestrita, convexidade](https://drive.google.com/file/d/1yV6DClaPT3zCmB1JkfnVq_j4g77-8EJU/view?usp=sharing)
 - [LISTA 2 – Métodos para otimização sem restrições](https://drive.google.com/file/d/1_SjC-bMI8S4rQViRZ5LZe1Ef4oad1jwv/view?usp=sharing)
 - [TRABALHO COMPUTACIONAL 1 - Método dos gradientes conjugados](https://drive.google.com/file/d/1D4MEh-yAYjrFiv6E5iIQ6Gwj66wP5dGv/view?usp=sharing)
-  - [Código base](/files/otim1/gc.jl)
+  - [Código base](https://drive.google.com/file/d/1C9O5pa0DkSLNU3pyajtfQCCF56HdFsxS/view?usp=sharing)
 <!--- [TRABALHO COMPUTACIONAL 2 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing)-->
 - [LISTA 3 – Otimização com restrições](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing)
 
