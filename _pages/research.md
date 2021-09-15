@@ -17,6 +17,10 @@ author_profile: true
 
 ## Submitted articles
 
+1. [Extension of the delayed weighted gradient method for the minimization of strongly convex functions](http://www.optimization-online.org/DB_HTML/2021/09/8591.html)  
+   R. Andreani, H. Oviedo, M. Raydan, L. D. Secchin  
+   Optimization Online, 2021
+
 1. [Linear Convergence of Quasi-Newton Methods for Solving Constrained Generalized Equations](http://www.optimization-online.org/DB_HTML/2021/05/8400.html)  
    R. Andreani, R. M. Carvalho, L. D. Secchin, G. N. Silva  
    Optimization Online, 2021
