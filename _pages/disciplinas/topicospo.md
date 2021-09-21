@@ -160,6 +160,10 @@ Ementa variável.
    - Revisão completa e exemplos no livro de Maculan e Fampa e nas notas de aula de PL disponibilizadas via AVA
 1. [Método de geração de colunas para problemas lineares (PLs) contínuos](/files/topicospo/GER_COL_2-geracao_colunas.pdf)
 1. PLs com variáveis inteiras -- Decomposição de Dantzig-Wolfe
+1. Exemplo: geração de colunas aplicado ao problema *cutting stock*
+   - Referência: Seções 6.1 e 6.2 de Bertsimas, Tsitsiklis - Introduction to Linear Optimization (1997)
+   - [Código Julia + instâncias](/files/topicospo/GER_COL_cutting_stock.zip)
+   - [URL para instâncias utilizadas](http://or.dei.unibo.it/library/bpplib)
 1. Comentários sobre métodos enumerativos com geração de colunas -- *Branch-and-Price* e *Branch-and-Cut-and-Price*
 
 **EXERCÍCIOS DO TÓPICO:**
