@@ -177,12 +177,7 @@ Ementa variável.
 **Referências:**
 - *(capítulo 7)* Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006.
 - *(um panorama geral -- Capítulo 11)* [Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021.](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.ch11)
-- *(estudo de caso)* Munari, P.; Morabito, R. A branch-price-and-cut algorithm for the vehicle routing problem with time windows and multiple deliverymen. TOP 26, 437-464 (2018). [artigo revista](https://doi.org/10.1007/s11750-018-0481-8); [PDF acesso livre](http://www.optimization-online.org/DB_FILE/2016/01/5289.pdf)
+- *(cutiing stock -- seções 6.1 e 6.2)* Bertsimas, Tsitsiklis - Introduction to Linear Optimization (1997).
 
-
-<!--## TÓPICO 7: Otimização não suave (a verificar)
-
-**Conteúdo:**
-
-1. Subgradiente e subdiferencial
-1. *Bundle method*-->
+**Outra:**
+- Munari, P.; Morabito, R. A branch-price-and-cut algorithm for the vehicle routing problem with time windows and multiple deliverymen. TOP 26, 437-464 (2018). [artigo revista](https://doi.org/10.1007/s11750-018-0481-8); [PDF acesso livre](http://www.optimization-online.org/DB_FILE/2016/01/5289.pdf)
