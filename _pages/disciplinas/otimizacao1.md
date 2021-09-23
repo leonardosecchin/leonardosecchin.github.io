@@ -173,7 +173,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 <!--  - **Trabalho 2:** Implementação do SPG em Julia (veja seção "listas de exercícios e trabalhos")-->
 - [**SLIDES** - Penalização interna](/files/otim1/6.5.Penalizacao_interna.pdf)
 - [**SLIDES** - Programação Quadrática Sequencial (SQP, do inglês) - algoritmo básico](/files/otim1/6.6.SQP.pdf)
-- [**SLIDES** - Estratégia de pontos interiores para programação linear](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
+- [**SLIDES** - Pontos interiores para problemas com restrições lineares](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
 - [**SLIDES** - SQP para restrições não lineares de igualdade e desigualdade](/files/otim1/6.8.SQP_subprob_IP.pdf)
 
 
