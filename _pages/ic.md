@@ -24,6 +24,7 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 1. Condições sequenciais de otimalidade em programação não linear ([slides](https://drive.google.com/open?id=1UOQ_CFm3yPapuoWBxL1sKI6LMZClJUpq), [livro SBMAC](http://arquivo.sbmac.org.br/arquivos/notas/livro_83.pdf))
 1. Métodos de otimização para Inteligência Artificial/Aprendizado de máquina ([intro](https://drive.google.com/file/d/1cy_d21RDGfP-VhFNRUdD7DFN5xI2ATQ-/view?usp=sharing))
 1. O ensino de Pesquisa Operacional no Ensino Médio *(depende de parceria com docente da área de educação matemática)*
+1. Gradiente primal-dual para PL ([ref](https://arxiv.org/pdf/2106.04756.pdf))
 
 
 ### Pré-requisitos
