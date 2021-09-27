@@ -162,7 +162,7 @@ Ementa variável.
 1. [Decomposição de Dantzig-Wolfe, PLs com variáveis inteiras, comentários sobre *branch-and-price*](/files/topicospo/GER_COL_3-dantzig-wolfe.pdf)
 1. Exemplo: geração de colunas aplicado ao problema *cutting stock*
    - Referência: Seções 6.1 e 6.2 de Bertsimas, Tsitsiklis - Introduction to Linear Optimization (1997)
-   - [Código Julia + instâncias](/files/topicospo/GER_COL_cutting_stock.zip)
+   - [Código Julia + instâncias (resolve apenas a relaxação linear do problema)](/files/topicospo/GER_COL_cutting_stock.zip)
    - [URL para instâncias utilizadas](http://or.dei.unibo.it/library/bpplib)
 
 **EXERCÍCIOS DO TÓPICO:**
