@@ -42,12 +42,11 @@ c = [6  2  1  3  5;
 
 # estrutura JuMP associada com CPLEX
 UFL = Model(CPLEX.Optimizer)
-set_optimizer_attribute(UFL, "CPXPARAM_ScreenOutput", 0)  # desliga saída CPLEX na tela
 
 # estrutura JuMP associada com GLPK
 # UFL = Model(GLPK.Optimizer)
-# set_optimizer_attribute(UFL, "msg_lev", GLPK.GLP_MSG_ALL)  # mostra saída GLPK na tela
 
+set_silent(UFL)  # desliga saída solver na tela
 
 # insere variáveis
 @variable(UFL, x[1:m,1:n] >= 0)
@@ -70,4 +69,4 @@ optimize!(UFL)
 
 # FO ótima UFL
 print("UFL Resolvido! FO ótima UFL: ")
-println(getobjectivevalue(UFL))
+println(objective_value(UFL))

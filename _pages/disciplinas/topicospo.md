@@ -165,8 +165,7 @@ Ementa variável.
    - [Código Julia + instâncias](/files/topicospo/GER_COL_cutting_stock.zip)
    - [URL para instâncias utilizadas](http://or.dei.unibo.it/library/bpplib)
 
-**EXERCÍCIOS DO TÓPICO:**
-- Implementação de um método simples de geração de colunas usando Julia + CPLEX/GLPK
+**[EXERCÍCIOS DO TÓPICO](https://drive.google.com/file/d/1Wmg11XNM_uW6viAKZfZd2kW2H0tFytQU/view?usp=sharing)**
 
 **Leituras interessantes:**
 
