@@ -32,46 +32,48 @@ author_profile: true
 
 ## Published papers and articles in press
 
+If you are unable to download a paper, please email me.
+
 1. [On the best achievable quality of limit points of augmented Lagrangian schemes](http://www.optimization-online.org/DB_HTML/2020/07/7929.html)  
    R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
    To appear in Numerical Algorithms, 2021
 
 1. [On scaled stopping criteria for a safeguarded augmented Lagrangian method with theoretical guarantees](https://doi.org/10.1007/s12532-021-00207-9)  
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin, P. J. S. Silva  
-   Mathematical Programming Computation, 2021  
+   To appear in Mathematical Programming Computation, 2021  
    *Codes available at [github.com/leonardosecchin/scaled-algencan](https://github.com/leonardosecchin/scaled-algencan)*
 
 1. [On the use of Jordan Algebras for improving global convergence of an Augmented Lagrangian method in nonlinear semidefinite programming](https://doi.org/10.1007/s10589-021-00281-8)  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
-   Computational Optimization and Applications, 2021
+   Computational Optimization and Applications, 79, 633-648, 2021
 
 1. [On the convergence of augmented Lagrangian strategies for nonlinear programming](https://doi.org/10.1093/imanum/drab021)  
    R. Andreani, A. Ramos, A. A. Ribeiro, L. D. Secchin, A. R. Velazco  
-   IMA Journal of Numerical Analysis, 2021
+   To appear in IMA Journal of Numerical Analysis, 2021
 
 1. [New sequential optimality conditions for mathematical problems with complementarity constraints and algorithmic consequences](https://doi.org/10.1137/18M121040X)  
    R. Andreani, G. Haeser, L. D. Secchin, P. J. S. Silva  
-   SIAM Journal on Optimization, 2019
+   SIAM Journal on Optimization, 29(4), 3201-3230, 2019
 
 1. [Bilevel optimization with a multiobjective problem in the lower level](https://doi.org/10.1007/s11075-018-0576-1)  
    R. Andreani, V. A. Ramirez, S. A. Santos, L. D. Secchin  
-   Numerical Algorithms, 2019
+   Numerical Algorithms, 81, 915-946, 2019
 
 1. [A Sequential Optimality Condition Related to the Quasi-normality Constraint Qualification and Its Algorithmic Consequences](https://doi.org/10.1137/17M1147330)  
    R. Andreani, N. S. Fazzio, M. L. Schuverdt, L. D. Secchin  
-   SIAM Journal on Optimization, 2019
+   SIAM Journal on Optimization, 29(1), 743-766, 2019
 
 1. [An improved mixed-integer programming model for the double row layout of facilities](https://doi.org/10.1007/s11590-018-1263-9)  
    L. D. Secchin, A. R. S. Amaral  
-   Optimization Letters, 2019
+   Optimization Letters, 13, 193-199, 2019
 
 1. [Convergence properties of a second order augmented Lagrangian method for mathematical programs with complementarity constraints](https://doi.org/10.1137/17M1125698)  
    R. Andreani, L. D. Secchin, P. J. S. Silva  
-   SIAM Journal on Optimization, 2018
+   SIAM Journal on Optimization, 28(3), 2574-2600, 2018
 
 1. [Emergence of skyrmion lattices and bimerons in chiral magnetic thin films with nonmagnetic impurities](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.89.054434)  
    R. L. Silva, L. D. Secchin, W. A. Moura-Melo, A. R. Pereira, R. L. Stamps  
-   Physical Review B, 2014
+   Physical Review B, 89, 054434, 2014
 
 1. Um novo algoritmo para soluções ótimas locais do problema linear de dois níveis  
    L. D. Secchin  
