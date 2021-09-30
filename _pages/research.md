@@ -96,11 +96,3 @@ If you are unable to download a paper, please email me.
 1. [Karush-Kuhn-Tucker Conditions](/files/kkt_ifors.pdf)  
    M. L. Schuverdt, L. D. Secchin  
    IFORS News, 16(2):16-18, June 2021, ISSN 2223-4373
-
-
-<!--## See also
-
-- [Curriculum Lattes (in portuguese)](http://lattes.cnpq.br/4273961903394165)
-- [Researchgate profile](https://www.researchgate.net/profile/Leonardo_Secchin)
-- [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=Ak9JXRUAAAAJ)
-- [ORCID](https://orcid.org/0000-0002-9224-9051)-->
