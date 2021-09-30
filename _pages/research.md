@@ -25,16 +25,16 @@ author_profile: true
    R. Andreani, R. M. Carvalho, L. D. Secchin, G. N. Silva  
    Optimization Online, 2021
 
-1. [On the best achievable quality of limit points of augmented Lagrangian schemes](http://www.optimization-online.org/DB_HTML/2020/07/7929.html)  
-   R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
-   Optimization Online, 2020
-
 1. [Optimality conditions for nonlinear second-order cone programming and symmetric cone programming](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
    Optimization Online, 2019
 
 
 ## Published papers and articles in press
+
+1. [On the best achievable quality of limit points of augmented Lagrangian schemes](http://www.optimization-online.org/DB_HTML/2020/07/7929.html)  
+   R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
+   To appear in Numerical Algorithms, 2021
 
 1. [On scaled stopping criteria for a safeguarded augmented Lagrangian method with theoretical guarantees](https://doi.org/10.1007/s12532-021-00207-9)  
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin, P. J. S. Silva  
