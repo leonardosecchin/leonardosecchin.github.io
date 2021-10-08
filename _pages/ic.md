@@ -17,14 +17,15 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 1. Métodos baseados em Lanczos para resolução de problemas de regiões de confiança ([ref](https://epubs.siam.org/doi/abs/10.1137/S1052623497322735?journalCode=sjope8) ou [ref](https://www.researchgate.net/publication/2263739_Solving_the_Trust-Region_Subproblem_using_the_Lanczos_Method))
 1. Métodos de gradiente para otimização multi-objetivo ([ref](http://www.optimization-online.org/DB_FILE/2020/04/7729.pdf))
 1. Métodos Quasi-Newton com baixo uso de memória ([ref 1](https://www.tandfonline.com/doi/abs/10.1080/02331934.2020.1712391?journalCode=gopt20), [ref 2](https://arxiv.org/pdf/2101.04413.pdf), [ref 3](https://arxiv.org/pdf/2101.11048.pdf))
-1. Tópicos variados em otimização não linear. Uma referência é o livro “Numerical Optimization” de Nocedal e Wright
 1. Modelos típicos de Pesquisa Operacional (em particular, de programação inteira mista), vistos nas disciplinas “Pesquisa Operacional I e II” (Exemplos: [DRLP](https://drive.google.com/file/d/1OQmZN3R_ZWwI8yjiXoLhmeDEDke4r3zy/view?usp=sharing); [Grade de horários](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i))
 1. Variantes BFGS para otimização irrestrita ([ref 1](https://www.researchgate.net/publication/30932966_A_Modified_BFGS_Algorithm_for_Unconstrained_Optimization), [ref 2](https://doi.org/10.1016/S0377-0427(00)00540-9), [ref 3](https://doi.org/10.1186/s13660-017-1453-5), [ref 4](https://doi.org/10.1007/s40314-018-0620-8))
 1. Método do gradiente ponderado com retardo para minimização de quadráticas estritamente convexas ([ref 1](http://www.optimization-online.org/DB_HTML/2019/03/7142.html), [ref 2](http://www.optimization-online.org/DB_HTML/2020/03/7655.html))
 1. Condições sequenciais de otimalidade em programação não linear ([slides](https://drive.google.com/open?id=1UOQ_CFm3yPapuoWBxL1sKI6LMZClJUpq), [livro SBMAC](http://arquivo.sbmac.org.br/arquivos/notas/livro_83.pdf))
 1. Métodos de otimização para Inteligência Artificial/Aprendizado de máquina ([intro](https://drive.google.com/file/d/1cy_d21RDGfP-VhFNRUdD7DFN5xI2ATQ-/view?usp=sharing))
-1. O ensino de Pesquisa Operacional no Ensino Médio *(depende de parceria com docente da área de educação matemática)*
-1. Gradiente primal-dual para PL ([ref](https://arxiv.org/pdf/2106.04756.pdf))
+<!--1. O ensino de Pesquisa Operacional no Ensino Médio *(depende de parceria com docente da área de educação matemática)*-->
+1. Gradiente primal-dual para problemas de programação linear ([ref](https://arxiv.org/pdf/2106.04756.pdf))
+1. Resolução de problemas quadráticos com variáveis binárias via estratégia "neurodinâmica" ([ref](https://www.researchgate.net/publication/349187795_A_neurodynamic_approach_to_zero-one_quadratic_programming), [artigo revista](https://doi.org/10.1007/s11075-021-01075-z))
+1. Tópicos variados em otimização não linear. Uma referência é o livro “Numerical Optimization” de Nocedal e Wright
 
 
 ### Pré-requisitos
