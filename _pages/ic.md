@@ -62,11 +62,10 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
 1. 2021-2022 (TCC). Métodos computacionais para otimização irrestrita e com restrições simples  
    Aluno: Elivandro Oliveira Grippa  
 
-1. 2021-2021 (TCC). Métodos de otimização para aprendizado de máquina supervisionado e aplicações  
-   Aluno: Matheus Becali Rocha  
-
 ### concluídas
 
+1. 2021 (TCC). Métodos de otimização para aprendizado de máquina supervisionado e aplicações  
+   Aluno: Matheus Becali Rocha  
 1. 2021 (IC). Variantes do método do gradiente para otimização irrestrita  
    Aluno: Elivandro Oliveira Grippa  
    [Resumo do projeto](https://drive.google.com/file/d/1AsCeRaIqg_82Q-irbgp4zOW4UcmuQDKt/view?usp=sharing)
