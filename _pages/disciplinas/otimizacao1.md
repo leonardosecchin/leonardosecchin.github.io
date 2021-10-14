@@ -5,10 +5,10 @@ permalink: /otimizacao1/
 author_profile: true
 ---
 
-## Horários das aulas síncronas
+<!--## Horários das aulas síncronas
 
 - Terças-feiras: 11:00 - 12:00
-- Quintas-feiras: 9:30 - 10:30
+- Quintas-feiras: 9:30 - 10:30-->
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20I%20-%20DMA11995.pdf)
@@ -20,7 +20,6 @@ author_profile: true
 - Estudar os fundamentos dos métodos de resolução clássicos para programação não linear, sobretudo sem restrições
 - Analisar aspectos teóricos e numéricos dos métodos
 - Implementar algoritmos em computador e testá-los em problemas da literatura
-- Promover a utilização de pacotes computacionais sempre que possível
 
 
 ## Textos de referência
@@ -43,11 +42,11 @@ author_profile: true
 
 - Todo o material do curso, como slides e referências, estará disponível exclusivamente nesta página.
 - Notas das atividades e **aulas gravadas** serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos.
-
+- Se você é aluno(a) e não tem acesso à disciplina no AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email**.
 
 ## Formas de avaliação:
 
-- provas escritas, trabalhos computacionais ou apresentações orais.
+- provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
 
 
 ## Listas de exercícios e trabalhos
@@ -59,12 +58,6 @@ author_profile: true
 <!--- [TRABALHO COMPUTACIONAL 2 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing)-->
 - [LISTA 3 – Otimização com restrições](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing)
 
-
-<!--## ATENÇÃO: Turma semestre letivo especial de 2020
-
-No semestre letivo especial de 2020, as informações, material de estudo, tarefas, avaliações e aulas da disciplina estarão disponíveis pelo Ambiente Virtual de Aprendizagem (AVA-UFES), [NESTE LINK](https://ava.ufes.br/course/view.php?id=2643). O(a) aluno(a) deverá fazer login com sua senha do portal do aluno para ter acesso ao curso.
-
-Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email**.-->
 
 
 ## Material

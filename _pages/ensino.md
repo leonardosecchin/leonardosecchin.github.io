@@ -33,6 +33,8 @@ author_profile: true
   (Matemática Industrial)](/otimizacao1/)
 - [**Otimização 2**  
   (Matemática Industrial)](/otimizacao2/)
+- [**Tópicos em Pesquisa Operacional**  
+  (Matemática Industrial)](/topicospo/)
 - [**Geometria Analítica** (listas de exercícios)](https://drive.google.com/file/d/1Z3oxequQlLdjKyLiXw6Yq0JT4rLmm-gL/view?usp=sharing)
 - [**Noções de Lógica** (notas de aula)](https://drive.google.com/file/d/0B-G5znuapK7JRk9laWRVOWFGTFE/view?usp=sharing)
 - [**Análise Convexa** (listas de exercícios)](https://drive.google.com/file/d/14dBCjGENT4phLsUo7Ip7_nvQ-Rp2D7Ev/view?usp=sharing)
