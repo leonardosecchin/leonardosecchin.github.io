@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- [**Método do Lagrangiano Aumentado: avanços recentes**](https://drive.google.com/file/d/1BbhGptnRCGRrJM1xrum2--NuEYoEuyeh/view?usp=sharing) *(in portuguese)*  
+  Seminário de Otimização Contínua e Discreta (web), 2021
+
 - [**Lagrangiano aumentado com critério de parada escalado**](https://drive.google.com/file/d/1ElFeZxVK01JYEf4JpCrNr_TjTJiRvHw6/view?usp=sharing) *(in portuguese)*  
   Seminário de Otimização Contínua Unicamp/USP (web), 2021
 
