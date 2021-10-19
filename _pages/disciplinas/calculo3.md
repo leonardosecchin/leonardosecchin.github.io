@@ -108,9 +108,9 @@ Informado aos alunos pela administração, caso tenha monitor.
   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-duplas/area-de-superficie/)
 - Seção 15.7 – Integrais triplas: 1 a 22, 29 a 34, 55(a)
 - Seção 15.8 – Integrais triplas em coordenadas cilindricas: 5 a 13, 15 a 24, 29, 30
+  - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-triplas/em-coordenadas-cilindricas/)
 - Seção 15.9 – Integrais triplas em coordenadas esféricas: 5 a 13, 15 a 27, 29, 30, 35 a 38
-  - [Outra fonte de exercícios – coordenadas cilíndricas](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-triplas/em-coordenadas-cilindricas/)
-  - [Outra fonte de exercícios – coordenadas esféricas](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-triplas/em-coordenadas-esfericas/)
+  - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-triplas/em-coordenadas-esfericas/)
 - Seção 15.10 – Mudança de variáveis em integrais múltiplas: todos
 - [+ exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-triplas/provas-e-exames/)
 
