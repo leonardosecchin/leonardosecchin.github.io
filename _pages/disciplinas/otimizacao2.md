@@ -5,10 +5,10 @@ permalink: /otimizacao2/
 author_profile: true
 ---
 
-<!--## Horários das aulas síncronas
+## Horários das aulas síncronas
 
-- Quartas-feiras de 7:30 as 9:30
-- Sextas-feiras de 9:30 as 10:30-->
+- Segundas-feiras de 8:30 as 9:30
+- Quintas-feiras de 8:30 as 9:30
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
 

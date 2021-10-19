@@ -5,12 +5,12 @@ permalink: /ensino/
 author_profile: true
 ---
 
-## DISCIPLINAS 2021/1E
+## DISCIPLINAS 2021/2E
 
-- [**Otimização 1**  
-  (Matemática Industrial)](/otimizacao1/)
-- [**Tópicos em Pesquisa Operacional**  
-  (Matemática Industrial)](/topicospo/)
+- [**Otimização 2**  
+  (Matemática Industrial)](/otimizacao2/)
+- [**Cálculo III**  
+  (Matemática Industrial, Engenharias e Ciência da Computação)](/calculo3/)
 
 ## A linguagem de programação Julia
 
