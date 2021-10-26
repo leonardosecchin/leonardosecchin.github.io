@@ -30,9 +30,9 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 - THOMAS JR., George B. et al. Cálculo. 10a ed. São Paulo: Pearson Addison Wesley, 2002.
 
 
-# Canais de acesso
+## Canais de acesso
 
-## [Pasta do Google Drive com aulas gravadas](https://drive.google.com/drive/folders/1bJw6yBjxnNO5BDqlInnvkBOl9cE20v99zLbPwzRcRtpyb8WNEkYSasIThISrpeoBwS3VktQ5?usp=sharing)
+### [Pasta do Google Drive com aulas gravadas](https://drive.google.com/drive/folders/1bJw6yBjxnNO5BDqlInnvkBOl9cE20v99zLbPwzRcRtpyb8WNEkYSasIThISrpeoBwS3VktQ5?usp=sharing)
 
 - O acesso à pasta é feito através do email institucional **@edu.ufes.br**;
 - Caso não tenha acesso à pasta, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo
@@ -40,17 +40,17 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
   - **endereço de email @edu.ufes.br**
   - **disciplina**
 
-## [Disciplina no Google Classroom](https://classroom.google.com/u/1/c/NDEzMDg0MTk4MjMx)
+### [Disciplina no Google Classroom](https://classroom.google.com/u/1/c/NDEzMDg0MTk4MjMx)
 
 - As avaliações serão concentradas no Classroom;
 - O acesso à turma é feito através do email institucional **@edu.ufes.br**.
 
-## Link para ingresso no grupo de Whatsapp: veja no Classroom
+### Link para ingresso no grupo de Whatsapp: veja no Classroom
 
-## E-mail do professor: leonardo.secchin@ufes.br
+### E-mail do professor: leonardo.secchin@ufes.br
 
 
-# Avaliações
+## Avaliações
 
 - **Prova 1**
   - Conteúdo: integrais duplas e triplas; cálculo de áreas; integrais duplas em coordenadas polares; integrais triplas em coordenadas cilíndricas e esféricas; mudança de variáveis em integrais múltiplas
@@ -69,13 +69,13 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
   - Valor: 10,0 pontos
   - **Data: -**
 
-## Critérios para aprovação
+### Critérios para aprovação
 
 - Média P1, P2 e P3 >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
 - Média P1, P2 e P3 < 7,0 —–> Prova final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a).
 
 
-# Conteúdo
+## Conteúdo
 
 **(todos os Capítulos 15 e 16 do livro texto)**
 
@@ -98,7 +98,7 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
    1. Teoremas de Stokes e do Divergente (Teorema de Gauss)
 
 
-# Revisão de pré-requisitos
+## Revisão de pré-requisitos
 
 1. [Lista de exercícios – técnicas de integração](https://drive.google.com/file/d/0B-G5znuapK7JMG5Jb1NsaTJJTnc/view?usp=sharing)
 1. Geometria Analítica; curvas e superfícies comuns; representação gráfica
@@ -112,12 +112,12 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
    - Vídeo-aula: [quádricas e translações](https://www.youtube.com/watch?v=ezrsvwn2jRw&list=PLxI8Can9yAHdmzItRKhWYl_ZsDe44PUrp&index=40)
 
 
-# EXERCÍCIOS SELECIONADOS DO LIVRO TEXTO  
+## EXERCÍCIOS SELECIONADOS DO LIVRO TEXTO  
 (referentes à edição 7, as seções/exercícios podem diferir de outras edições)
 
-## [Sumário da edição 7, usada em aula](https://issuu.com/cengagebrasil/docs/livreto_9788522112593)
+### [Sumário da edição 7, usada em aula](https://issuu.com/cengagebrasil/docs/livreto_9788522112593)
 
-## Capítulo 15 (Integrais Múltiplas)
+### Capítulo 15 (Integrais Múltiplas)
 
 - Seção 15.1 – Integrais duplas sobre retângulos: 1 a 6, 10, 14
   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-duplas/sobre-retangulo/)
@@ -137,11 +137,11 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 - Seção 15.10 – Mudança de variáveis em integrais múltiplas: todos
 - [+ exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-triplas/provas-e-exames/)
 
-## Seção 13.1 – Funções vetoriais e curvas espaciais: 1 a 36, 39 a 44
+### Seção 13.1 – Funções vetoriais e curvas espaciais: 1 a 36, 39 a 44
 
 - [+ exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/curvas-no-plano-e-no-espaco/)
 
-## Capítulo 16 (Cálculo Vetorial)
+### Capítulo 16 (Cálculo Vetorial)
 
 - Seção 16.1 – Campos vetoriais<!--: 1 a 18, 27 a 32-->
 - Seção 16.2 – Integrais de linha
@@ -160,15 +160,10 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 [RESPOSTAS DO CAPÍTULO 16](https://drive.google.com/file/d/0B-G5znuapK7JbFRJNTdzZHFrY0k/view?usp=sharing)
 
 
-## EXERCÍCIOS EXTRAS – Livro Guidorizzi vol 3, 5a edição
+### EXERCÍCIOS EXTRAS – Livro Guidorizzi vol 3, 5a edição
 
 - [Capítulo 3 – Cálculo de integral dupla. Teorema de Fubini](https://drive.google.com/file/d/0B-G5znuapK7JOFZzSkxCUm84dUk/view?usp=sharing)
 - [Capítulo 5 (parte 1) – Integrais triplas](https://drive.google.com/file/d/0B-G5znuapK7JeGFrTTd1R0tINWM/view?usp=sharing)
-
-
-## Textos de apoio
-
-- [Livro do Prof. Bosco Nogueira (UFPB)](http://www.mat.ufpb.br/bosco/calculoiii2011/nciii.pdf)
 
 
 ## Vídeo-aulas de outras instituições
@@ -178,6 +173,7 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 
 ## Outros conteúdos
 
+- [Livro do Prof. Bosco Nogueira (UFPB)](http://www.mat.ufpb.br/bosco/calculoiii2011/nciii.pdf)
 - Exemplo de uso de um campo vetorial: previsão oceânica
   - [http://ondas.cptec.inpe.br/](http://ondas.cptec.inpe.br/)
 - [Desmos – Site que plota curvas 2D com muitos recursos](http://www.desmos.com/calculator)
