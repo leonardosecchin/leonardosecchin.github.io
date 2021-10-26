@@ -46,20 +46,16 @@ author_profile: true
 
 ### [Pasta do Google Drive com aulas gravadas](https://drive.google.com/drive/folders/1kpCZoNnevXWSpag8uLVegWjDXgbJOhQx?usp=sharing)
 
-- O acesso à pasta é feito através do email institucional **@edu.ufes.br**;
-- Caso não tenha acesso à pasta, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo
-  - **nome completo**
-  - **endereço de email @edu.ufes.br**
-  - **disciplina**
+### [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=16074)
 
-### [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=16074) 
-
+- O acesso é feito através do email institucional **@edu.ufes.br**;
 - Todo o material do curso, como slides e referências, estará disponível nesta página;
 - Notas das atividades serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos.
-- Caso não tenha acesso à disciplina no AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo
+- Caso não tenha acesso, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo
   - **nome completo**
   - **endereço de email @edu.ufes.br**
   - **disciplina**
+
 
 ### Link para ingresso no grupo de Whatsapp: veja no AVA-UFES
 

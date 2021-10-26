@@ -34,16 +34,15 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 
 ### [Pasta do Google Drive com aulas gravadas](https://drive.google.com/drive/folders/1bJw6yBjxnNO5BDqlInnvkBOl9cE20v99zLbPwzRcRtpyb8WNEkYSasIThISrpeoBwS3VktQ5?usp=sharing)
 
-- O acesso à pasta é feito através do email institucional **@edu.ufes.br**;
-- Caso não tenha acesso à pasta, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo
+### [Disciplina no Google Classroom](https://classroom.google.com/u/1/c/NDEzMDg0MTk4MjMx)
+
+- As avaliações serão concentradas no Classroom;
+- O acesso é feito através do email institucional **@edu.ufes.br**;
+- Caso não tenha acesso, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo
   - **nome completo**
   - **endereço de email @edu.ufes.br**
   - **disciplina**
 
-### [Disciplina no Google Classroom](https://classroom.google.com/u/1/c/NDEzMDg0MTk4MjMx)
-
-- As avaliações serão concentradas no Classroom;
-- O acesso à turma é feito através do email institucional **@edu.ufes.br**.
 
 ### Link para ingresso no grupo de Whatsapp: veja no Classroom
 
