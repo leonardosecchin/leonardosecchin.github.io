@@ -41,7 +41,7 @@ author_profile: true
 - [TRABALHO COMPUTACIONAL 2 - Método de pontos interiores aplicado à programação linear](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing)
 - [LISTA 2 - Programação quadrática sequencial, dualidade](https://drive.google.com/file/d/107lofrTIsihgnHR43QJ53fxjp3_9lO61/view?usp=sharing)
 
-## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643) 
+## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=16074) 
 
 - Todo o material do curso, como slides e referências, estará disponível exclusivamente nesta página.
 - Notas das atividades e **aulas gravadas** serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos.
