@@ -41,17 +41,36 @@ author_profile: true
 - [TRABALHO COMPUTACIONAL 2 - Método de pontos interiores aplicado à programação linear](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing)
 - [LISTA 2 - Programação quadrática sequencial, dualidade](https://drive.google.com/file/d/107lofrTIsihgnHR43QJ53fxjp3_9lO61/view?usp=sharing)
 
-## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=16074) 
 
-- Todo o material do curso, como slides e referências, estará disponível exclusivamente nesta página.
-- Notas das atividades e **aulas gravadas** serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos.
-- Se você é aluno(a) e não tem acesso à disciplina no AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email**.
+## Canais de acesso
+
+### [Pasta do Google Drive com aulas gravadas](https://drive.google.com/drive/folders/1kpCZoNnevXWSpag8uLVegWjDXgbJOhQx?usp=sharing)
+
+- O acesso à pasta é feito através do email institucional **@edu.ufes.br**;
+- Caso não tenha acesso à pasta, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo
+  - **nome completo**
+  - **endereço de email @edu.ufes.br**
+  - **disciplina**
+
+### [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=16074) 
+
+- Todo o material do curso, como slides e referências, estará disponível nesta página;
+- Notas das atividades serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos.
+- Caso não tenha acesso à disciplina no AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo
+  - **nome completo**
+  - **endereço de email @edu.ufes.br**
+  - **disciplina**
+
+### Link para ingresso no grupo de Whatsapp: veja no AVA-UFES
+
+### E-mail do professor: leonardo.secchin@ufes.br
+
 
 ## Formas de avaliação
 
 - provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
 
-## Critérios de avaliação
+## Critérios para aprovação
 
 - Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
 - Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a).

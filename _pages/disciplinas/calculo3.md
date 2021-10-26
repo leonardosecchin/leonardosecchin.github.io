@@ -5,28 +5,52 @@ permalink: /calculo3/
 author_profile: true
 ---
 
-## HORÁRIOS
+## Horários das aulas síncronas
 
 - Quartas-feiras de 11:00 as 12:00
 - Sextas-feiras de 8:00 as 9:30
 
-## PROGRAMA DA DISCIPLINA
+
+## Programa da disciplina
 
 Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplicada.saomateus.ufes.br/programas-de-disciplinas-do-dma)
 
-## BIBLIOGRAFIA BÁSICA (Livro texto)
+
+## Bibliografia básica
 
 - STEWART, James. Cálculo, v. 2\. São Paulo: Cengage Learning (qualquer edição)  
-    _(edições distintas podem apresentar pequenas diferenças na organização das seções e exercícios, nada que prejudique o aprendizado)_  
+    _(edições distintas podem apresentar pequenas diferenças na organização das seções e exercícios)_  
     [**Sumário da edição 7, usada em aula**](https://issuu.com/cengagebrasil/docs/livreto_9788522112593)
 
-## BIBLIOGRAFIA COMPLEMENTAR
+
+## Bibliografia complementar
 
 - GUIDORIZZI, H. Luiz. Um Curso de Cálculo vol 3, 7a ed. Rio de Janeiro: LTC, 2013.
 - SALAS, Saturnino L.; HILLE, Einar; ETGEN, Garret J. Cálculo. 9a ed. Rio de Janeiro: LTC, 2005.
 - THOMAS JR., George B. et al. Cálculo. 10a ed. São Paulo: Pearson Addison Wesley, 2002.
 
-## AVALIAÇÕES
+
+# Canais de acesso
+
+## [Pasta do Google Drive com aulas gravadas](https://drive.google.com/drive/folders/1bJw6yBjxnNO5BDqlInnvkBOl9cE20v99zLbPwzRcRtpyb8WNEkYSasIThISrpeoBwS3VktQ5?usp=sharing)
+
+- O acesso à pasta é feito através do email institucional **@edu.ufes.br**;
+- Caso não tenha acesso à pasta, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo
+  - **nome completo**
+  - **endereço de email @edu.ufes.br**
+  - **disciplina**
+
+## [Disciplina no Google Classroom](https://classroom.google.com/u/1/c/NDEzMDg0MTk4MjMx)
+
+- As avaliações serão concentradas no Classroom;
+- O acesso à turma é feito através do email institucional **@edu.ufes.br**.
+
+## Link para ingresso no grupo de Whatsapp: veja no Classroom
+
+## E-mail do professor: leonardo.secchin@ufes.br
+
+
+# Avaliações
 
 - **Prova 1**
   - Conteúdo: integrais duplas e triplas; cálculo de áreas; integrais duplas em coordenadas polares; integrais triplas em coordenadas cilíndricas e esféricas; mudança de variáveis em integrais múltiplas
@@ -45,16 +69,13 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
   - Valor: 10,0 pontos
   - **Data: -**
 
-## CRITÉRIOS DE AVALIAÇÃO
+## Critérios para aprovação
 
 - Média P1, P2 e P3 >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
 - Média P1, P2 e P3 < 7,0 —–> Prova final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a).
 
-## MONITORIA DA DISCIPLINA
 
-Informado aos alunos pela administração, caso tenha monitor.
-
-# CONTEÚDO
+# Conteúdo
 
 **(todos os Capítulos 15 e 16 do livro texto)**
 
@@ -76,7 +97,8 @@ Informado aos alunos pela administração, caso tenha monitor.
    1. Integrais de superfície
    1. Teoremas de Stokes e do Divergente (Teorema de Gauss)
 
-# REVISÃO PRÉ-REQUISITOS
+
+# Revisão de pré-requisitos
 
 1. [Lista de exercícios – técnicas de integração](https://drive.google.com/file/d/0B-G5znuapK7JMG5Jb1NsaTJJTnc/view?usp=sharing)
 1. Geometria Analítica; curvas e superfícies comuns; representação gráfica
@@ -88,6 +110,7 @@ Informado aos alunos pela administração, caso tenha monitor.
    - Vídeo-aula: cônicas (exercícios)   [parte 1](https://www.youtube.com/watch?v=Gehyr2mjd3w&list=PLxI8Can9yAHdmzItRKhWYl_ZsDe44PUrp&index=33)   [parte 2](https://www.youtube.com/watch?v=S6J_TEUMYvw&list=PLxI8Can9yAHdmzItRKhWYl_ZsDe44PUrp&index=34)
    - Vídeo-aula: [superfícies quádricas](https://www.youtube.com/watch?v=rhJVauV0YbM&index=39&list=PLxI8Can9yAHdmzItRKhWYl_ZsDe44PUrp)
    - Vídeo-aula: [quádricas e translações](https://www.youtube.com/watch?v=ezrsvwn2jRw&list=PLxI8Can9yAHdmzItRKhWYl_ZsDe44PUrp&index=40)
+
 
 # EXERCÍCIOS SELECIONADOS DO LIVRO TEXTO  
 (referentes à edição 7, as seções/exercícios podem diferir de outras edições)
@@ -136,20 +159,24 @@ Informado aos alunos pela administração, caso tenha monitor.
 
 [RESPOSTAS DO CAPÍTULO 16](https://drive.google.com/file/d/0B-G5znuapK7JbFRJNTdzZHFrY0k/view?usp=sharing)
 
+
 ## EXERCÍCIOS EXTRAS – Livro Guidorizzi vol 3, 5a edição
 
 - [Capítulo 3 – Cálculo de integral dupla. Teorema de Fubini](https://drive.google.com/file/d/0B-G5znuapK7JOFZzSkxCUm84dUk/view?usp=sharing)
 - [Capítulo 5 (parte 1) – Integrais triplas](https://drive.google.com/file/d/0B-G5znuapK7JeGFrTTd1R0tINWM/view?usp=sharing)
 
-## TEXTOS DE APOIO AOS ESTUDOS
+
+## Textos de apoio
 
 - [Livro do Prof. Bosco Nogueira (UFPB)](http://www.mat.ufpb.br/bosco/calculoiii2011/nciii.pdf)
 
-## VIDEO-AULAS DE OUTRAS INSTITUIÇÕES
+
+## Vídeo-aulas de outras instituições
 
 - [Curso completo de Cálculo III para engenharias da USP](http://eaulas.usp.br/portal/course.action?course=6351)
 
-## OUTROS CONTEÚDOS INTERESSANTES
+
+## Outros conteúdos
 
 - Exemplo de uso de um campo vetorial: previsão oceânica
   - [http://ondas.cptec.inpe.br/](http://ondas.cptec.inpe.br/)
