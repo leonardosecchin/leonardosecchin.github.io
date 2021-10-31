@@ -49,7 +49,6 @@ author_profile: true
 ### [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=16074)
 
 - O acesso é feito através do email institucional **@edu.ufes.br**;
-- Todo o material do curso, como slides e referências, estará disponível nesta página;
 - Notas das atividades serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos.
 - Caso não tenha acesso, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo
   - **nome completo**
