@@ -34,7 +34,7 @@ author_profile: true
 
 If you are unable to download a paper, please email me.
 
-1. [On the best achievable quality of limit points of augmented Lagrangian schemes](http://www.optimization-online.org/DB_HTML/2020/07/7929.html)  
+1. [On the best achievable quality of limit points of augmented Lagrangian schemes](https://doi.org/10.1007/s11075-021-01212-8)  
    R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
    To appear in Numerical Algorithms, 2021
 
