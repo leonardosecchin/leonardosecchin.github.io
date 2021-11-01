@@ -9,7 +9,7 @@ author_profile: true
 
 - [**Otimização 2**  
   (Matemática Industrial)](/otimizacao2/)
-- [**Cálculo III**  
+- [**Cálculo 3**  
   (Matemática Industrial, Engenharias e Ciência da Computação)](/calculo3/)
 
 ## A linguagem de programação Julia
@@ -21,7 +21,7 @@ author_profile: true
 
 - [**Álgebra Linear**  
   (vários cursos)](/algebra-linear/)
-- [**Cálculo III**  
+- [**Cálculo 3**  
   (Matemática Industrial, Engenharias e Ciência da Computação)](/calculo3/)
 - [**Laboratório de Matemática**  
   (Matemática Industrial e Licenciatura em Matemática)](/laboratorio-de-matematica/)
