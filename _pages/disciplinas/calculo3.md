@@ -34,6 +34,11 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 
 ### [Pasta do Google Drive com aulas gravadas](https://drive.google.com/drive/folders/1bJw6yBjxnNO5BDqlInnvkBOl9cE20v99zLbPwzRcRtpyb8WNEkYSasIThISrpeoBwS3VktQ5?usp=sharing)
 
+> **AVISO**
+> *As aulas síncronas gravadas são de utilização restrita aos fins a que se destina a disciplina, em particular, para registro de avaliações, facultando-se ao aluno seu direito de não ter sua imagem registrada, mediante expressa manifestação ou, simplesmente, fechando sua câmera durante as aulas.*
+> *É proibida a utilização das imagens e/ou áudios das aulas sem expressa autorização do professor, ou ainda para quaisquer fins alheios às atividades da disciplina. O uso é individual e restrito aos alunos da disciplina, sendo proibido o compartilhamento dos vídeos e imagens em redes sociais, aplicativos de mensagens, páginas pessoais, via email ou afins.*
+
+
 ### [Disciplina no Google Classroom](https://classroom.google.com/u/1/c/NDEzMDg0MTk4MjMx)
 
 - As avaliações serão concentradas no Classroom;

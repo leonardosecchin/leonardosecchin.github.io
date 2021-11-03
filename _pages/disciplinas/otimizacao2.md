@@ -46,6 +46,10 @@ author_profile: true
 
 ### [Pasta do Google Drive com aulas gravadas](https://drive.google.com/drive/folders/1kpCZoNnevXWSpag8uLVegWjDXgbJOhQx?usp=sharing)
 
+> **AVISO**
+> *As aulas síncronas gravadas são de utilização restrita aos fins a que se destina a disciplina, em particular, para registro de avaliações, facultando-se ao aluno seu direito de não ter sua imagem registrada, mediante expressa manifestação ou, simplesmente, fechando sua câmera durante as aulas.*
+> *É proibida a utilização das imagens e/ou áudios das aulas sem expressa autorização do professor, ou ainda para quaisquer fins alheios às atividades da disciplina. O uso é individual e restrito aos alunos da disciplina, sendo proibido o compartilhamento dos vídeos e imagens em redes sociais, aplicativos de mensagens, páginas pessoais, via email ou afins.*
+
 ### [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=16074)
 
 - O acesso é feito através do email institucional **@edu.ufes.br**;
