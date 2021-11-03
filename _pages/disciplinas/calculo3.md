@@ -99,7 +99,7 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 
 ## Revisão de pré-requisitos
 
-1. [Lista de exercícios – técnicas de integração](https://drive.google.com/file/d/0B-G5znuapK7JMG5Jb1NsaTJJTnc/view?usp=sharing)
+1. [Lista de exercícios – técnicas de integração](https://drive.google.com/file/d/0B-G5znuapK7JMG5Jb1NsaTJJTnc/view?usp=sharing&resourcekey=0-bl45MsKPdoGRrOyiLx9d4Q)
 1. Geometria Analítica; curvas e superfícies comuns; representação gráfica
    - Ver Capítulo 10 – Equações Paramétricas e Coordenadas Polares – do livro texto (Stewart, Cálculo V2)
    - Ver Seções 12.5 e 12.6 – Equações de retas e planos, cilindros e superfícies quádricas – do livro texto (Stewart, Cálculo V2)
