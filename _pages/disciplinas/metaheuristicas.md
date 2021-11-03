@@ -42,13 +42,11 @@ Serão aplicadas no mínimo duas avaliações, dentre testes dissertativos, apre
 
 ## Cálculo da média parcial
 
-Em breve.
-
-<!--Igual ao **máximo** entre 10,0 e a média ponderada das atividades e apresentações:
+Igual ao **máximo** entre 10,0 e a média ponderada das atividades e apresentações:
 
 (  (atividade 1)*1,0  +  (atividade 2)*2,0  +  (atividade 3)*3,0  +   média apres)*5,0  ) / 11
 
-Assim, a nota final é no máximo 10, mesmo que a média das apresentações seja > 10.-->
+Assim, a nota final é no máximo 10, mesmo que a média das apresentações seja > 10.
 
 
 # MATERIAIS PARA AS AULAS
