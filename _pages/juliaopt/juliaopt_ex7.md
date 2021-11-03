@@ -20,7 +20,7 @@ Algencan é uma implementação do método de Lagrangiano aumentado escrito por 
 - [Página oficial](https://www.ime.usp.br/~egbirgin/tango/codes.php)
 - **Interface NLPModels Julia:** pacote [`NLPModelsAlgencan`](https://github.com/pjssilva/NLPModelsAlgencan.jl)
 
-*Obs.: para compilar `NLPModelsAlgencan`, você precisará instalar a biblioteca de álgebra linear BLAS no seu sistema operacional. No Ubuntu, instale o pacote `libopenblas-dev`.*
+*Obs.: para compilar `NLPModelsAlgencan`, você precisará instalar a biblioteca de álgebra linear BLAS no seu sistema operacional. No Ubuntu, instale os arquivos de desenvolvimento da biblioteca OpenBLAS (pacotes `libopenblas-dev`, `libopenblas-serial-dev`, `libopenblas-openmp-dev`, `libopenblas-pthread-dev`, o que estiverem disponíveis).*
 
 ## Ipopt - *Interior Point Optimizer*
 
