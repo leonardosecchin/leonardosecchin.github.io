@@ -59,7 +59,7 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 - **Prova 1**
   - Conteúdo: integrais duplas e triplas; cálculo de áreas; integrais duplas em coordenadas polares; integrais triplas em coordenadas cilíndricas e esféricas; mudança de variáveis em integrais múltiplas
   - Valor: 10,0 pontos
-  - **Data: -**
+  - **Data: 17/12/2021 (sexta-feira)**
 - **Prova 2**
   - Conteúdo: campos vetoriais; integrais de linha; Teorema fundamental para integrais de linha; Teorema de Green
   - Valor: 10,0 pontos
