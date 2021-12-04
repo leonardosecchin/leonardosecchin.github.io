@@ -39,7 +39,9 @@ author_profile: true
 - [LISTA 1 - Métodos de penalização externa e Lagrangiano aumentado](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing)
   - Código para o exercício 5(c): [plbin.jl](https://drive.google.com/file/d/1Uqcb0X9kNTIHE-m2kOeS1c_pXfOyvzvd/view?usp=sharing)
   - Instâncias para o exercício 6: [portfolio.zip](https://drive.google.com/file/d/1RMvGiE38Ow3qcP9PncKJlCISYX48QXcb/view?usp=sharing)
-
+- LISTA 2 - Método de penalização interna / pontos interiores
+- LISTA 3 - Programação quadrática sequencial e dualidade
+- LISTA 4 - Quadrados mínimos não linear
 <!-- - [TRABALHO COMPUTACIONAL 1 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing) -->
 <!-- - [TRABALHO COMPUTACIONAL 2 - Método de pontos interiores aplicado à programação linear](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing) -->
 <!-- - [LISTA 2 - Programação quadrática sequencial, dualidade](https://drive.google.com/file/d/107lofrTIsihgnHR43QJ53fxjp3_9lO61/view?usp=sharing) -->
