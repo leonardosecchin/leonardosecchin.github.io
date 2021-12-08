@@ -121,8 +121,6 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
    - [**SLIDES** - Penalização interna](/files/otim2/3.Penalizacao_interna.pdf)
-   - [**TEXTO** - Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
-     - [**SLIDES** - Estratégia de pontos interiores para programação linear](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
    - **Pacote computacional livre Ipopt**
      - [Sítio oficial](https://coin-or.github.io/Ipopt/)
      - [Veja casos de uso do Ipopt em situações reais](https://projects.coin-or.org/Ipopt/wiki/SuccessStories)
@@ -131,6 +129,10 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
        - Veja o algoritmo de barreira do CPLEX (*barrier algorithm*) para problemas [lineares](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/barrier/02_barrier_intro.html), [quadráticos](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qp/01_QP_title_synopsis.html), e [quadráticos com restrições quadráticas](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qcp/01_QCP_title_synopsis.html).
        - Leia a [descrição do *software* KNITRO](https://software.com.br/p/knitro?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB).
        - Leia a [descrição do *software* GUROBI](http://www.gurobi.com/products/features-benefits).
+   - **Pontos interiores para programação linear**
+     - [**SLIDES** - Estratégia de pontos interiores para programação linear](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
+     - Métodos de pontos interiores especializados para PL: veja o **Tóptico 1** da disciplina [Tópicos em Pesquisa Operacional](topicospo/) (e assista às aulas gravadas de 2021/1E, disponíveis pelo [Google Drive](https://drive.google.com/drive/folders/1vpg5mbOT0JJ26DPnGpgvpOXqr6bIK8t5?usp=sharing))
+     - [**TEXTO EXTRA** - Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
 
 
 ### Regiões de confiança
