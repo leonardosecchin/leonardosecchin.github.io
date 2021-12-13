@@ -131,7 +131,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
        - Leia a [descrição do *software* GUROBI](http://www.gurobi.com/products/features-benefits).
    - **Pontos interiores para programação linear**
      - [**SLIDES** - Estratégia de pontos interiores para programação linear](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
-     - Métodos de pontos interiores especializados para PL: veja o **Tóptico 1** da disciplina [Tópicos em Pesquisa Operacional](topicospo/) (e assista às aulas gravadas de 2021/1E, disponíveis pelo [Google Drive](https://drive.google.com/drive/folders/1vpg5mbOT0JJ26DPnGpgvpOXqr6bIK8t5?usp=sharing))
+     - Métodos de pontos interiores especializados para PL: veja o **Tóptico 1** da disciplina [Tópicos em Pesquisa Operacional](/topicospo/) (e assista às aulas gravadas de 2021/1E, disponíveis pelo [Google Drive](https://drive.google.com/drive/folders/1vpg5mbOT0JJ26DPnGpgvpOXqr6bIK8t5?usp=sharing))
      - [**TEXTO EXTRA** - Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
 
 
