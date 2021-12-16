@@ -36,7 +36,8 @@ If you are unable to download a paper, please email me.
 
 1. [On the best achievable quality of limit points of augmented Lagrangian schemes](https://doi.org/10.1007/s11075-021-01212-8)  
    R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
-   To appear in Numerical Algorithms, 2021
+   To appear in Numerical Algorithms, 2021  
+   **Erratum for the published version:** [https://doi.org10.1007/s11075-021-01241-3]
 
 1. [On scaled stopping criteria for a safeguarded augmented Lagrangian method with theoretical guarantees](https://doi.org/10.1007/s12532-021-00207-9)  
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin, P. J. S. Silva  
