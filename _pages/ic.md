@@ -27,7 +27,7 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 1. Resolução de problemas quadráticos com variáveis binárias via estratégia "neurodinâmica" ([ref](https://www.researchgate.net/publication/349187795_A_neurodynamic_approach_to_zero-one_quadratic_programming), [artigo revista](https://doi.org/10.1007/s11075-021-01075-z))
 1. Tópicos variados em otimização não linear. Uma referência é o livro “Numerical Optimization” de Nocedal e Wright
 1. Gradiente espectral para otimização com caixas e 1 restrição linear ([ref](http://www.optimization-online.org/DB_FILE/2019/06/7256.pdf))
-1. Problemas não convexos com ``estrutura por blocos'' ([ref](https://arxiv.org/pdf/2112.09027.pdf))
+1. Problemas não convexos com estrutura em blocos e restrição de acoplamento ([ref](https://arxiv.org/pdf/2112.09027.pdf))
 
 ### Pré-requisitos
 
