@@ -21,7 +21,7 @@ author_profile: true
    R. Andreani, H. Oviedo, M. Raydan, L. D. Secchin  
    Optimization Online, 2021
 
-1. [Linear Convergence of Quasi-Newton Methods for Solving Constrained Generalized Equations](http://www.optimization-online.org/DB_HTML/2021/05/8400.html)  
+1. [Convergence of Quasi-Newton Methods for Solving Constrained Generalized Equations](http://www.optimization-online.org/DB_HTML/2021/05/8400.html)  
    R. Andreani, R. M. Carvalho, L. D. Secchin, G. N. Silva  
    Optimization Online, 2021
 
