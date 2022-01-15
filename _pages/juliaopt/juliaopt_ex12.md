@@ -9,7 +9,7 @@ author_profile: true
 
 ## Objetivo: tabelar resultados usando DataFrames.
 
-Vimos no [Exemplo 9](/juliaopt_ex9/) como escrever uma tabela de resultados em arquivo TXT. Essa forma rústica assemelha-se à estratégia comumente adotada em programas C ou Fortran. Porém, o Julia oferece um recurso mais inteligente para lidar com dados tabelados: o objeto **DataFrame**. Este recurso está presente no pacote `DataFrames.jl`, e é muito parecido com o `pandas` do Python. Consulte a [página do pacote](github.com/JuliaData/DataFrames.jl).
+Vimos no [Exemplo 9](/juliaopt_ex9/) como escrever uma tabela de resultados em arquivo TXT. Essa forma rústica assemelha-se à estratégia comumente adotada em programas C ou Fortran. Porém, o Julia oferece um recurso mais inteligente para lidar com dados tabelados: o objeto **DataFrame**. Este recurso está presente no pacote `DataFrames.jl`, e é muito parecido com o `pandas` do Python. Consulte a [página do pacote](http://github.com/JuliaData/DataFrames.jl).
 
 Basicamente, um *dataframe* é uma tabela com recursos de adição e exclusão de linhas e colunas, ordenamento e filtragem de linhas. Além disso, é possível exportar um *dataframe* para arquivos CSV ou mesmo salvar em arquivos binários. Veja o [Exemplo 11](/juliaopt_ex11/) para detalhes.
 
