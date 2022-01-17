@@ -99,18 +99,18 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
-   - [**SLIDES** - Penalização externa pura e controle de admissibilidade](/files/otim2/1.Penalizacao_pura_admissibilidade.pdf)
+   - [**ANOTAÇÕES** - Penalização externa pura e controle de admissibilidade](/files/otim2/1.Penalizacao_pura_admissibilidade.pdf)
    - Slides Otimização 1 (revisão):
-     - [**SLIDES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
-     - [**SLIDES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)
+     - [**ANOTAÇÕES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
+     - [**ANOTAÇÕES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)
 
 
 1. **Método do Lagrangiano aumentado**
 
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
-   - [**SLIDES** - Apresentação](/files/otim2/2.1.LA_apresentacao.pdf)
-   - [**SLIDES** - Convergência teórica](/files/otim2/2.2.LA_convergencia.pdf)
+   - [**ANOTAÇÕES** - Apresentação](/files/otim2/2.1.LA_apresentacao.pdf)
+   - [**ANOTAÇÕES** - Convergência teórica](/files/otim2/2.2.LA_convergencia.pdf)
    - **Pacote computacional livre Algencan**
      - [Sítio oficial](https://www.ime.usp.br/~egbirgin/tango/codes.php#algencan)
      - Referências bibliográficas do Algencan: [1. artigo inicial](https://epubs.siam.org/doi/10.1137/060654797?mobileUi=0) (versão alternativa com [acesso livre](https://www.ime.usp.br/~egbirgin/publications/abms2-siam.pdf)), [2. livro](https://epubs.siam.org/doi/book/10.1137/1.9781611973365) e [3. texto em português com acesso livre](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
@@ -120,7 +120,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
    *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
-   - [**SLIDES** - Penalização interna](/files/otim2/3.Penalizacao_interna.pdf)
+   - [**ANOTAÇÕES** - Penalização interna](/files/otim2/3.Penalizacao_interna.pdf)
    - **Pacote computacional livre Ipopt**
      - [Sítio oficial](https://coin-or.github.io/Ipopt/)
      - [Veja casos de uso do Ipopt em situações reais](https://projects.coin-or.org/Ipopt/wiki/SuccessStories)
@@ -130,7 +130,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
        - Leia a [descrição do *software* KNITRO](https://software.com.br/p/knitro?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB).
        - Leia a [descrição do *software* GUROBI](http://www.gurobi.com/products/features-benefits).
    - **Pontos interiores para programação linear**
-     - [**SLIDES** - Estratégia de pontos interiores para programação linear](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
+     - [**ANOTAÇÕES** - Estratégia de pontos interiores para programação linear](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
      - Métodos de pontos interiores especializados para PL: veja o **Tóptico 1** da disciplina [Tópicos em Pesquisa Operacional](/topicospo/) e assista às aulas gravadas de 2021/1E, disponíveis pelo [Google Drive](https://drive.google.com/drive/folders/1vpg5mbOT0JJ26DPnGpgvpOXqr6bIK8t5?usp=sharing)
      - [**TEXTO EXTRA** - Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
 
@@ -140,17 +140,17 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 *Referência 1: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*  
 *Referência 2: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/)*
 
-- [**SLIDES** - Estratégia de regiões de confiança](/files/otim2/4.Regioes_confianca.pdf)
+- [**ANOTAÇÕES** - Estratégia de regiões de confiança](/files/otim2/4.Regioes_confianca.pdf)
 
 
 ### Programação quadrática sequencial
 
 *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
-- [**SLIDES** - Programação Quadrática Sequencial (SQP) básica para restrições de igualdade](/files/otim2/5.1.SQP_basico_igualdades.pdf)
-- [**SLIDES** - Boa definição do SQP básico e algumas questões práticas do método](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)
-- [**SLIDES** - Subproblemas quadráticos com regiões de confiança](/files/otim2/5.3.SQP_subprob.pdf)
-- [**SLIDES** - SQP para problemas com restrições não lineares de igualdade e desigualdade](/files/otim2/5.4.SQP_subprob_IP.pdf)
+- [**ANOTAÇÕES** - Programação Quadrática Sequencial (SQP) básica para restrições de igualdade](/files/otim2/5.1.SQP_basico_igualdades.pdf)
+- [**ANOTAÇÕES** - Boa definição do SQP básico e algumas questões práticas do método](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)
+- [**ANOTAÇÕES** - Subproblemas quadráticos com regiões de confiança](/files/otim2/5.3.SQP_subprob.pdf)
+- [**ANOTAÇÕES** - SQP para problemas com restrições não lineares de igualdade e desigualdade](/files/otim2/5.4.SQP_subprob_IP.pdf)
 - **Pacotes computacionais**
   - [WORHP](https://worhp.de/)
     - [Principal referência bibliográfica do pacote](https://link.springer.com/chapter/10.1007%2F978-1-4614-4469-5_4)
@@ -163,9 +163,9 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 *Referência 1: [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)*  
 *Referência 2: Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008.*
 
-- [**SLIDES** - Dualidade em Programação Não Linear, parte 1](/files/otim2/6.1.Dualidade1.pdf)
-- [**SLIDES** - Dualidade em Programação Não Linear, parte 2](/files/otim2/6.2.Dualidade2.pdf)
-- [**SLIDES** - Método de planos de corte / Resolução de sistemas de inequações convexas](/files/otim2/6.3.Planos_corte.pdf)
+- [**ANOTAÇÕES** - Dualidade em Programação Não Linear, parte 1](/files/otim2/6.1.Dualidade1.pdf)
+- [**ANOTAÇÕES** - Dualidade em Programação Não Linear, parte 2](/files/otim2/6.2.Dualidade2.pdf)
+- [**ANOTAÇÕES** - Método de planos de corte / Resolução de sistemas de inequações convexas](/files/otim2/6.3.Planos_corte.pdf)
   - [Código Julia](https://drive.google.com/file/d/1hEk6GZaokQ9bMBIAqXTdC5bkQau_pacC/view?usp=sharing)
 
 
@@ -173,9 +173,9 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 *Referência: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006.*
 
-- [**SLIDES** - Quadrados mínimos linear](/files/otim2/6.4.quadrados_min_linear.pdf)
-- [**SLIDES** - Quadrados mínimos não linear - método de Gauss-Newton](/files/otim2/6.5.Quad_min_naolinear_Gauss_Newton.pdf)
-- [**SLIDES** - Quadrados mínimos não linear - método de Levenberg-Marquardt](/files/otim2/6.6.Quad_min_naolinear_Levenberg_Marquardt.pdf)
+- [**ANOTAÇÕES** - Quadrados mínimos linear](/files/otim2/6.4.quadrados_min_linear.pdf)
+- [**ANOTAÇÕES** - Quadrados mínimos não linear - método de Gauss-Newton](/files/otim2/6.5.Quad_min_naolinear_Gauss_Newton.pdf)
+- [**ANOTAÇÕES** - Quadrados mínimos não linear - método de Levenberg-Marquardt](/files/otim2/6.6.Quad_min_naolinear_Levenberg_Marquardt.pdf)
 
 
 ## Vídeos interessantes sobre Otimização
