@@ -122,7 +122,7 @@ As opções são separadas por vírgula. Eis algumas delas:
 <!-- - **Margens:** `bottom_margin=5mm`, `left_margin=10mm`, `top_margin=15mm` -->
 
 Há muitas outras opções de personalização. Por exemplo, é possível trabalhar plots aninhados (*subplots*) ou até mesmo fazer figuras animadas. Veja mais exemplos e configurações em
-- <https://docs.juliaplots.org/latest/> ou ainda <https://docs.juliaplots.org/latest/generated/supported/>
+- <https://docs.juliaplots.org/stable/> ou ainda <https://docs.juliaplots.org/stable/generated/supported/>
 - [Um tutorial](https://sites.google.com/view/oficinadejuliapetmecanicaufes/gr%C3%A1ficos/gr%C3%A1ficos-bidimensionais?authuser=0)
 
 
