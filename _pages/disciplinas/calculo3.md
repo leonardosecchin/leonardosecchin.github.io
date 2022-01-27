@@ -141,9 +141,10 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 - Seção 15.10 – Mudança de variáveis em integrais múltiplas: todos
 - [+ exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-triplas/provas-e-exames/)
 
-### Seção 13.1 – Funções vetoriais e curvas espaciais: 1 a 36, 39 a 44
+### Capítulo 13 (Funções Vetoriais - revisão)
 
-- [+ exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/curvas-no-plano-e-no-espaco/)
+- Seção 13.1 – Funções vetoriais e curvas espaciais: 1 a 30, 39 a 44
+- Seção 13.2 – Derivadas (e integrais) de funções: 3 a 8
 
 ### Capítulo 16 (Cálculo Vetorial)
 
