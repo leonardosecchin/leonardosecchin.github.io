@@ -147,11 +147,11 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 
 ### Capítulo 16 (Cálculo Vetorial)
 
-- Seção 16.1 – Campos vetoriais<!--: 1 a 18, 27 a 32-->
-- Seção 16.2 – Integrais de linha
-- Seção 16.3 – Teorema Fundamental das Integrais de Linha
+- Seção 16.1 – Campos vetoriais: 1 a 18, 29 a 33, 36
+- Seção 16.2 – Integrais de linha: 1 a 22, 29, 32, 39 a 43, 45 a 48, 51, 52
+- Seção 16.3 – Teorema Fundamental das Integrais de Linha: 1, 3 a 9, 11 a 22, 25 a 27, 29, 30, 35
   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-de-linha/teorema-fundamental-das-integrais-de-linha/)
-- Seção 16.4 – Teorema de Green
+- Seção 16.4 – Teorema de Green: 1 a 14, 18, 21
   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-de-linha/teorema-de-green/)
 - Seção 16.5 – Rotacional e Divergente
   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/rotacional-e-divergente/)
