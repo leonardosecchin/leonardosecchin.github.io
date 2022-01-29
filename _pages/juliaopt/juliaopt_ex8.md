@@ -69,7 +69,8 @@ julia> probs = CUTEst.select(max_con=0, only_free_var=true)
 Há muitas outras possibilidades. A seguir, uma lista de *tags* que você pode utilizar:
 - **max_var=[número]**: número máximo de variáveis
 - **min_var=[número]**: número mínimo de variáveis
-- **max_con=[número]**: número mínimo de restrições ordinárias ($h(x)=0$ e $g(x)\leq 0$)
+- **max_con=[número]**: número máximo de restrições ordinárias ($h(x)=0$ e $g(x)\leq 0$)
+- **min_con=[número]**: número mínimo de restrições ordinárias ($h(x)=0$ e $g(x)\leq 0$)
 - **only_free_var=true**: somente problemas com todas as variáveis livres
 - **only_bnd_var=true**: somente problemas com algumas variáveis limitadas
 - **only_equ_con=true**: somente problemas com restrições ordinárias de igualdade
