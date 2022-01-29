@@ -72,11 +72,11 @@ Há muitas outras possibilidades. A seguir, uma lista de *tags* que você pode u
 - **max_con=[número]**: número máximo de restrições ordinárias ($h(x)=0$ e $g(x)\leq 0$)
 - **min_con=[número]**: número mínimo de restrições ordinárias ($h(x)=0$ e $g(x)\leq 0$)
 - **only_free_var=true**: somente problemas com todas as variáveis livres
-- **only_bnd_var=true**: somente problemas com algumas variáveis limitadas
+- **only_bnd_var=true**: somente problemas com variáveis limitadas
 - **only_equ_con=true**: somente problemas com restrições ordinárias de igualdade
 - **only_ineq_con=true**: somente problemas com restrições ordinárias de desigualdade
-- **only_linear_con=true**: somente problemas com todas as restrições ordinárias lineares
-- **only_nonlinear_con=true**: somente problemas com algumas restrições ordinárias não lineares
+- **only_linear_con=true**: somente problemas com restrições ordinárias lineares
+- **only_nonlinear_con=true**: somente problemas com restrições ordinárias não lineares
 - **objtype=T**: tipo da função objetivo, onde **T** pode assumir
   - **"none"**: sem função objetivo (problema de viabilidade)
   - **"constant"**: função objetivo constante
