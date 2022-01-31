@@ -125,6 +125,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
      - [Sítio oficial](https://coin-or.github.io/Ipopt/)
      - [Veja casos de uso do Ipopt em situações reais](https://projects.coin-or.org/Ipopt/wiki/SuccessStories)
      - [Referência bibliográfica do Ipopt](https://link.springer.com/article/10.1007/s10107-004-0559-y) (versão alternativa com [acesso livre](http://www.optimization-online.org/DB_HTML/2004/03/836.html))
+     - [Lista de opções configuráveis no pacote](https://coin-or.github.io/Ipopt/OPTIONS.html)
    - Outros pacotes (proprietários) que empregam a técnica de penalização interna
        - Veja o algoritmo de barreira do CPLEX (*barrier algorithm*) para problemas [lineares](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/barrier/02_barrier_intro.html), [quadráticos](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qp/01_QP_title_synopsis.html), e [quadráticos com restrições quadráticas](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qcp/01_QCP_title_synopsis.html).
        - Leia a [descrição do *software* KNITRO](https://software.com.br/p/knitro?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB).
