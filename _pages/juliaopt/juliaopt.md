@@ -38,3 +38,7 @@ Outros pacotes são apresentados nos exemplos.
 - [Exemplo 12](/juliaopt_ex12/): tabelando resultados de forma inteligente com *DataFrames*
 - [Exemplo 13](/juliaopt_ex13/): tratando erros de execução
 - [Exemplo 14](/juliaopt_ex14/): calculando tempos de execução
+
+# Leituras interessantes
+
+- **Computação com precisão finita.** Notas de aula do curso de [Cálculo Numérico de Paulo J. S. Silva (Unicamp)](https://www.ime.unicamp.br/~pjssilva/blog/notas_ms211/). Acesse o [PDF direto neste link](https://www.ime.unicamp.br/~pjssilva/pdfs/notas_de_aula/ms211/Computa%C3%A7%C3%A3o_com_Precis%C3%A3o_Finita.pdf) ou o [caderno Julia](https://github.com/pjssilva/ms211/blob/master/01_Computacao_com_Precisao_Finita.ipynb).
