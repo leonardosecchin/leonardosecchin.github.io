@@ -138,8 +138,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Regiões de confiança
 
-*Referência 1: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*  
-*Referência 2: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/)*
+*Referência 1: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](http://www.cengage.com.br/ls/otimizacao-continua-aspectos-teoricos-e-computacionais/)*
+*Referência 2: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*  
 
 - [**ANOTAÇÕES** - Estratégia de regiões de confiança](/files/otim2/4.Regioes_confianca.pdf)
 
