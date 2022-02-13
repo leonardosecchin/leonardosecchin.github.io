@@ -76,7 +76,7 @@ If you are unable to download a paper, please email me.
    R. L. Silva, L. D. Secchin, W. A. Moura-Melo, A. R. Pereira, R. L. Stamps  
    Physical Review B, 89, 054434, 2014
 
-1. Um novo algoritmo para soluções ótimas locais do problema linear de dois níveis  
+1. **Um novo algoritmo para soluções ótimas locais do problema linear de dois níveis**  
    L. D. Secchin  
    TEMA (São Carlos), 2012
 
