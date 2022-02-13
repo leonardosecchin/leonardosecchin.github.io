@@ -17,15 +17,15 @@ author_profile: true
 
 ## Submitted articles
 
-1. [Extension of the delayed weighted gradient method for the minimization of strongly convex functions](http://www.optimization-online.org/DB_HTML/2021/09/8591.html)  
+1. **Extension of the delayed weighted gradient method for the minimization of strongly convex functions** [[preprint](http://www.optimization-online.org/DB_HTML/2021/09/8591.html)]  
    R. Andreani, H. Oviedo, M. Raydan, L. D. Secchin  
    Optimization Online, 2021
 
-1. [Convergence of Quasi-Newton Methods for Solving Constrained Generalized Equations](http://www.optimization-online.org/DB_HTML/2021/05/8400.html)  
+1. **Convergence of Quasi-Newton Methods for Solving Constrained Generalized Equations** [[preprint](http://www.optimization-online.org/DB_HTML/2021/05/8400.html)]  
    R. Andreani, R. M. Carvalho, L. D. Secchin, G. N. Silva  
    Optimization Online, 2021
 
-1. [Optimality conditions for nonlinear second-order cone programming and symmetric cone programming](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)  
+1. **Optimality conditions for nonlinear second-order cone programming and symmetric cone programming** [[preprint](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)]  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
    Optimization Online, 2019
 
@@ -34,7 +34,7 @@ author_profile: true
 
 If you are unable to download a paper, please email me.
 
-1. [On the best achievable quality of limit points of augmented Lagrangian schemes](https://doi.org/10.1007/s11075-021-01212-8)  
+1. **On the best achievable quality of limit points of augmented Lagrangian schemes** [[doi](https://doi.org/10.1007/s11075-021-01212-8) [preprint](http://www.optimization-online.org/DB_HTML/2020/07/7929.html)]  
    R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
    To appear in Numerical Algorithms, 2021  
    [**Erratum for the published version**](https://doi.org/10.1007/s11075-021-01241-3)
