@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- [**Método do Lagrangiano Aumentado: avanços recentes**](https://drive.google.com/file/d/1Trk0fllv9NT1KVzBnPRhtOJNrAjccMZM/view?usp=sharing) *(in portuguese)*  
+  Programa de Verão PMA-UEM (web), 2022
+
 - [**Método do gradiente ponderado com atraso (DWGM) para funções fortemente convexas**](https://drive.google.com/file/d/1rzQK0W056cSZHMQp1nhGStau7OtmkVn2/view?usp=sharing) *(in portuguese)*  
   Seminário de Otimização Contínua Unicamp/USP (web), 2021
 

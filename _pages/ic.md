@@ -31,7 +31,7 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 
 ### Pré-requisitos
 
-Os pré-requisitos variam com o tema de estudo. Em geral, é recomendado que o(a) aluno(a) tenha cursado uma disciplina de programação não linear (na matemática industrial, "Otimização 1"). Para projetos que requeiram implementação computacional, é requerida mínima familiaridade com alguma linguagem de programação. Como as referências são em grande parte escritas em inglês, é desejável que o(a) aluno(a) consiga ler textos na língua.
+Os pré-requisitos variam com o tema. Em geral, é recomendado que o(a) aluno(a) tenha cursado uma disciplina de programação não linear (na matemática industrial, "Otimização 1"). Para projetos que requerem implementação computacional, é importante mínima familiaridade com alguma linguagem de programação. Como as referências são em grande parte escritas em inglês, é desejável que o(a) aluno(a) consiga ler textos na língua.
 
 
 ### Linguagens de programação
@@ -49,7 +49,7 @@ Em primeiro lugar, o(a) aluno(a) deve mostrar seu interesse por email ou pessoal
 
 Todo subprojeto de IC é vinculado a um projeto de pesquisa no qual faço parte.
 
-Há possibilidade de bolsa(s) de IC, a depender da disponibilidade de recursos previstos nos editais. Na escolha do bolsista são considerados aspectos como desempenho curricular, entrevista e situação de vulnerabilidade sócioeconômica (cadastro em programas de assistência estudantil).
+Há possibilidade de bolsa(s) de IC, a depender da disponibilidade de recursos previstos nos editais da UFES. Na escolha do bolsista são considerados aspectos como desempenho curricular, entrevista e situação de vulnerabilidade socioeconômica (cadastro em programas de assistência estudantil).
 
 ### para orientação de TCC
 
@@ -60,7 +60,7 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
 
 ### em andamento
 
-1. 2021-2022 (TCC). Métodos computacionais para otimização irrestrita e com restrições simples  
+1. 2021-2022 (TCC). Métodos computacionais para otimização irrestrita e com restrições simples adequados a problemas de larga escala  
    Aluno: Elivandro Oliveira Grippa  
 
 ### concluídas
