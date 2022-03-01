@@ -56,6 +56,7 @@ Veja a [documentação](https://julianlsolvers.github.io/Optim.jl/stable/) para 
 
 ## Outros algoritmos
 
+- **Percival:** método Lagrangiano aumentado para problemas não lineares contínuos, livre de jacobianas e hessianas explícitas (adequado à problemas grandes), implementado em Julia. [site do desenvolvedor](https://github.com/JuliaSmoothOptimizers/Percival.jl)
 - **Juniper:** *solver* livre para problemas não lineares com variáveis inteiras implementado em Julia. [site do desenvolvedor](https://github.com/lanl-ansi/Juniper.jl)
 - **Alpine:** *solver* global livre para problemas não lineares com variáveis inteiras implementado em Julia. [site do desenvolvedor](https://github.com/lanl-ansi/Alpine.jl)
 - A organização *"Computation Infrastructure for Operations Research"* (COIN-OR) possui implementações livres de vários métodos, incluindo o [Simplex](https://github.com/jump-dev/Clp.jl), métodos enumerativos para programação linear interna mista ([*branch-and-cut*](https://github.com/jump-dev/Cbc.jl)), metaheurísticas, métodos para programação não linear geral (Ipopt é um deles), convexa, estocástica, não diferenciável e semi-definida. Veja a [lista de projetos da COIN-OR](https://www.coin-or.org/projects/). É comum cada projeto ter sua interface para Julia. Geralmente as interfaces são para modelos `JuMP`, e os links podem ser acessados no Github de cada projeto.
