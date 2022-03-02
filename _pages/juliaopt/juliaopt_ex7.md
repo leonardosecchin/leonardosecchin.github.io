@@ -38,7 +38,6 @@ Existem interfaces para *softwares* proprietários. Neste caso você precisará 
 - **Xpress:** [site do desenvolvedor](https://www.fico.com/en/products/fico-xpress-optimization) / [interface Julia](https://github.com/jump-dev/Xpress.jl)
 - **Mosek:** [site do desenvolvedor](https://www.mosek.com/) / [interface Julia](https://github.com/jump-dev/MosekTools.jl)
 - **Knitro:** [site do desenvolvedor](https://www.artelys.com/knitro) / [interface Julia](https://github.com/jump-dev/KNITRO.jl) / [interface NLPModels Julia](https://github.com/JuliaSmoothOptimizers/NLPModelsKnitro.jl)
-<!-- - **WORHP:** [site do desenvolvedor](https://worhp.de/) / [interface Julia](https://github.com/freemin7/WorhpOpt.jl) -->
 
 ## Pacote Optim
 
@@ -79,8 +78,9 @@ optimize!(P)
 ~~~
 
 A primeira linha cria o modelo `JuMP` passando a interface AMPL do *solver* de sua preferência. Você pode inserir o **caminho completo** do executável AMPL do *solver* no lugar de `worhp_ampl`. Isso pode ser feito para qualquer pacote que possua interface AMPL! Ao executar `optimize!(P)`, o problema é resolvido e as informações da execução, tais como solução e valor da função objetivo, são guardadas na própria estrutura `JuMP`. Para recuperá-las, você pode, após resolver o problema, fazer:
-- `objective_value(P)` para ler o valor da funcção objetivo no ponto final;
+- `objective_value(P)` para ler o valor da função objetivo na solução `x`;
 - `values.(x)` para ler a solução `x`.
+
 Para mais detalhes, acesse a [documentação do `Jump`](https://jump.dev/JuMP.jl/stable/).
 
-*Sobre o pacote do exemplo:* **WORHP** é uma implementação robusta e eficiente de um método de **programação quadrática sequencial**. É um software proprietário, mas há licença para uso acadêmico. Você deve instalá-lo em sua máquina separadamente, assim como obter a licença de uso. Para mais detalhes, acesse o [site do desenvolvedor](https://worhp.de/).
+*Sobre o pacote do exemplo:* **WORHP** é uma implementação robusta e eficiente de um método de **programação quadrática sequencial**. É um *software* proprietário, mas há licença para uso acadêmico. Você deve instalá-lo em sua máquina separadamente, assim como obter a licença de uso. Para mais detalhes, acesse o [site do desenvolvedor](https://worhp.de/).
