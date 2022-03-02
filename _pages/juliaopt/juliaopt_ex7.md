@@ -38,7 +38,7 @@ Existem interfaces para *softwares* proprietários. Neste caso você precisará 
 - **Xpress:** [site do desenvolvedor](https://www.fico.com/en/products/fico-xpress-optimization) / [interface Julia](https://github.com/jump-dev/Xpress.jl)
 - **Mosek:** [site do desenvolvedor](https://www.mosek.com/) / [interface Julia](https://github.com/jump-dev/MosekTools.jl)
 - **Knitro:** [site do desenvolvedor](https://www.artelys.com/knitro) / [interface Julia](https://github.com/jump-dev/KNITRO.jl) / [interface NLPModels Julia](https://github.com/JuliaSmoothOptimizers/NLPModelsKnitro.jl)
-- **WORHP:** [site do desenvolvedor](https://worhp.de/) / [interface Julia](https://github.com/freemin7/WorhpOpt.jl)
+<!-- - **WORHP:** [site do desenvolvedor](https://worhp.de/) / [interface Julia](https://github.com/freemin7/WorhpOpt.jl) -->
 
 ## Pacote Optim
 
@@ -60,3 +60,27 @@ Veja a [documentação](https://julianlsolvers.github.io/Optim.jl/stable/) para 
 - **Juniper:** *solver* livre para problemas não lineares com variáveis inteiras implementado em Julia. [site do desenvolvedor](https://github.com/lanl-ansi/Juniper.jl)
 - **Alpine:** *solver* global livre para problemas não lineares com variáveis inteiras implementado em Julia. [site do desenvolvedor](https://github.com/lanl-ansi/Alpine.jl)
 - A organização *"Computation Infrastructure for Operations Research"* (COIN-OR) possui implementações livres de vários métodos, incluindo o [Simplex](https://github.com/jump-dev/Clp.jl), métodos enumerativos para programação linear interna mista ([*branch-and-cut*](https://github.com/jump-dev/Cbc.jl)), metaheurísticas, métodos para programação não linear geral (Ipopt é um deles), convexa, estocástica, não diferenciável e semi-definida. Veja a [lista de projetos da COIN-OR](https://www.coin-or.org/projects/). É comum cada projeto ter sua interface para Julia. Geralmente as interfaces são para modelos `JuMP`, e os links podem ser acessados no Github de cada projeto.
+
+## Pacotes com interface AMPL
+
+Vários pacotes possuem interface para a linguagem de modelagem AMPL. Neste caso, é possível usá-los para resolver modelos na estrutura `JuMP` com o uso do pacote [`AmplNLWriter`](https://github.com/jump-dev/AmplNLWriter.jl). O trecho a seguir resolve o problema do [Exemplo 6](/juliaopt_ex6/) com o pacote WORHP:
+
+~~~
+using JuMP, AmplNLWriter
+
+P = Model(() -> AmplNLWriter.Optimizer("worhp_ampl"))
+
+@variable(P, x[1:2])
+@NLobjective(P, Min, (x[1] - 2.0)^2 + (x[2] - 1.0)^2)
+@constraint(P, x[1] + x[2] - 2 <= 0)
+@NLconstraint(P, x[1]^2 - x[2] <= 0)
+
+optimize!(P)
+~~~
+
+A primeira linha cria o modelo `JuMP` passando a interface AMPL do *solver* de sua preferência. Você pode inserir o **caminho completo** do executável AMPL do *solver* no lugar de `worhp_ampl`. Isso pode ser feito para qualquer pacote que possua interface AMPL! Ao executar `optimize!(P)`, o problema é resolvido e as informações da execução, tais como solução e valor da função objetivo, são guardadas na própria estrutura `JuMP`. Para recuperá-las, você pode, após resolver o problema, fazer:
+- `objective_value(P)` para ler o valor da funcção objetivo no ponto final;
+- `values.(x)` para ler a solução `x`.
+Para mais detalhes, acesse a [documentação do `Jump`](https://jump.dev/JuMP.jl/stable/).
+
+*Sobre o pacote do exemplo:* **WORHP** é uma implementação robusta e eficiente de um método de **programação quadrática sequencial**. É um software proprietário, mas há licença para uso acadêmico. Você deve instalá-lo em sua máquina separadamente, assim como obter a licença de uso. Para mais detalhes, acesse o [site do desenvolvedor](https://worhp.de/).

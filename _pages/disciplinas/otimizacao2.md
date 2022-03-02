@@ -152,11 +152,12 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - [**ANOTAÇÕES** - Boa definição do SQP básico e algumas questões práticas do método](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)
 - [**ANOTAÇÕES** - Subproblemas quadráticos com regiões de confiança](/files/otim2/5.3.SQP_subprob.pdf)
 - [**ANOTAÇÕES** - SQP para problemas com restrições não lineares de igualdade e desigualdade](/files/otim2/5.4.SQP_subprob_IP.pdf)
-- **Pacotes computacionais**
+- **Pacote computacional WORHP (proprietário com licença para uso acadêmico)**
   - [WORHP](https://worhp.de/)
     - [Principal referência bibliográfica do pacote](https://link.springer.com/chapter/10.1007%2F978-1-4614-4469-5_4)
     - Outra referência com [acesso livre](https://www.math.uni-bremen.de/zetem/cms/media.php/279/2546042wassel.pdf)
-  - [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
+    - Para usar o WORHP no Julia, consulte a seção **"Pacotes com interface AMPL"** [deste link](/juliaopt_ex7/)
+- Outro pacote proprietário com versão de demonstração junto ao [AMPL](https://ampl.com/products/solvers/solvers-we-sell/): [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
 
 
 ### Dualidade em programação não linear
