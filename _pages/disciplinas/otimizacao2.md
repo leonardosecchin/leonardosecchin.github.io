@@ -153,12 +153,12 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - [**ANOTAÇÕES** - Subproblemas quadráticos com regiões de confiança](/files/otim2/5.3.SQP_subprob.pdf)
 - [**ANOTAÇÕES** - SQP para problemas com restrições não lineares de igualdade e desigualdade](/files/otim2/5.4.SQP_subprob_IP.pdf)
 - **Pacote computacional WORHP (proprietário com licença para uso acadêmico)**
-  - [WORHP](https://worhp.de/)
-    - [Principal referência bibliográfica do pacote](https://link.springer.com/chapter/10.1007%2F978-1-4614-4469-5_4)
-    - Outra referência com [acesso livre](https://www.math.uni-bremen.de/zetem/cms/media.php/279/2546042wassel.pdf)
-    - Para usar o WORHP no Julia, consulte a seção **"Pacotes com interface AMPL"** [deste link](/juliaopt_ex7/)
-      - *Obs 1:* O arquivo de licença `worhp.lic` deve ser salvo no diretório em que estiver executando o Julia. Você deve obtê-lo no [site do desenvolvedor](https://worhp.de/) com seu login e senha
-      - *Obs 2:* Você pode configurar o WORHP modificando o arquivo `worhp.xml`, que se encontra na pasta `bin` da instalação. Para usá-lo, faça uma cópia para o diretório em que estiver executando o Julia
+  - [Site do desenvolvedor](https://worhp.de/)
+  - [Principal referência bibliográfica do pacote](https://link.springer.com/chapter/10.1007%2F978-1-4614-4469-5_4)
+  - Outra referência com [acesso livre](https://www.math.uni-bremen.de/zetem/cms/media.php/279/2546042wassel.pdf)
+  - Para usar o WORHP no Julia, consulte a seção **"Pacotes com interface AMPL"** [deste link](/juliaopt_ex7/)
+    - *Obs 1:* O arquivo de licença `worhp.lic` deve ser salvo no diretório em que estiver executando o Julia. Você deve obtê-lo no [site do desenvolvedor](https://worhp.de/) com seu login e senha
+    - *Obs 2:* Você pode configurar o WORHP modificando o arquivo `worhp.xml`, que se encontra na pasta `bin` da instalação. Para usá-lo, faça uma cópia para o diretório em que estiver executando o Julia. Consulte o manual (*Users' Guide*), seção "*Parameters*" para detalhes
 - Outro pacote proprietário com versão de demonstração junto ao [AMPL](https://ampl.com/products/solvers/solvers-we-sell/): [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
 
 
