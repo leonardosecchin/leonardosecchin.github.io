@@ -124,22 +124,22 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 ### Capítulo 15 (Integrais Múltiplas)
 
 - Seção 15.1 – Integrais duplas sobre retângulos: 1 a 6, 10, 14
-  - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-duplas/sobre-retangulo/)
+<!--   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-duplas/sobre-retangulo/) -->
 - Seção 15.2 – Integrais iteradas: 1 a 31, 37, 38
-  - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-duplas/iteradas/)
+<!--   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-duplas/iteradas/) -->
 - Seção 15.3 – Integrais duplas sobre regiões gerais: 1 a 56, 63 a 67
-  - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-duplas/sobre-regiao-geral/)
+<!--   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-duplas/sobre-regiao-geral/) -->
 - Seção 15.4 – Integrais duplas em coordenadas polares: todos
-  - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-duplas/em-coordenadas-polares/)
+<!--   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-duplas/em-coordenadas-polares/) -->
 - Seção 15.6 – Área de superfície: 1 a 12
-  - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-duplas/area-de-superficie/)
+<!--   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-duplas/area-de-superficie/) -->
 - Seção 15.7 – Integrais triplas: 1 a 22, 29 a 34, 55(a)
 - Seção 15.8 – Integrais triplas em coordenadas cilindricas: 5 a 13, 15 a 24, 29, 30
-  - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-triplas/em-coordenadas-cilindricas/)
+<!--   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-triplas/em-coordenadas-cilindricas/) -->
 - Seção 15.9 – Integrais triplas em coordenadas esféricas: 5 a 13, 15 a 27, 29, 30, 35 a 38
-  - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-triplas/em-coordenadas-esfericas/)
+<!--   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-triplas/em-coordenadas-esfericas/) -->
 - Seção 15.10 – Mudança de variáveis em integrais múltiplas: todos
-- [+ exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-triplas/provas-e-exames/)
+<!-- - [+ exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-triplas/provas-e-exames/) -->
 
 ### Capítulo 13 (Funções Vetoriais - revisão)
 
@@ -151,18 +151,16 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 - Seção 16.1 – Campos vetoriais: 1 a 18, 29 a 33, 36
 - Seção 16.2 – Integrais de linha: 1 a 22, 29, 32, 39 a 43, 45 a 48, 51, 52
 - Seção 16.3 – Teorema Fundamental das Integrais de Linha: 1, 3 a 9, 11 a 22, 25 a 27, 29, 30, 35
-  - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-de-linha/teorema-fundamental-das-integrais-de-linha/)
+<!--   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-de-linha/teorema-fundamental-das-integrais-de-linha/) -->
 - Seção 16.4 – Teorema de Green: 1 a 14, 18, 21
-  - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-de-linha/teorema-de-green/)
-- Seção 16.5 – Rotacional e Divergente
-  - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/rotacional-e-divergente/)
-- Seção 16.6 – Superfícies parametrizadas e suas áreas
+<!--   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-de-linha/teorema-de-green/) -->
+- Seção 16.5 – Rotacional e Divergente: 1 a 4, 9 a 18, 21, 22, 37, 39
+<!--   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/rotacional-e-divergente/) -->
+- Seção 16.6 – Superfícies parametrizadas e suas áreas: 1 a 5, 13 a 26, 39 a 50, 61, 64(a,c)
 - Seção 16.7 – Integrais de Superfície
 - Seção 16.8 – Teorema de Stokes
 - Seção 16.9 – Teorema do Divergente
-  - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-de-superficie/)
-
-[RESPOSTAS DO CAPÍTULO 16](https://drive.google.com/file/d/0B-G5znuapK7JbFRJNTdzZHFrY0k/view?usp=sharing)
+<!--   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-de-superficie/) -->
 
 
 ### EXERCÍCIOS EXTRAS – Livro Guidorizzi vol 3, 5a edição
