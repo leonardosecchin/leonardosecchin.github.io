@@ -157,9 +157,9 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 - Seção 16.5 – Rotacional e Divergente: 1 a 4, 9 a 18, 21, 22, 37, 39
 <!--   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/rotacional-e-divergente/) -->
 - Seção 16.6 – Superfícies parametrizadas e suas áreas: 1 a 5, 13 a 26, 39 a 50, 61, 64(a,c)
-- Seção 16.7 – Integrais de Superfície
-- Seção 16.8 – Teorema de Stokes
-- Seção 16.9 – Teorema do Divergente
+- Seção 16.7 – Integrais de Superfície: 5 a 11, 13 a 32, 40, 43, 49
+- Seção 16.8 – Teorema de Stokes: 1 a 10, 16, 17, 19
+- Seção 16.9 – Teorema do Divergente: 5 a 14, 17, 18, 20
 <!--   - [Outra fonte de exercícios](http://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/integrais-de-superficie/) -->
 
 
