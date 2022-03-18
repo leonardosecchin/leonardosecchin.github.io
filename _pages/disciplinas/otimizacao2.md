@@ -40,8 +40,9 @@ author_profile: true
   - Código para o exercício 5(c): [plbin.jl](https://drive.google.com/file/d/1Uqcb0X9kNTIHE-m2kOeS1c_pXfOyvzvd/view?usp=sharing)
   - Instâncias para o exercício 6: [portfolio.zip](https://drive.google.com/file/d/1RMvGiE38Ow3qcP9PncKJlCISYX48QXcb/view?usp=sharing)
 - [LISTA 2 - Método de penalização interna / pontos interiores](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing)
-- LISTA 3 - Programação quadrática sequencial e dualidade
-- LISTA 4 - Quadrados mínimos não linear
+- [LISTA 3 - Programação quadrática sequencial, quadrados mínimos e dualidade](https://drive.google.com/file/d/1-rWMhk3BUPGKp1bloICS3Tt5k9XnG1zz/view?usp=sharing)
+  - [Código exemplo de uso do WORHP no Julia](/files/ex6_worhp.jl)
+  - [Código Julia do método de Gauss-Newton](/files/gaussnewton.zip)
 <!-- - [TRABALHO COMPUTACIONAL 1 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing) -->
 <!-- - [TRABALHO COMPUTACIONAL 2 - Método de pontos interiores aplicado à programação linear](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing) -->
 <!-- - [LISTA 2 - Programação quadrática sequencial, dualidade](https://drive.google.com/file/d/107lofrTIsihgnHR43QJ53fxjp3_9lO61/view?usp=sharing) -->
