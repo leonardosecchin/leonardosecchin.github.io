@@ -60,11 +60,12 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
 
 ### em andamento
 
-1. 2021-2022 (TCC). Métodos computacionais para otimização irrestrita e com restrições simples adequados a problemas de larga escala  
-   Aluno: Elivandro Oliveira Grippa  
+---
 
 ### concluídas
 
+1. 2022 (TCC). Métodos computacionais para otimização irrestrita e com restrições simples adequados a problemas de larga escala  
+   Aluno: Elivandro Oliveira Grippa  
 1. 2021 (TCC). Métodos de otimização para aprendizado de máquina supervisionado e aplicações  
    Aluno: Matheus Becali Rocha  
 1. 2021 (IC). Variantes do método do gradiente para otimização irrestrita  
