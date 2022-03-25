@@ -34,15 +34,15 @@ author_profile: true
 
 If you are unable to download a paper, please email me.
 
+1. **On scaled stopping criteria for a safeguarded augmented Lagrangian method with theoretical guarantees** [[doi](https://doi.org/10.1007/s12532-021-00207-9)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/08/7985.html)]  
+   R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin, P. J. S. Silva  
+   Mathematical Programming Computation, 14, 121-146, 2022  
+   *Codes available at [github.com/leonardosecchin/scaled-algencan](https://github.com/leonardosecchin/scaled-algencan)*
+
 1. **On the best achievable quality of limit points of augmented Lagrangian schemes** [[doi](https://doi.org/10.1007/s11075-021-01212-8)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/07/7929.html)]  
    R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
    To appear in Numerical Algorithms, 2021  
    [**Erratum for the published version**](https://doi.org/10.1007/s11075-021-01241-3)
-
-1. **On scaled stopping criteria for a safeguarded augmented Lagrangian method with theoretical guarantees** [[doi](https://doi.org/10.1007/s12532-021-00207-9)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/08/7985.html)]  
-   R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin, P. J. S. Silva  
-   To appear in Mathematical Programming Computation, 2021  
-   *Codes available at [github.com/leonardosecchin/scaled-algencan](https://github.com/leonardosecchin/scaled-algencan)*
 
 1. **On the use of Jordan Algebras for improving global convergence of an Augmented Lagrangian method in nonlinear semidefinite programming** [[doi](https://doi.org/10.1007/s10589-021-00281-8)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/05/7787.html)]  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
