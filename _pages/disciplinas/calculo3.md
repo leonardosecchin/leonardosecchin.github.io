@@ -5,10 +5,10 @@ permalink: /calculo3/
 author_profile: true
 ---
 
-## Horários das aulas síncronas
+<!--## Horários das aulas síncronas
 
 - Quartas-feiras de 11:00 as 12:00
-- Sextas-feiras de 8:00 as 9:30
+- Sextas-feiras de 8:00 as 9:30-->
 
 
 ## Programa da disciplina
