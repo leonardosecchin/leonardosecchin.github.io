@@ -63,7 +63,7 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 - **Prova 2**
   - Conteúdo: campos vetoriais; integrais de linha; Teorema fundamental para integrais de linha; Teorema de Green
   - Valor: 10,0 pontos
-  - **Data: 26/02/2022 (sexta-feira)**
+  - **Data: 25/02/2022 (sexta-feira)**
 - **Prova 3**
   - Conteúdo: rotacional e divergente; superfícies parametrizadas; áreas de superfícies parametrizadas; integrais de superfície; Teorema de Stokes; Teorema do divergente
   - Valor: 10,0 pontos
