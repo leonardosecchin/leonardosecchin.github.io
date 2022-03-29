@@ -17,6 +17,10 @@ author_profile: true
 
 ## Submitted articles
 
+1. **Improving the global convergence of Inexact Restoration methods for constrained optimization problems** [[preprint](http://www.optimization-online.org/DB_HTML/2022/03/8851.html)]  
+   R. Andreani, A. Ramos, L. D. Secchin  
+   2022
+
 1. **Extension of the delayed weighted gradient method for the minimization of strongly convex functions** [[preprint](http://www.optimization-online.org/DB_HTML/2021/09/8591.html)]  
    R. Andreani, H. Oviedo, M. Raydan, L. D. Secchin  
    2021
