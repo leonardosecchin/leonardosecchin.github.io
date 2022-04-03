@@ -5,10 +5,10 @@ permalink: /otimizacao1/
 author_profile: true
 ---
 
-<!--## Horários das aulas síncronas
+## Horários das aulas
 
-- Terças-feiras: 11:00 - 12:00
-- Quintas-feiras: 9:30 - 10:30-->
+- Terças-feiras de 9:00 as 11:00
+- Quintas-feiras de 7:00 as 9:00
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20I%20-%20DMA11995.pdf)
@@ -32,21 +32,44 @@ author_profile: true
 - Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006
 
 
-## Textos Complementares
+## Textos complementares
 
 - [Izmailov, A.; Solodov, M. Otimização vol 1. SBM](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)
 - [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
 
 
-## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643)
+<!--## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643)
 
 - Todo o material do curso, como slides e referências, estará disponível exclusivamente nesta página.
 - Notas das atividades e **aulas gravadas** serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos.
-- Se você é aluno(a) e não tem acesso à disciplina no AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email**.
+- Se você é aluno(a) e não tem acesso à disciplina no AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email**.-->
 
-## Formas de avaliação:
 
-- provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
+## Canais de acesso
+
+### E-mail do professor: leonardo.secchin@ufes.br
+
+
+## Avaliações
+
+<!--- **Prova 1**
+  - Conteúdo: --
+  - Valor: 10,0 pontos
+  - **Data: --**
+- **Prova 2**
+  - Conteúdo: --
+  - Valor: 10,0 pontos
+  - **Data: --**
+- **Prova 3**
+  - Conteúdo: --
+  - Valor: 10,0 pontos
+  - **Data: --**
+- **PROVA FINAL**
+  - Conteúdo: toda a matéria
+  - Valor: 10,0 pontos
+  - **Data: --**-->
+
+- provas escritas, listas de exercícios e trabalhos computacionais.
 
 
 ## Listas de exercícios e trabalhos

@@ -7,7 +7,10 @@ author_profile: true
 
 ## DISCIPLINAS 2022/1
 
---
+- [**Otimização 1**  
+  (Matemática Industrial)](/otimizacao1/)
+- [**Lógica / Noções de lógica**  
+  (Matemática Industrial)](/logica/)
 
 ## A linguagem de programação Julia
 
@@ -33,7 +36,7 @@ author_profile: true
 - [**Tópicos em Pesquisa Operacional**  
   (Matemática Industrial)](/topicospo/)
 - [**Geometria Analítica** (listas de exercícios)](https://drive.google.com/file/d/1Z3oxequQlLdjKyLiXw6Yq0JT4rLmm-gL/view?usp=sharing)
-- [**Noções de Lógica** (notas de aula)](https://drive.google.com/file/d/0B-G5znuapK7JRk9laWRVOWFGTFE/view?usp=sharing)
+<!--- [**Noções de Lógica** (notas de aula)](https://drive.google.com/file/d/0B-G5znuapK7JRk9laWRVOWFGTFE/view?usp=sharing)-->
 - [**Análise Convexa** (listas de exercícios)](https://drive.google.com/file/d/14dBCjGENT4phLsUo7Ip7_nvQ-Rp2D7Ev/view?usp=sharing)
 - **Programação Linear** (notas de aula)
 
