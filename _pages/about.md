@@ -13,11 +13,16 @@ redirect_from:
 Department of Applied Mathematics, Federal University of Espírito Santo ([UFES](https://www.ufes.br))  
 Rodovia BR 101, Km 60, zip code 29932-540, São Mateus, ES, Brazil
 
+
 ### E-mail address
 
-**leonardo.secchin@ufes.br**
+[leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br)
+
+In case of failure, try [secchinleo@gmail.com](mailto:secchinleo@gmail.com)
+
 
 ### [CV Lattes (in portuguese)](http://lattes.cnpq.br/4273961903394165)
+
 
 ### Education
 
