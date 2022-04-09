@@ -30,4 +30,4 @@ In case of failure, try [secchinleo@gmail.com](mailto:secchinleo@gmail.com)
 - MSc in Computer Science – UFES (2010), “Optimization”
   - Title: Programação em dois níveis: teoria e algoritmos
 - PhD in Applied Mathematics – State University of Campinas, Unicamp (2018), “Computational methods in optimization”
-  - Title: [Aplicação de métodos de Lagrangiano aumentado a problemas de otimização com restrições de complementariedade](http://repositorio.unicamp.br/jspui/handle/REPOSIP/330972)
+  - Title: [Aplicação de métodos de Lagrangiano aumentado a problemas de otimização com restrições de complementariedade](https://doi.org/10.47749/T/UNICAMP.2018.991452)
