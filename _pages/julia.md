@@ -95,8 +95,6 @@ Para desinstalar o Julia neste método, simplesmente apague os diretórios `juli
 
 Existem plataformas (IDEs) gráficas que se integram ao Julia. Uma delas é o [Juno](https://junolab.org/).
 
-Outra alternativa "tudo em um" é o [JuliaPro](https://juliacomputing.com/products/juliapro/). Este pacote instala a base do Julia e o ambiente gráfico de uma só vez.
-
 É possível ainda utilizar seu navegador de internet como saída gráfica através do [Jupyter ou JupyterLab](https://jupyter.org/).
 
 De qualquer forma, assim como no Matlab/Octave, a principal via de utilização do Julia é a linha de comandos. Portanto é essencial familiarizar-se com seus comandos.
