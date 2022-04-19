@@ -17,6 +17,10 @@ author_profile: true
 
 ## Submitted articles
 
+1. **A practical second-order optimality condition for cardinality-constrained problems with application to an augmented Lagrangian method** [[preprint](http://www.optimization-online.org/DB_HTML/2022/04/8880.html)]  
+   J. C. A. Medeiros, A. A. Ribeiro, M. Sachine, L. D. Secchin  
+   2022
+
 1. **Improving the global convergence of Inexact Restoration methods for constrained optimization problems** [[preprint](http://www.optimization-online.org/DB_HTML/2022/03/8851.html)]  
    R. Andreani, A. Ramos, L. D. Secchin  
    2022
