@@ -38,6 +38,10 @@ author_profile: true
 
 If you are unable to download a paper, please email me.
 
+1. **On the convergence of augmented Lagrangian strategies for nonlinear programming** [[doi](https://doi.org/10.1093/imanum/drab021)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/03/7701.html)]  
+   R. Andreani, A. Ramos, A. A. Ribeiro, L. D. Secchin, A. R. Velazco  
+   IMA Journal of Numerical Analysis, 42(2), 1735-1765, 2022
+
 1. **Convergence of Quasi-Newton Methods for Solving Constrained Generalized Equations** [[doi](https://doi.org/10.1051/cocv/2022026)] [[preprint](http://www.optimization-online.org/DB_HTML/2021/05/8400.html)]  
    R. Andreani, R. M. Carvalho, L. D. Secchin, G. N. Silva  
    To appear in ESAIM: Control, Optimisation and Calculus of Variations, 2022
@@ -55,10 +59,6 @@ If you are unable to download a paper, please email me.
 1. **On the use of Jordan Algebras for improving global convergence of an Augmented Lagrangian method in nonlinear semidefinite programming** [[doi](https://doi.org/10.1007/s10589-021-00281-8)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/05/7787.html)]  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
    Computational Optimization and Applications, 79, 633-648, 2021
-
-1. **On the convergence of augmented Lagrangian strategies for nonlinear programming** [[doi](https://doi.org/10.1093/imanum/drab021)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/03/7701.html)]  
-   R. Andreani, A. Ramos, A. A. Ribeiro, L. D. Secchin, A. R. Velazco  
-   To appear in IMA Journal of Numerical Analysis, 2021
 
 1. **New sequential optimality conditions for mathematical problems with complementarity constraints and algorithmic consequences** [[doi](https://doi.org/10.1137/18M121040X)] [[preprint](http://www.optimization-online.org/DB_HTML/2018/06/6678.html)]  
    R. Andreani, G. Haeser, L. D. Secchin, P. J. S. Silva  
