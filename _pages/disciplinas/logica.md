@@ -85,3 +85,7 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 
 - [Curso completo de Cálculo III para engenharias da USP](http://eaulas.usp.br/portal/course.action?course=6351)-->
 
+## Links interessantes
+
+- Site que plota gráficos de funções: <http://fooplot.com>
+- Um construtor de tabelas-verdade: <https://calculode.com.br/calculadora-tabela-verdade-online-calculadora-logica/>
