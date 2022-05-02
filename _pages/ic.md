@@ -64,9 +64,9 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
 
 ### concluídas
 
-1. 2022 (TCC). Métodos computacionais para otimização irrestrita e com restrições simples adequados a problemas de larga escala  
+1. 2022 (TCC). [Métodos computacionais para otimização irrestrita e com restrições simples adequados a problemas de larga escala](/files/ic-tcc/TCC_Elivandro_Grippa.pdf)  
    Aluno: Elivandro Oliveira Grippa  
-1. 2021 (TCC). Métodos de otimização para aprendizado de máquina supervisionado e aplicações  
+1. 2021 (TCC). [Métodos de otimização para aprendizado de máquina supervisionado e aplicações](/files/ic-tcc/TCC_Matheus_Becali.pdf)  
    Aluno: Matheus Becali Rocha  
 1. 2021 (IC). Variantes do método do gradiente para otimização irrestrita  
    Aluno: Elivandro Oliveira Grippa  
@@ -74,14 +74,14 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
 1. 2021 (IC). Introdução à otimização aplicada ao aprendizado de máquina supervisionado  
    Aluno: Matheus Becali Rocha  
    [Resumo do projeto](https://drive.google.com/file/d/1cy_d21RDGfP-VhFNRUdD7DFN5xI2ATQ-/view?usp=sharing)
-1. 2021 (TCC). Uma condição sequencial de otimalidade em otimização não linear e sua aplicação a um método lagrangiano aumentado  
+1. 2021 (TCC). [Uma condição sequencial de otimalidade em otimização não linear e sua aplicação a um método lagrangiano aumentado](/files/ic-tcc/TCC_Thiago_Mantegazini.pdf)  
    Aluno: Thiago Mantegazini
 1. 2020 (IC). Métodos e formulações para o problema de layout em fila dupla  
    Aluno: Manoel de Almeida Rocha Neto  
    [Resumo do projeto](https://drive.google.com/file/d/1OQmZN3R_ZWwI8yjiXoLhmeDEDke4r3zy/view?usp=sharing)
-1. 2014 (TCC). Problemas de escalonamento  
+1. 2014 (TCC). [Problemas de escalonamento](/files/ic-tcc/TCC_Rafael_Marin.pdf)  
    Aluno: Rafael Marin Permanhane
-1. 2014 (TCC). O problema da elaboração de grade de horários via Programação Inteira  
+1. 2014 (TCC). [O problema da elaboração de grade de horários via Programação Inteira](/files/ic-tcc/TCC_Rodrigo_Leppaus.pdf)  
    Aluno: Rodrigo Leppaus de Araujo
 1. 2013 (IC). O Problema de Alocação de Horários via Programação Inteira  
    Aluno: Rafael Marin Permanhane  
