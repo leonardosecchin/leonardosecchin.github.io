@@ -36,17 +36,17 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 ## Avaliações
 
 - **Prova 1**
-  - Conteúdo: --
+  - Conteúdo: Proposições: Conectivos; Operações sobre proposições; Tabelas-verdade; Tautologias, contradições e contingências; Implicação e equivalência (CAPÍTULOS 1 AO 6 DO LIVRO TEXTO)
   - Valor: 10,0 pontos
   - **Data: --**
 - **Prova 2**
-  - Conteúdo: --
+  - Conteúdo: Álgebra das proposições; Formas normais, dualidade; Argumentos; Técnicas de demonstração (CAPÍTULOS 7 AO 13 DO LIVRO TEXTO)
   - Valor: 10,0 pontos
   - **Data: --**
 - **Prova 3**
-  - Conteúdo: --
+  - Conteúdo: Sentenças abertas; Operações sobre sentenças abertas; Quantificadores (CAPÍTULOS 14 AO 17 DO LIVRO TEXTO)
   - Valor: 10,0 pontos
-  - **Data: --**
+  - **Data: 16/08/22 (terça-feira)**
 - **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
