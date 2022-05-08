@@ -20,7 +20,7 @@ Rodovia BR 101, Km 60, zip code 29932-540, São Mateus, ES, Brazil
 - In case of failure, try [secchinleo@gmail.com](mailto:secchinleo@gmail.com)
 
 
-### [CV Lattes (in portuguese)](http://lattes.cnpq.br/4273961903394165)
+### [CV Lattes](http://lattes.cnpq.br/4273961903394165) (in portuguese; you can switch to English in the top menu)
 
 
 ### Education
