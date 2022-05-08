@@ -5,7 +5,11 @@ permalink: /ic/
 author_profile: true
 ---
 
-De acordo com a UFES, "o Programa Institucional de Iniciação Científica (PIIC) é voltado para a iniciação à pesquisa de estudantes de graduação universitária. Ele visa fundamentalmente incentivar a carreira científica dos estudantes de graduação que apresentam bom desempenho acadêmico, preparando-os para a pós-graduação" (retirado do [site da PRPPG](https://prppg.ufes.br/programa-institucional-de-ic-piic)). Nesse sentido, nas minhas orientações procuro sugerir a leitura de artigos científicos e, dentro do possível, proponho algo novo para estudar.
+De acordo com a UFES,
+
+> "o Programa Institucional de Iniciação Científica (PIIC) é voltado para a iniciação à pesquisa de estudantes de graduação universitária. Ele visa fundamentalmente incentivar a carreira científica dos estudantes de graduação que apresentam bom desempenho acadêmico, preparando-os para a pós-graduação" (retirado do [site da PRPPG](https://prppg.ufes.br/programa-institucional-de-ic-piic)).
+
+Nesse sentido, nas minhas orientações procuro sugerir a leitura de artigos científicos e, dentro do possível, proponho algo novo para estudar.
 
 O(A) aluno(a) que deseja realizar trabalho de iniciação científica (IC) comigo poderá propor temas relacionados à otimização de acordo com suas habilidades e interesses. **Porém encorajo os estudantes interessados a procurar-me mesmo que não tenham temas em mente.** Além de considerar o conhecimento prévio do(a) estudante, a escolha do tema levará em conta meus projetos de pesquisa, interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas, adequação do tema ao perfil de formação do egresso, quantidade de alunos que oriento e orientações anteriores. O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
 
@@ -31,7 +35,10 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 
 ### Pré-requisitos
 
-Os pré-requisitos variam com o tema. Em geral, é recomendado que o(a) aluno(a) tenha cursado uma disciplina de programação não linear (na matemática industrial, "Otimização 1"). Para projetos que requerem implementação computacional, é importante mínima familiaridade com alguma linguagem de programação. Como as referências são em grande parte escritas em inglês, é desejável que o(a) aluno(a) consiga ler textos na língua.
+Os pré-requisitos variam com o tema. Em geral,
+- é recomendado que o(a) aluno(a) tenha cursado uma disciplina de programação não linear (na matemática industrial, "Otimização 1");
+- para projetos que requerem implementação computacional, é importante mínima familiaridade com alguma linguagem de programação;
+- é importante que o(a) aluno(a) consiga ler textos em inglês, já que as referências são em grande parte escritas na língua. Não é necessário saber escrever ou falar inglês.
 
 
 ### Linguagens de programação
