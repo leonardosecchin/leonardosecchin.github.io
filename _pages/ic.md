@@ -35,8 +35,8 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 ### Pré-requisitos
 
 Os pré-requisitos variam com o tema. Em geral,
-- é recomendado que o(a) aluno(a) tenha cursado uma disciplina de programação não linear (na matemática industrial, "Otimização 1");
-- para projetos que requerem implementação computacional, é importante mínima familiaridade com alguma linguagem de programação;
+- é importante que o(a) aluno(a) tenha cursado uma disciplina de programação não linear (na matemática industrial, "Otimização 1"). Otimização 2 é desejável;
+- para projetos que requeiram implementação computacional, é importante mínima familiaridade com alguma linguagem de programação, por exemplo, Julia;
 - é importante que o(a) aluno(a) consiga ler textos em inglês, já que as referências são em grande parte escritas na língua. Não é necessário saber escrever ou falar inglês.
 
 
