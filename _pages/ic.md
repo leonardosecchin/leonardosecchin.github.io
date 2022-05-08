@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 De acordo com a UFES,
-
 > "o Programa Institucional de Iniciação Científica (PIIC) é voltado para a iniciação à pesquisa de estudantes de graduação universitária. Ele visa fundamentalmente incentivar a carreira científica dos estudantes de graduação que apresentam bom desempenho acadêmico, preparando-os para a pós-graduação" (retirado do [site da PRPPG](https://prppg.ufes.br/programa-institucional-de-ic-piic)).
 
 Nesse sentido, nas minhas orientações procuro sugerir a leitura de artigos científicos e, dentro do possível, proponho algo novo para estudar.
