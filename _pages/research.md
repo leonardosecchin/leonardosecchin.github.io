@@ -38,6 +38,11 @@ author_profile: true
 
 If you are unable to download a paper, please email me.
 
+1. **On the best achievable quality of limit points of augmented Lagrangian schemes** [[doi](https://doi.org/10.1007/s11075-021-01212-8)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/07/7929.html)]  
+   R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
+   Numerical Algorithms, 90:851-877, 2022  
+   [**Erratum for the published version**](https://doi.org/10.1007/s11075-021-01241-3)
+
 1. **On the convergence of augmented Lagrangian strategies for nonlinear programming** [[doi](https://doi.org/10.1093/imanum/drab021)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/03/7701.html)]  
    R. Andreani, A. Ramos, A. A. Ribeiro, L. D. Secchin, A. R. Velazco  
    IMA Journal of Numerical Analysis, 42(2):1735-1765, 2022
@@ -50,11 +55,6 @@ If you are unable to download a paper, please email me.
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin, P. J. S. Silva  
    Mathematical Programming Computation, 14:121-146, 2022  
    *Codes available at [github.com/leonardosecchin/scaled-algencan](https://github.com/leonardosecchin/scaled-algencan)*
-
-1. **On the best achievable quality of limit points of augmented Lagrangian schemes** [[doi](https://doi.org/10.1007/s11075-021-01212-8)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/07/7929.html)]  
-   R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
-   To appear in Numerical Algorithms, 2021  
-   [**Erratum for the published version**](https://doi.org/10.1007/s11075-021-01241-3)
 
 1. **On the use of Jordan Algebras for improving global convergence of an Augmented Lagrangian method in nonlinear semidefinite programming** [[doi](https://doi.org/10.1007/s10589-021-00281-8)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/05/7787.html)]  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
