@@ -16,7 +16,7 @@ author_profile: true
 Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplicada.saomateus.ufes.br/programas-de-disciplinas-do-dma)
 
 
-## Bibliografia básica
+## Bibliografia básica (livro texto)
 
 - FILHO, E. de Alencar; NOBEL, E. Iniciação à Lógica Matemática, 1984.
 
