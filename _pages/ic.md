@@ -66,7 +66,9 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
 
 ### em andamento
 
---
+1. 2022-2023 (IC). Métodos de pontos interiores para programação linear (a confirmar)  
+   Aluna: Carolina Martinelli  
+<!--    [Resumo do projeto](https://drive.google.com/file/d/1AsCeRaIqg_82Q-irbgp4zOW4UcmuQDKt/view?usp=sharing) -->
 
 ### concluídas
 
