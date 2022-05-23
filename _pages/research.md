@@ -100,7 +100,7 @@ If you are unable to download a paper, please email me.
    Proceeding Series of the Brazilian Society of Computational and Applied Mathematics, 2018
 
 
-## Others
+## Other
 
 1. **Karush-Kuhn-Tucker Conditions** [[PDF](/files/kkt_ifors.pdf)]  
    M. L. Schuverdt, L. D. Secchin  
