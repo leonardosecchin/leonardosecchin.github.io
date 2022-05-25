@@ -118,12 +118,10 @@ end
 # Essa estratégia une a aceleração da interpolação quadrática
 # com um melhor controle de passos extremos.
 #
-# Ao calcular o passo da interpolação no ponto x+t*d, aparece um t^2.
 # Em
 #   leonardosecchin.github.io/files/otim1/4.1.Metodos_descida_gerais.pdf
-# só calculamos a interpolação referente ao ponto x+d. Você pode
-# refazer as contas dessa aula e verificar que aparece o t^2 quando o ponto
-# de referência é x+t*d.
+# só calculamos a interpolação referente ao ponto x+d (t=1). Você pode
+# refazer as contas e verificar que tquad = - 0.5*gtd*(t^2) / (fnew - f - t*gtd)
 #
 # A variável "fmax" neste código será igual à "f". No SPG, "fmax" receberá o
 # máximo dos últimos valores de f, enquanto "f" receberá o valor de f no ponto

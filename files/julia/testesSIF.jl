@@ -18,6 +18,7 @@ include("gradiente_interp.jl")
 # carrega método do gradiente espectral projetado (SPG)
 # include("spg.jl")  #***** IMPLEMENTE SPG E INCLUA O ARQUIVO AQUI  *****
 
+nlp = []
 
 function testesSIF(; sifpath=pwd()*"/sif")
 
@@ -32,26 +33,21 @@ function testesSIF(; sifpath=pwd()*"/sif")
 
     try
 
+    # Executa os métodos com 1 iteração no primeiro problema somente para
+    # Julia compilar os códigos. Nenhuma saida é tabelada.
+    # Assim, o tempo do primeiro problema não é afetado por tempos de
+    # compilação.
+    nlp = CUTEstModel(sif[1]);
+    gradiente(nlp, maxiter=1, saidas=false);
+#     spg(nlp, maxiter=1, saidas=false); #***** IMPLEMENTE SPG E DESCOMENTE ESTA LINHA  *****
+    finalize(nlp)
+
     # escreve cabeçalho no arquivo de saída
     write(arq, "\n\n        Prob |      n | método |    it |         f |     grad | st |\n"*
                    "====================================================================\n")
     flush(arq)
 
-    compilar = true
-
     for i in 1:length(sif)
-
-        # No primeiro SIF encontrado, executa métodos com 1 iteração
-        # somente para Julia compilar os códigos. Nenhuma saida é tabelada.
-        # Assim, o tempo do primeiro problema não é afetado por tempos de
-        # compilação.
-        if compilar
-            nlp = CUTEstModel(sif[i]);
-            gradiente_interp(nlp, maxiter=1, saidas=false);
-#             spg(nlp, maxiter=1, saidas=false); #***** IMPLEMENTE SPG E DESCOMENTE ESTA LINHA  *****
-            compilar = false
-            finalize(nlp)
-        end
 
         println("==============\nCarregando o problema "*sif[i]*"...")
 
@@ -145,14 +141,10 @@ function testesSIF(; sifpath=pwd()*"/sif")
         else
             println("============================================\n"*
                     "  Um erro ocorreu :(\n"*
-                    "  Isso pode ter sido causado por\n"*
-                    "  1. um CTRL+C acionado no meio do processo.\n"*
-                    "     Assim, o problema SIF não foi finalizado, e a estrutura nlp foi perdida.\n"*
-                    "     Re-inclua testesSIF.jl e tente novamente. Caso não dê certo, finalize o\n"*
-                    "     Julia e recarregue os scripts;\n"*
-                    "  2. uso de espaços no caminho do diretório sif. Aparentemente o pacote\n"*
-                    "     CUTEst.jl não lida bem com espaços. Certifique-se de que diretórios\n"*
-                    "     e arquivos não possuam espaços.\n"*
+                    "  Isso pode ter sido causado por um CTRL+C acionado no meio do processo.\n"*
+                    "  Assim, o problema não foi finalizado, e a estrutura nlp foi perdida.\n"*
+                    "  Re-inclua testesSIF.jl e tente novamente. Caso não dê certo, finalize o\n"*
+                    "  Julia e recarregue os scripts;\n"*
                     "============================================");
             println("Erro:\n");
             println(err);
