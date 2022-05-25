@@ -122,6 +122,7 @@ author_profile: true
    - [**ANOTAÇÕES** - Métodos de descida gerais](/files/otim1/4.1.Metodos_descida_gerais.pdf)
    - [**ANOTAÇÕES** - Convergência dos métodos de descida](/files/otim1/4.3.Convergencia_metodos_descida.pdf)
    - Veja o Teorema 6.1.6 da referência complementar.
+   - [**Código Julia do método do gradiente com busca linear inexata**](/files/otim1/gradiente.zip)
 
 
 1. **Método de Newton**
