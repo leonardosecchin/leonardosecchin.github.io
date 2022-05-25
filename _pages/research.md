@@ -49,7 +49,7 @@ If you are unable to download a paper, please email me.
 
 1. **Convergence of Quasi-Newton Methods for Solving Constrained Generalized Equations** [[doi](https://doi.org/10.1051/cocv/2022026)] [[preprint](http://www.optimization-online.org/DB_HTML/2021/05/8400.html)]  
    R. Andreani, R. M. Carvalho, L. D. Secchin, G. N. Silva  
-   To appear in ESAIM: Control, Optimisation and Calculus of Variations, 2022
+   ESAIM: Control, Optimisation and Calculus of Variations, 28, 2022
 
 1. **On scaled stopping criteria for a safeguarded augmented Lagrangian method with theoretical guarantees** [[doi](https://doi.org/10.1007/s12532-021-00207-9)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/08/7985.html)]  
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin, P. J. S. Silva  
