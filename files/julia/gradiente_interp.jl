@@ -146,7 +146,7 @@ function buscalinear(nlp, x, f, fmax, g, d, eta)
             t /= 2.0
         else
             # passo da interpolação quadrática
-            tquad = - 0.5*gtd*(t^2) / (fnew - f - gtd)
+            tquad = - 0.5*gtd*(t^2) / (fnew - f - t*gtd)
 
             # se tquad for próximo de 1, usa backtracking
             if (tquad < 0.1) || (tquad > 0.9)
