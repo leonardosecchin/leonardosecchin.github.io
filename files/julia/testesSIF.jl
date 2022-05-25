@@ -1,16 +1,13 @@
 ###################################################
 # TESTES COM ARQUIVOS DA CUTEst
-# Este script lê o diretório indicado, executa
-# métodos para cada arquivo .SIF encontrado e
-# tabela saídas em "resultados.txt".
+# Este executa métodos para cada problema da CUTEst
+# e tabela saídas em "resultados.txt".
 #
 # Autor: Leonardo D. Secchin
-# Data : mai 2021
+# Data : mai 2022
 #
 # Uso:
-#   testesSIF(sifpath="caminho diretório SIFs")
-# ou
-#   testesSIF()   (lê diretório padrão "sif")
+#   testesSIF()
 ###################################################
 
 using CUTEst, Printf
@@ -24,13 +21,14 @@ include("gradiente_interp.jl")
 
 function testesSIF(; sifpath=pwd()*"/sif")
 
-    sifdir = readdir(sifpath, join=true)
-
     # máximo de iterações para os métodos
     maxit = 10000
 
     # abre arquivo de saída em modo inserção
     arq = open("resultados.txt", "a")
+
+    # seleciona problemas irrestritos
+    sif = CUTEst.select(contype="unc", max_var=2000, min_var=50, only_free_var=true);
 
     try
 
@@ -41,104 +39,98 @@ function testesSIF(; sifpath=pwd()*"/sif")
 
     compilar = true
 
-    for i in 1:length(sifdir)
+    for i in 1:length(sif)
 
-        # Verifica se o arquivo sifdir[i] tem extensão .SIF
-        if uppercase(sifdir[i][max(end-3,1):end]) == ".SIF"
+        # No primeiro SIF encontrado, executa métodos com 1 iteração
+        # somente para Julia compilar os códigos. Nenhuma saida é tabelada.
+        # Assim, o tempo do primeiro problema não é afetado por tempos de
+        # compilação.
+        if compilar
+            nlp = CUTEstModel(sif[i]);
+            gradiente_interp(nlp, maxiter=1, saidas=false);
+#             spg(nlp, maxiter=1, saidas=false); #***** IMPLEMENTE SPG E DESCOMENTE ESTA LINHA  *****
+            compilar = false
+            finalize(nlp)
+        end
 
-            # Na primeiro SIF encontrado, executa métodos com 1 iteração
-            # somente para Julia compilar os códigos. Nenhuma saida é tabelada.
-            # Assim, o tempo do primeiro problema não é afetado por tempos de
-            # compilação.
-            if compilar
-                nlp = CUTEstModel(sifdir[i]);
-                gradiente_interp(nlp, maxiter=1, saidas=false);
-#                 spg(nlp, maxiter=1, saidas=false); #***** IMPLEMENTE SPG E DESCOMENTE ESTA LINHA  *****
-                compilar = false
-                finalize(nlp)
-            end
+        println("==============\nCarregando o problema "*sif[i]*"...")
 
-            probname = basename(sifdir[i])[1:end-4]
+        # carrega o problema para estrutura NLPModels
+        nlp = CUTEstModel(sif[i]);
 
-            println("==============\nCarregando o problema "*probname*"...")
+        # pula problema caso o sentido de otimização não seja "minimização"
+        if nlp.meta.minimize == true
 
-            # carrega arquivo SIF para estrutura NLPModels
-            nlp = CUTEstModel(sifdir[i]);
+            # escreve dados do problema no arquivo de saída
+            write(arq, "-------------|--------|--------|-------|-----------|----------|----|\n")
+            write(arq, @sprintf("%12s | %6d", sif[i], nlp.meta.nvar))
+            flush(arq)
 
-            # pula problema caso o sentido de otimização não seja "minimização"
-            if nlp.meta.minimize == true
+            # variável para impressão de resultados com vários métodos
+            primeiro_res = true
 
-                # escreve dados do problema no arquivo de saída
-                write(arq, "-------------|--------|--------|-------|-----------|----------|----|\n")
-                write(arq, @sprintf("%12s | %6d", probname, nlp.meta.nvar))
+            # conta variáveis que possuem limitante inferior ou superior
+            boundedvars = count((nlp.meta.lvar .> -Inf) .| (nlp.meta.uvar .< Inf))
+
+            ###############################################
+            # APLICA MÉTODO DO GRADIENTE
+            # se o problema for irrestrito.
+            ###############################################
+            if (nlp.meta.ncon == 0) & (boundedvars == 0)
+
+                println("Resolvendo "*sif[i]*" pelo método do gradiente...")
+
+                # aplica gradiente a partir do ponto inicial fornecido no problema
+                ~, gra_f, gra_g, gra_it, gra_st = gradiente_interp(nlp, x0=nlp.meta.x0, maxiter=maxit, saidas=false);
+
+                # escreve resultado no arquivo de saida
+                write(arq, @sprintf(" |   grad | %5d | %9.2e | %8.2e | %2d |\n",
+                        gra_it, gra_f, gra_g, gra_st))
                 flush(arq)
 
-                # variável para impressão de resultados com vários métodos
-                primeiro_res = true
-
-                # conta variáveis que possuem limitante inferior ou superior
-                boundedvars = count((nlp.meta.lvar .> -Inf) .| (nlp.meta.uvar .< Inf))
-
-                ###############################################
-                # APLICA MÉTODO DO GRADIENTE
-                # se o problema for irrestrito.
-                ###############################################
-                if (nlp.meta.ncon == 0) & (boundedvars == 0)
-
-                    println("Resolvendo "*probname*" pelo método do gradiente...")
-
-                    # aplica gradiente a partir do ponto inicial fornecido no problema
-                    ~, gra_f, gra_g, gra_it, gra_st = gradiente_interp(nlp, x0=nlp.meta.x0, maxiter=maxit, saidas=false);
-
-                    # escreve resultado no arquivo de saida
-                    write(arq, @sprintf(" |   grad | %5d | %9.2e | %8.2e | %2d |\n",
-                            gra_it, gra_f, gra_g, gra_st))
-                    flush(arq)
-
-                    primeiro_res = false
-
-                end
-
-                ###############################################
-                # APLICA MÉTODO DO GRAD. ESPECTRAL PROJ. (SPG)
-                # se o problema for irrestrito ou só tiver
-                # restrições de caixa.
-                ###############################################
-                if nlp.meta.ncon == 0
-
-                    #**********************************************************
-                    #***** IMPLEMENTE SPG E DESCOMENTE AS LINHAS A SEGUIR *****
-                    #**********************************************************
-
-#                     println("Resolvendo "*probname*" pelo método do gradiente espectral projetado...")
-#
-#                     # aplica SPG a partir do ponto inicial fornecido no problema
-#                     ~, spg_f, spg_g, spg_it, spg_st = spg(nlp, x0=nlp.meta.x0, maxiter=maxit, saidas=false);
-#
-#                     # escreve resultado no arquivo de saida
-#                     # se já há linha de método anterior, tabula adequadamente
-#                     if !primeiro_res
-#                         write(arq, "             |       ")
-#                     end
-#
-#                     write(arq, @sprintf(" |    spg | %5d | %9.2e | %8.2e | %2d |\n",
-#                             spg_it, spg_f, spg_g, spg_st))
-#                     flush(arq)
-#
-#                     primeiro_res = false
-
-                end
-
-                # OBS:
-                # Você pode inserir outros métodos a serem executados
-                # em sequência. Adapte o bloco acima.
+                primeiro_res = false
 
             end
 
-            # fecha SIF atual
-            finalize(nlp);
+            ###############################################
+            # APLICA MÉTODO DO GRAD. ESPECTRAL PROJ. (SPG)
+            # se o problema for irrestrito ou só tiver
+            # restrições de caixa.
+            ###############################################
+#             if nlp.meta.ncon == 0
+#
+#                 #**********************************************************
+#                 #***** IMPLEMENTE SPG E DESCOMENTE AS LINHAS A SEGUIR *****
+#                 #**********************************************************
+#
+#                 println("Resolvendo "*sif[i]*" pelo método do gradiente espectral projetado...")
+#
+#                 # aplica SPG a partir do ponto inicial fornecido no problema
+#                 ~, spg_f, spg_g, spg_it, spg_st = spg(nlp, x0=nlp.meta.x0, maxiter=maxit, saidas=false);
+#
+#                 # escreve resultado no arquivo de saida
+#                 # se já há linha de método anterior, tabula adequadamente
+#                 if !primeiro_res
+#                     write(arq, "             |       ")
+#                 end
+#
+#                 write(arq, @sprintf(" |    spg | %5d | %9.2e | %8.2e | %2d |\n",
+#                         spg_it, spg_f, spg_g, spg_st))
+#                 flush(arq)
+#
+#                 primeiro_res = false
+#
+#             end
+
+            # OBS:
+            # Você pode inserir outros métodos a serem executados
+            # em sequência. Adapte o bloco acima.
 
         end
+
+        # fecha SIF atual
+        finalize(nlp);
+
     end
 
     close(arq);
