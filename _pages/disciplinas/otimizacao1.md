@@ -58,6 +58,7 @@ author_profile: true
   - Valor: 10,0 pontos
   - **Data máxima para entrega: 07/06/22**
   - *Entregar resolução por escrito*
+
 <!--- **Avaliação 2**
   - Conteúdo: --
   - Valor: 10,0 pontos
