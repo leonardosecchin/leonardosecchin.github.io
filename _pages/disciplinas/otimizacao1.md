@@ -52,15 +52,17 @@ author_profile: true
 
 ## Avaliações
 
-<!--- **Prova 1**
+- **Avaliação 1**
+  - Conteúdo: otimização irrestrita, convexidade
+  - **TAREFAS A SEREM ENTREGUES:** exercícios 2.5, 2.7, 2.10, 2.14 (livro de Ana Friedlander), exercícios 2, 3, 5, 6, 7, 14 (parte convexidade da [Lista 1](https://drive.google.com/file/d/1yV6DClaPT3zCmB1JkfnVq_j4g77-8EJU/view?usp=sharing))
+  - Valor: 10,0 pontos
+  - **Data máxima para entrega: 07/06/22**
+  - *Entregar resolução por escrito*
+<!--- **Avaliação 2**
   - Conteúdo: --
   - Valor: 10,0 pontos
   - **Data: --**
-- **Prova 2**
-  - Conteúdo: --
-  - Valor: 10,0 pontos
-  - **Data: --**
-- **Prova 3**
+- **Avaliação 3**
   - Conteúdo: --
   - Valor: 10,0 pontos
   - **Data: --**
@@ -69,7 +71,7 @@ author_profile: true
   - Valor: 10,0 pontos
   - **Data: --**-->
 
-- provas escritas, listas de exercícios e trabalhos computacionais.
+<!-- - provas escritas, listas de exercícios e trabalhos computacionais. -->
 
 
 ## Listas de exercícios e trabalhos
