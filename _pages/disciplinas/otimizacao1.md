@@ -159,7 +159,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
 - [Julia para Otimização - primeiros passos](/juliaopt/)
   - Estude os exemplos 1 a 5, 8, 9, 12 e 14 do *link* acima
-  - Em especial, faça o [**Exemplo 4**](/juliaopt_ex4/) sobre implementação do método do gradiente em Julia
+  - Execute os testes com o método do gradiente do tópico **Métodos de descida gerais**
 
 
 <!--### Comparação do desempenho de diferentes algoritmos
