@@ -65,25 +65,25 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
    Aluno: Matheus Becali Rocha  
 1. 2021 (IC). Variantes do método do gradiente para otimização irrestrita  
    Aluno: Elivandro Oliveira Grippa  
-   [Resumo do projeto](https://drive.google.com/file/d/1AsCeRaIqg_82Q-irbgp4zOW4UcmuQDKt/view?usp=sharing)
+   [Resumo do projeto](/files/ic-tcc/resumoIC_variantes_gradiente.pdf)
 1. 2021 (IC). Introdução à otimização aplicada ao aprendizado de máquina supervisionado  
    Aluno: Matheus Becali Rocha  
-   [Resumo do projeto](https://drive.google.com/file/d/1cy_d21RDGfP-VhFNRUdD7DFN5xI2ATQ-/view?usp=sharing)
+   [Resumo do projeto](/files/ic-tcc/resumoIC_aprendizado_maquina.pdf)
 1. 2021 (TCC). [Uma condição sequencial de otimalidade em otimização não linear e sua aplicação a um método lagrangiano aumentado](/files/ic-tcc/TCC_Thiago_Mantegazini.pdf)  
    Aluno: Thiago Mantegazini
 1. 2020 (IC). Métodos e formulações para o problema de layout em fila dupla  
    Aluno: Manoel de Almeida Rocha Neto  
-   [Resumo do projeto](https://drive.google.com/file/d/1OQmZN3R_ZWwI8yjiXoLhmeDEDke4r3zy/view?usp=sharing)
+   [Resumo do projeto](/files/ic-tcc/resumoIC_drlp.pdf)
 1. 2014 (TCC). [Problemas de escalonamento](/files/ic-tcc/TCC_Rafael_Marin.pdf)  
    Aluno: Rafael Marin Permanhane
 1. 2014 (TCC). [O problema da elaboração de grade de horários via Programação Inteira](/files/ic-tcc/TCC_Rodrigo_Leppaus.pdf)  
    Aluno: Rodrigo Leppaus de Araujo
 1. 2013 (IC). O Problema de Alocação de Horários via Programação Inteira  
    Aluno: Rafael Marin Permanhane  
-   [Resumo do projeto](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i)
+   [Resumo do projeto](/files/ic-tcc/relatorio_IC_Rafael.pdf)
 1. 2012 (IC). Programação Inteira: Teoria e Algoritmos  
    Aluno: Rodrigo Leppaus de Araujo  
-   [Resumo do projeto](https://drive.google.com/open?id=136KkA12IjmcM1oDOAtcIL0SvynE0i2HN)
+   [Resumo do projeto](/files/ic-tcc/relatorio_IC_Rodrigo.pdf)
 1. 2012 (IC). Utilização de um Algoritmo Genético para Solução de Problemas em Engenharia  
    Aluna: Cintia Cassa Libardi
 
