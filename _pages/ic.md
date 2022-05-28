@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Iniciação Científica / TCC"
+title: "Iniciação Científica (IC) / TCC"
 permalink: /ic/
 author_profile: true
 ---
