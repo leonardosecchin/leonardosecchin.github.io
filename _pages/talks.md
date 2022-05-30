@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- [**Restauração inexata com convergência a CAKKT**](https://drive.google.com/file/d/1xS781HKy7FAUn60ZYJ1QxcPIiCEEMNIR/view?usp=sharing) *(in portuguese)*  
+  Seminário de Otimização Contínua Unicamp/USP (web), 2022
+
 - [**Método do Lagrangiano Aumentado: avanços recentes**](https://drive.google.com/file/d/1Trk0fllv9NT1KVzBnPRhtOJNrAjccMZM/view?usp=sharing) *(in portuguese)*  
   Programa de Verão PMA-UEM (web), 2022
 
