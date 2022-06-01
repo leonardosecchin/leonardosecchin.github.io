@@ -18,7 +18,7 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 ## Pré-requisitos para IC
 
 Os pré-requisitos mínimos para qualquer projeto são:
-- **ter cursado** uma disciplina de programação não linear (na matemática industrial, **"Otimização 1"**). O(a) aluno(a) que estiver cursando "Otimização 1" poderá ser considerado(a) para a IC que se inicia no semestre seguinte, em **caráter expecional**;
+- **ter cursado** uma disciplina de programação não linear (na matemática industrial, **"Otimização 1"**). Em **caráter excepcional**, o(a) estudante que estiver cursando "Otimização 1" poderá ser considerado(a) para a IC que se inicia no semestre seguinte;
 - ter capacidade de **programar em computador**. A **linguagem de programação Julia** é a preferência em quase todos os casos (veja a seção "Linguagens de programação" abaixo);
 - ter capacidade de **ler e entender textos em inglês**, já que as referências são em grande parte escritas na língua. Não é necessário saber escrever ou falar inglês.
 
