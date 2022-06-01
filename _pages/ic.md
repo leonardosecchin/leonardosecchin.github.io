@@ -10,7 +10,7 @@ De acordo com a UFES,
 
 Nesse sentido, nas minhas orientações procuro sugerir a leitura de artigos científicos e, dentro do possível, proponho temas não abordados nas disciplinas regulares da graduação.
 
-O(A) aluno(a) que deseja realizar trabalho de iniciação científica (IC) comigo poderá propor temas relacionados à otimização de acordo com suas habilidades e interesses. Porém encorajo os estudantes interessados a procurar-me mesmo que não tenham temas em mente. Além de considerar o conhecimento prévio do(a) estudante, a escolha do tema levará em conta meus projetos de pesquisa, interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas, adequação do tema ao perfil de formação do egresso e quantidade de alunos que oriento. **É importante ficar atento aos pré-requisitos (ver abaixo).** O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
+O(A) aluno(a) que deseja realizar trabalho de iniciação científica (IC) comigo poderá propor temas relacionados à otimização de acordo com suas habilidades e interesses. Os estudantes que não tenham tema em mente podem me procurar também. Além de considerar o conhecimento prévio do(a) estudante, a escolha do tema levará em conta meus projetos de pesquisa, interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas, adequação do tema ao perfil de formação do egresso e quantidade de alunos que oriento. **É importante ficar atento aos pré-requisitos (ver abaixo).** O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
 
 Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desejável iniciar o estudo pelo menos 1 ano antes da data de colação de grau, sobretudo se o(a) estudante não tem um tema maduro com o qual já tenha trabalhado.
 
@@ -18,9 +18,14 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 ## Pré-requisitos para IC
 
 Os pré-requisitos mínimos para qualquer projeto são:
-- **ter cursado** uma disciplina de programação não linear (na matemática industrial, **"Otimização 1"**). "Otimização 2" é sempre desejável, mas pode ser requerida em determinados anos a depender dos projetos que tenho a disposição (consultar-me);
-- para projetos que requerem implementação computacional, ter capacidade de programar em computador. A **linguagem de programação Julia** é a preferência em quase todos os casos (veja a seção "Linguagens de programação" abaixo);
+- **ter cursado** uma disciplina de programação não linear (na matemática industrial, **"Otimização 1"**). O(a) aluno(a) que estiver cursando "Otimização 1" poderá ser considerado(a) para a IC que se inicia no semestre seguinte, em **caráter expecional**;
+- ter capacidade de **programar em computador**. A **linguagem de programação Julia** é a preferência em quase todos os casos (veja a seção "Linguagens de programação" abaixo);
 - ter capacidade de **ler e entender textos em inglês**, já que as referências são em grande parte escritas na língua. Não é necessário saber escrever ou falar inglês.
+
+Requisitos desejáveis:
+- ter cursado "Otimização 2". Em determinados anos **pode ser obrigatória**, a depender dos projetos que tenho a disposição;
+- ter cursado "Pesquisa Operacional 1";
+- ter bom desempenho acadêmico nas disciplinas cursadas, sobretudo da otimização/pesquisa operacional.
 
 
 ### Linguagens de programação
