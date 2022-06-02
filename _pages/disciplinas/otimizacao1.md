@@ -137,6 +137,7 @@ author_profile: true
      - Leitura interessante: [Artigo sobre o desenvolvimento da ideia Newtoniana ao longo dos anos (download acessando pela Universidade)](https://doi.org/10.1007/978-3-319-94015-1_9)
    - [**ANOTAÇÕES** - Convergência global vs local](/files/otim1/4.4.Convergencia_global_vs_local.pdf)
    - [**ANOTAÇÕES** - Convergência do método de Newton](/files/otim1/4.5.Convergencia_Newton.pdf)
+   - [**Código Julia do método de Newton globalizado**](/files/otim1/newton.zip)
 
 
 1. **Método do gradiente com passo constante e introdução à complexidade de algoritmos**
@@ -188,8 +189,8 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 - [**ANOTAÇÕES** - Minimização com restrições lineares de desigualdade; método das restrições ativas](/files/otim1/6.2.Min_restricoes_lineares_desig-restricoes_ativas.pdf)
 - [**ANOTAÇÕES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
 - [**ANOTAÇÕES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)
-<!--- [**ANOTAÇÕES** - Método do gradiente projetado](/files/otim1/6.9.Gradiente_projetado.pdf)-->
-<!--- **ANOTAÇÕES** - Método do gradiente espectral projetado (SPG)-->
+- [**ANOTAÇÕES** - Método do gradiente projetado](/files/otim1/6.9.Gradiente_projetado.pdf)
+- **ANOTAÇÕES** - Método do gradiente espectral projetado (do inglês, SPG)
 <!--  - **Trabalho 2:** Implementação do SPG em Julia (veja seção "listas de exercícios e trabalhos")-->
 - [**ANOTAÇÕES** - Penalização interna](/files/otim1/6.5.Penalizacao_interna.pdf)
 - [**ANOTAÇÕES** - Programação Quadrática Sequencial (SQP, do inglês) - algoritmo básico](/files/otim1/6.6.SQP.pdf)
