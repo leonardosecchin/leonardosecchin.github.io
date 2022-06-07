@@ -140,17 +140,18 @@ author_profile: true
    - [**Código Julia do método de Newton globalizado**](/files/otim1/newton.zip)
 
 
-1. **Método do gradiente com passo constante e introdução à complexidade de algoritmos**
-
-   - [**ANOTAÇÕES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.7.Gradiente_passo_cte.pdf)
-
-
 1. **Método dos gradientes conjugados**
 
    *Referência principal:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 5.3 do livro publicado pela Cengage)**
 
    - [**ANOTAÇÕES** - Método dos gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
      - **Trabalho 1:** implementação e teste do método dos gradientes conjugados (veja seção "listas de exercícios e trabalhos")
+
+1. **Método do gradiente espectral**
+
+1. **Método do gradiente com passo constante e introdução à complexidade de algoritmos**
+
+   - [**ANOTAÇÕES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.7.Gradiente_passo_cte.pdf)
 
 
 ### A linguagem de programação Julia
