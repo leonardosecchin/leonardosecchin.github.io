@@ -115,6 +115,16 @@ author_profile: true
 
 
 
+### A linguagem de programação Julia
+
+Julia é uma linguagem de programação de alto nível criada em 2012 que implementa várias ferramentas para uso geral em matemática aplicada. Em particular, Julia possui várias ferramentas para otimização. É muito parecida com o Matlab, portanto os códigos são fáceis de entender. Os trabalhos computacionais desta disciplina serão feitos em Julia. A seguir você encontra instruções de instalação, bem como exemplos simples que ajudarão você a dar os primeiros passos nas ferramentas de otimização disponíveis no Julia.
+
+- [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
+- [Julia para Otimização - primeiros passos](/juliaopt/)
+  - Estude os exemplos 1 a 5, 8, 9, 12 e 14 do *link* acima
+  - Execute os testes com o método do gradiente do tópico **Métodos de descida gerais**
+
+
 ### Métodos para otimização sem restrições
 
 1. **Métodos de descida gerais**
@@ -154,16 +164,6 @@ author_profile: true
    - [**ANOTAÇÕES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.7.Gradiente_passo_cte.pdf)
 
 
-### A linguagem de programação Julia
-
-Julia é uma linguagem de programação de alto nível criada em 2012 que implementa várias ferramentas para uso geral em matemática aplicada. Em particular, Julia possui várias ferramentas para otimização. É muito parecida com o Matlab, portanto os códigos são fáceis de entender. Os trabalhos computacionais desta disciplina serão feitos em Julia. A seguir você encontra instruções de instalação, bem como exemplos simples que ajudarão você a dar os primeiros passos nas ferramentas de otimização disponíveis no Julia.
-
-- [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
-- [Julia para Otimização - primeiros passos](/juliaopt/)
-  - Estude os exemplos 1 a 5, 8, 9, 12 e 14 do *link* acima
-  - Execute os testes com o método do gradiente do tópico **Métodos de descida gerais**
-
-
 <!--### Comparação do desempenho de diferentes algoritmos
 
 - Texto referência para este módulo: seção 6.3 do livro de Karas e Ribeiro.
@@ -191,7 +191,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 - [**ANOTAÇÕES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
 - [**ANOTAÇÕES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)
 - [**ANOTAÇÕES** - Método do gradiente projetado](/files/otim1/6.9.Gradiente_projetado.pdf)
-- **ANOTAÇÕES** - Método do gradiente espectral projetado (do inglês, SPG)
+<!-- - **ANOTAÇÕES** - Método do gradiente espectral projetado (do inglês, SPG) -->
 <!--  - **Trabalho 2:** Implementação do SPG em Julia (veja seção "listas de exercícios e trabalhos")-->
 - [**ANOTAÇÕES** - Penalização interna](/files/otim1/6.5.Penalizacao_interna.pdf)
 - [**ANOTAÇÕES** - Programação Quadrática Sequencial (SQP, do inglês) - algoritmo básico](/files/otim1/6.6.SQP.pdf)
