@@ -25,7 +25,7 @@ author_profile: true
    R. Andreani, A. Ramos, L. D. Secchin  
    2022
 
-1. **Extension of the delayed weighted gradient method for the minimization of strongly convex functions** [[preprint](http://www.optimization-online.org/DB_HTML/2021/09/8591.html)]  
+1. **An extended delayed weighted gradient algorithm for solving strongly convex optimization problems** [[preprint](http://www.optimization-online.org/DB_HTML/2021/09/8591.html)]  
    R. Andreani, H. Oviedo, M. Raydan, L. D. Secchin  
    2021
 
