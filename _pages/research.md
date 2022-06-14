@@ -25,10 +25,6 @@ author_profile: true
    R. Andreani, A. Ramos, L. D. Secchin  
    2022
 
-1. **An extended delayed weighted gradient algorithm for solving strongly convex optimization problems** [[preprint](http://www.optimization-online.org/DB_HTML/2021/09/8591.html)]  
-   R. Andreani, H. Oviedo, M. Raydan, L. D. Secchin  
-   2021
-
 1. **Optimality conditions for nonlinear second-order cone programming and symmetric cone programming** [[preprint](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)]  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
    2019
@@ -37,6 +33,10 @@ author_profile: true
 ## Published papers and articles in press
 
 If you are unable to download a paper, please email me.
+
+1. **An extended delayed weighted gradient algorithm for solving strongly convex optimization problems** [[preprint](http://www.optimization-online.org/DB_HTML/2021/09/8591.html)]  
+   R. Andreani, H. Oviedo, M. Raydan, L. D. Secchin  
+   To appear in Journal of Computational and Applied Mathematics, 2022
 
 1. **On the best achievable quality of limit points of augmented Lagrangian schemes** [[doi](https://doi.org/10.1007/s11075-021-01212-8)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/07/7929.html)]  
    R. Andreani, G. Haeser, L. M. Mito, A. Ramos, L. D. Secchin  
