@@ -157,11 +157,20 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
    - [**ANOTAÇÕES** - Método dos gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
      - **Trabalho 1:** implementação e teste do método dos gradientes conjugados (veja seção "listas de exercícios e trabalhos")
 
+1. **Métodos quase-Newton**
+
+   *Referência principal:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.3)**
+   *Referência complementar:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seção 6.1)**  
+
+   - [**ANOTAÇÕES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.7.Quase-Newton.pdf)
+
 1. **Método do gradiente espectral**
+
+   - **ANOTAÇÕES** - Método do gradiente espectral
 
 1. **Método do gradiente com passo constante e introdução à complexidade de algoritmos**
 
-   - [**ANOTAÇÕES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.7.Gradiente_passo_cte.pdf)
+   - [**ANOTAÇÕES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.9.Gradiente_passo_cte.pdf)
 
 
 <!--### Comparação do desempenho de diferentes algoritmos
