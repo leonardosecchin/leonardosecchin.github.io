@@ -163,7 +163,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
    *Referência complementar 1:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seção 6.1)**  
    *Referência complementar 2:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 5.4 do livro publicado pela Cengage)**
 
-   - [**ANOTAÇÕES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.7.Quase-Newton.pdf)
+   - [**ANOTAÇÕES** - Métodos quase-Newton tipo secante](/files/otim1/4.7.Quase-Newton.pdf)
 
 1. **Método do gradiente espectral**
 
