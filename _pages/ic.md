@@ -61,6 +61,9 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
 1. 2022-2023 (IC). O método do gradiente espectral projetado e variantes para minimização com restrições convexas  
    Aluno: Pedro Henrique Fischer Ferreira  
    [Resumo do projeto](/files/ic-tcc/resumoIC_espectral.pdf)
+1. 2022-2023 (IC). Métodos e formulações para o problema de layout em fila dupla II  
+   Aluno: Johny Tiba Ferreira  
+   [Resumo do projeto](/files/ic-tcc/resumoIC_drlp2.pdf)
 
 ### concluídas
 
