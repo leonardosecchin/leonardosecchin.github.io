@@ -34,7 +34,7 @@ author_profile: true
 
 If you are unable to download a paper, please email me.
 
-1. **An extended delayed weighted gradient algorithm for solving strongly convex optimization problems** [[preprint](http://www.optimization-online.org/DB_HTML/2021/09/8591.html)]  
+1. **An extended delayed weighted gradient algorithm for solving strongly convex optimization problems** [[doi](https://doi.org/10.1016/j.cam.2022.114525)] [[preprint](http://www.optimization-online.org/DB_HTML/2021/09/8591.html)]  
    R. Andreani, H. Oviedo, M. Raydan, L. D. Secchin  
    To appear in Journal of Computational and Applied Mathematics, 2022
 
