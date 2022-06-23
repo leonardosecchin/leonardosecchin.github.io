@@ -169,7 +169,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
     *Referência:* [TCC de Elivandro Oliveira Grippa](/files/ic-tcc/TCC_Elivandro_Grippa.pdf) **(seção 3.4)**
 
-   - **ANOTAÇÕES** - Método do gradiente espectral
+   - [**ANOTAÇÕES** - Método do gradiente espectral](/files/otim1/4.8.Gradiente_espectral.pdf)
 
 1. **Método do gradiente com passo constante e introdução à complexidade de algoritmos**
 
