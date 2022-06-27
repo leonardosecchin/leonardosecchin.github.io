@@ -71,7 +71,7 @@ author_profile: true
       1. Escreva comentários comparando o método do gradiente espectral, Newton globalizado e o método do gradiente. Em sua análise, leve em consideração coisas como o tamanho do problema (número de variáveis), se o método convergiu, tempo de execução e número de avaliações de função.
   - Valor: 10,0 pontos (6,0 exercícios; 4,0 trabalho computacional)
   - **Data máxima para entrega: 14/07/22**
-  - *Entregar resolução dos exercícios por escrito; entregue os resultados dos testes computacionais em TXT e o código Julia implementado para secchinleo@gmail.com*
+  - *Entregar resolução dos exercícios por escrito; enviar os resultados dos testes computacionais em TXT e o código Julia implementado para secchinleo@gmail.com*
 
 <!-- - **Avaliação 3**
   - Conteúdo: --
