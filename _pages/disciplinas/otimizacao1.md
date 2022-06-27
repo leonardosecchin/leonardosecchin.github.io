@@ -59,11 +59,21 @@ author_profile: true
   - **Data máxima para entrega: 07/06/22**
   - *Entregar resolução por escrito*
 
-<!--- **Avaliação 2**
-  - Conteúdo: --
-  - Valor: 10,0 pontos
-  - **Data: --**
-- **Avaliação 3**
+- **Avaliação 2**
+  - Conteúdo: Métodos para otimização sem restrições
+  - **TAREFAS A SEREM ENTREGUES:**
+    - 4.2, 4.3, 6.4, 6.9 (livro de Ana Friedlander)
+    - exercícios 2, 5 ([Lista 2](https://drive.google.com/file/d/1_SjC-bMI8S4rQViRZ5LZe1Ef4oad1jwv/view?usp=sharing))
+    - **Trabalho computacional** - siga o roteiro:
+      1. Implemente em Julia o método do gradiente espectral com busca linear usando Armijo modificado + *backtracking* + interpolação quadrática. Use o [código base](https://drive.google.com/file/d/1DgpSZkwaL-Zt6C__iT-EpkBR1c_E_JXr/view?usp=sharing);
+      1. Teste sua implementação em problemas da CUTEst. Para tanto, rode a função `testesCUTEst()` do arquivo `testes.jl` do código base;
+      1. Veja um exemplo dos [resultados esperados](https://drive.google.com/file/d/1ep9z6digx6AhjV58WprbzesKLuwsOKAy/view?usp=sharing);
+      1. Escreva comentários comparando o método do gradiente espectral, Newton globalizado e o método do gradiente. Em sua análise, leve em consideração coisas como o tamanho do problema (número de variáveis), se o método convergiu, tempo de execução e número de avaliações de função.
+  - Valor: 10,0 pontos (6,0 exercícios; 4,0 trabalho computacional)
+  - **Data máxima para entrega: 14/07/22**
+  - *Entregar resolução dos exercícios por escrito; entregue os resultados dos testes computacionais em TXT e o código Julia implementado para secchinleo@gmail.com*
+
+<!-- - **Avaliação 3**
   - Conteúdo: --
   - Valor: 10,0 pontos
   - **Data: --**
@@ -79,8 +89,8 @@ author_profile: true
 
 - [LISTA 1 – Conceitos básicos, otimização irrestrita, convexidade](https://drive.google.com/file/d/1yV6DClaPT3zCmB1JkfnVq_j4g77-8EJU/view?usp=sharing)
 - [LISTA 2 – Métodos para otimização sem restrições](https://drive.google.com/file/d/1_SjC-bMI8S4rQViRZ5LZe1Ef4oad1jwv/view?usp=sharing)
-- [TRABALHO COMPUTACIONAL 1 - Método dos gradientes conjugados](https://drive.google.com/file/d/1D4MEh-yAYjrFiv6E5iIQ6Gwj66wP5dGv/view?usp=sharing)
-  - [Código base](https://drive.google.com/file/d/1C9O5pa0DkSLNU3pyajtfQCCF56HdFsxS/view?usp=sharing)
+<!-- - [TRABALHO COMPUTACIONAL 1 - Método dos gradientes conjugados](https://drive.google.com/file/d/1D4MEh-yAYjrFiv6E5iIQ6Gwj66wP5dGv/view?usp=sharing) -->
+<!--   - [Código base](https://drive.google.com/file/d/1C9O5pa0DkSLNU3pyajtfQCCF56HdFsxS/view?usp=sharing) -->
 <!--- [TRABALHO COMPUTACIONAL 2 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing)-->
 - [LISTA 3 – Otimização com restrições](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing)
 
