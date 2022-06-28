@@ -100,10 +100,9 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
+   - [**ANOTAÇÕES** - Penalização externa pura](/files/otim1/6.3.Penalizacao_externa.pdf)
+   - [**ANOTAÇÕES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)
    - [**ANOTAÇÕES** - Penalização externa pura e controle de admissibilidade](/files/otim2/1.Penalizacao_pura_admissibilidade.pdf)
-   - Slides Otimização 1 (revisão):
-     - [**ANOTAÇÕES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
-     - [**ANOTAÇÕES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf)
 
 
 1. **Método do Lagrangiano aumentado**
