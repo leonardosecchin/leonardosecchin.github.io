@@ -42,7 +42,7 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 - **Prova 2**
   - Conteúdo: Álgebra das proposições; Formas normais, dualidade; Argumentos; Técnicas de demonstração (CAPÍTULOS 7 AO 13 DO LIVRO TEXTO)
   - Valor: 10,0 pontos
-  - **Data: 12/07/22 (terça-feira) (previsão)**
+  - **Data: 19/07/22 (terça-feira)**
 - **Prova 3**
   - Conteúdo: Sentenças abertas; Operações sobre sentenças abertas; Quantificadores (CAPÍTULOS 14 AO 17 DO LIVRO TEXTO)
   - Valor: 10,0 pontos
