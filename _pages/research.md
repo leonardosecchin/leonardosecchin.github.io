@@ -25,10 +25,6 @@ author_profile: true
    R. Andreani, A. Ramos, L. D. Secchin  
    2022
 
-1. **Optimality conditions for nonlinear second-order cone programming and symmetric cone programming** [[preprint](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)]  
-   R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
-   2019
-
 
 ## Published papers and articles in press
 
@@ -105,3 +101,7 @@ If you are unable to download a paper, please email me.
 1. **Karush-Kuhn-Tucker Conditions** [[PDF](/files/kkt_ifors.pdf)]  
    M. L. Schuverdt, L. D. Secchin  
    IFORS News, 16(2):16-18, June 2021, ISSN 2223-4373
+
+1. **Optimality conditions for nonlinear second-order cone programming and symmetric cone programming** [[preprint](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)]  
+   R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
+   2019
