@@ -62,7 +62,7 @@ author_profile: true
 - **Avaliação 2**
   - Conteúdo: Métodos para otimização sem restrições
   - **TAREFAS A SEREM ENTREGUES:**
-    - 4.2, 4.3, 6.4, 6.9 (livro de Ana Friedlander)
+    - exercícios 4.2, 4.3, 6.4, 6.9 (livro de Ana Friedlander)
     - exercícios 2, 5 ([Lista 2](https://drive.google.com/file/d/1_SjC-bMI8S4rQViRZ5LZe1Ef4oad1jwv/view?usp=sharing))
     - **Trabalho computacional** - siga o roteiro:
       1. Implemente em Julia o método do gradiente espectral com busca linear usando Armijo modificado + *backtracking* + interpolação quadrática. Use o [código base](https://drive.google.com/file/d/1DgpSZkwaL-Zt6C__iT-EpkBR1c_E_JXr/view?usp=sharing);
@@ -73,11 +73,15 @@ author_profile: true
   - **Data máxima para entrega: 14/07/22**
   - *Entregar resolução dos exercícios por escrito; enviar os resultados dos testes computacionais em TXT e o código Julia implementado para secchinleo@gmail.com*
 
-<!-- - **Avaliação 3**
-  - Conteúdo: --
+ - **Avaliação 3**
+  - Conteúdo: Otimização com restrições; Métodos para otimização com restrições
+  - **TAREFAS A SEREM ENTREGUES:**
+    - exercícios 13.1, 13.6, 13.13 (livro de Ana Friedlander)
+    - exercícios 2, 3, 8, 9 (sem a implementação), 10, 11 ([Lista 3](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing))
   - Valor: 10,0 pontos
-  - **Data: --**
-- **PROVA FINAL**
+  - **Data máxima para entrega: 18/08/22**
+
+<!--- **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
   - **Data: --**-->
