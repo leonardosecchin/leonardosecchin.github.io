@@ -80,6 +80,7 @@ author_profile: true
     - exercícios 2, 3, 8, 9 (sem a implementação), 10, 11 ([Lista 3](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing))
   - Valor: 10,0 pontos
   - **Data máxima para entrega: 18/08/22**
+  - *Entregar resolução por escrito*
 
 <!--- **PROVA FINAL**
   - Conteúdo: toda a matéria
