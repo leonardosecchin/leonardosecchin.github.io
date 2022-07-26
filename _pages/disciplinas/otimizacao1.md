@@ -73,7 +73,7 @@ author_profile: true
   - **Data máxima para entrega: 14/07/22**
   - *Entregar resolução dos exercícios por escrito; enviar os resultados dos testes computacionais em TXT e o código Julia implementado para secchinleo@gmail.com*
 
- - **Avaliação 3**
+- **Avaliação 3**
   - Conteúdo: Otimização com restrições; Métodos para otimização com restrições
   - **TAREFAS A SEREM ENTREGUES:**
     - exercícios 13.1, 13.6, 13.13 (livro de Ana Friedlander)
