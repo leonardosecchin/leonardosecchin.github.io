@@ -43,10 +43,12 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
   - Conteúdo: Álgebra das proposições; Formas normais, dualidade; Argumentos; Técnicas de demonstração (CAPÍTULOS 7 AO 13 DO LIVRO TEXTO)
   - Valor: 10,0 pontos
   - **Data: 19/07/22 (terça-feira)**
-- **Prova 3**
-  - Conteúdo: Sentenças abertas; Operações sobre sentenças abertas; Quantificadores (CAPÍTULOS 14 AO 17 DO LIVRO TEXTO)
+- **Avaliação 3**
+  - Conteúdo: Sentenças abertas; Operações sobre sentenças abertas; Quantificadores (CAPÍTULOS 14 AO 16 DO LIVRO TEXTO)
+  - **Tarefas a serem realizadas:**
+    - EM BREVE
   - Valor: 10,0 pontos
-  - **Data: 16/08/22 (terça-feira)**
+  - **Data limite para entrega: 18/08/22 (quinta-feira)**
 - **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
