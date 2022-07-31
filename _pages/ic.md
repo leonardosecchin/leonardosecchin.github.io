@@ -10,7 +10,7 @@ De acordo com a UFES,
 
 Nesse sentido, nas minhas orientações procuro sugerir a leitura de artigos científicos e, dentro do possível, proponho temas não abordados nas disciplinas regulares da graduação.
 
-O(A) aluno(a) que deseja realizar trabalho de iniciação científica (IC) comigo poderá propor temas relacionados à otimização de acordo com suas habilidades e interesses. Os estudantes que não tenham tema em mente podem me procurar também. Além de considerar o conhecimento prévio do(a) estudante, a escolha do tema levará em conta meus projetos de pesquisa, interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas, adequação do tema ao perfil de formação do egresso e quantidade de alunos que oriento. **É importante ficar atento aos pré-requisitos (ver abaixo).** O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
+O(A) aluno(a) que deseja realizar trabalho de iniciação científica (IC) comigo poderá propor temas relacionados à otimização de acordo com suas habilidades e interesses. O(A) estudante que não tenha tema em mente pode me procurar também. Além de considerar seu conhecimento prévio, a escolha do tema levará em conta meus projetos de pesquisa, interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas, adequação do tema ao perfil de formação do egresso e quantidade de alunos que oriento. **É importante ficar atento(a) aos pré-requisitos (ver abaixo).** O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
 
 Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desejável iniciar o estudo pelo menos 1 ano antes da data de colação de grau, sobretudo se o(a) estudante não tem um tema maduro com o qual já tenha trabalhado.
 
@@ -20,12 +20,13 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 Os pré-requisitos mínimos para qualquer projeto são:
 - **ter cursado** uma disciplina de programação não linear (na matemática industrial, **"Otimização 1"**). Em **caráter excepcional**, o(a) estudante que estiver cursando "Otimização 1" poderá ser considerado(a) para a IC que se inicia no semestre seguinte;
 - ter capacidade de **programar em computador**. A **linguagem de programação Julia** é a preferência em quase todos os casos (veja a seção "Linguagens de programação" abaixo);
-- ter capacidade de **ler e entender textos em inglês**, já que as referências são em grande parte escritas na língua. Não é necessário saber escrever ou falar inglês.
+- ter capacidade de **ler e entender textos em inglês**, já que as referências são em grande parte escritas na língua. Não é necessário saber escrever ou falar inglês;
+- ter bom desempenho acadêmico nas disciplinas de otimização/pesquisa operacional cursadas.
 
 Requisitos desejáveis:
-- ter cursado "Otimização 2". Em determinados anos **pode ser obrigatória**, a depender dos projetos que tenho a disposição;
+- ter cursado "Otimização 2". Em determinados anos **pode ser obrigatório** a depender dos projetos que tenho a disposição;
 - ter cursado "Pesquisa Operacional 1";
-- ter bom desempenho acadêmico nas disciplinas cursadas, sobretudo da otimização/pesquisa operacional.
+- ter bom desempenho acadêmico nas disciplinas em geral.
 
 
 ### Linguagens de programação
@@ -41,9 +42,9 @@ Você encontra mais detalhes da linguagem [neste link](/julia/) e exemplos para 
 
 Em primeiro lugar, o(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. Combinado o tema a ser estudado, escrevo um subprojeto em comum acordo com o candidato. O projeto é submetido ao edital de IC corrente, e será avaliado por docentes da UFES. Se aprovado, a execução do projeto começa seguindo calendário estabelecido em edital.
 
-Todo subprojeto de IC é vinculado a um projeto de pesquisa no qual faço parte. **A orientação de IC tem duração de 1 ano.**
+Todo subprojeto de IC é vinculado a um projeto de pesquisa meu. **A orientação de IC tem duração de 1 ano.**
 
-Há possibilidade de bolsa(s) de IC, a depender da disponibilidade de recursos da UFES e agências de fomento. Na escolha do bolsista são considerados, além das regras estabelecidas em edital, desempenho curricular, entrevista e situação de vulnerabilidade socioeconômica (cadastro em programas de assistência estudantil). Nos últimos editais, vem sendo conferida **apenas uma bolsa por orientador. Portanto, o(a) estudante deve estar ciente que pode ter que realizar a IC sem bolsa.** O(a) aluno(a) de IC voluntário tem as mesmas obrigações de um bolsista.
+Há possibilidade de bolsa(s), a depender da disponibilidade de recursos da UFES e agências de fomento. Na escolha do(a) bolsista são considerados desempenho curricular, entrevista e situação de vulnerabilidade socioeconômica (cadastro em programas de assistência estudantil), além das regras estabelecidas em edital. Nos últimos editais, vem sendo conferida **apenas uma bolsa por orientador. Portanto, o(a) estudante deve estar ciente que pode ter que realizar a IC sem bolsa.** O(a) aluno(a) de IC voluntário(a) tem as mesmas obrigações de um bolsista. É importante ressaltar que para ser candidato a bolsista, o(a) estudante **deve mostrar interesse e ter bom desempenho acadêmico**. Assim, **não é obrigatória a alocação de bolsa** por parte do orientador, ainda que possua um(a) único(a) orientando(a).
 
 
 ### para orientação de TCC
@@ -61,7 +62,7 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
 1. 2022-2023 (IC). O método do gradiente espectral projetado e variantes para minimização com restrições convexas  
    Aluno: Pedro Henrique Fischer Ferreira  
    [Resumo do projeto](/files/ic-tcc/resumoIC_espectral.pdf)
-1. 2022-2023 (IC). Métodos e formulações para o problema de layout em fila dupla II  
+1. 2022-2023 (IC). Métodos e formulações para o problema de *layout* em fila dupla II  
    Aluno: Johny Tiba Ferreira  
    [Resumo do projeto](/files/ic-tcc/resumoIC_drlp2.pdf)
 
@@ -79,7 +80,7 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
    [Resumo do projeto](/files/ic-tcc/resumoIC_aprendizado_maquina.pdf)
 1. 2021 (TCC). [Uma condição sequencial de otimalidade em otimização não linear e sua aplicação a um método lagrangiano aumentado](/files/ic-tcc/TCC_Thiago_Mantegazini.pdf)  
    Aluno: Thiago Mantegazini
-1. 2020 (IC). Métodos e formulações para o problema de layout em fila dupla  
+1. 2020 (IC). Métodos e formulações para o problema de *layout* em fila dupla  
    Aluno: Manoel de Almeida Rocha Neto  
    [Resumo do projeto](/files/ic-tcc/resumoIC_drlp.pdf)
 1. 2014 (TCC). [Problemas de escalonamento](/files/ic-tcc/TCC_Rafael_Marin.pdf)  
@@ -118,8 +119,8 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
 
 Os modelos abaixo **NÃO são modelos oficiais** de qualquer curso ou da Universidade. Seu uso é facultativo.
 
-Podem ser baixados e modificados livremente pelos alunos e docentes, não sendo necessário pedir permissão para tal. É importante frisar que **não há suporte**, sendo de inteira responsabilidade do estudante e seu orientador qualquer dano ou problema decorrente do seu uso.
+Podem ser baixados e modificados livremente por alunos e docentes, não sendo necessário pedir permissão para tal. É importante frisar que **não há suporte**, sendo de inteira responsabilidade do(a) estudante e seu(sua) orientador(a) qualquer dano ou problema decorrente do seu uso.
 
-**[Modelo TCC Matemática Industrial](https://drive.google.com/file/d/1S-Rtsf3iPgLUQ4IwrHRJYUMaZQQZ-50T/view?usp=sharing)**
+**[Modelo TCC para Matemática Industrial](https://drive.google.com/file/d/1S-Rtsf3iPgLUQ4IwrHRJYUMaZQQZ-50T/view?usp=sharing)**
 
 **[Modelo apresentação slides](https://drive.google.com/file/d/1-cmwFB82Ds1hpxEtIlJIKQPfuzNU6bCW/view?usp=sharing)**
