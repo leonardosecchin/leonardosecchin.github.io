@@ -45,7 +45,7 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
   - **Data: 19/07/22 (terça-feira)**
 - **Avaliação 3**
   - Conteúdo: Sentenças abertas; Operações sobre sentenças abertas; Quantificadores (CAPÍTULOS 14 AO 16 DO LIVRO TEXTO) + Resumo sobre escrita matemática
-  - **[Tarefas a serem realizadas]<!--(https://drive.google.com/file/d/1re8FucQjuK-pf02RVXW6DBn3i-SJ8JLa/view?usp=sharing)-->**
+  - **[Tarefas a serem realizadas](https://drive.google.com/file/d/1re8FucQjuK-pf02RVXW6DBn3i-SJ8JLa/view?usp=sharing)**
   - Valor: 10,0 pontos
   - **Data limite para entrega: 18/08/22 (quinta-feira)**
 - **PROVA FINAL**
