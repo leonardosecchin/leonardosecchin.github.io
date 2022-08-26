@@ -5,12 +5,12 @@ permalink: /ensino/
 author_profile: true
 ---
 
-## DISCIPLINAS 2022/1
+## DISCIPLINAS 2022/2
 
-- [**Otimização 1**  
-  (Matemática Industrial)](/otimizacao1/)
-- [**Lógica / Noções de lógica**  
-  (Matemática Industrial)](/logica/)
+- [**Cálculo 3**  
+  (Matemática Industrial, Engenharias e Ciência da Computação)](/calculo3/)
+- [**Otimização 2**  
+  (Matemática Industrial)](/otimizacao2/)
 
 ## A linguagem de programação Julia
 
@@ -25,6 +25,8 @@ author_profile: true
   (Matemática Industrial, Engenharias e Ciência da Computação)](/calculo3/)
 - [**Laboratório de Matemática**  
   (Matemática Industrial e Licenciatura em Matemática)](/laboratorio-de-matematica/)
+- [**Lógica / Noções de lógica**  
+  (Matemática Industrial)](/logica/)
 - [**Matemática Básica**  
   (Matemática Industrial)](/matematica-basica/)
 - [**Metaheurísticas**  

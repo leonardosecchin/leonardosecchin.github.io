@@ -5,10 +5,10 @@ permalink: /calculo3/
 author_profile: true
 ---
 
-<!--## Horários das aulas síncronas
+## Horários das aulas
 
-- Quartas-feiras de 11:00 as 12:00
-- Sextas-feiras de 8:00 as 9:30-->
+- Quartas-feiras de 11:00 as 13:00 (E1 Sala 03)
+- Sextas-feiras de 7:00 as 10:00 (E1 Sala 02)
 
 
 ## Programa da disciplina
@@ -32,26 +32,26 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 
 ## Canais de acesso
 
-### [Pasta do Google Drive com aulas gravadas e anotações feitas em aula](https://drive.google.com/drive/folders/1bJw6yBjxnNO5BDqlInnvkBOl9cE20v99zLbPwzRcRtpyb8WNEkYSasIThISrpeoBwS3VktQ5?usp=sharing)
+### E-mail do professor: leonardo.secchin@ufes.br
 
-> **AVISO:**
+<!-- ### Link para ingresso no grupo de Whatsapp: veja no Classroom -->
+
+<!--### [Pasta do Google Drive com aulas gravadas e anotações feitas em aula](https://drive.google.com/drive/folders/1bJw6yBjxnNO5BDqlInnvkBOl9cE20v99zLbPwzRcRtpyb8WNEkYSasIThISrpeoBwS3VktQ5?usp=sharing)-->
+
+<!--> **AVISO:**
 > *As aulas síncronas gravadas são de utilização restrita aos fins a que se destina a disciplina, em particular, para registro de avaliações, facultando-se ao aluno seu direito de não ter sua imagem registrada, mediante expressa manifestação ou, simplesmente, fechando sua câmera durante as aulas.*
-> *É proibida a utilização das imagens e/ou áudios das aulas sem expressa autorização do professor, ou ainda para quaisquer fins alheios às atividades da disciplina. O uso é individual e restrito aos alunos da disciplina, sendo proibido o compartilhamento dos vídeos e imagens em redes sociais, aplicativos de mensagens, páginas pessoais, via email ou afins.*
+> *É proibida a utilização das imagens e/ou áudios das aulas sem expressa autorização do professor, ou ainda para quaisquer fins alheios às atividades da disciplina. O uso é individual e restrito aos alunos da disciplina, sendo proibido o compartilhamento dos vídeos e imagens em redes sociais, aplicativos de mensagens, páginas pessoais, via email ou afins.*-->
 
 
-### [Disciplina no Google Classroom](https://classroom.google.com/u/1/c/NDEzMDg0MTk4MjMx)
+<!--### [Disciplina no Google Classroom](https://classroom.google.com/u/1/c/NDEzMDg0MTk4MjMx)
 
 - As avaliações serão concentradas no Classroom;
 - O acesso é feito através do email institucional **@edu.ufes.br**;
 - Caso não tenha acesso, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo
   - **nome completo**
   - **endereço de email @edu.ufes.br**
-  - **disciplina**
+  - **disciplina**-->
 
-
-### Link para ingresso no grupo de Whatsapp: veja no Classroom
-
-### E-mail do professor: leonardo.secchin@ufes.br
 
 
 ## Avaliações
@@ -59,19 +59,19 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 - **Prova 1**
   - Conteúdo: integrais duplas e triplas; cálculo de áreas; integrais duplas em coordenadas polares; integrais triplas em coordenadas cilíndricas e esféricas; mudança de variáveis em integrais múltiplas
   - Valor: 10,0 pontos
-  - **Data: 17/12/2021 (sexta-feira)**
+  - **Data: ---**
 - **Prova 2**
   - Conteúdo: campos vetoriais; integrais de linha; Teorema fundamental para integrais de linha; Teorema de Green
   - Valor: 10,0 pontos
-  - **Data: 25/02/2022 (sexta-feira)**
+  - **Data: ---**
 - **Prova 3**
   - Conteúdo: rotacional e divergente; superfícies parametrizadas; áreas de superfícies parametrizadas; integrais de superfície; Teorema de Stokes; Teorema do divergente
   - Valor: 10,0 pontos
-  - **Data: 25/03/2022 (sexta-feira)**
+  - **Data: ---**
 - **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
-  - **Data: 30/03/2022 (quarta-feira)**
+  - **Data: ---**
 
 ### Critérios para aprovação
 

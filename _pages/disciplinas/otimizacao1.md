@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-- Terças-feiras de 9:00 as 11:00
-- Quintas-feiras de 7:00 as 9:00
+- --- <!--Terças-feiras de 9:00 as 11:00-->
+- --- <!--Quintas-feiras de 7:00 as 9:00-->
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20I%20-%20DMA11995.pdf)
@@ -52,7 +52,7 @@ author_profile: true
 
 ## Avaliações
 
-- **Avaliação 1**
+<!--- **Avaliação 1**
   - Conteúdo: otimização irrestrita, convexidade
   - **TAREFAS A SEREM ENTREGUES:** exercícios 2.5, 2.7, 2.10, 2.14 (livro de Ana Friedlander), exercícios 2, 3, 5, 6, 7, 14 (parte convexidade da [Lista 1](https://drive.google.com/file/d/1yV6DClaPT3zCmB1JkfnVq_j4g77-8EJU/view?usp=sharing))
   - Valor: 10,0 pontos
@@ -80,7 +80,7 @@ author_profile: true
     - exercícios 2, 3, 8, 9 (sem a implementação), 10, 11 ([Lista 3](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing))
   - Valor: 10,0 pontos
   - **Data máxima para entrega: 18/08/22**
-  - *Entregar resolução por escrito*
+  - *Entregar resolução por escrito*-->
 
 <!--- **PROVA FINAL**
   - Conteúdo: toda a matéria

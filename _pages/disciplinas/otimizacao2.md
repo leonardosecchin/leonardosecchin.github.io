@@ -5,10 +5,10 @@ permalink: /otimizacao2/
 author_profile: true
 ---
 
-<!--## Horários das aulas síncronas
+## Horários das aulas
 
-- Segundas-feiras de 9:30 as 10:30
-- Quintas-feiras de 9:30 as 10:30-->
+- Quartas-feiras de 14:00 as 16:00 (Sala 02 E1)
+- Sextas-feiras de 13:00 as 15:00 (Sala 02 E1)
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
 
@@ -50,7 +50,9 @@ author_profile: true
 
 ## Canais de acesso
 
-### [Pasta do Google Drive com aulas gravadas e anotações feitas em aula](https://drive.google.com/drive/folders/1kpCZoNnevXWSpag8uLVegWjDXgbJOhQx?usp=sharing)
+### E-mail do professor: leonardo.secchin@ufes.br
+
+<!--### [Pasta do Google Drive com aulas gravadas e anotações feitas em aula](https://drive.google.com/drive/folders/1kpCZoNnevXWSpag8uLVegWjDXgbJOhQx?usp=sharing)
 
 > **AVISO:**
 > *As aulas síncronas gravadas são de utilização restrita aos fins a que se destina a disciplina, em particular, para registro de avaliações, facultando-se ao aluno seu direito de não ter sua imagem registrada, mediante expressa manifestação ou, simplesmente, fechando sua câmera durante as aulas.*
@@ -66,14 +68,32 @@ author_profile: true
   - **disciplina**
 
 
-### Link para ingresso no grupo de Whatsapp: veja no AVA-UFES
+### Link para ingresso no grupo de Whatsapp: veja no AVA-UFES-->
 
-### E-mail do professor: leonardo.secchin@ufes.br
 
 
 ## Formas de avaliação
 
 - provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
+
+## Avaliações
+
+- **Avaliação 1**
+  - Conteúdo: ---
+  - Valor: 10,0 pontos
+  - **Data: ---**
+- **Avaliação 2**
+  - Conteúdo: ---
+  - Valor: 10,0 pontos
+  - **Data: ---**
+- **Avaliação 3**
+  - Conteúdo: ---
+  - Valor: 10,0 pontos
+  - **Data: ---**
+- **PROVA FINAL**
+  - Conteúdo: toda a matéria
+  - Valor: 10,0 pontos
+  - **Data: ---**
 
 ## Critérios para aprovação
 
