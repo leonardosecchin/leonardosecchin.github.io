@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- [**Recent advances in augmented Lagrangian methods**](https://drive.google.com/file/d/1Jjqpk2s0lMWVttlhIUadJjgOudH76bb9/view?usp=sharing)  
+  UNLP (La Plata, Argentina), 2022
+
 - [**Restauração inexata com convergência a CAKKT**](https://drive.google.com/file/d/1xS781HKy7FAUn60ZYJ1QxcPIiCEEMNIR/view?usp=sharing) *(in portuguese)*  
   Seminário de Otimização Contínua Unicamp/USP (web), 2022
 
