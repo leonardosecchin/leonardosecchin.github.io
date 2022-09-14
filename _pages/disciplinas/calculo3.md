@@ -10,6 +10,8 @@ author_profile: true
 - Quartas-feiras de 11:00 as 13:00 (E1 Sala 03)
 - Sextas-feiras de 7:00 as 10:00 (E1 Sala 02)
 
+**AVISO: na semana de 12/09 a 16/09 estarei em uma viajem a trabalho. Portanto, e por conta do feriado de 21/09, as aulas começarão na sexta 23/09.**
+
 
 ## Programa da disciplina
 
