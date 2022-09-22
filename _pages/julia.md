@@ -65,9 +65,9 @@ onde **v1.x.x** é a versão corrente.
 1. Instale pré-requisitos no seu sistema. Para usuários do Ubuntu ou Mint, execute
 ~~~
 sudo apt update
-sudo apt install gfortran libopenblas-dev
+sudo apt install gfortran g++ libopenblas-dev
 ~~~
-Isso instalará os pacotes `gfortran` e `libopenblas-dev` no seu sistema. O pacote `gfortran` é um compilador da linguagem Fortran, e `libopenblas-dev` é uma implementação das rotinas de álgebra linear de alto desempenho BLAS, necessárias para alguns pacotes do Julia.
+Isso instalará os pacotes `gfortran`, `g++` e `libopenblas-dev` no seu sistema. Os pacotes `gfortran` e `g++` são compiladores das linguagens Fortran e C++, e `libopenblas-dev` é uma implementação das rotinas de álgebra linear de alto desempenho BLAS, necessárias para alguns pacotes do Julia.
 
 *Obs: para cada comando `sudo` será requerida a senha do usuário. Você pode instalar os pacotes em seu sistema a partir do usuário administrador `root` se preferir.*
 
