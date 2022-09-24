@@ -36,9 +36,10 @@ author_profile: true
 
 ## Listas de exercícios e trabalhos
 
+- [LISTA 0 - Revisão, condições KKT](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing)
 - [LISTA 1 - Métodos de penalização externa e Lagrangiano aumentado](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing)
   - Código para o exercício 5(c): [plbin.jl](https://drive.google.com/file/d/1Uqcb0X9kNTIHE-m2kOeS1c_pXfOyvzvd/view?usp=sharing)
-  - Instâncias para o exercício 6: [portfolio.zip](https://drive.google.com/file/d/1RMvGiE38Ow3qcP9PncKJlCISYX48QXcb/view?usp=sharing)
+  - Instâncias para o exercício 7: [portfolio.zip](https://drive.google.com/file/d/1RMvGiE38Ow3qcP9PncKJlCISYX48QXcb/view?usp=sharing)
 - [LISTA 2 - Método de penalização interna / pontos interiores](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing)
 - [LISTA 3 - Programação quadrática sequencial, quadrados mínimos e dualidade](https://drive.google.com/file/d/1-rWMhk3BUPGKp1bloICS3Tt5k9XnG1zz/view?usp=sharing)
   - [Código exemplo de uso do WORHP no Julia](/files/otim2/ex6_worhp.jl)
