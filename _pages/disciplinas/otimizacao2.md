@@ -31,8 +31,8 @@ author_profile: true
 
 ## Textos Complementares
 
-- [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)
-- [Izmailov, A.; Solodov, M. Otimização vol 2. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-2.html)
+- [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/otimizac-o-volume-1-condicoes-de-otimalidade-elementos-de-analise-convex-e-de-dualidade.html)
+- [Izmailov, A.; Solodov, M. Otimização vol 2. SBM.](https://loja.sbm.org.br/otimizac-o-volume-2-metodos-computacionais.html)
 
 ## Listas de exercícios e trabalhos
 
