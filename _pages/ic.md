@@ -17,21 +17,24 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 
 ## Pré-requisitos para IC
 
-Os pré-requisitos mínimos para qualquer projeto são:
-- **ter sido aprovado** em uma disciplina de programação não linear e uma de programação linear (na matemática industrial, **"Otimização 1"** e **"Pesquisa Operacional 1"**);
+Pré-requisitos para qualquer projeto:
+- **ter sido aprovado(a)** em uma disciplina de programação não linear e em uma de programação linear (na matemática industrial, **"Otimização 1"** e **"Pesquisa Operacional 1"**);
 - ter capacidade de **programar em computador**. A **linguagem de programação Julia** é a preferência em quase todos os casos (veja a seção "Linguagens de programação" abaixo);
 - ter capacidade de **ler e entender textos em inglês**, já que as referências são em grande parte escritas na língua. Não é necessário saber escrever ou falar inglês;
 - ter bom desempenho acadêmico nas disciplinas de otimização/pesquisa operacional cursadas;
 - ter disponibilidade de **20h semanais para as atividades da IC**. O(A) estudante não poderá se abster das atividades da IC em hipótese alguma, **indpendentemente da quantidade de atividades diversas ou disciplinas em que esteja matriculado**.
 
-Pré-requisitos desejáveis:
+Condições desejáveis:
 - ter cursado "Otimização 2" (Matemática Industrial). Em determinados anos **pode ser obrigatório** a depender dos projetos que tenho a disposição.
 
-**Pré-requisitos OBRIGATÓRIOS para CONCORRER À BOLSA:**
-- mostrar interesse e ter bom desempenho acadêmico;
-- ter coeficiente de rendimento igual ou superior a 7,0 (sete).
+**Pré-requisito para CONCORRER À BOLSA (PIBIC):**
+- ter coeficiente de rendimento médio igual ou superior a 7,0 (sete), comprovado em histórico escolar atualizado.
+
+*O(A) estudante que não atender aos pré-requisitos para concorrer à bolsa mas atender aos pré-requisitos gerais será enquadrado(a) na modalidade voluntário (PIVIC).*
 
 *O(A) estudante que, ao longo da IC, apresentar desempenho insatisfatório poderá ter sua IC cancelada por parte do orientador. Neste caso, não terá direito à certificado.*
+
+*O(A) estudante que alegar atender aos pré-requisitos não poderá alegar o contrário posteriormente.*
 
 
 ### Linguagens de programação
