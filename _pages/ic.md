@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 De acordo com a UFES,
-> "o Programa Institucional de Iniciação Científica (PIIC) é voltado para a iniciação à pesquisa de estudantes de graduação universitária. Ele visa fundamentalmente incentivar a carreira científica dos estudantes de graduação que apresentam bom desempenho acadêmico, preparando-os para a pós-graduação" (retirado do [site da PRPPG](https://prppg.ufes.br/programa-institucional-de-ic-piic)).
+> "o Programa Institucional de Iniciação Científica (PIIC) é **voltado para a iniciação à pesquisa** de estudantes de graduação universitária. Ele visa fundamentalmente incentivar a carreira científica dos estudantes de graduação que **apresentam bom desempenho acadêmico**, preparando-os para a pós-graduação" (retirado do [site da PRPPG](https://prppg.ufes.br/programa-institucional-de-ic-piic)).
 
 Nesse sentido, nas minhas orientações procuro sugerir a leitura de artigos científicos e, dentro do possível, proponho temas não abordados nas disciplinas regulares da graduação.
 
@@ -18,15 +18,20 @@ Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desej
 ## Pré-requisitos para IC
 
 Os pré-requisitos mínimos para qualquer projeto são:
-- **ter cursado** uma disciplina de programação não linear (na matemática industrial, **"Otimização 1"**). Em **caráter excepcional**, o(a) estudante que estiver cursando "Otimização 1" poderá ser considerado(a) para a IC que se inicia no semestre seguinte;
+- **ter sido aprovado** em uma disciplina de programação não linear e uma de programação linear (na matemática industrial, **"Otimização 1"** e **"Pesquisa Operacional 1"**);
 - ter capacidade de **programar em computador**. A **linguagem de programação Julia** é a preferência em quase todos os casos (veja a seção "Linguagens de programação" abaixo);
 - ter capacidade de **ler e entender textos em inglês**, já que as referências são em grande parte escritas na língua. Não é necessário saber escrever ou falar inglês;
-- ter bom desempenho acadêmico nas disciplinas de otimização/pesquisa operacional cursadas.
+- ter bom desempenho acadêmico nas disciplinas de otimização/pesquisa operacional cursadas;
+- ter disponibilidade de **20h semanais para as atividades da IC**. O(A) estudante não poderá se abster das atividades da IC em hipótese alguma, **indpendentemente da quantidade de atividades diversas ou disciplinas em que esteja matriculado**.
 
-Requisitos desejáveis:
-- ter cursado "Otimização 2". Em determinados anos **pode ser obrigatório** a depender dos projetos que tenho a disposição;
-- ter cursado "Pesquisa Operacional 1";
-- ter bom desempenho acadêmico nas disciplinas em geral.
+Pré-requisitos desejáveis:
+- ter cursado "Otimização 2" (Matemática Industrial). Em determinados anos **pode ser obrigatório** a depender dos projetos que tenho a disposição.
+
+**Pré-requisitos OBRIGATÓRIOS para CONCORRER À BOLSA:**
+- mostrar interesse e ter bom desempenho acadêmico;
+- ter coeficiente de rendimento igual ou superior a 7,0 (sete).
+
+*O(A) estudante que, ao longo da IC, apresentar desempenho insatisfatório poderá ter sua IC cancelada por parte do orientador. Neste caso, não terá direito à certificado.*
 
 
 ### Linguagens de programação
@@ -40,11 +45,11 @@ Você encontra mais detalhes da linguagem [neste link](/julia/) e exemplos para 
 
 ### para ingresso na IC
 
-Em primeiro lugar, o(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. Combinado o tema a ser estudado, escrevo um subprojeto em comum acordo com o candidato. O projeto é submetido ao edital de IC corrente, e será avaliado por docentes da UFES. Se aprovado, a execução do projeto começa seguindo calendário estabelecido em edital.
+Em primeiro lugar, o(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. Combinado o tema a ser estudado, escrevo um subprojeto em comum acordo com o candidato. O projeto é submetido ao edital de IC corrente, e será avaliado por docentes da UFES. Se aprovado, a execução do projeto começa seguindo calendário estabelecido em edital. É importante o(a) estudante estar ciente de que, depois de submetido, o **projeto não poderá ser alterado**. Portanto, a escolha/aceite do tema de estudo deve ser feita com responsabilidade e comprometimento.
 
 Todo subprojeto de IC é vinculado a um projeto de pesquisa meu. **A orientação de IC tem duração de 1 ano.**
 
-Há possibilidade de bolsa(s), a depender da disponibilidade de recursos da UFES e agências de fomento. Na escolha do(a) bolsista são considerados desempenho curricular, entrevista e situação de vulnerabilidade socioeconômica (cadastro em programas de assistência estudantil), além das regras estabelecidas em edital. Nos últimos editais, vem sendo conferida apenas uma bolsa por orientador. Portanto, **o(a) estudante deve estar ciente que pode ter que realizar a IC sem bolsa.** O(a) aluno(a) de IC voluntário(a) tem as mesmas obrigações de um bolsista. É importante ressaltar que para ser candidato a bolsista, **o(a) estudante deve mostrar interesse e ter bom desempenho acadêmico**. Assim, **não é obrigatória a alocação de bolsa por parte do orientador**, ainda que possua um(a) único(a) orientando(a).
+Há possibilidade de bolsa(s), a depender da disponibilidade de recursos da UFES e agências de fomento (veja pré-requisitos acima). Na escolha do(a) bolsista são considerados desempenho curricular, entrevista e situação de vulnerabilidade socioeconômica (cadastro em programas de assistência estudantil), além das regras estabelecidas em edital. Nos últimos editais, vem sendo conferida apenas uma bolsa por orientador. Portanto, **o(a) estudante deve estar ciente que pode ter que realizar a IC sem bolsa, mesmo que atenda aos pré-requisitos.** O(a) aluno(a) de IC voluntário(a) tem as mesmas obrigações de um bolsista. É importante ressaltar que para ser candidato a bolsista, **o(a) estudante deve atender requisitos mínimos (ver acima)**. Assim, **não é obrigatória a alocação de bolsa por parte do orientador**, ainda que possua um(a) único(a) orientando(a).
 
 
 ### para orientação de TCC
