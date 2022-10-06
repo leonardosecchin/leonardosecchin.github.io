@@ -144,7 +144,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
    *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
-   - Penalização interna [[**QUADRO**](/files/otim2/3.Penalizacao_interna.pdf)
+   - Penalização interna [[**QUADRO**](/files/otim2/3.Penalizacao_interna.pdf)]
    - **Pacote computacional livre Ipopt**
      - [Sítio oficial](https://coin-or.github.io/Ipopt/)
      - [Veja casos de uso do Ipopt em situações reais](https://projects.coin-or.org/Ipopt/wiki/SuccessStories)
@@ -165,7 +165,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 *Referência 1: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.cengage.com.br/livro/otimizacao-continua/)*  
 *Referência 2: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
-- [**QUADRO** - Estratégia de regiões de confiança](/files/otim2/4.Regioes_confianca.pdf)]
+- Estratégia de regiões de confiança [[**QUADRO**](/files/otim2/4.Regioes_confianca.pdf)]
 
 
 ### Programação quadrática sequencial
