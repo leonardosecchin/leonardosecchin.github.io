@@ -116,6 +116,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
    - Introdução [[**ANOTAÇÕES**](/files/otim2/anotacoes/1.Introducao.pdf)]
    - Condições KKT [[**ANOTAÇÕES**](/files/otim2/anotacoes/2.Condicoes_KKT.pdf)] [[**QUADRO**](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)]
+   - **Exercicios:** veja LISTA 0
 
 
 ### Métodos de Penalidades
@@ -126,7 +127,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
    - Penalização externa pura [[**ANOTACOES**](/files/otim2/anotacoes/3.Penalizacao_externa.pdf)] [[**QUADRO**](/files/otim1/6.3.Penalizacao_externa.pdf)]
    - Prova das condições KKT via penalização externa [[**ANOTACOES**](/files/otim2/anotacoes/4.Penalizacao_externa_e_KKT.pdf)] [[**QUADRO**](/files/otim1/6.4.KKT_via_penalizacao.pdf)]
-
+   - **Exercicios:** veja LISTA 1
 
 1. **Método do Lagrangiano aumentado**
 
@@ -143,6 +144,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
        - [2. livro](https://epubs.siam.org/doi/book/10.1137/1.9781611973365)
        - [3. texto em português com acesso livre](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
      - Pacote Julia `NLPModelsAlgencan.jl`. Veja pré-requisitos para instalação em [neste link](/juliaopt_ex7/)
+   - **Exercicios:** veja LISTA 1
 
 
 1. **Penalização interna / barreiras / pontos interiores**
@@ -156,11 +158,15 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
      - [Referência bibliográfica do Ipopt](https://link.springer.com/article/10.1007/s10107-004-0559-y) (versão alternativa com [acesso livre](http://www.optimization-online.org/DB_HTML/2004/03/836.html))
      - [Lista de opções configuráveis no pacote](https://coin-or.github.io/Ipopt/OPTIONS.html)
      - Pacote Julia `NLPModelsIpopt.jl`. Veja informações [neste link](/juliaopt_ex7/)
+   - **Exercicios:** veja LISTA 2
+   
+   **Conteúdo extra**
+   
    - Outros pacotes (proprietários) que empregam a técnica de penalização interna
        - Veja o algoritmo de barreira do CPLEX (*barrier algorithm*) para problemas [lineares](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/barrier/02_barrier_intro.html), [quadráticos](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qp/01_QP_title_synopsis.html), e [quadráticos com restrições quadráticas](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qcp/01_QCP_title_synopsis.html)
        - Leia a [descrição do *software* KNITRO](https://software.com.br/p/knitro?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB)
        - Leia a [descrição do *software* GUROBI](http://www.gurobi.com/products/features-benefits)
-   - [CONTEÚDO EXTRA] Pontos interiores para programação linear
+   - Pontos interiores para programação linear
      - Estratégia de pontos interiores para programação linear [[**QUADRO**](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)]
      - Métodos de pontos interiores especializados para PL: veja o **Tóptico 1** da disciplina [Tópicos em Pesquisa Operacional](/topicospo/)
      - [Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
@@ -189,7 +195,11 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   - Para usar o WORHP no Julia, consulte a seção **"Pacotes com interface AMPL"** [deste link](/juliaopt_ex7/)
     - *Obs 1:* O arquivo de licença `worhp.lic` deve ser salvo no diretório em que estiver executando o Julia. Você deve obtê-lo no [site do desenvolvedor](https://worhp.de/) com seu login e senha
     - *Obs 2:* Você pode configurar o WORHP modificando o arquivo `worhp.xml`, que se encontra na pasta `bin` da instalação. Para usá-lo, faça uma cópia para o diretório em que estiver executando o Julia. Consulte o manual (*Users' Guide*), seção "*Parameters*" para detalhes
-- Outro pacote proprietário com versão de demonstração junto ao [AMPL](https://ampl.com/products/solvers/solvers-we-sell/): [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
+  - **Exercicios:** veja LISTA 3
+
+**Conteúdo extra**
+
+- Pacote proprietário com versão de demonstração junto ao [AMPL](https://ampl.com/products/solvers/solvers-we-sell/): [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
 
 
 ### Dualidade em programação não linear
@@ -201,6 +211,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - Dualidade em Programação Não Linear, parte 2 [[**QUADRO**](/files/otim2/6.2.Dualidade2.pdf)]
 - Método de planos de corte / Resolução de sistemas de inequações convexas [[**QUADRO**](/files/otim2/6.3.Planos_corte.pdf)]
   - [Código Julia](https://drive.google.com/file/d/1hEk6GZaokQ9bMBIAqXTdC5bkQau_pacC/view?usp=sharing)
+- **Exercicios:** veja LISTA 3
 
 
 ### O Problema de quadrados mínimos linear e não-linear
@@ -210,6 +221,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - Quadrados mínimos linear [[**ANOTAÇÕES**](/files/otim2/6.4.quadrados_min_linear.pdf)]
 - Quadrados mínimos não linear - método de Gauss-Newton [[**ANOTAÇÕES**](/files/otim2/6.5.Quad_min_naolinear_Gauss_Newton.pdf)]
 - Quadrados mínimos não linear - método de Levenberg-Marquardt [[**ANOTAÇÕES**](/files/otim2/6.6.Quad_min_naolinear_Levenberg_Marquardt.pdf)]
+- **Exercicios:** veja LISTA 3
 
 
 ## Vídeos interessantes sobre Otimização
