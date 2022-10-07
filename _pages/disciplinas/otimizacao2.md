@@ -134,7 +134,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
    - Apresentação [[**QUADRO**](/files/otim2/2.1.LA_apresentacao.pdf)]
    - Penalização externa pura e controle de admissibilidade [[**QUADRO**](/files/otim2/1.Penalizacao_pura_admissibilidade.pdf)]
-   - Convergência teórica [[**QUADRO**](/files/otim2/2.2.LA_convergencia.pdf)]
+     - [[**ANOTACOES**](/files/otim2/anotacoes/5.Lagrangiano_aumentado.pdf)]
+   - Convergência teórica [[**QUADRO**](/files/otim2/2.2.LA_convergencia.pdf)] [[**ANOTACOES**](/files/otim2/anotacoes/6.Lagrangiano_aumentado_convergencia.pdf)]
    - **Pacote computacional livre Algencan**
      - [Sítio oficial](https://www.ime.usp.br/~egbirgin/tango/codes.php#algencan)
      - Referências bibliográficas do Algencan: [1. artigo inicial](https://epubs.siam.org/doi/10.1137/060654797?mobileUi=0) (versão alternativa com [acesso livre](https://www.ime.usp.br/~egbirgin/publications/abms2-siam.pdf)), [2. livro](https://epubs.siam.org/doi/book/10.1137/1.9781611973365) e [3. texto em português com acesso livre](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
