@@ -143,7 +143,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
        - [1. artigo inicial](https://epubs.siam.org/doi/10.1137/060654797?mobileUi=0) (versão alternativa com [acesso livre](https://www.ime.usp.br/~egbirgin/publications/abms2-siam.pdf))
        - [2. livro](https://epubs.siam.org/doi/book/10.1137/1.9781611973365)
        - [3. texto em português com acesso livre](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
-     - Pacote Julia `NLPModelsAlgencan.jl`. Veja pré-requisitos para instalação em [neste link](/juliaopt_ex7/)
+     - **Pacote Julia** `NLPModelsAlgencan.jl`. Veja pré-requisitos para instalação em [neste link](/juliaopt_ex7/)
    - **Exercicios:** veja LISTA 1
 
 
@@ -153,11 +153,12 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
    - Penalização interna [[**QUADRO**](/files/otim2/3.Penalizacao_interna.pdf)]
    - **Pacote computacional livre Ipopt**
-     - [Sítio oficial](https://coin-or.github.io/Ipopt/)
-     - [Veja casos de uso do Ipopt em situações reais](https://projects.coin-or.org/Ipopt/wiki/SuccessStories)
+     - [Sítio oficial](https://github.com/coin-or/Ipopt)
+     - [Documentação oficial](https://coin-or.github.io/Ipopt/)
+     <!--- [Veja casos de uso do Ipopt em situações reais](https://projects.coin-or.org/Ipopt/wiki/SuccessStories)-->
      - [Referência bibliográfica do Ipopt](https://link.springer.com/article/10.1007/s10107-004-0559-y) (versão alternativa com [acesso livre](http://www.optimization-online.org/DB_HTML/2004/03/836.html))
      - [Lista de opções configuráveis no pacote](https://coin-or.github.io/Ipopt/OPTIONS.html)
-     - Pacote Julia `NLPModelsIpopt.jl`. Veja informações [neste link](/juliaopt_ex7/)
+     - **Pacote Julia** `NLPModelsIpopt.jl`. Veja informações [neste link](/juliaopt_ex7/)
    - **Exercicios:** veja LISTA 2
    
    **Conteúdo extra**
@@ -192,7 +193,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   - [Site do desenvolvedor](https://worhp.de/)
   - [Principal referência bibliográfica do pacote](https://link.springer.com/chapter/10.1007%2F978-1-4614-4469-5_4)
   - Outra referência com [acesso livre](https://www.math.uni-bremen.de/zetem/cms/media.php/279/2546042wassel.pdf)
-  - Para usar o WORHP no Julia, consulte a seção **"Pacotes com interface AMPL"** [deste link](/juliaopt_ex7/)
+  - Para usar o **WORHP no Julia**, consulte a seção **"Pacotes com interface AMPL"** [deste link](/juliaopt_ex7/)
     - *Obs 1:* O arquivo de licença `worhp.lic` deve ser salvo no diretório em que estiver executando o Julia. Você deve obtê-lo no [site do desenvolvedor](https://worhp.de/) com seu login e senha
     - *Obs 2:* Você pode configurar o WORHP modificando o arquivo `worhp.xml`, que se encontra na pasta `bin` da instalação. Para usá-lo, faça uma cópia para o diretório em que estiver executando o Julia. Consulte o manual (*Users' Guide*), seção "*Parameters*" para detalhes
   - **Exercicios:** veja LISTA 3
