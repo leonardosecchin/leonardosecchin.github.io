@@ -54,15 +54,17 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 - **Prova 1**
   - Conteúdo: integrais duplas e triplas; cálculo de áreas; integrais duplas em coordenadas polares; integrais triplas em coordenadas cilíndricas e esféricas; mudança de variáveis em integrais múltiplas
   - Valor: 10,0 pontos
-  - **Data: ---**
+  - **Data: 18/11/22 (sexta-feira)**
 - **Prova 2**
-  - Conteúdo: campos vetoriais; integrais de linha; Teorema fundamental para integrais de linha; Teorema de Green
+  <!--- Conteúdo: campos vetoriais; integrais de linha; Teorema fundamental para integrais de linha; Teorema de Green-->
+  - Conteúdo: campos vetoriais; integrais de linha; Teorema fundamental para integrais de linha; Teorema de Green; rotacional e divergente; superfícies parametrizadas; áreas de superfícies parametrizadas
   - Valor: 10,0 pontos
-  - **Data: ---**
+  - **Data: 23/12/22 (sexta-feira)**
 - **Prova 3**
-  - Conteúdo: rotacional e divergente; superfícies parametrizadas; áreas de superfícies parametrizadas; integrais de superfície; Teorema de Stokes; Teorema do divergente
+  <!--- Conteúdo: rotacional e divergente; superfícies parametrizadas; áreas de superfícies parametrizadas; integrais de superfície; Teorema de Stokes; Teorema do divergente-->
+  - Conteúdo: integrais de superfície; Teorema de Stokes; Teorema do divergente
   - Valor: 10,0 pontos
-  - **Data: ---**
+  - **Data: 10/02/23 (sexta-feira) (previsão)**
 - **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
