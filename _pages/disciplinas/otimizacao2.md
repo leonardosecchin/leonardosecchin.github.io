@@ -112,6 +112,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - [Julia para Otimização - primeiros passos](/juliaopt/)
   - Estude todos os exemplos do *link* acima, especialmente 6, 7, 8 e 9.
 
+**Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados nas disciplinas de otimização, baixe [ESTE SCRIPT](/files/julia/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
+
 ### Introdução e revisão das condições de Karush-Kuhn-Tucker (KKT)
 
    - Introdução [[**ANOTAÇÕES**](/files/otim2/anotacoes/1.Introducao.pdf)]

@@ -43,6 +43,8 @@ Após a instalação, o Julia estará pronto para uso. Você pode executá-lo vi
 julia
 ~~~
 
+**Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados nas disciplinas de otimização, baixe [ESTE SCRIPT](/files/julia/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
+
 
 ## Método 2: Compilar do código-fonte (para *experts* no GNU/Linux)
 
@@ -86,7 +88,6 @@ Você também pode criar um atalho no seu `.bashrc` para que, executando `julia`
 ~~~
 alias julia="[DIRETORIO DA INSTALACAO JULIA]/./julia"
 ~~~
-
 
 Para desinstalar o Julia neste método, simplesmente apague os diretórios `julia` e `.julia`.
 

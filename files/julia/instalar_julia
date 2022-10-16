@@ -1,0 +1,51 @@
+#####################################
+# Este script instala o Julia 1.8.2 pré-compilado com
+# alguns pacotes utilizados nas disciplinas de otimização.
+#
+# Novas versões do Julia em
+#   https://julialang.org/downloads/
+# Adapte o código se quiser instalar outras versões.
+#
+# Testado no Linux Ubuntu. Para rodar este script, execute
+#   sh instalar_julia
+# do terminal, da pasta em que salvou o script.
+#
+# Autor: Leonardo D. Secchin, 16/10/22
+#####################################
+
+# vai para o diretório home do usuário
+cd ~
+
+# baixa o Julia pré-compilado
+rm -f julia-1.8.2-linux-x86_64.tar.gz
+wget https://julialang-s3.julialang.org/bin/linux/x64/1.8/julia-1.8.2-linux-x86_64.tar.gz
+
+# descompacta o Julia
+tar -xf julia-1.8.2-linux-x86_64.tar.gz
+
+# cria comando "julia" para chamar Julia de qualquer lugar pelo terminal
+echo 'alias julia="~/julia-1.8.2/bin/./julia"' >> ~/.bashrc
+source ~/.bashrc
+
+# instala pré-requisitos no sistema (requer senha do administrador)
+sudo apt update
+sudo apt install gfortran g++ gcc libopenblas-dev -y
+
+# instala pacotes no Julia
+~/julia-1.8.2/bin/./julia -e 'using Pkg;
+Pkg.add("LinearAlgebra");
+Pkg.add("CUTEst");
+Pkg.add("JuMP");
+Pkg.add("NLPModels");
+Pkg.add("NLPModelsJuMP");
+Pkg.add("NLPModelsAlgencan");
+Pkg.add("NLPModelsIpopt");
+Pkg.add("Plots");
+Pkg.add("CSV");
+Pkg.add("Printf");
+Pkg.add("SparseArrays");
+Pkg.add("Contour");
+Pkg.add("DataFrames");
+Pkg.add("MatrixMarket");
+Pkg.add("JLD2");
+Pkg.add("AmplNLWriter");'
