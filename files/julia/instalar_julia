@@ -33,6 +33,7 @@ sudo apt install gfortran g++ gcc libopenblas-dev -y
 
 # instala pacotes no Julia
 ~/julia-1.8.2/bin/./julia -e 'using Pkg;
+Pkg.update();
 Pkg.add("LinearAlgebra");
 Pkg.add("CUTEst");
 Pkg.add("JuMP");
