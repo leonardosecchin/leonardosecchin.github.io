@@ -154,7 +154,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
    - Penalização interna / Pontos interiores [[**ANOTACOES**](/files/otim2/anotacoes/7.Penalidade_interna.pdf)] [[**QUADRO**](/files/otim2/3.Penalizacao_interna.pdf)]
-   - Pontos interiores para programação linear [[**ANOTACOES**](/files/otim2/anotacoes/9.Pontos_interiores_PL.pdf)] [**Contas direção Newtoniana** - veja pgs 1 a 5 deste [link](files/topicospo/PTO_INT_3-primal_dual_afim_escala.pdf)]
+   - Pontos interiores para programação linear [[**ANOTACOES**](/files/otim2/anotacoes/9.Pontos_interiores_PL.pdf)] [**Contas direção Newtoniana** - veja pgs 1 a 5 deste [link](/files/topicospo/PTO_INT_3-primal_dual_afim_escala.pdf)]
    - **Pacote computacional livre Ipopt** [[**ANOTACOES**](/files/otim2/anotacoes/8.Ipopt.pdf)]
      - [Sítio oficial](https://github.com/coin-or/Ipopt)
      - [Documentação oficial](https://coin-or.github.io/Ipopt/)
