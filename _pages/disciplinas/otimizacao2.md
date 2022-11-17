@@ -165,9 +165,9 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
      - [Lista de opções configuráveis no pacote](https://coin-or.github.io/Ipopt/OPTIONS.html)
      - **Pacote Julia** `NLPModelsIpopt.jl`. Veja informações [neste link](/juliaopt_ex7/)
    - **Exercicios:** veja LISTA 2
-   
+
    **Conteúdo extra**
-   
+
    - Outros pacotes (proprietários) que empregam a técnica de penalização interna
        - Veja o algoritmo de barreira do CPLEX (*barrier algorithm*) para problemas [lineares](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/barrier/02_barrier_intro.html), [quadráticos](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qp/01_QP_title_synopsis.html), e [quadráticos com restrições quadráticas](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qcp/01_QCP_title_synopsis.html)
        - Leia a [descrição do *software* KNITRO](https://software.com.br/p/knitro?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB)
@@ -183,7 +183,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 *Referência 1: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.cengage.com.br/livro/otimizacao-continua/)*  
 *Referência 2: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
-- Estratégia de regiões de confiança [[**QUADRO**](/files/otim2/4.Regioes_confianca.pdf)]
+- Estratégia de regiões de confiança [[**ANOTACOES**](/files/otim2/anotacoes/9.regioes_confianca.pdf)] [[**QUADRO**](/files/otim2/4.Regioes_confianca.pdf)]
 
 
 ### Programação quadrática sequencial
