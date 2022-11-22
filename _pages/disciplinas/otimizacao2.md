@@ -118,9 +118,9 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Introdução e revisão das condições de Karush-Kuhn-Tucker (KKT)
 
-   - Introdução [[**ANOTAÇÕES**](/files/otim2/anotacoes/1.Introducao.pdf)]
-   - Condições KKT [[**ANOTAÇÕES**](/files/otim2/anotacoes/2.Condicoes_KKT.pdf)] [[**QUADRO**](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)]
-   - **Exercicios:** veja LISTA 0
+- Introdução [[**ANOTAÇÕES**](/files/otim2/anotacoes/1.Introducao.pdf)]
+- Condições KKT [[**ANOTAÇÕES**](/files/otim2/anotacoes/2.Condicoes_KKT.pdf)] [[**QUADRO**](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)]
+- **Exercicios:** veja LISTA 0
 
 
 ### Métodos de Penalidades
@@ -180,10 +180,11 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Regiões de confiança
 
-*Referência 1: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.cengage.com.br/livro/otimizacao-continua/)*  
-*Referência 2: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
+*Referência 1: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.cengage.com.br/livro/otimizacao-continua/) ([versão alternativa](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf))*  
+*Referência 2: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006*
 
-- Estratégia de regiões de confiança [[**ANOTACOES**](/files/otim2/anotacoes/10.regioes_confianca.pdf)] [[**QUADRO**](/files/otim2/4.Regioes_confianca.pdf)]
+- Estratégia de regiões de confiança e convergência global [[**ANOTACOES**](/files/otim2/anotacoes/10.regioes_confianca.pdf)] [[**QUADRO**](/files/otim2/4.Regioes_confianca.pdf)]
+- O passo de Cauchy e o método dog-leg [[**ANOTACOES**](/files/otim2/anotacoes/11.cauchy_dogleg.pdf)]
 
 
 ### Programação quadrática sequencial
@@ -209,7 +210,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 ### Dualidade em programação não linear
 
 *Referência 1: [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)*  
-*Referência 2: Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008.*
+*Referência 2: Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008*
 
 - Dualidade em Programação Não Linear, parte 1 [[**QUADRO**](/files/otim2/6.1.Dualidade1.pdf)]
 - Dualidade em Programação Não Linear, parte 2 [[**QUADRO**](/files/otim2/6.2.Dualidade2.pdf)]
@@ -220,7 +221,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### O Problema de quadrados mínimos linear e não-linear
 
-*Referência: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006.*
+*Referência: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006*
 
 - Quadrados mínimos linear [[**ANOTAÇÕES**](/files/otim2/6.4.quadrados_min_linear.pdf)]
 - Quadrados mínimos não linear - método de Gauss-Newton [[**ANOTAÇÕES**](/files/otim2/6.5.Quad_min_naolinear_Gauss_Newton.pdf)]
