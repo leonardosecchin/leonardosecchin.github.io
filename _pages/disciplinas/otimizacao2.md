@@ -186,6 +186,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 - Estratégia de região de confiança e convergência global [[**ANOTACOES**](/files/otim2/anotacoes/10.regiao_confianca.pdf)] [[**QUADRO**](/files/otim2/4.Regioes_confianca.pdf)]
 - O passo de Cauchy e o método dog-leg [[**ANOTACOES**](/files/otim2/anotacoes/11.cauchy_dogleg.pdf)]
+- **Exercicios:** veja LISTA 3
 
 
 ### Programação quadrática sequencial
@@ -203,7 +204,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   - Para usar o **WORHP no Julia**, consulte a seção **"Pacotes com interface AMPL"** [deste link](/juliaopt_ex7/)
     - *Obs 1:* O arquivo de licença `worhp.lic` deve ser salvo no diretório em que estiver executando o Julia. Você deve obtê-lo no [site do desenvolvedor](https://worhp.de/) com seu login e senha
     - *Obs 2:* Você pode configurar o WORHP modificando o arquivo `worhp.xml`, que se encontra na pasta `bin` da instalação. Para usá-lo, faça uma cópia para o diretório em que estiver executando o Julia. Consulte o manual (*Users' Guide*), seção "*Parameters*" para detalhes
-  - **Exercicios:** veja LISTA 3
+  - **Exercicios:** veja LISTA 4
 
   - (**Conteúdo extra**) Pacote proprietário com versão de demonstração junto ao [AMPL](https://ampl.com/products/solvers/solvers-we-sell/): [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
 
@@ -217,7 +218,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - Dualidade em Programação Não Linear, parte 2 [[**QUADRO**](/files/otim2/6.2.Dualidade2.pdf)]
 - Método de planos de corte / Resolução de sistemas de inequações convexas [[**QUADRO**](/files/otim2/6.3.Planos_corte.pdf)]
   - [Código Julia](https://drive.google.com/file/d/1hEk6GZaokQ9bMBIAqXTdC5bkQau_pacC/view?usp=sharing)
-- **Exercicios:** veja LISTA 3
+- **Exercicios:** veja LISTA 4
 
 
 ### O Problema de quadrados mínimos linear e não-linear
@@ -227,7 +228,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - Quadrados mínimos linear [[**ANOTAÇÕES**](/files/otim2/6.4.quadrados_min_linear.pdf)]
 - Quadrados mínimos não linear - método de Gauss-Newton [[**ANOTAÇÕES**](/files/otim2/6.5.Quad_min_naolinear_Gauss_Newton.pdf)]
 - Quadrados mínimos não linear - método de Levenberg-Marquardt [[**ANOTAÇÕES**](/files/otim2/6.6.Quad_min_naolinear_Levenberg_Marquardt.pdf)]
-- **Exercicios:** veja LISTA 3
+- **Exercicios:** veja LISTA 4
 
 
 ## Links
