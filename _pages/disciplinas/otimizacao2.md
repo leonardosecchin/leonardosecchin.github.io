@@ -193,8 +193,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
-- Programação Quadrática Sequencial (SQP) básica para restrições de igualdade [[**QUADRO**](/files/otim2/5.1.SQP_basico_igualdades.pdf)]
-- Boa definição do SQP básico e algumas questões práticas do método [[**QUADRO**](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)]
+- Programação Quadrática Sequencial (SQP) básica para restrições de igualdade [[**ANOTACOES**](/files/otim2/anotacoes/12.SQP_basico_igualdades.pdf)] <!--[[**QUADRO**](/files/otim2/5.1.SQP_basico_igualdades.pdf)]-->
+- Boa definição do SQP básico e algumas questões práticas do método [[**ANOTACOES**](/files/otim2/anotacoes/13.boa_definicao_SQP_basico.pdf)] <!--[[**QUADRO**](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)]-->
 - Subproblemas quadráticos com regiões de confiança [[**QUADRO**](/files/otim2/5.3.SQP_subprob.pdf)]
 - SQP para problemas com restrições não lineares de igualdade e desigualdade [[**QUADRO**](/files/otim2/5.4.SQP_subprob_IP.pdf)]
 - **Pacote computacional WORHP (proprietário com licença para uso acadêmico)**
