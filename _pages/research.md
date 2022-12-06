@@ -17,6 +17,10 @@ author_profile: true
 
 ## Submitted articles
 
+1. **On enhanced KKT optimality conditions for smooth nonlinear optimization** [[preprint](https://optimization-online.org/?p=21206)]  
+   R. Andreani, M. L. Schuverdt, L. D. Secchin  
+   2022
+
 1. **A practical second-order optimality condition for cardinality-constrained problems with application to an augmented Lagrangian method** [[preprint](http://www.optimization-online.org/DB_HTML/2022/04/8880.html)]  
    J. C. A. Medeiros, A. A. Ribeiro, M. Sachine, L. D. Secchin  
    2022
