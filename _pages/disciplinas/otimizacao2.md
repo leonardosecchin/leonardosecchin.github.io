@@ -181,7 +181,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Região de confiança
 
-*Referência 1: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.cengage.com.br/livro/otimizacao-continua/) ([versão alternativa](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf))*  
+*Referência 1: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.cengage.com.br/livro/otimizacao-continua/) ([versão alternativa](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf))*
 *Referência 2: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006*
 
 - Estratégia de região de confiança e convergência global [[**ANOTACOES**](/files/otim2/anotacoes/10.regiao_confianca.pdf)] [[**QUADRO**](/files/otim2/4.Regioes_confianca.pdf)]
@@ -195,7 +195,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 - Programação Quadrática Sequencial (SQP) básica para restrições de igualdade [[**ANOTACOES**](/files/otim2/anotacoes/12.SQP_basico_igualdades.pdf)] <!--[[**QUADRO**](/files/otim2/5.1.SQP_basico_igualdades.pdf)]-->
 - Boa definição do SQP básico e algumas questões práticas do método [[**ANOTACOES**](/files/otim2/anotacoes/13.boa_definicao_SQP_basico.pdf)] <!--[[**QUADRO**](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)]-->
-- Subproblemas quadráticos com regiões de confiança [[**QUADRO**](/files/otim2/5.3.SQP_subprob.pdf)]
+- Subproblemas de SQP - questões práticas [[**ANOTACOES**](/files/otim2/anotacoes/14.subproblemas_SQP.pdf)] <!--[[**QUADRO**](/files/otim2/5.3.SQP_subprob.pdf)]-->
 - SQP para problemas com restrições não lineares de igualdade e desigualdade [[**QUADRO**](/files/otim2/5.4.SQP_subprob_IP.pdf)]
 - **Pacote computacional WORHP (proprietário com licença para uso acadêmico)**
   - [Site do desenvolvedor](https://worhp.de/)
@@ -211,7 +211,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Dualidade em programação não linear
 
-*Referência 1: [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)*  
+*Referência 1: [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)*
 *Referência 2: Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008*
 
 - Dualidade em Programação Não Linear, parte 1 [[**QUADRO**](/files/otim2/6.1.Dualidade1.pdf)]
