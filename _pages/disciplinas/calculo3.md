@@ -57,7 +57,7 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
   - *2a LISTA:* exercícios 1, 2, 9 a 11 (seção 16.5); 20, 22, 23, 41, 44, 46 (seção 16.6).
     - Data de entrega: até **23/12**
   - *As listas deverão ser feitas à mão e entregues escaneadas por email ou presencialmente*
-  - *OS EXERCÍCIOS SÃO DA EDIÇÃO 7 DO LIVRO*
+  - *OS EXERCÍCIOS SÃO DA EDIÇÃO 7 DO LIVRO DO STEWART*
 - **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
