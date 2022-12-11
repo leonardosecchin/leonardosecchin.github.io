@@ -53,15 +53,15 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
   - **Data: 10/02/23 (sexta-feira) (previsão)**
 - **Listas de exercícios que comporão parte da nota**
   - *1a LISTA:* exercícios 7, 22, 32(a), 45 (seção 16.2); 12, 16 (seção 16.3); 5, 10, 13 (seção 16.4)
-    - Data de entrega: até **16/12**
+    - Data de entrega: até **16/12/22**
   - *2a LISTA:* exercícios 1, 2, 9 a 11 (seção 16.5); 20, 22, 23, 41, 44, 46 (seção 16.6).
-    - Data de entrega: até **23/12**
+    - Data de entrega: até **23/12/22**
   - *As listas deverão ser feitas à mão e entregues escaneadas por email ou presencialmente*
   - *OS EXERCÍCIOS SÃO DA EDIÇÃO 7 DO LIVRO DO STEWART*
 - **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
-  - **Data: ---**
+  - **Data: 15/02/23 (quarta-feira)**
 
 ### Critérios para aprovação
 
