@@ -34,20 +34,6 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 
 ### E-mail do professor: leonardo.secchin@ufes.br
 
-<!-- ### Link para ingresso no grupo de Whatsapp: veja no Classroom -->
-
-<!--### [Pasta do Google Drive com aulas gravadas e anotações feitas em aula](https://drive.google.com/drive/folders/1bJw6yBjxnNO5BDqlInnvkBOl9cE20v99zLbPwzRcRtpyb8WNEkYSasIThISrpeoBwS3VktQ5?usp=sharing)-->
-
-<!--### [Disciplina no Google Classroom](https://classroom.google.com/u/1/c/NDEzMDg0MTk4MjMx)
-
-- As avaliações serão concentradas no Classroom;
-- O acesso é feito através do email institucional **@edu.ufes.br**;
-- Caso não tenha acesso, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo
-  - **nome completo**
-  - **endereço de email @edu.ufes.br**
-  - **disciplina**-->
-
-
 
 ## Avaliações
 
@@ -65,6 +51,13 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
   - Conteúdo: integrais de superfície; Teorema de Stokes; Teorema do divergente
   - Valor: 10,0 pontos
   - **Data: 10/02/23 (sexta-feira) (previsão)**
+- **Listas de exercícios que comporão parte da nota**
+  - *1a LISTA:* exercícios 7, 22, 32(a), 45 (seção 16.2); 12, 16 (seção 16.3); 5, 10, 13 (seção 16.4)
+    - Data de entrega: até **16/12**
+  - *2a LISTA:* exercícios 1, 2, 9 a 11 (seção 16.5); 20, 22, 23, 41, 44, 46 (seção 16.6).
+    - Data de entrega: até **23/12**
+  - *As listas deverão ser feitas à mão e entregues escaneadas por email ou presencialmente*
+  - *OS EXERCÍCIOS SÃO DA EDIÇÃO 7 DO LIVRO*
 - **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
