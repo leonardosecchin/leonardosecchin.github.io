@@ -83,13 +83,15 @@ author_profile: true
 - **Avaliação 1**
   - Tarefas: exercícios 5 e 7 da [lista 0](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing); exercícios 1, 3, 4, 5, 6, 7 da [lista 1](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing)
   - Valor: 10,0 pontos
-  - **Data: 30/11/22**
+  - **Data limite: 30/11/22**
   - Entregar resolução escrita à mão. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
   - O trabalho é individual. Cópias receberão nota zero.
 - **Avaliação 2**
-  - Conteúdo: ---
+  - Tarefas: exercícios 1, 2, 3, 4, 5, 6 da [lista 2](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing); exercícios 1, 2 da [lista 3](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing)
   - Valor: 10,0 pontos
-  - **Data: ---**
+  - **Data limite: 30/12/22**
+  - Entregar resolução escrita à mão ou escaneadas para o email leonardo.secchin@ufes.br. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
+  - O trabalho é individual. Cópias receberão nota zero.
 - **Avaliação 3**
   - Conteúdo: ---
   - Valor: 10,0 pontos
