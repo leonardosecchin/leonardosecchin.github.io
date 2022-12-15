@@ -205,7 +205,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   - [**Roteiro para instalar o WORHP e usá-lo no Julia**](/files/otim2/worhp.txt)
   - **Exercicios:** veja LISTA 4
 
-  - (**Conteúdo extra**) Pacote proprietário com versão de demonstração junto ao [AMPL](https://ampl.com/products/solvers/solvers-we-sell/): [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
+- (**Conteúdo extra**) Pacote proprietário com versão de demonstração junto ao [AMPL](https://ampl.com/products/solvers/solvers-we-sell/): [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
 
 
 ### Dualidade em programação não linear
