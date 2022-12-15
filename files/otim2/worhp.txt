@@ -1,0 +1,43 @@
+===========================================================
+PASSOS PARA INSTALAR WORHP EM SUA MÁQUINA E USÁ-LO NO JULIA
+===========================================================
+
+1. Acesse o site do desenvolvedor www.worhp.de
+
+2. Clique em "Log in" na parte superior direita. Logue em sua conta. Caso não possua uma conta, crie-a a partir do "Create an account"
+
+3. Após logar-se, baixe o WORHP a partir do link "Downloads -> WORHP X.XX (latest release)" na página principal
+
+4. Escolha a versão adequada a seu sistema operacional
+
+5. Instale normalmente
+
+6. O WORHP é utilizado no Julia através da interface AMPL. Acesse o link
+
+   https://leonardosecchin.github.io/juliaopt_ex7/
+   
+   e repita os comandos da seção "Pacotes com interface AMPL".
+   Ao executá-los, você verá no Julia a saída contendo a mensagem
+   
+   "Error (License): Could not open license file."
+   
+   Isso indica que o WORHP foi instalado com sucesso, mas você não possui um arquivo de licença.
+
+7. Requisite um arquivo de licença (válido por 6 meses):
+
+    - acesse www.worhp.de logado em sua conta
+    - clique em "Request a new license"
+    - você deverá preencher o formulário de requisição de licença, em inglês. Veja um exemplo em https://leonardosecchin.github.io/files/otim2/worhp_licence_ex.png
+      * o campo "MAC address" deve ser o endereço físico da placa de rede da máquina que você usará o WORHP. Para saber qual seu endereço, execute o comando "ip link show" (Ubuntu 22.04). O endereço aparece ao lado de "link/ether". Pegue de qualquer placa. NÃO SERVE "link/loopback"
+      * o campo "Remarks" deve conter uma descrição do uso que vocẽ fará. Sugiro colocar o mesmo texto do exemplo
+      * dê preferência a email institucional (@edu.ufes.br)
+
+8. Após a requisição aparecerá "Pending license request for MAC address [...]" na aba "Licenses" da sua página no www.worhp.de
+
+9. Sua requisição será analisada pelos desenvolvedores dentro de alguns dias. Se for aceito, a licença estará disponível para download na sua página no www.worhp.de
+
+10. Baixe o arquivo de licença e coloque-o na mesma pasta que executar o Julia (renomeie para "worhp.lic" caso necessário)
+
+11. Se tudo deu certo, WORHP será executado no passo 6 e resolverá o problema de otimização
+
+12. No site www.worhp.de, link "Users' Guide" (página principal), você tem acesso ao manual do usuário com todas as personalizações possíveis no pacote, bem como explicações sobre a teoria do método

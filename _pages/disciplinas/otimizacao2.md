@@ -202,9 +202,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   - [Site do desenvolvedor](https://worhp.de/)
   - [Principal referência bibliográfica do pacote](https://link.springer.com/chapter/10.1007%2F978-1-4614-4469-5_4)
   - Outra referência com [acesso livre](https://www.math.uni-bremen.de/zetem/cms/media.php/279/2546042wassel.pdf)
-  - Para usar o **WORHP no Julia**, consulte a seção **"Pacotes com interface AMPL"** [deste link](/juliaopt_ex7/)
-    - *Obs 1:* O arquivo de licença `worhp.lic` deve ser salvo no diretório em que estiver executando o Julia. Você deve obtê-lo no [site do desenvolvedor](https://worhp.de/) com seu login e senha
-    - *Obs 2:* Você pode configurar o WORHP modificando o arquivo `worhp.xml`, que se encontra na pasta `bin` da instalação. Para usá-lo, faça uma cópia para o diretório em que estiver executando o Julia. Consulte o manual (*Users' Guide*), seção "*Parameters*" para detalhes
+  - [**Roteiro para instalar o WORHP e usá-lo no Julia**](/files/otim2/worhp.txt)
   - **Exercicios:** veja LISTA 4
 
   - (**Conteúdo extra**) Pacote proprietário com versão de demonstração junto ao [AMPL](https://ampl.com/products/solvers/solvers-we-sell/): [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
