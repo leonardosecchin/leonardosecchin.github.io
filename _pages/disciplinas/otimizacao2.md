@@ -42,13 +42,13 @@ author_profile: true
   - Instâncias para o exercício 7: [portfolio.zip](https://drive.google.com/file/d/1RMvGiE38Ow3qcP9PncKJlCISYX48QXcb/view?usp=sharing)
 - [LISTA 2 - Método de penalização interna / pontos interiores](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing)
 - [LISTA 3 - Região de confiança](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing)
-- [LISTA 4 - Programação quadrática sequencial, quadrados mínimos e dualidade](https://drive.google.com/file/d/1-rWMhk3BUPGKp1bloICS3Tt5k9XnG1zz/view?usp=sharing)
+- [LISTA 4 - Programação quadrática sequencial e dualidade](https://drive.google.com/file/d/1QwVVJgkS-7Ilkk0t4JLriD4o80S3Dmzw/view?usp=sharing)
   - [Código exemplo de uso do WORHP no Julia](/files/otim2/ex6_worhp.jl)
+- [LISTA 5 - Quadrados mínimos](https://drive.google.com/file/d/1YNKAcZT793tiR2xSp0y42tyErvcfZabl/view?usp=sharing)
   <!--- [Código Julia do método de Gauss-Newton](/files/otim2/gaussnewton.zip)-->
   - Código Julia do método de Gauss-Newton
 <!-- - [TRABALHO COMPUTACIONAL 1 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing) -->
 <!-- - [TRABALHO COMPUTACIONAL 2 - Método de pontos interiores aplicado à programação linear](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing) -->
-<!-- - [LISTA 2 - Programação quadrática sequencial, dualidade](https://drive.google.com/file/d/107lofrTIsihgnHR43QJ53fxjp3_9lO61/view?usp=sharing) -->
 
 
 ## Canais de acesso
