@@ -45,7 +45,7 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
   <!--- Conteúdo: campos vetoriais; integrais de linha; Teorema fundamental para integrais de linha; Teorema de Green-->
   - Conteúdo: campos vetoriais; integrais de linha; Teorema fundamental para integrais de linha; Teorema de Green; rotacional e divergente; superfícies parametrizadas; áreas de superfícies parametrizadas
   - Valor: 10,0 pontos
-  - **Data: ---23/12/22 (sexta-feira)--- adiado para 25/01/21 (quarta-feira)**
+  - **Data: <strike>23/12/22 (sexta-feira)</strike> adiado para 25/01/21 (quarta-feira)**
 - **Prova 3**
   <!--- Conteúdo: rotacional e divergente; superfícies parametrizadas; áreas de superfícies parametrizadas; integrais de superfície; Teorema de Stokes; Teorema do divergente-->
   - Conteúdo: integrais de superfície; Teorema de Stokes; Teorema do divergente
