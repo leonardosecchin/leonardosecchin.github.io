@@ -118,7 +118,7 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
 1. Tópicos variados em otimização não linear. Uma referência é o livro “Numerical Optimization” de Nocedal e Wright
 1. Gradiente espectral para otimização com caixas e 1 restrição linear ([ref](http://www.optimization-online.org/DB_FILE/2019/06/7256.pdf))
 1. Problemas não convexos com estrutura em blocos e restrição de acoplamento ([ref](https://arxiv.org/pdf/2112.09027.pdf))
-1. Comparação entre métodos tipo gradientes conjugados ([um exemplo](https://doi.org/10.3934/math.2023128))
+1. Comparação entre métodos tipo gradientes conjugados ([ref 1](https://doi.org/10.3934/math.2023128), [ref 2](https://assets.researchsquare.com/files/rs-2427275/v1/6b9ec5d3aa880cf7232956cc.pdf?c=1672923085))
 
 
 ## Modelos não oficiais em Latex
