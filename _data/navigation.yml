@@ -13,7 +13,7 @@ main:
     url: ic/
     
   - title: "Servidor Otim."
-    url: server/
+    url: https://otimizacaoufes.github.io
     
   - title: "Misc."
     url: misc/

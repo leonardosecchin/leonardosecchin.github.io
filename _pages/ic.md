@@ -102,6 +102,17 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
    Aluna: Cintia Cassa Libardi
 
 
+## Recursos computacionais para realização dos trabalhos ##
+
+Os(As) estudantes de IC e TCC têm a sua disposição o [laboratório de Matemática Computacional (LABMAT)](https://matematicaaplicada.saomateus.ufes.br/laboratorios) para realização de seus trabalhos.
+
+O grupo de otimização da UFES, campus São Mateus, disponha de um computador de bom desempenho para realização de pesquisas. O acesso é remoto e está disponível ininterruptamente. Quando o trabalho de IC/TCC requerer testes computacionais mais robustos, de longa duração, o(a) estudante poderá ter uma conta para acesso ao computador do grupo de pesquisa.
+
+Para mais informações, incluindo instruções para acesso, visite
+
+### [https://otimizacaoufes.github.io](https://otimizacaoufes.github.io)
+
+
 ## Sugestões de temas/projetos
 
 1. Métodos baseados em Lanczos para resolução de problemas de regiões de confiança ([ref](https://epubs.siam.org/doi/abs/10.1137/S1052623497322735?journalCode=sjope8) ou [ref](https://www.researchgate.net/publication/2263739_Solving_the_Trust-Region_Subproblem_using_the_Lanczos_Method))
