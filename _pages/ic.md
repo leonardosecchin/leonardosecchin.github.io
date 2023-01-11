@@ -60,6 +60,17 @@ Há possibilidade de bolsa(s), a depender da disponibilidade de recursos da UFES
 O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é disciplina obrigatória dos cursos de graduação, mas não é necessária a matrícula para iniciar a orientação. Na verdade, é desejável que o estudo inicie um ano antes da colação de grau.
 
 
+## Recursos computacionais para realização dos trabalhos
+
+Os(As) estudantes de IC e TCC têm a sua disposição o [laboratório de Matemática Computacional (LABMAT)](https://matematicaaplicada.saomateus.ufes.br/laboratorios) para realização de seus trabalhos.
+
+O grupo de otimização da UFES, campus São Mateus, disponha de um computador de bom desempenho para realização de pesquisas. O acesso é remoto e está disponível ininterruptamente. Quando o trabalho de IC/TCC requerer testes computacionais mais robustos, de longa duração, o(a) estudante poderá ter uma conta para acesso ao computador do grupo de pesquisa.
+
+Para mais informações, incluindo instruções para acesso, visite
+
+### [https://otimizacaoufes.github.io](https://otimizacaoufes.github.io)
+
+
 ## Orientações
 
 ### em andamento
@@ -100,17 +111,6 @@ O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é dis
    [Resumo do projeto](/files/ic-tcc/relatorio_IC_Rodrigo.pdf)
 1. 2012 (IC). Utilização de um Algoritmo Genético para Solução de Problemas em Engenharia  
    Aluna: Cintia Cassa Libardi
-
-
-## Recursos computacionais para realização dos trabalhos ##
-
-Os(As) estudantes de IC e TCC têm a sua disposição o [laboratório de Matemática Computacional (LABMAT)](https://matematicaaplicada.saomateus.ufes.br/laboratorios) para realização de seus trabalhos.
-
-O grupo de otimização da UFES, campus São Mateus, disponha de um computador de bom desempenho para realização de pesquisas. O acesso é remoto e está disponível ininterruptamente. Quando o trabalho de IC/TCC requerer testes computacionais mais robustos, de longa duração, o(a) estudante poderá ter uma conta para acesso ao computador do grupo de pesquisa.
-
-Para mais informações, incluindo instruções para acesso, visite
-
-### [https://otimizacaoufes.github.io](https://otimizacaoufes.github.io)
 
 
 ## Sugestões de temas/projetos
