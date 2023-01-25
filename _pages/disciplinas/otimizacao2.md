@@ -45,8 +45,7 @@ author_profile: true
 - [LISTA 4 - Programação quadrática sequencial e dualidade](https://drive.google.com/file/d/1QwVVJgkS-7Ilkk0t4JLriD4o80S3Dmzw/view?usp=sharing)
   - [Código exemplo de uso do WORHP no Julia](/files/otim2/ex6_worhp.jl)
 - [LISTA 5 - Quadrados mínimos](https://drive.google.com/file/d/1YNKAcZT793tiR2xSp0y42tyErvcfZabl/view?usp=sharing)
-  <!--- [Código Julia do método de Gauss-Newton](/files/otim2/gaussnewton.zip)-->
-  - Código Julia do método de Gauss-Newton
+  - [Código Julia do método de Gauss-Newton](/files/otim2/gaussnewton.zip)
 <!-- - [TRABALHO COMPUTACIONAL 1 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing) -->
 <!-- - [TRABALHO COMPUTACIONAL 2 - Método de pontos interiores aplicado à programação linear](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing) -->
 
