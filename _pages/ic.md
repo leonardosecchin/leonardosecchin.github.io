@@ -66,9 +66,7 @@ Os(As) estudantes de IC e TCC têm a sua disposição o [laboratório de Matemá
 
 O grupo de otimização da UFES, campus São Mateus, disponha de um computador de bom desempenho para realização de pesquisas. O acesso é remoto e está disponível ininterruptamente. Quando o trabalho de IC/TCC requerer testes computacionais mais robustos, de longa duração, o(a) estudante poderá ter uma conta para acesso ao computador do grupo de pesquisa.
 
-Para mais informações, incluindo instruções para acesso, visite
-
-### [https://otimizacaoufes.github.io](https://otimizacaoufes.github.io)
+Para mais informações, incluindo instruções para acesso, visite [https://otimizacaoufes.github.io](https://otimizacaoufes.github.io).
 
 
 ## Orientações
@@ -76,42 +74,42 @@ Para mais informações, incluindo instruções para acesso, visite
 ### em andamento
 
 1. 2022-2023 (IC). Métodos de pontos interiores para programação linear e quadrática  
-   Aluna: Carolina Martinelli  
-   [Resumo do projeto](/files/ic-tcc/resumoIC_ptoint.pdf)
+   Estudante: Carolina Martinelli  
+   [[Resumo do projeto](/files/ic-tcc/resumoIC_ptoint.pdf)]
 1. 2022-2023 (IC). O método do gradiente espectral projetado e variantes para minimização com restrições convexas  
-   Aluno: Pedro Henrique Fischer Ferreira  
-   [Resumo do projeto](/files/ic-tcc/resumoIC_espectral.pdf)
+   Estudante: Pedro Henrique Fischer Ferreira  
+   [[Resumo do projeto](/files/ic-tcc/resumoIC_espectral.pdf)]
 
 ### concluídas
 
 1. 2022 (TCC). [Métodos computacionais para otimização irrestrita e com restrições simples adequados a problemas de larga escala](/files/ic-tcc/TCC_Elivandro_Grippa.pdf)  
-   Aluno: Elivandro Oliveira Grippa  
+   Estudante: Elivandro Oliveira Grippa  
 1. 2021 (TCC). [Métodos de otimização para aprendizado de máquina supervisionado e aplicações](/files/ic-tcc/TCC_Matheus_Becali.pdf)  
-   Aluno: Matheus Becali Rocha  
+   Estudante: Matheus Becali Rocha  
 1. 2021 (IC). Variantes do método do gradiente para otimização irrestrita  
-   Aluno: Elivandro Oliveira Grippa  
-   [Resumo do projeto](/files/ic-tcc/resumoIC_variantes_gradiente.pdf)   [Relatório final da pesquisa](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_16855_relatorio_final_Elivandro.pdf)
+   Estudante: Elivandro Oliveira Grippa  
+   [[Resumo do projeto](/files/ic-tcc/resumoIC_variantes_gradiente.pdf)] [[Relatório final da pesquisa](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_16855_relatorio_final_Elivandro.pdf)]
 1. 2021 (IC). Introdução à otimização aplicada ao aprendizado de máquina supervisionado  
-   Aluno: Matheus Becali Rocha  
-   [Resumo do projeto](/files/ic-tcc/resumoIC_aprendizado_maquina.pdf)   [Relatório final da pesquisa](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_16831_modelo_de_relatorio_final.pdf)
+   Estudante: Matheus Becali Rocha  
+   [[Resumo do projeto](/files/ic-tcc/resumoIC_aprendizado_maquina.pdf)] [[Relatório final da pesquisa](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_16831_modelo_de_relatorio_final.pdf)]
 1. 2021 (TCC). [Uma condição sequencial de otimalidade em otimização não linear e sua aplicação a um método lagrangiano aumentado](/files/ic-tcc/TCC_Thiago_Mantegazini.pdf)  
-   Aluno: Thiago Mantegazini
+   Estudante: Thiago Mantegazini
 1. 2020 (IC). Métodos e formulações para o problema de *layout* em fila dupla  
-   Aluno: Manoel de Almeida Rocha Neto  
-   [Resumo do projeto](/files/ic-tcc/resumoIC_drlp.pdf)   [Relatório final da pesquisa](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_15168_relatorio_final.pdf)
+   Estudante: Manoel de Almeida Rocha Neto  
+   [[Resumo do projeto](/files/ic-tcc/resumoIC_drlp.pdf)] [[Relatório final da pesquisa](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_15168_relatorio_final.pdf)]
 1. 2014 (TCC). [Problemas de escalonamento](/files/ic-tcc/TCC_Rafael_Marin.pdf)  
-   Aluno: Rafael Marin Permanhane
+   Estudante: Rafael Marin Permanhane
 1. 2014 (TCC). [O problema da elaboração de grade de horários via Programação Inteira](/files/ic-tcc/TCC_Rodrigo_Leppaus.pdf)  
-   Aluno: Rodrigo Leppaus de Araujo
+   Estudante: Rodrigo Leppaus de Araujo
 1. 2013 (IC). O Problema de Alocação de Horários via Programação Inteira  
-   Aluno: Rafael Marin Permanhane  
-   [Resumo do projeto](/files/ic-tcc/relatorio_IC_Rafael.pdf)   [Relatório final da pesquisa](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_4479_relatorio.pdf)
+   Estudante: Rafael Marin Permanhane  
+   [[Resumo do projeto](/files/ic-tcc/relatorio_IC_Rafael.pdf)] [[Relatório final da pesquisa](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_4479_relatorio.pdf)]
 1. 2012 (IC). Programação Inteira: Teoria e Algoritmos  
-   Aluno: Rodrigo Leppaus de Araujo  
-   [Resumo do projeto](/files/ic-tcc/relatorio_IC_Rodrigo.pdf)   [Relatório final da pesquisa](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_3853_relatorioIC.pdf)
+   Estudante: Rodrigo Leppaus de Araujo  
+   [[Resumo do projeto](/files/ic-tcc/relatorio_IC_Rodrigo.pdf)] [[Relatório final da pesquisa](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_3853_relatorioIC.pdf)]
 1. 2012 (IC). Utilização de um Algoritmo Genético para Solução de Problemas em Engenharia  
-   Aluna: Cintia Cassa Libardi  
-   [Relatório final da pesquisa](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_3871_RelatorioFinal_Cintia.pdf)
+   Estudante: Cintia Cassa Libardi  
+   [[Relatório final da pesquisa](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_3871_RelatorioFinal_Cintia.pdf)]
 
 
 ## Sugestões de temas/projetos
