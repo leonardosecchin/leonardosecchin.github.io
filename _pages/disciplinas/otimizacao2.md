@@ -94,9 +94,9 @@ author_profile: true
   - Entregar resolução escrita à mão ou escaneadas para o email secchinleo@gmail.com. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
   - O trabalho é individual. Cópias receberão nota zero.
 - **Avaliação 3**
-  - Conteúdo: ---
+  - Conteúdo: todo o conteúdo
   - Valor: 10,0 pontos
-  - **Data: ---**
+  - **Data: 08/02/23, horário da aula**
 - **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
