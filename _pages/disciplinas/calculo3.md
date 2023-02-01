@@ -56,6 +56,9 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
     - Data de entrega: até **16/12/22**
   - *2a LISTA:* exercícios 1, 2, 9 a 11 (seção 16.5); 20, 22, 23, 41, 44, 46 (seção 16.6).
     - Data de entrega: até **23/12/22**
+  - *3a LISTA:* exercícios 22, 25, 43 (seção 16.7); 1, 3, 8 (seção 16.8); 5, 11, 14, 17 (seção 16.9).
+    - Data de entrega: até **10/02/23**
+    - *Obs: no livro, "curl F" é o campo rotacional "rot F"*
   - *As listas deverão ser feitas à mão e entregues escaneadas por email ou presencialmente*
   - *OS EXERCÍCIOS SÃO DA EDIÇÃO 7 DO LIVRO DO STEWART*
 - **PROVA FINAL**
