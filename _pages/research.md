@@ -17,6 +17,10 @@ author_profile: true
 
 ## Submitted articles
 
+1. **Secant-type method with feasible inexact projection for solving constrained mixed generalized equations**  
+   P. C. da Silva Junior, O. P. Ferreira, L. D. Secchin, G. N. Silva  
+   2023
+
 1. **On enhanced KKT optimality conditions for smooth nonlinear optimization** [[preprint](https://optimization-online.org/?p=21206)]  
    R. Andreani, M. L. Schuverdt, L. D. Secchin  
    2022
