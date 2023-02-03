@@ -50,7 +50,8 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
   <!--- Conteúdo: rotacional e divergente; superfícies parametrizadas; áreas de superfícies parametrizadas; integrais de superfície; Teorema de Stokes; Teorema do divergente-->
   - Conteúdo: integrais de superfície; Teorema de Stokes; Teorema do divergente
   - Valor: 10,0 pontos
-  - **Data: 10/02/23 (sexta-feira)**
+  - A PROVA 3 CONSISTIRÁ NA 3a LISTA DE EXERCÍCIOS. VEJA ABAIXO.
+  <!--- **Data: 10/02/23 (sexta-feira)**-->
 - **Listas de exercícios que comporão parte da nota**
   - *1a LISTA:* exercícios 7, 22, 32(a), 45 (seção 16.2); 12, 16 (seção 16.3); 5, 10, 13 (seção 16.4)
     - Data de entrega: até **16/12/22**
