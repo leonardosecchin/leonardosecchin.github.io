@@ -23,8 +23,6 @@ author_profile: true
 *   Anton, Rorres. Álgebra Linear com aplicações. 10a edição, Bookman.
 *   Steinbruch, Winterle. Álgebra Linear. Pearson.
 
-<!--## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=15252)-->
-
 <!--## AVALIAÇÕES
 
 *   **1a prova**

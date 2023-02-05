@@ -16,11 +16,6 @@ author_profile: true
 Ementa variável.
 
 
-## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=16373)
-
-- Notas das atividades e **aulas gravadas** serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos.
-
-
 ## TÓPICO 1: Métodos de pontos interiores para programação linear
 
 **Conteúdo:**

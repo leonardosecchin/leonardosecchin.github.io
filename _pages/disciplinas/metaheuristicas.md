@@ -10,13 +10,16 @@ author_profile: true
 - --<!--Quintas-feiras de 7:30 as 8:30-->
 - --<!--Terças-feiras de 11:00 as 12:00-->
 
+
 ## Ementa
 
 Ementa variável.
 
+
 ## Conteúdo
 
 Principais metaheurísticas usadas na literatura recente (algoritmos genéticos, simulated annealing, busca tabu, colônia de formigas, outras metaheurísticas bio-inspiradas, GRASP, dentre outras).
+
 
 ## Textos de referência
 
@@ -25,28 +28,25 @@ Principais metaheurísticas usadas na literatura recente (algoritmos genéticos,
 *   Dréo, Pétrowski, Siarry e Taillard – Metaheuristics for Hard Optimization. Springer, 2005
 *   [Meta-heurísticas em Pesquisa Operacional](http://omnipax.com.br/site/?page_id=220) ([PDF disponível](http://omnipax.com.br/livros/2013/MHPO/mhpo-livro.pdf))
 
-## ATENÇÃO: Turma 2020/2E
-
-No segundo semestre letivo especial de 2020, as informações, material de estudo, tarefas, avaliações e aulas gravadas estarão disponíveis pelo Ambiente Virtual de Aprendizagem (AVA-UFES), [NESTE LINK](https://ava.ufes.br/course/view.php?id=16083). O(a) aluno(a) deverá fazer login com sua senha do portal do aluno para ter acesso ao curso.
-
-Se você é aluno(a) da disciplina e não consegue ter acesso ao AVA-UFES, solicite acesso enviando email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo seu **nome completo** e **endereço de email @edu.ufes.br**.
 
 ## Formas de avaliação
 
 Serão aplicadas no mínimo duas avaliações, dentre testes dissertativos, apresentações de seminários e/ou desenvolvimento de projetos. A média parcial para aprovação é sete, e final, cinco.
+
 
 ## Critérios de avaliação
 
 - Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
 - Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a).
 
-## Cálculo da média parcial
+
+<!--## Cálculo da média parcial
 
 Igual ao **máximo** entre 10,0 e a média ponderada das atividades e apresentações:
 
 (  (atividade 1)*1,0  +  (atividade 2)*2,0  +  (atividade 3)*3,0  +   média apres)*5,0  ) / 11
 
-Assim, a nota final é no máximo 10, mesmo que a média das apresentações seja > 10.
+Assim, a nota final é no máximo 10, mesmo que a média das apresentações seja > 10.-->
 
 
 # MATERIAIS PARA AS AULAS
