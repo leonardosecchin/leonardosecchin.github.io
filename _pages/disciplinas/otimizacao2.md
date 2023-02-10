@@ -99,7 +99,7 @@ author_profile: true
 - **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
-  - **Data: ---**
+  - **Data: 15/02/23**
 
 ## Critérios para aprovação
 
