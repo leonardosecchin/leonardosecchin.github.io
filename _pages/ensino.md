@@ -5,12 +5,12 @@ permalink: /ensino/
 author_profile: true
 ---
 
-## DISCIPLINAS 2022/2
+## DISCIPLINAS 2023/1
 
-- [**Cálculo 3**  
-  (Matemática Industrial, Engenharias e Ciência da Computação)](/calculo3/)
-- [**Otimização 2**  
-  (Matemática Industrial)](/otimizacao2/)
+- [**Otimização 1**  
+  (Matemática Industrial)](/otimizacao1/)
+- [**Metaheurísticas**  
+  (Matemática Industrial)](/metaheuristicas/)
 
 ## A linguagem de programação Julia
 

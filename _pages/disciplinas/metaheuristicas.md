@@ -5,15 +5,22 @@ permalink: /metaheuristicas/
 author_profile: true
 ---
 
-## Horários das aulas síncronas
+## Horários das aulas
 
-- --<!--Quintas-feiras de 7:30 as 8:30-->
-- --<!--Terças-feiras de 11:00 as 12:00-->
+- Quintas-feiras de 13:00 as 15:00 (LABMAT / Sala 08 Eixo 3)
+- Sextas-feiras de 13:00 as 15:00 (LABMAT / Sala 11 Eixo 1)
 
 
 ## Ementa
 
-Ementa variável.
+Consulte Projeto Pedagógico do [Curso](https://matematicaindustrial.saomateus.ufes.br).
+
+
+## Objetivos da disciplina
+
+- Estudar as principais (meta)heurísticas usadas para resolver problemas de otimização contínua e combinatória
+- Aplicar as técnicas em problemas conhecidos da literatura e encontrados na indústria
+- Na medida do possível, estudar e reproduzir testes computacionais de artigos científicos sobre o tema, publicados em periódicos
 
 
 ## Conteúdo
