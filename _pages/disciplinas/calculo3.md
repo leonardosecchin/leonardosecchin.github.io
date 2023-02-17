@@ -40,32 +40,19 @@ Veja a página do [Departamento de Matemática Aplicada](http://matematicaaplica
 - **Prova 1**
   - Conteúdo: integrais duplas e triplas; cálculo de áreas; integrais duplas em coordenadas polares; integrais triplas em coordenadas cilíndricas e esféricas; mudança de variáveis em integrais múltiplas
   - Valor: 10,0 pontos
-  - **Data: 18/11/22 (sexta-feira)**
+  - **Data: --**
 - **Prova 2**
-  <!--- Conteúdo: campos vetoriais; integrais de linha; Teorema fundamental para integrais de linha; Teorema de Green-->
-  - Conteúdo: campos vetoriais; integrais de linha; Teorema fundamental para integrais de linha; Teorema de Green; rotacional e divergente; superfícies parametrizadas; áreas de superfícies parametrizadas
+  - Conteúdo: campos vetoriais; integrais de linha; Teorema fundamental para integrais de linha; Teorema de Green
   - Valor: 10,0 pontos
-  - **Data: <strike>23/12/22 (sexta-feira)</strike> adiado para 25/01/23 (quarta-feira)**
+  - **Data: --**
 - **Prova 3**
-  <!--- Conteúdo: rotacional e divergente; superfícies parametrizadas; áreas de superfícies parametrizadas; integrais de superfície; Teorema de Stokes; Teorema do divergente-->
-  - Conteúdo: integrais de superfície; Teorema de Stokes; Teorema do divergente
+  - Conteúdo: rotacional e divergente; superfícies parametrizadas; áreas de superfícies parametrizadas; integrais de superfície; Teorema de Stokes; Teorema do divergente
   - Valor: 10,0 pontos
-  - A PROVA 3 CONSISTIRÁ NA 3a LISTA DE EXERCÍCIOS. VEJA ABAIXO.
-  <!--- **Data: 10/02/23 (sexta-feira)**-->
-- **Listas de exercícios que comporão parte da nota**
-  - *1a LISTA:* exercícios 7, 22, 32(a), 45 (seção 16.2); 12, 16 (seção 16.3); 5, 10, 13 (seção 16.4)
-    - Data de entrega: até **16/12/22**
-  - *2a LISTA:* exercícios 1, 2, 9 a 11 (seção 16.5); 20, 22, 23, 41, 44, 46 (seção 16.6).
-    - Data de entrega: até **23/12/22**
-  - *3a LISTA:* exercícios 22, 25, 43 (seção 16.7); 1, 3, 8 (seção 16.8); 5, 11, 14, 17 (seção 16.9).
-    - Data de entrega: até **10/02/23**
-    - *Obs: no livro, "curl F" é o campo rotacional "rot F"*
-  - *As listas deverão ser feitas à mão e entregues escaneadas por email ou presencialmente*
-  - *OS EXERCÍCIOS SÃO DA EDIÇÃO 7 DO LIVRO DO STEWART*
+  - **Data: --**
 - **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
-  - **Data: 15/02/23 (quarta-feira)**
+  - **Data: --**
 
 ### Critérios para aprovação
 
