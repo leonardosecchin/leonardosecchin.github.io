@@ -113,12 +113,6 @@ function pdafimescala(A,b,c; maxit=100, eps=1e-8, tau=0.99995, epsz=30, saidas=t
     # A permutação usada internamente por cholesky é gravada em C.p.
     # Assim, temos
     #   G*G' = (A*A')[C.p,C.p]
-    # Dado um vetor v,
-    #   v[C.p]
-    # retorna P'*v. Para retornar P*v, precisamos da permutação
-    # inversa de C.p:
-    invpAMD = Vector(1:m)
-    invpAMD[pAMD] = Vector(1:m)
 
 
     #####################
@@ -182,7 +176,7 @@ function pdafimescala(A,b,c; maxit=100, eps=1e-8, tau=0.99995, epsz=30, saidas=t
         end
 
         # Parar com sucesso?
-        if KKT < eps
+        if KKT <= eps
             println("\n--- SOLUÇÃO ENCONTRADA! ---")
             status = 0
 
@@ -226,9 +220,8 @@ function pdafimescala(A,b,c; maxit=100, eps=1e-8, tau=0.99995, epsz=30, saidas=t
 
         # G será o fator de Cholesky triangular INFERIOR
         # Portanto temos GG' = P'(ADA')P.
-        G  = sparse(C.L)
-
-        # (ADA') dy = rp + AD(rd - X^-1 rc)
+        #
+        # (ADA') dy = rp + AD(rd - X^-1 rc)   (1)
         #        dx = D(A'dy - rd + X^-1 rc)
         #        dz = X^-1 (rc - Zdx)
         # Temos GG' = P'(ADA')P. Resolvemos então
@@ -236,9 +229,11 @@ function pdafimescala(A,b,c; maxit=100, eps=1e-8, tau=0.99995, epsz=30, saidas=t
         # (ii)   dy = Ph
         rcx = rc./x                    # rcx = X^-1 rc
         r   = rd - rcx                 # r  = rd - X^-1 rc
-        s   = G\(rp + AD*r)[pAMD]      # Gs = P'(rp + AD(rd - X^-1 tc))
-        tdy = G'\s                     # G' tdy = s
-        dy  = tdy[invpAMD]             # dy = P tdy
+        # No Julia, a estrutura C da fatoração Cholesky pode ser
+        # usada diretamente para resolver o sistema linear (1).
+        # Julia resolve internamente os sistemas triangulares (i)
+        # e (ii) de forma eficiente!
+        dy  = C\(rp + AD*r)
         dx  = AD'*dy - D.*r
         dz  = rcx - (dx.*z)./x
 
