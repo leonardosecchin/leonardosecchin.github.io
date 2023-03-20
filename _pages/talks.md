@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2023
 
-- [**Uma condição prática de otimalidade de segunda ordem para problemas com restrições de cardinalidade**](https://drive.google.com/file/d/1PzLibbBuLX10P4_aagfIVNzl7Mas7jYO/view?usp=sharing)  
+- [**Uma condição prática de otimalidade de segunda ordem para problemas com restrições de cardinalidade**](https://drive.google.com/file/d/1PzLibbBuLX10P4_aagfIVNzl7Mas7jYO/view?usp=sharing) *(in portuguese)*  
   XV Simpósio de Análise Numérica e Otimização PPGM/UFPR (web), 2023
 
 ## 2022
