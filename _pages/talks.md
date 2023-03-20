@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+## 2023
+
+- [**Uma condição prática de otimalidade de segunda ordem para problemas com restrições de cardinalidade**](https://drive.google.com/file/d/1PzLibbBuLX10P4_aagfIVNzl7Mas7jYO/view?usp=sharing)  
+  XV Simpósio de Análise Numérica e Otimização PPGM/UFPR (web), 2023
+
 ## 2022
 
 - [**Recent advances in augmented Lagrangian methods**](https://drive.google.com/file/d/1Jjqpk2s0lMWVttlhIUadJjgOudH76bb9/view?usp=sharing)  
