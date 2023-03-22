@@ -72,6 +72,9 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 *   [Apresentação](https://drive.google.com/file/d/1FPcIovf5He-djx_NMJut9Ki1bBvw40vX/view?usp=sharing)
 
+## Pacotes
+
+- **Metaheuristics.jl:** implementação em Julia de várias metaheurísticas. [site do desenvolvedor](https://github.com/jmejia8/Metaheuristics.jl)
 
 ## O problema do caixeiro viajante (Travelling Salesman Problem - TSP)
 
