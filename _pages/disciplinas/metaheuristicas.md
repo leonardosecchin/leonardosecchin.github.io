@@ -58,20 +58,19 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 # MATERIAIS PARA AS AULAS
 
-## Linguagens de programação
+<!--## Linguagens de programação
 
 *   Os códigos e as aulas serão baseados em códigos **Octave**.
     - Em distrituições GNU/Linux como Ubuntu e Mint, Octave está disponível via repositório. Você deverá instalar o pacote principal ``octave``. Comandos específicos estão disponíveis em outros pacotes com nomes ``octave-X``, tais como ``octave-optim`` (algoritmos para otimização irrestrita), ``octave-nlopt`` (algoritmos para otimização restrita), ``octave-ga`` (um algoritmo genético pronto), e muitos outros. Instale os pacotes que for usar (aqueles necessários no curso serão indicados).
     - No Windows, você pode baixar o Octave [neste link](https://www.gnu.org/software/octave/index).
     - [**Documentação do Octave**](https://www.gnu.org/software/octave/doc/latest).
 
-*   Outras linguagens podem ser usadas, como o Python. Uma outra opção é o Julia. Você pode encontrar instruções de instalação e uso [neste link](/julia/). Se for usar outras linguagens, tente não ser muito exótico(a) ;)
+*   Outras linguagens podem ser usadas, como o Python. Uma outra opção é o Julia. Você pode encontrar instruções de instalação e uso [neste link](/julia/). Se for usar outras linguagens, tente não ser muito exótico(a) ;)-->
 
 
 ## Apresentação
 
-*   Apresentação (slides no AVA)
-*   **Atividade 1 para entrega** (veja o AVA)
+*   [Apresentação](https://drive.google.com/file/d/1FPcIovf5He-djx_NMJut9Ki1bBvw40vX/view?usp=sharing)
 
 
 ## O problema do caixeiro viajante (Travelling Salesman Problem - TSP)
