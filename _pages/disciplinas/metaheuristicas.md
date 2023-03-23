@@ -75,9 +75,9 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 - **ATIVIDADE para a semana entre 27/03 e 31/03**, a ser discutida entre todos na aula do dia 06/04  
     Pesquise metaheurísticas na internet/artigos. Para cada metaheurística encontrada, faça uma descrição contendo:
     - A inspiração (fenômeno físico, natural, animal etc)
-    - Em qual(is) problema(s) foi aplicada, envidenciando se o problema é de otimização contínua (variáveis todas contínuas) ou combinatória
+    - Em qual(is) problema(s) foi aplicada, evidenciando se o problema é de otimização contínua (variáveis todas contínuas) ou combinatória
     - Uma descrição sucinta do funcionamento do algoritmo
-    - Não esqueça de indicar a referância da qual retirou as informações!
+    - Não esqueça de indicar a referência da qual retirou as informações!
 
 
 ## Pacotes
