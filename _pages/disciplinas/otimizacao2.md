@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-- Quartas-feiras de 14:00 as 16:00 (Sala 02 E1)
-- Sextas-feiras de 13:00 as 15:00 (Sala 02 E1)
+- ---
+- ---
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
 
@@ -80,7 +80,7 @@ author_profile: true
 
 ## Avaliações
 
-- **Avaliação 1**
+<!--- **Avaliação 1**
   - Tarefas: exercícios 5 e 7 da [lista 0](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing); exercícios 1, 3, 4, 5, 6, 7 da [lista 1](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing)
   - Valor: 10,0 pontos
   - **Data limite: 30/11/22**
@@ -99,7 +99,7 @@ author_profile: true
 - **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
-  - **Data: 15/02/23**
+  - **Data: 15/02/23**-->
 
 ## Critérios para aprovação
 

@@ -84,6 +84,8 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 - **Metaheuristics.jl:** implementação em Julia de várias metaheurísticas. [site do desenvolvedor](https://github.com/jmejia8/Metaheuristics.jl)
 
+**Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados, baixe [ESTE SCRIPT](/files/metaheu/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
+
 ## O problema do caixeiro viajante (Travelling Salesman Problem - TSP)
 
 Todos os códigos apresentados neste curso são feitos para resolver o problema do caixeiro viajante (em inglês, *Travelling Salesman Problem* - TSP). Desta forma, podemos focar nos métodos. o TSP é um problema clássico e de difícil resolução. Ele servirá como "saco de pancadas" para os métodos.
