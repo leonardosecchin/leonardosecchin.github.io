@@ -35,4 +35,5 @@ sudo apt install gfortran g++ gcc libopenblas-dev -y
 ~/julia-1.8.5/bin/./julia -e 'using Pkg;
 Pkg.update();
 Pkg.add("Metaheuristics");
-Pkg.add("TSPLIB");'
+Pkg.add("TSPLIB");
+Pkg.add("Plots");'

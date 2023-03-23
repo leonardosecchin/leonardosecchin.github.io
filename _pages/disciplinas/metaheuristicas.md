@@ -80,57 +80,57 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
     - Não esqueça de indicar a referência da qual retirou as informações!
 
 
-## Pacotes
+## Pacotes Julia
 
-- **Metaheuristics.jl:** implementação em Julia de várias metaheurísticas. [site do desenvolvedor](https://github.com/jmejia8/Metaheuristics.jl)
+- **Metaheuristics.jl:** implementação em Julia de várias metaheurísticas. [site](https://github.com/jmejia8/Metaheuristics.jl)
+- **TSPLIB.jl:** instâncias da biblioteca TSPLIB (problema do caixeiro viajante) prontas em Julia [site](https://github.com/matago/TSPLIB.jl). Veja tópico abaixo para detalhes.
 
 **Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados, baixe [ESTE SCRIPT](/files/metaheu/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
+
 ## O problema do caixeiro viajante (Travelling Salesman Problem - TSP)
 
-Todos os códigos apresentados neste curso são feitos para resolver o problema do caixeiro viajante (em inglês, *Travelling Salesman Problem* - TSP). Desta forma, podemos focar nos métodos. o TSP é um problema clássico e de difícil resolução. Ele servirá como "saco de pancadas" para os métodos.
+O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Problem* - TSP) serve como "saco de pancadas" para testarmos as implementações. O TSP é simples de entender, portanto não requer conhecimento profundo para começar a testar as metaheurísticas. Além disso, é um problema clássico e de difícil resolução, logo 
 - [Uma apresentação do TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 - [Slides de M.A.M. Carvalho (UFOP)](http://www.decom.ufop.br/marco/site_media/uploads/pcc104/antigo_21_aula_21.pdf)
-- [Instâncias para testes - Biblioteca TSPLIB](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsplib.html) ([outro link](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/))
+- Instâncias para testes - Biblioteca TSPLIB 
     - As instâncias que utilizaremos estão na seção **"Symmetric traveling salesman problem"** do link acima. O termo "simétrico" quer dizer que o custo $c_{ij}$ para ir da cidade $i$ à cidade $j$ é o mesmo que da volta $j$ para $i$. Isto é, $c_{ij}=c_{ji}$ para todos $i\neq j$. Isso fornece uma matriz de custos simétrica, daí o nome.
     - Na TSPLIB você encontrará outros tipos de instâncias, como as que servem para problemas de roteamento de veículos com capacidade nos arcos. Não as usaremos neste curso, fica como dica se você precisar de boas instâncias em seus estudos futuros!
-    - [Referência oficial](https://doi.org/10.1287/ijoc.3.4.376) da TSPLIB.
-- **IMPORTANTE:** Somente instâncias definidas pela localização das cidades no plano são suportadas pelos códigos Octave/Matlab do curso (TSP Euclideano). Um exemplo é a instância `berlin52.tsp`. Neste caso, as linhas que não contém localização de cidades nos arquivos `.tsp` devem ser excluídas para funcionar.
-    - Para facilitar, [este link](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view?usp=sharing) contém algumas instâncias já editadas para os códigos Octave/Matlab.
-    - Se você usa o Julia, existe um pacote em fase de testes para leitura de arquivos `.tsp` [neste link](https://github.com/matago/TSPLIB.jl).
+    - **IMPORTANTE:** para termos foco, vamos considerar apenas instâncias cujo custo entre cidades é a distância Euclideana entre elas. Para saber se uma instância `tsp` proveniente do pacote `TSPLIB.jl` é deste tipo, verifique se `tsp.weight_type` é "EUC_2D"
+    - Por curiosidade, as referências oficiais da TSPLIB são [este artigo](https://doi.org/10.1287/ijoc.3.4.376) e [arquivos originais](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/)
 - Visualização [on line](https://tspvis.com/) do funcionamento de algoritmos para o TSP.
 
 
 ## Busca Tabu (Tabu Search - TS)
 
-- **[Código Matlab/Octave](https://drive.google.com/file/d/1umgrhf6QrPpQtbnYkpACRtFQCwJWKoK_/view?usp=sharing) (código comentado)**  
+<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1umgrhf6QrPpQtbnYkpACRtFQCwJWKoK_/view?usp=sharing) (código comentado)**  
     _Fonte: [http://yarpiz.com/243/ypea116-tabu-search](http://yarpiz.com/243/ypea116-tabu-search)_
 - Referência: cap 2 do livro de Glover
 - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
-- Curiosidade: busque no Google “tabu search papers” e veja a quantidade de pesquisa usando a técnica!
+- Curiosidade: busque no Google “tabu search papers” e veja a quantidade de pesquisa usando a técnica!-->
 
 ## Simulated Annealing (SA)
 
-- **[Código Matlab/Octave](https://drive.google.com/file/d/1HADurl67sMhoggwrzxWhSWyfGPKVPjhT/view?usp=sharing) (código comentado)**  
+<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1HADurl67sMhoggwrzxWhSWyfGPKVPjhT/view?usp=sharing) (código comentado)**  
     _Fonte: [http://yarpiz.com/223/ypea105-simulated-annealing](http://yarpiz.com/223/ypea105-simulated-annealing)_  
     _Obs: o pacote `octave-statistics` é necessário para este código_
 - Referência: cap 10 do livro de Glover
-- [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
+- [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)-->
 
 
 ## Colônia de formigas (Ant Colony Optimization - ACO)
 
-- **[Código Matlab/Octave](https://drive.google.com/file/d/1cQ5wtYWb1_JscJSKOG6YiHG5wYY-Vapg/view?usp=sharing) (código comentado)**  
+<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1cQ5wtYWb1_JscJSKOG6YiHG5wYY-Vapg/view?usp=sharing) (código comentado)**  
     *Fonte: [http://yarpiz.com/53/ypea103-ant-colony-optimization](http://yarpiz.com/53/ypea103-ant-colony-optimization)*
 - Referências:
     - cap 9 do livro de Glover
     - Dorigo; Caro. Ant colony optimization: a new meta-heuristic. [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
-- [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
+- [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)-->
 
 
 ## Evolução Diferencial (Differential Evolution - DE)
 
-- **[Código Matlab/Octave](https://drive.google.com/file/d/12NKXXIfaK94O4ei6N2qjcqvjftKJu4Hm/view?usp=sharing) (código comentado)**  
+<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/12NKXXIfaK94O4ei6N2qjcqvjftKJu4Hm/view?usp=sharing) (código comentado)**  
     _Fonte: [http://yarpiz.com/231/ypea107-differential-evolution](http://yarpiz.com/231/ypea107-differential-evolution)_
 - [Artigo que definiu o método, pela primeira vez](https://link.springer.com/article/10.1023/A:1008202821328) (baixe pela universidade)
 - [**Slides de Kelly Fleetwood**](http://www.maths.uq.edu.au/MASCOS/Multi-Agent04/Fleetwood.pdf)** (exclusivamente sobre evolução diferencial)**
@@ -139,35 +139,34 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
     - [Artigo 2](https://www.springer.com/la/book/9781849961288)
     - **Um livro somente sobre Evolução Diferencial: **[**Feoktistov, Vitaliy. Differential Evolution – In Search of Solutions, Springer, 2006.**](https://www.springer.com/us/book/9780387368955)
     - Uma referência em português: [Brandão, Saramago. Métodos estocásticos de otimização: algoritmos genéticos e evolução diferencial, SBMAC, 2011.](http://www.sbmac.org.br/arquivos/notas/livro_55.pdf)
-- **Funções-teste (retirado da terceira referência acima): **[**metah.funcoes-teste**](https://drive.google.com/file/d/1-uG0uM2BvYLMa93LL_KAH3qWhsOT9SLy/view?usp=sharing)
+- **Funções-teste (retirado da terceira referência acima): **[**metah.funcoes-teste**](https://drive.google.com/file/d/1-uG0uM2BvYLMa93LL_KAH3qWhsOT9SLy/view?usp=sharing)-->
 
 
 ## Algoritmo Genético (Genetic Algorithm - GA)
 
-- **[Código Matlab/Octave](https://drive.google.com/file/d/1HVYYuGsgvzA-2H0jGgnV-kAE9O_LrL0r/view?usp=sharing)**
+<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1HVYYuGsgvzA-2H0jGgnV-kAE9O_LrL0r/view?usp=sharing)**
 - Slides de Estéfane Lacerda (UFRN) editados: [1\. GA binário](https://drive.google.com/file/d/1SCOCEyOHZmUgHga-J8IYPdX2UrlxZ2jz/view?usp=sharing) ; [2\. GA para o TSP](https://drive.google.com/file/d/1jftC9l-HwpB0PYON3YwYrN2lP87aUBsg/view?usp=sharing)
 - [Artigo com explicação de operadores para o TSP](https://www.hindawi.com/journals/cin/2017/7430125/)
-- Apresentação detalhada de alguns crossovers para o TSP: [PMX](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/PMXCrossoverOperator.aspx/), [Cycle](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)
-<!--- **Atividade 3 (ver abaixo)**-->
+- Apresentação detalhada de alguns crossovers para o TSP: [PMX](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/PMXCrossoverOperator.aspx/), [Cycle](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)-->
 
 
 ## Nuvem de partículas (Particle Swarm Optimization - PSO)
 
-- **[Código Matlab/Octave](https://drive.google.com/file/d/1q9W2SjF0vXIX4dfD55jBool1RvXPSSxI/view?usp=sharing) (código comentado).**  
+<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1q9W2SjF0vXIX4dfD55jBool1RvXPSSxI/view?usp=sharing) (código comentado).**  
     _Fonte: [http://yarpiz.com/50/ypea102-particle-swarm-optimization](http://yarpiz.com/50/ypea102-particle-swarm-optimization)_
 - [Slides editados de Estéfane Lacerda, UFRN](https://drive.google.com/file/d/1ENpP6vWD6Qj-HteDyRq47HT3OgS2EvKq/view?usp=sharing); slides originais [aqui](http://www.dca.ufrn.br/~estefane/metaheuristicas/pso.pdf)
 - [Vídeo-aulas do projeto Yarpiz (em inglês)](http://yarpiz.com/440/ytea101-particle-swarm-optimization-pso-in-matlab-video-tutorial). Veja a parte 1/3 para explicação do algoritmo.
-- [Slides resumidos com “equações de movimento”](https://drive.google.com/file/d/1TDujiXzrHaolRYQilgXdzhBSsCKBfX58/view?usp=sharing) (editadas a partir de slides do projeto Yarpiz — [originais aqui](http://yarpiz.com/wp-content/uploads/2016/05/yarpiz-ytea101-notes.pdf))
+- [Slides resumidos com “equações de movimento”](https://drive.google.com/file/d/1TDujiXzrHaolRYQilgXdzhBSsCKBfX58/view?usp=sharing) (editadas a partir de slides do projeto Yarpiz — [originais aqui](http://yarpiz.com/wp-content/uploads/2016/05/yarpiz-ytea101-notes.pdf))-->
 
 
 ## GRASP (Greedy Randomized Adaptive Search Procedure)
 
-- **[Código Matlab/Octave de um GRASP para o TSP](https://drive.google.com/file/d/1ZdYhhQHka7aDrDlxtwvtuMIp6gVv-pHv/view?usp=sharing)**  
+<!--- **[Código Matlab/Octave de um GRASP para o TSP](https://drive.google.com/file/d/1ZdYhhQHka7aDrDlxtwvtuMIp6gVv-pHv/view?usp=sharing)**  
     _Fonte: [https://github.com/warloff/GRASP-for-Traveling-Salesman](https://github.com/warloff/GRASP-for-Traveling-Salesman)_
 - [Slides do prof. Lucas Batista (UFMG)](http://www.cpdee.ufmg.br/~lusoba/disciplinas/eee933/slides/lusoba/13_GRASP.pdf)
-<!--- [Outros slides](https://drive.google.com/file/d/1pUrwz80FL-kh61fIKWNDtDP5MbuYzfW1/view?usp=sharing)-->
+- [Outros slides](https://drive.google.com/file/d/1pUrwz80FL-kh61fIKWNDtDP5MbuYzfW1/view?usp=sharing)
 - Referências:
-    - cap 8 do livro de Glover
+    - cap 8 do livro de Glover-->
 
 
 ## Leitura(s) recomendada(s)
@@ -183,13 +182,15 @@ Todos os códigos apresentados neste curso são feitos para resolver o problema 
 
 # ATIVIDADES
 
-## Atividade 1 – Metaheurísticas, apresentação
+Em breve.
+
+<!--## Atividade 1 – Metaheurísticas, apresentação
 
 - Faça um resumo, **com suas palavras**, da introdução do livro de Dréo, Pétrowski, Siarry e Taillard, [disponível aqui](https://drive.google.com/file/d/1fqU2s6RCj4ixt1MkGzb0yLPjjcQr2JCm/view?usp=sharing). Diga o que entendeu, destaque os pontos que achou relevante, críticas, etc.
 - O trabalho poderá ser feito de próprio punho ou digitado, entregue pela plataforma AVA.
-- Um resumo de no mínimo 1 página é desejável. Não é para traduzir o texto!
+- Um resumo de no mínimo 1 página é desejável. Não é para traduzir o texto!-->
 
-## Atividade 2
+<!--## Atividade 2
 
 1. Baixe o arquivo [`CreateNNSolution.m`](https://drive.google.com/file/d/1a-VuWkyhnspiovRiGUXO8KBXVjiyRGhg/view?usp=sharing) no mesmo diretório da busca tabu. Ele contém uma função para cálculo de uma solução do TSP através da heurística de vizinho mais próximo (NN - *Nearest Neighbor*)
 1. Use NN para criar a solução inicial para a busca tabu. Você pode trocar a permutação inicial randomizada em `ts.m` pela linha
@@ -199,7 +200,7 @@ sol.Position=CreateNNSolution(model);
 1. Rode a "busca tabu" para `berlin52.tsp` e compare a execução com permutação inicial aleatória
 1. Implemente o seguinte critério de parada adicional: **"Pare se durante 10 iterações consecutivas a função objetivo não melhora"**
 1. Execute seu código para algumas instâncias da TSPLIB e decida se é efetivo na resolução (use as instâncias editadas [deste arquivo](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view?usp=sharing)). Compare os custos obtidos com os melhores reportados na literatura ([veja-os aqui](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/stsp-sol.html)).
-1. Obs: talvez você precise aumentar o número máximo de iterações para instâncias maiores...
+1. Obs: talvez você precise aumentar o número máximo de iterações para instâncias maiores...-->
 
 <!--- Baixe o arquivo ZIP com o código do Simulated Annealing (aula 14/08 acima);
 - Na aula vimos o método padrão aplicado ao TSP. Execute a versão com populações (diretório “02 TSP using SA (Population-Based)”);
@@ -210,7 +211,7 @@ sol.Position=CreateNNSolution(model);
     - Compare os gráficos gerados pelos algoritmos para o valor da função objetivo e tire conclusões acerca da qualidade das soluções e da velocidade de decrescimento da função objetivo;
     - Faça seus testes também com o problema “berlin52.tsp”-->
 
-## Trabalho computacional 1
+<!--## Trabalho computacional 1
 
 - O trabalho pode ser feito individualmente ou em dupla.
 - Nota máxima: **10,0 pontos**
@@ -226,7 +227,7 @@ sol.Position=CreateNNSolution(model);
 
 - [Código heurística NN - Nearest Neighbor](https://drive.google.com/file/d/1a-VuWkyhnspiovRiGUXO8KBXVjiyRGhg/view)
 - [Código da heurística 2-OPT](https://drive.google.com/file/d/1IdEeljHysvkf3BzkUmqW2j59GGkiOPM3/view)
-- [Instâncias TSP Euclidiano](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view)
+- [Instâncias TSP Euclidiano](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view)-->
 
 
 <!--## Atividade 3-->
@@ -240,7 +241,7 @@ sol.Position=CreateNNSolution(model);
 - **<span style="color: #ff0000">Fazer um relatório e entregar os códigos. O trabalho é individual.</span>**-->
 
 
-## Atividade 3
+<!--## Atividade 3
 
 Esta atividade consiste na apresentação, pelo aluno, de um artigo selecionado. Cada aluno escolherá um artigo e fará uma apresentação explicando:
 
@@ -248,7 +249,7 @@ Esta atividade consiste na apresentação, pelo aluno, de um artigo selecionado.
 - a metodologia de resolução (metaheurística usada/adaptada pelo(s) autore(s));
 - detalhes da representação dos dados;
 - detalhes do funcionamento do algoritmo;
-- discussão dos testes numéricos apresentados.
+- discussão dos testes numéricos apresentados.-->
 <!--- reprodução, pelo menos parcial, dos testes numéricos. O aluno deverá programar o método e realizar os testes, comparando com os testes relatados no artigo (pode-se utilizar os códigos das aulas ou outros que estiverem disponíveis na internet, em qualquer linguagem de programação).-->
 
 <!--_**Critérios de pontuação da apresentação:**_
