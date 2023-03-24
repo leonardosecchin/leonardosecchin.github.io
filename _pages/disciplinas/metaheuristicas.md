@@ -102,6 +102,16 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
     - Por curiosidade, as referências oficiais da TSPLIB são [este artigo](https://doi.org/10.1287/ijoc.3.4.376) e [arquivos originais](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/)
 - Visualização [on line](https://tspvis.com/) do funcionamento de algoritmos para o TSP.
 
+**Atividade sugerida:**
+
+1. Instalar o Julia (caso não instalado)
+1. Instalar o pacote `TSPLIB.jl`
+1. Carregar a instância `berlin52` e testar a função de `tspplot` obtida [neste link](/files/metaheu/tspplot.jl)
+1. Implementar a função de custo (distância euclideana do percurso)
+1. Implementar a busca **gulosa** pelo vizinho mais próximo (Nearest Neighbor search -- NN). Veja detalhes [neste link](https://pt.wikipedia.org/wiki/Algoritmo_do_vizinho_mais_pr%C3%B3ximo)
+1. Plotar soluções obtidas por NN e comparar com o valor ótimo (gravado em `tsp.optimal`)
+1. Implementar a heurística 2-OPT. Veja detalhes [neste link](https://en.wikipedia.org/wiki/2-opt)
+
 
 ## Busca Tabu (Tabu Search - TS)
 
