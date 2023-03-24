@@ -104,13 +104,13 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 
 **Atividade sugerida:**
 
-1. Instalar o Julia (caso não instalado)
-1. Instalar o pacote `TSPLIB.jl`
-1. Carregar a instância `berlin52` e testar a função de `tspplot` obtida [neste link](/files/metaheu/tspplot.jl)
-1. Implementar a função de custo (distância euclideana do percurso)
-1. Implementar a busca **gulosa** pelo vizinho mais próximo (Nearest Neighbor search -- NN). Veja detalhes [neste link](https://pt.wikipedia.org/wiki/Algoritmo_do_vizinho_mais_pr%C3%B3ximo)
-1. Plotar soluções obtidas por NN e comparar com o valor ótimo (gravado em `tsp.optimal`)
-1. Implementar a heurística 2-OPT. Veja detalhes [neste link](https://en.wikipedia.org/wiki/2-opt)
+1. Instale o Julia (caso não instalado)
+1. Instale o pacote `TSPLIB.jl`
+1. Carregue a instância `berlin52` e teste a função de `tspplot` obtida [neste link](/files/metaheu/tspplot.jl)
+1. Implemente a função de custo (distância euclideana do percurso)
+1. Implemente a busca **gulosa** pelo vizinho mais próximo (Nearest Neighbor search -- NN). Veja detalhes [neste link](https://pt.wikipedia.org/wiki/Algoritmo_do_vizinho_mais_pr%C3%B3ximo)
+1. Plote soluções obtidas por NN e compare com o valor ótimo (gravado em `tsp.optimal`)
+1. Implementar a heurística 2-OPT. Veja detalhes [neste link](https://en.wikipedia.org/wiki/2-opt). Use NN para inicializar. Comparar solução com anteriores.
 
 
 ## Busca Tabu (Tabu Search - TS)
