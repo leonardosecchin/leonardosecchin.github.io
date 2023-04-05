@@ -70,7 +70,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 ## Apresentação
 
-- [Apresentação](https://drive.google.com/file/d/1FPcIovf5He-djx_NMJut9Ki1bBvw40vX/view?usp=sharing)
+- [**SLIDES**](https://drive.google.com/file/d/1FPcIovf5He-djx_NMJut9Ki1bBvw40vX/view?usp=sharing)
 
 - **ATIVIDADE para a semana entre 27/03 e 31/03**, a ser discutida entre todos na aula do dia 06/04  
     Pesquise metaheurísticas na internet/artigos. Para cada metaheurística encontrada, faça uma descrição contendo:
@@ -115,7 +115,7 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 
 ## Busca Tabu (Tabu Search - TS)
 
-- [SLIDES](https://drive.google.com/file/d/1AVM2-O65q1EVD7bq4LBRoJR1nRl-LQ9T/view?usp=sharing)
+- [**SLIDES**](https://drive.google.com/file/d/1AVM2-O65q1EVD7bq4LBRoJR1nRl-LQ9T/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - Referência: cap 2 do livro de Glover
 - Outros conteúdos:
