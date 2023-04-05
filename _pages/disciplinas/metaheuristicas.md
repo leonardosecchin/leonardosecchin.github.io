@@ -115,11 +115,15 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 
 ## Busca Tabu (Tabu Search - TS)
 
-<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1umgrhf6QrPpQtbnYkpACRtFQCwJWKoK_/view?usp=sharing) (código comentado)**  
-    _Fonte: [http://yarpiz.com/243/ypea116-tabu-search](http://yarpiz.com/243/ypea116-tabu-search)_
+- [SLIDES](https://drive.google.com/file/d/1AVM2-O65q1EVD7bq4LBRoJR1nRl-LQ9T/view?usp=sharing)
+- **Tarefa computacional:** veja último *slide* do *link* acima
 - Referência: cap 2 do livro de Glover
-- [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
-- Curiosidade: busque no Google “tabu search papers” e veja a quantidade de pesquisa usando a técnica!-->
+- Outros conteúdos:
+   - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
+   - Curiosidade: busque no Google “tabu search papers” e veja a quantidade de pesquisa usando a técnica!
+
+<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1umgrhf6QrPpQtbnYkpACRtFQCwJWKoK_/view?usp=sharing) (código comentado)**  
+    _Fonte: [http://yarpiz.com/243/ypea116-tabu-search](http://yarpiz.com/243/ypea116-tabu-search)_-->
 
 ## Simulated Annealing (SA)
 
