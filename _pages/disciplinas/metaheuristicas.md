@@ -116,72 +116,97 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 
 - [**SLIDES**](https://drive.google.com/file/d/1AVM2-O65q1EVD7bq4LBRoJR1nRl-LQ9T/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
-- Referência: cap 2 do livro de Glover
+- Referência: capítulo 2 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 - Outros conteúdos:
    - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
-   - Curiosidade: busque no Google “tabu search papers” e veja a quantidade de pesquisa usando a técnica!
 
 <!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1umgrhf6QrPpQtbnYkpACRtFQCwJWKoK_/view?usp=sharing) (código comentado)**  
     _Fonte: [http://yarpiz.com/243/ypea116-tabu-search](http://yarpiz.com/243/ypea116-tabu-search)_-->
 
 ## Simulated Annealing (SA)
 
+- **SLIDES**
+- Referência: capítulo 10 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
+- **Tarefa computacional:** veja último *slide* do *link* acima
+- Outros conteúdos:
+   - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
+
 <!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1HADurl67sMhoggwrzxWhSWyfGPKVPjhT/view?usp=sharing) (código comentado)**  
     _Fonte: [http://yarpiz.com/223/ypea105-simulated-annealing](http://yarpiz.com/223/ypea105-simulated-annealing)_  
-    _Obs: o pacote `octave-statistics` é necessário para este código_
-- Referência: cap 10 do livro de Glover
-- [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)-->
+    _Obs: o pacote `octave-statistics` é necessário para este código_-->
 
 
 ## Colônia de formigas (Ant Colony Optimization - ACO)
 
+- **SLIDES**
+- **Tarefa computacional:** veja último *slide* do *link* acima
+- Referências:
+    - Dorigo; Caro. Ant colony optimization: a new meta-heuristic. [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
+    - Capítulo 9 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
+- Outros conteúdos:
+    - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
 <!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1cQ5wtYWb1_JscJSKOG6YiHG5wYY-Vapg/view?usp=sharing) (código comentado)**  
     *Fonte: [http://yarpiz.com/53/ypea103-ant-colony-optimization](http://yarpiz.com/53/ypea103-ant-colony-optimization)*
-- Referências:
-    - cap 9 do livro de Glover
-    - Dorigo; Caro. Ant colony optimization: a new meta-heuristic. [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
-- [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)-->
+-->
 
 
 ## Evolução Diferencial (Differential Evolution - DE)
 
+- **SLIDES**
+- **Tarefa computacional:** veja último *slide* do *link* acima
+- Referência:
+    - [Artigo que definiu o método, pela primeira vez](https://link.springer.com/article/10.1023/A:1008202821328) (baixe pela universidade)
+- Outros conteúdos:
+    - [**Slides de Kelly Fleetwood**](http://www.maths.uq.edu.au/MASCOS/Multi-Agent04/Fleetwood.pdf)** (exclusivamente sobre evolução diferencial)**
+    - Evolução diferencial é uma técnica da classe dos Algoritmos Evolucionários. Essa classe é amplamente estudada. Veja alguns livros dedicados exclusivamente ao assunto:
+       - [Artigo 1](https://www.springer.com/us/book/9780387221960)
+       - [Artigo 2](https://www.springer.com/la/book/9781849961288)
+       - **Um livro somente sobre Evolução Diferencial:** [Feoktistov, Vitaliy. Differential Evolution – In Search of Solutions, Springer, 2006.](https://www.springer.com/us/book/9780387368955)
+       - Uma referência em português: [Brandão, Saramago. Métodos estocásticos de otimização: algoritmos genéticos e evolução diferencial, SBMAC, 2011.](http://www.sbmac.org.br/arquivos/notas/livro_55.pdf)
+    - **Funções-teste (retirado da terceira referência acima):** [metah.funcoes-teste](https://drive.google.com/file/d/1-uG0uM2BvYLMa93LL_KAH3qWhsOT9SLy/view?usp=sharing)
+
 <!--- **[Código Matlab/Octave](https://drive.google.com/file/d/12NKXXIfaK94O4ei6N2qjcqvjftKJu4Hm/view?usp=sharing) (código comentado)**  
-    _Fonte: [http://yarpiz.com/231/ypea107-differential-evolution](http://yarpiz.com/231/ypea107-differential-evolution)_
-- [Artigo que definiu o método, pela primeira vez](https://link.springer.com/article/10.1023/A:1008202821328) (baixe pela universidade)
-- [**Slides de Kelly Fleetwood**](http://www.maths.uq.edu.au/MASCOS/Multi-Agent04/Fleetwood.pdf)** (exclusivamente sobre evolução diferencial)**
-- Evolução diferencial é uma técnica da classe dos Algoritmos Evolucionários. Essa classe é amplamente estudada. Veja alguns livros dedicados exclusivamente ao assunto:
-    - [Artigo 1](https://www.springer.com/us/book/9780387221960)
-    - [Artigo 2](https://www.springer.com/la/book/9781849961288)
-    - **Um livro somente sobre Evolução Diferencial: **[**Feoktistov, Vitaliy. Differential Evolution – In Search of Solutions, Springer, 2006.**](https://www.springer.com/us/book/9780387368955)
-    - Uma referência em português: [Brandão, Saramago. Métodos estocásticos de otimização: algoritmos genéticos e evolução diferencial, SBMAC, 2011.](http://www.sbmac.org.br/arquivos/notas/livro_55.pdf)
-- **Funções-teste (retirado da terceira referência acima): **[**metah.funcoes-teste**](https://drive.google.com/file/d/1-uG0uM2BvYLMa93LL_KAH3qWhsOT9SLy/view?usp=sharing)-->
+    _Fonte: [http://yarpiz.com/231/ypea107-differential-evolution](http://yarpiz.com/231/ypea107-differential-evolution)_-->
 
 
 ## Algoritmo Genético (Genetic Algorithm - GA)
 
-<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1HVYYuGsgvzA-2H0jGgnV-kAE9O_LrL0r/view?usp=sharing)**
-- Slides de Estéfane Lacerda (UFRN) editados: [1\. GA binário](https://drive.google.com/file/d/1SCOCEyOHZmUgHga-J8IYPdX2UrlxZ2jz/view?usp=sharing) ; [2\. GA para o TSP](https://drive.google.com/file/d/1jftC9l-HwpB0PYON3YwYrN2lP87aUBsg/view?usp=sharing)
-- [Artigo com explicação de operadores para o TSP](https://www.hindawi.com/journals/cin/2017/7430125/)
-- Apresentação detalhada de alguns crossovers para o TSP: [PMX](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/PMXCrossoverOperator.aspx/), [Cycle](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)-->
+- **SLIDES**
+- **Tarefa computacional:** veja último *slide* do *link* acima
+<!--- Referências:-->
+- Outros conteúdos:
+    - Slides de Estéfane Lacerda (UFRN) editados: [1\. GA binário](https://drive.google.com/file/d/1SCOCEyOHZmUgHga-J8IYPdX2UrlxZ2jz/view?usp=sharing) ; [2\. GA para o TSP](https://drive.google.com/file/d/1jftC9l-HwpB0PYON3YwYrN2lP87aUBsg/view?usp=sharing)
+    - [Artigo com explicação de operadores para o TSP](https://www.hindawi.com/journals/cin/2017/7430125/)
+    - Apresentação detalhada de alguns crossovers para o TSP: [PMX](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/PMXCrossoverOperator.aspx/), [Cycle](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)
+
+<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1HVYYuGsgvzA-2H0jGgnV-kAE9O_LrL0r/view?usp=sharing)**-->
 
 
 ## Nuvem de partículas (Particle Swarm Optimization - PSO)
 
+- **SLIDES**
+- **Tarefa computacional:** veja último *slide* do *link* acima
+<!--- Referências:-->
+- Outros conteúdos:
+    - [Slides editados de Estéfane Lacerda, UFRN](https://drive.google.com/file/d/1ENpP6vWD6Qj-HteDyRq47HT3OgS2EvKq/view?usp=sharing); slides originais [aqui](http://www.dca.ufrn.br/~estefane/metaheuristicas/pso.pdf)
+    - [Slides resumidos com “equações de movimento”](https://drive.google.com/file/d/1TDujiXzrHaolRYQilgXdzhBSsCKBfX58/view?usp=sharing) (editadas a partir de slides do projeto Yarpiz — [originais aqui](http://yarpiz.com/wp-content/uploads/2016/05/yarpiz-ytea101-notes.pdf))
+
 <!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1q9W2SjF0vXIX4dfD55jBool1RvXPSSxI/view?usp=sharing) (código comentado).**  
-    _Fonte: [http://yarpiz.com/50/ypea102-particle-swarm-optimization](http://yarpiz.com/50/ypea102-particle-swarm-optimization)_
-- [Slides editados de Estéfane Lacerda, UFRN](https://drive.google.com/file/d/1ENpP6vWD6Qj-HteDyRq47HT3OgS2EvKq/view?usp=sharing); slides originais [aqui](http://www.dca.ufrn.br/~estefane/metaheuristicas/pso.pdf)
-- [Vídeo-aulas do projeto Yarpiz (em inglês)](http://yarpiz.com/440/ytea101-particle-swarm-optimization-pso-in-matlab-video-tutorial). Veja a parte 1/3 para explicação do algoritmo.
-- [Slides resumidos com “equações de movimento”](https://drive.google.com/file/d/1TDujiXzrHaolRYQilgXdzhBSsCKBfX58/view?usp=sharing) (editadas a partir de slides do projeto Yarpiz — [originais aqui](http://yarpiz.com/wp-content/uploads/2016/05/yarpiz-ytea101-notes.pdf))-->
+    - [Vídeo-aulas do projeto Yarpiz (em inglês)](http://yarpiz.com/440/ytea101-particle-swarm-optimization-pso-in-matlab-video-tutorial). Veja a parte 1/3 para explicação do algoritmo.
+    _Fonte: [http://yarpiz.com/50/ypea102-particle-swarm-optimization](http://yarpiz.com/50/ypea102-particle-swarm-optimization)_-->
 
 
 ## GRASP (Greedy Randomized Adaptive Search Procedure)
 
+- **SLIDES**
+- **Tarefa computacional:** veja último *slide* do *link* acima
+- Referência: capítulo 8 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
+- Outros conteúdos:
+    - [Slides do prof. Lucas Batista (UFMG)](http://www.cpdee.ufmg.br/~lusoba/disciplinas/eee933/slides/lusoba/13_GRASP.pdf)
+    - [Outros slides](https://drive.google.com/file/d/1pUrwz80FL-kh61fIKWNDtDP5MbuYzfW1/view?usp=sharing)
+
 <!--- **[Código Matlab/Octave de um GRASP para o TSP](https://drive.google.com/file/d/1ZdYhhQHka7aDrDlxtwvtuMIp6gVv-pHv/view?usp=sharing)**  
-    _Fonte: [https://github.com/warloff/GRASP-for-Traveling-Salesman](https://github.com/warloff/GRASP-for-Traveling-Salesman)_
-- [Slides do prof. Lucas Batista (UFMG)](http://www.cpdee.ufmg.br/~lusoba/disciplinas/eee933/slides/lusoba/13_GRASP.pdf)
-- [Outros slides](https://drive.google.com/file/d/1pUrwz80FL-kh61fIKWNDtDP5MbuYzfW1/view?usp=sharing)
-- Referências:
-    - cap 8 do livro de Glover-->
+    _Fonte: [https://github.com/warloff/GRASP-for-Traveling-Salesman](https://github.com/warloff/GRASP-for-Traveling-Salesman)_-->
 
 
 ## Leitura(s) recomendada(s)
