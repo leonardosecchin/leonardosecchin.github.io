@@ -78,7 +78,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
     - Em qual(is) problema(s) foi aplicada, evidenciando se o problema é de otimização contínua (variáveis todas contínuas) ou combinatória
     - Uma descrição sucinta do funcionamento do algoritmo
     - Não esqueça de indicar a referência da qual retirou as informações!
-
+    - **Relatórios:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing)   [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing)    [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing)
 
 ## Códigos e pacotes Julia
 
@@ -111,7 +111,6 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 1. Implemente a busca **gulosa** pelo vizinho mais próximo (Nearest Neighbor search -- NN). Veja detalhes [neste link](https://pt.wikipedia.org/wiki/Algoritmo_do_vizinho_mais_pr%C3%B3ximo)
 1. Plote soluções obtidas por NN e compare com o valor ótimo (gravado em `tsp.optimal`)
 1. Implementar a heurística 2-OPT. Veja detalhes [neste link](https://en.wikipedia.org/wiki/2-opt). Use NN para inicializar. Comparar solução com anteriores.
-
 
 ## Busca Tabu (Tabu Search - TS)
 
