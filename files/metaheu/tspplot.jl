@@ -1,18 +1,10 @@
-#####################################
-# Plota instâncias da TSPLIB
+###################################################
+# FUNÇÃO PARA PLOTAR SOLUÇÕES DO TSP
 #
-# tsp é uma instância da TSPLIB.
-# Por exemplo, para carregar a instância "berlin52", execute
-#    using TSPLIB
-#    tsp = readTSPLIB(:berlin52)
-#
-# sol é uma permutação das cidades 1, 2, ..., tsp.dimension
-#
-# Plotar a solução ordenada 1,2,... :
-#    tspplot(tsp, 1:tsp.dimension)
-#
-# Autor: Leonardo D. Secchin, 23/03/23
-#####################################
+# Autor: Leonardo D. Secchin
+# Data : 23/03/2023
+# leonardosecchin.github.io/metaheuristicas/
+###################################################
 
 using Plots
 

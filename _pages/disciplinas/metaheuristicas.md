@@ -78,16 +78,16 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
     - Em qual(is) problema(s) foi aplicada, evidenciando se o problema é de otimização contínua (variáveis todas contínuas) ou combinatória
     - Uma descrição sucinta do funcionamento do algoritmo
     - Não esqueça de indicar a referência da qual retirou as informações!
-    - **Relatórios:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing)   [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing)    [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing)
+    - **Relatórios apresentados:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing) | [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing) | [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing)
 
 ## Códigos e pacotes Julia
-
+~
 - Pacote **Metaheuristics.jl:** implementação em Julia de várias metaheurísticas. [site](https://github.com/jmejia8/Metaheuristics.jl)
 - Pacote **TSPLIB.jl:** instâncias da biblioteca TSPLIB (problema do caixeiro viajante) prontas em Julia [site](https://github.com/matago/TSPLIB.jl). Veja tópico abaixo para detalhes.
+- [Código para plotar instâncias da TSPLIB](/files/metaheu/tspplot.jl)
+- [Funções para manipulação de instâncias da TSPLIB e heurística do vizinho mais próximo](/files/metaheu/tsp.jl)
 
 **Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados, baixe [ESTE SCRIPT](/files/metaheu/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
-
-- [Código para plotar instâncias da TSPLIB](/files/metaheu/tspplot.jl)
 
 
 ## O problema do caixeiro viajante (Travelling Salesman Problem - TSP)
@@ -112,6 +112,7 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 1. Plote soluções obtidas por NN e compare com o valor ótimo (gravado em `tsp.optimal`)
 1. Implementar a heurística 2-OPT. Veja detalhes [neste link](https://en.wikipedia.org/wiki/2-opt). Use NN para inicializar. Comparar solução com anteriores.
 
+
 ## Busca Tabu (Tabu Search - TS)
 
 - [**SLIDES**](https://drive.google.com/file/d/1AVM2-O65q1EVD7bq4LBRoJR1nRl-LQ9T/view?usp=sharing)
@@ -120,8 +121,6 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 - Outros conteúdos:
    - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
 
-<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1umgrhf6QrPpQtbnYkpACRtFQCwJWKoK_/view?usp=sharing) (código comentado)**  
-    _Fonte: [http://yarpiz.com/243/ypea116-tabu-search](http://yarpiz.com/243/ypea116-tabu-search)_-->
 
 ## Simulated Annealing (SA)
 
@@ -130,10 +129,6 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - Outros conteúdos:
    - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
-
-<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1HADurl67sMhoggwrzxWhSWyfGPKVPjhT/view?usp=sharing) (código comentado)**  
-    _Fonte: [http://yarpiz.com/223/ypea105-simulated-annealing](http://yarpiz.com/223/ypea105-simulated-annealing)_  
-    _Obs: o pacote `octave-statistics` é necessário para este código_-->
 
 
 ## Colônia de formigas (Ant Colony Optimization - ACO)
