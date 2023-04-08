@@ -57,6 +57,22 @@ function insercao!(sol, i, j)
     end
 end
 
+# Seleção por roleta
+# Uso:
+#   indice_acao = roleta([0.05;0.8;0.15])
+# indice_acao = índice da ação (1: swap, 2: reversão, 3: inserção).
+# No exemplo, as probabilidades de swap, reversão e inserção são 0.05, 0.8 e 0.15, respectivamente
+function roleta(p)
+    # p = probabilidades e escolha de SWAP, REVERSAO e INSERCAO, NESTA ORDEM
+    # c = probabilidade acumulada (c[end] = 1.0)
+    c = cumsum(p)
+
+    r = rand()
+
+    # retorna o primeiro índice para o qual r<=c
+    return findfirst(r .<= c)
+end
+
 
 # HEURÍSTICA VIZINHO MAIS PRÓXIMO (Nearest Neighborhood - NN)
 # Uso:
