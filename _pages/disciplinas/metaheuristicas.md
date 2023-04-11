@@ -32,7 +32,7 @@ Principais metaheurísticas usadas na literatura recente (algoritmos genéticos,
 
 - [Gendreau, Michel, Potvin, Jean-Yves (Eds.) Handbook of Metaheuristics. Springer, 2019](https://www.springer.com/us/book/9781441916631)
 - [Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003.](https://www.springer.com/us/book/9780306480560)
-- Dréo, Pétrowski, Siarry e Taillard – Metaheuristics for Hard Optimization. Springer, 2005
+- [Dréo, Pétrowski, Siarry e Taillard – Metaheuristics for Hard Optimization. Springer, 2006](https://doi.org/10.1007/3-540-30966-7)
 - [Meta-heurísticas em Pesquisa Operacional](http://omnipax.com.br/site/?page_id=220) ([PDF disponível](http://omnipax.com.br/livros/2013/MHPO/mhpo-livro.pdf))
 
 
