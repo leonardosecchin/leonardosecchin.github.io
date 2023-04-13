@@ -81,7 +81,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
     - **Relatórios apresentados:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing) | [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing) | [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing)
 
 ## Códigos e pacotes Julia
-~
+
 - Pacote **Metaheuristics.jl:** implementação em Julia de várias metaheurísticas. [site](https://github.com/jmejia8/Metaheuristics.jl)
 - Pacote **TSPLIB.jl:** instâncias da biblioteca TSPLIB (problema do caixeiro viajante) prontas em Julia [site](https://github.com/matago/TSPLIB.jl). Veja tópico abaixo para detalhes.
 - [Código para plotar instâncias da TSPLIB](/files/metaheu/tspplot.jl)
@@ -96,9 +96,10 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 - [Uma apresentação do TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 - [Slides de M.A.M. Carvalho (UFOP)](http://www.decom.ufop.br/marco/site_media/uploads/pcc104/antigo_21_aula_21.pdf)
 - Instâncias para testes - Biblioteca TSPLIB 
-    - As instâncias que utilizaremos estão na seção **"Symmetric traveling salesman problem"** do link acima. O termo "simétrico" quer dizer que o custo $c_{ij}$ para ir da cidade $i$ à cidade $j$ é o mesmo que da volta $j$ para $i$. Isto é, $c_{ij}=c_{ji}$ para todos $i\neq j$. Isso fornece uma matriz de custos simétrica, daí o nome.
-    - Na TSPLIB você encontrará outros tipos de instâncias, como as que servem para problemas de roteamento de veículos com capacidade nos arcos. Não as usaremos neste curso, fica como dica se você precisar de boas instâncias em seus estudos futuros!
+    - As instâncias que utilizaremos são de **"TSP simétrico"**, isto é, o custo $c_{ij}$ para ir da cidade $i$ à cidade $j$ é o mesmo que da volta $j$ para $i$. Isso fornece uma matriz de custos simétrica, daí o nome.
+    - Na TSPLIB você encontrará outros tipos de instâncias, como as que servem para problemas de roteamento de veículos com capacidade nos arcos. Não as usaremos neste curso!
     - **IMPORTANTE:** para termos foco, vamos considerar apenas instâncias cujo custo entre cidades é a distância Euclideana entre elas. Para saber se uma instância `tsp` proveniente do pacote `TSPLIB.jl` é deste tipo, verifique se `tsp.weight_type` é "EUC_2D"
+    - [Lista de todos as instâncias da TSPLIB cujo custo é a distância euclideana](/files/metaheu/instancias_EUC_2D.txt)
     - Por curiosidade, as referências oficiais da TSPLIB são [este artigo](https://doi.org/10.1287/ijoc.3.4.376) e [arquivos originais](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/)
 - Visualização [on line](https://tspvis.com/) do funcionamento de algoritmos para o TSP.
 
