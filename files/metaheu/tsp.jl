@@ -12,6 +12,9 @@
 using TSPLIB
 using Random
 
+# usa randomizador MersenneTwister
+rng = MersenneTwister()
+
 include("tspplot.jl")
 
 # Custo da solução sol
@@ -40,10 +43,10 @@ end
 function reversao!(sol, i, j)
     if i < j
         # inverte a ordem do trecho sol[i+1] a sol[j] (caso i < j)
-        sol[(i+1):j] .= sol[j:-1:(i+1)]
+        sol[i:j] .= sol[j:-1:i]
     else
         # caso i > j
-        sol[(j+1):i] .= sol[i:-1:(j+1)]
+        sol[j:i] .= sol[i:-1:j]
     end
 end
 
@@ -58,16 +61,15 @@ function insercao!(sol, i, j)
 end
 
 # Seleção por roleta
-# Uso:
-#   indice_acao = roleta([0.05;0.8;0.15])
-# indice_acao = índice da ação (1: swap, 2: reversão, 3: inserção).
-# No exemplo, as probabilidades de swap, reversão e inserção são 0.05, 0.8 e 0.15, respectivamente
+# Exemplo de uso:
+#   indice = roleta([0.05;0.8;0.15])
+# indice = índice da ação/cidade escolhida
 function roleta(p)
-    # p = probabilidades e escolha de SWAP, REVERSAO e INSERCAO, NESTA ORDEM
+    # p = probabilidades de escolha de cada ação/cidade
     # c = probabilidade acumulada (c[end] = 1.0)
     c = cumsum(p)
 
-    r = rand()
+    r = rand(rng)
 
     # retorna o primeiro índice para o qual r<=c
     return findfirst(r .<= c)
@@ -88,7 +90,7 @@ function NN(tsp)
     visitada = falses(n)
 
     # sorteia a cidade inicial
-    sol[1] = rand(1:n)
+    sol[1] = rand(rng, 1:n)
     visitada[sol[1]] = true
 
     # cidades 2, 3, ..., n
