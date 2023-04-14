@@ -99,7 +99,7 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
     - As instâncias que utilizaremos são de **"TSP simétrico"**, isto é, o custo $c_{ij}$ para ir da cidade $i$ à cidade $j$ é o mesmo que da volta $j$ para $i$. Isso fornece uma matriz de custos simétrica, daí o nome.
     - Na TSPLIB você encontrará outros tipos de instâncias, como as que servem para problemas de roteamento de veículos com capacidade nos arcos. Não as usaremos neste curso!
     - **IMPORTANTE:** para termos foco, vamos considerar apenas instâncias cujo custo entre cidades é a distância Euclideana entre elas. Para saber se uma instância `tsp` proveniente do pacote `TSPLIB.jl` é deste tipo, verifique se `tsp.weight_type` é "EUC_2D"
-    - [Lista de todos as instâncias da TSPLIB cujo custo é a distância euclideana](/files/metaheu/instancias_EUC_2D.txt)
+    - [Lista de todas as instâncias da TSPLIB cujo custo é a distância euclideana](/files/metaheu/instancias_EUC_2D.txt)
     - Por curiosidade, as referências oficiais da TSPLIB são [este artigo](https://doi.org/10.1287/ijoc.3.4.376) e [arquivos originais](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/)
 - Visualização [on line](https://tspvis.com/) do funcionamento de algoritmos para o TSP.
 
