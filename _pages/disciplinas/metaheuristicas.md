@@ -78,7 +78,7 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
     - Em qual(is) problema(s) foi aplicada, evidenciando se o problema é de otimização contínua (variáveis todas contínuas) ou combinatória
     - Uma descrição sucinta do funcionamento do algoritmo
     - Não esqueça de indicar a referência da qual retirou as informações!
-    - **Relatórios apresentados:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing) | [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing) | [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing)
+    - **Relatórios apresentados:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing) | [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing) | [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing) | [Pedro Lucas](https://drive.google.com/file/d/1do5xYzwOLqI2ptsvzv9O8j7wTGMjtRvu/view?usp=sharing)
 
 ## Códigos e pacotes Julia
 
