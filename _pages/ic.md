@@ -71,15 +71,15 @@ O grupo de otimização da UFES, campus São Mateus, disponha de um computador d
 
 ### em andamento
 
-1. 2022-2023 (IC). Métodos de pontos interiores para programação linear e quadrática  
-   Estudante: Carolina Martinelli  
-   [[Resumo do projeto](/files/ic-tcc/resumoIC_ptoint.pdf)]
 1. 2022-2023 (IC). O método do gradiente espectral projetado e variantes para minimização com restrições convexas  
    Estudante: Pedro Henrique Fischer Ferreira  
    [[Resumo do projeto](/files/ic-tcc/resumoIC_espectral.pdf)]
 
 ### concluídas
 
+1. 2023 (IC). Métodos de pontos interiores para programação linear e quadrática  
+   Estudante: Carolina Martinelli  
+   [[Resumo do projeto](/files/ic-tcc/resumoIC_ptoint.pdf)]
 1. 2022 (TCC). [Métodos computacionais para otimização irrestrita e com restrições simples adequados a problemas de larga escala](/files/ic-tcc/TCC_Elivandro_Grippa.pdf)  
    Estudante: Elivandro Oliveira Grippa  
 1. 2021 (TCC). [Métodos de otimização para aprendizado de máquina supervisionado e aplicações](/files/ic-tcc/TCC_Matheus_Becali.pdf)  
