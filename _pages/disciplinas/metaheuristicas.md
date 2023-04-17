@@ -8,7 +8,7 @@ author_profile: true
 ## Horários das aulas
 
 - Quintas-feiras de 13:00 as 15:00 (LABMAT / Sala 08 Eixo 3)
-- Sextas-feiras de 12:00 as 14:00 (LABMAT / Sala 11 Eixo 1)
+- Sextas-feiras de 13:00 as 15:00 (LABMAT / Sala 11 Eixo 1)
 
 
 ## Ementa
