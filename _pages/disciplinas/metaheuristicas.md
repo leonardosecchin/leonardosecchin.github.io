@@ -125,7 +125,7 @@ O Julia (versão 1.8), por sua vez, [utiliza como padrão um excelente gerador, 
 Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este link](https://en.wikipedia.org/wiki/Pseudorandom_number_generator). Uma lista de diferentes geradores pode ser vista [neste link](https://pt.wikipedia.org/wiki/Gerador_de_n%C3%BAmeros_pseudoaleat%C3%B3rios).
 
 
-## Busca Tabu (Tabu Search - TS)
+## METAHEURÍSTICA 1: Busca Tabu (Tabu Search - TS)
 
 - [**SLIDES**](https://drive.google.com/file/d/1AVM2-O65q1EVD7bq4LBRoJR1nRl-LQ9T/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -134,7 +134,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
    - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
 
 
-## Simulated Annealing (SA)
+## METAHEURÍSTICA 2: Simulated Annealing (SA)
 
 - [**SLIDES**](https://drive.google.com/file/d/19VJ5y_Y6v8Dh7RovndMlxlzzTL40BiiL/view?usp=sharing)
 - [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
@@ -144,7 +144,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
    - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
 
 
-## Colônia de formigas (Ant Colony Optimization - ACO)
+## METAHEURÍSTICA 3: Colônia de formigas (Ant Colony Optimization - ACO)
 
 - **SLIDES**
 - [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
@@ -160,7 +160,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 -->
 
 
-## Evolução Diferencial (Differential Evolution - DE)
+## METAHEURÍSTICA 4: Evolução Diferencial (Differential Evolution - DE)
 
 - **SLIDES**
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -179,7 +179,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     _Fonte: [http://yarpiz.com/231/ypea107-differential-evolution](http://yarpiz.com/231/ypea107-differential-evolution)_-->
 
 
-## Algoritmo Genético (Genetic Algorithm - GA)
+## METAHEURÍSTICA 5: Algoritmo Genético (Genetic Algorithm - GA)
 
 - **SLIDES**
 - [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
@@ -193,7 +193,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 <!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1HVYYuGsgvzA-2H0jGgnV-kAE9O_LrL0r/view?usp=sharing)**-->
 
 
-## Nuvem de partículas (Particle Swarm Optimization - PSO)
+## METAHEURÍSTICA 6: Nuvem de partículas (Particle Swarm Optimization - PSO)
 
 - **SLIDES**
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -207,7 +207,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     _Fonte: [http://yarpiz.com/50/ypea102-particle-swarm-optimization](http://yarpiz.com/50/ypea102-particle-swarm-optimization)_-->
 
 
-## GRASP (Greedy Randomized Adaptive Search Procedure)
+## METAHEURÍSTICA 7: GRASP (Greedy Randomized Adaptive Search Procedure)
 
 - **SLIDES**
 - **Tarefa computacional:** veja último *slide* do *link* acima
