@@ -84,8 +84,8 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 - Pacote **Metaheuristics.jl:** implementação em Julia de várias metaheurísticas. [site](https://github.com/jmejia8/Metaheuristics.jl)
 - Pacote **TSPLIB.jl:** instâncias da biblioteca TSPLIB (problema do caixeiro viajante) prontas em Julia [site](https://github.com/matago/TSPLIB.jl). Veja tópico abaixo para detalhes.
-- [Código para plotar instâncias da TSPLIB](/files/metaheu/tspplot.jl)
-- [Funções para manipulação de instâncias da TSPLIB e heurística do vizinho mais próximo](/files/metaheu/tsp.jl)
+- [**tspplot.jl:** código para plotar instâncias da TSPLIB](/files/metaheu/tspplot.jl)
+- [**tsp.jl:** funções para manipulação de instâncias da TSPLIB e heurística do vizinho mais próximo](/files/metaheu/tsp.jl)
 
 **Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados, baixe [ESTE SCRIPT](/files/metaheu/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
