@@ -125,7 +125,7 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 
 ## Simulated Annealing (SA)
 
-- **SLIDES**
+- [**SLIDES**](https://drive.google.com/file/d/19VJ5y_Y6v8Dh7RovndMlxlzzTL40BiiL/view?usp=sharing)
 - Referência: capítulo 10 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - Outros conteúdos:
