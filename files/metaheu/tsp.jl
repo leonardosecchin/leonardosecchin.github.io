@@ -12,9 +12,6 @@
 using TSPLIB
 using Random
 
-# usa randomizador MersenneTwister
-rng = MersenneTwister()
-
 include("tspplot.jl")
 
 # Custo da solução sol
@@ -69,7 +66,7 @@ function roleta(p)
     # c = probabilidade acumulada (c[end] = 1.0)
     c = cumsum(p)
 
-    r = rand(rng)
+    r = rand()
 
     # retorna o primeiro índice para o qual r<=c
     return findfirst(r .<= c)
@@ -90,7 +87,7 @@ function NN(tsp)
     visitada = falses(n)
 
     # sorteia a cidade inicial
-    sol[1] = rand(rng, 1:n)
+    sol[1] = rand(1:n)
     visitada[sol[1]] = true
 
     # cidades 2, 3, ..., n

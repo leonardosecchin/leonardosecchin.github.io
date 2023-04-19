@@ -114,6 +114,17 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 1. Implementar a heurística 2-OPT. Veja detalhes [neste link](https://en.wikipedia.org/wiki/2-opt). Use NN para inicializar. Comparar solução com anteriores.
 
 
+## Sobre geradores de números randômicos
+
+A geração de números randômicos em computador é um tópico pesquisado até hoje. Os principais algoritmos utilizados geram números "pseudo-randômicos", chamados assim por não serem verdadeiramente randômicos (os números se repetem em ciclos). Este não é um tópico central nessa disciplina, mas vale o comentário. No contexto das metaheurísticas, onde temos que gerar muitos números, é interessante utilizarmos bons geradores.
+
+Cada linguagem adota um gerador como padrão. Por exemplo, o [Python 3 adota o *Mersenne Twister*](https://docs.python.org/3/library/random.html), um gerador proposto por M. Matsumoto e N. Makoto em 1998. Esse algoritmo é bastante utilizado e gera números com qualidade melhor comparados ao gerador padrão do C. No Julia, *Mersenne Twister* é implementado no pacote **Random.jl**.
+
+O Julia (versão 1.8), por sua vez, [utiliza como padrão um excelente gerador, mais moderno, conhecido como **Xoshiro256++**](https://docs.julialang.org/en/v1/stdlib/Random/). Esse gerador foi proposto por D. Blackman e S. Vigna em 2018, é rápido e apresenta excelentes resultados em testes de qualidade. Assim, todas as chamadas de funções que retornam valores aleatórios (`rand`, `randperm` etc) usam este gerador por padrão (a menos que o usuário diga para usar outro gerador, claro). Os códigos apresentados nessa disciplina utilizam **Xoshiro256++**.
+
+Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este link](https://en.wikipedia.org/wiki/Pseudorandom_number_generator). Uma lista de diferentes geradores pode ser vista [neste link](https://pt.wikipedia.org/wiki/Gerador_de_n%C3%BAmeros_pseudoaleat%C3%B3rios).
+
+
 ## Busca Tabu (Tabu Search - TS)
 
 - [**SLIDES**](https://drive.google.com/file/d/1AVM2-O65q1EVD7bq4LBRoJR1nRl-LQ9T/view?usp=sharing)
