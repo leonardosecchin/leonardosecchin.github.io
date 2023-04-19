@@ -126,6 +126,7 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 ## Simulated Annealing (SA)
 
 - [**SLIDES**](https://drive.google.com/file/d/19VJ5y_Y6v8Dh7RovndMlxlzzTL40BiiL/view?usp=sharing)
+- [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - Referência: capítulo 10 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - Outros conteúdos:
@@ -135,6 +136,7 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 ## Colônia de formigas (Ant Colony Optimization - ACO)
 
 - **SLIDES**
+- [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - Referências:
     - Dorigo, Gambardella. Ant colony system: a cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1:53-66, 1997 [Link1](https://ieeexplore.ieee.org/document/585892) (acesso pela universidade) [Link2](https://people.idsia.ch/~luca/acs-ec97.pdf)
@@ -169,6 +171,7 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 ## Algoritmo Genético (Genetic Algorithm - GA)
 
 - **SLIDES**
+- [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 <!--- Referências:-->
 - Outros conteúdos:
