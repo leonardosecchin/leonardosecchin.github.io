@@ -164,7 +164,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
    - [**ANOTAÇÕES** - Método de Newton](/files/otim1/4.2.Metodo_de_Newton.pdf)
      - Leitura interessante: [Artigo sobre o desenvolvimento da ideia Newtoniana ao longo dos anos (download acessando pela Universidade)](https://doi.org/10.1007/978-3-319-94015-1_9)
    - [**ANOTAÇÕES** - Convergência global vs local](/files/otim1/4.4.Convergencia_global_vs_local.pdf)
-   - [**ANOTAÇÕES** - Convergência do método de Newton](/files/otim1/4.5.Convergencia_Newton.pdf)
+   - [**ANOTAÇÕES** - Convergência dos métodos de Newton e Newton globalizado](/files/otim1/4.5.Convergencia_Newton.pdf)
    - [**Código Julia do método de Newton globalizado**](/files/otim1/newton.zip)
 
 
