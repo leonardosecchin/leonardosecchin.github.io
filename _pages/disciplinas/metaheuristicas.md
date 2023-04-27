@@ -146,7 +146,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 ## METAHEURÍSTICA 3: Colônia de formigas (Ant Colony Optimization - ACO)
 
-- **SLIDES**
+- [**SLIDES**](https://drive.google.com/file/d/1_x7mVHBIfWV4l9cXr9Ju_Lo6CvBlDMtm/view?usp=sharing)
 - [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - Referências:
