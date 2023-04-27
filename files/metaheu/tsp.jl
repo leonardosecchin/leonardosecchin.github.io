@@ -15,6 +15,19 @@ using Random
 include("tspplot.jl")
 
 # Custo da solução sol
+"
+`tspdist(tsp, sol)`
+
+Retorna o custo da solução `sol` relativo à instância `tsp` da TSPLIB.
+
+Exemplo
+=========
+
+`julia> tsp = readTSPLIB(:berlin52)`\\
+`julia> D = tspdist(tsp, 1:52);`\\
+`julia> println(D)`\\
+`22205.0`
+"
 function tspdist(tsp, sol)
     n = tsp.dimension
 
@@ -58,9 +71,17 @@ function insercao!(sol, i, j)
 end
 
 # Seleção por roleta
-# Exemplo de uso:
-#   indice = roleta([0.05;0.8;0.15])
-# indice = índice da ação/cidade escolhida
+"
+`i = roleta(p)`
+
+Retorna o índice entre `1:length(p)` sorteado por roleta com probabilidades `p`.
+
+Exemplo
+=========
+
+`julia> i = roleta([0.05;0.8;0.15])`\\
+O índice `i` será igual a 1, 2 ou 3, com probabilidades 5%, 80% e 15%, respectivamente.
+"
 function roleta(p)
     # p = probabilidades de escolha de cada ação/cidade
     # c = probabilidade acumulada (c[end] = 1.0)
@@ -74,9 +95,17 @@ end
 
 
 # HEURÍSTICA VIZINHO MAIS PRÓXIMO (Nearest Neighborhood - NN)
-# Uso:
-#   sol = NN(tsp)
-#
+"
+`NN(tsp)`
+
+Aplica a heurística do vizinho mais próximo à instância `tsp` da TSPLIB, iniciando de uma cidade aleatória.
+
+Exemplo
+=========
+
+`julia> tsp = readTSPLIB(:berlin52)`\\
+`julia> sol = NN(tsp)`
+"
 function NN(tsp)
     n = tsp.dimension
 
