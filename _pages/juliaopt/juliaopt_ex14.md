@@ -9,18 +9,9 @@ author_profile: true
 
 ## Objetivo: calcular tempos de execução.
 
-No Julia é fácil calcular o tempo de execução de um trecho de código. Há pelo menos duas maneiras de fazer isso: a primeira é através de comandos `time()`, que assemelha-se ao `tic`/`toc` do Matlab, e a segunda maneira é através das diretivas `@time` ou `@elapsed`.
+No Julia é fácil calcular o tempo de execução de um trecho de código. Quem é familharizado com Matlab deve conhecer os comandos `tic`/`toc`, que "marcam" o tempo inicial, final e depois retornam a diferença. Apesar de ser possível fazer algo semelhante no Julia com o comando `time()`, **essa estratégia é considerada obsoleta pois não computa o tempo com precisão, e portanto DEVE SER EVITADA**. Uma maneira mais adequada de computar tempo de execução é usando as diretivas `@time` ou `@elapsed`.
 
-O exemplo abaixo utiliza comandos `time()` para calcular o tempo de execução da função `algoritmo()`:
-~~~
-julia> tempoinicial = time()
-julia> resultado = algoritmo()
-julia> tempofinal = time()
-julia> tempo = tempofinal - tempoinicial
-~~~
-Na variável `tempo` será gravada a diferença de tempo entre a primeira chamada de `time()` e a segunda, assim como no `tic`/`toc` do Matlab. Apesar de implementada no Julia, **essa estratégia é considerada obsoleta pois não computa o tempo com precisão, e portanto DEVE SER EVITADA**.
-
-A estratégia mais adequada, que contabiliza o tempo de CPU com precisão, é através das diretivas `@time` e `@elapsed`. Para imprimir na tela o tempo de execução da chamada de `algoritmo()`, basta fazer
+Por exemplo, para imprimir na tela o tempo de execução da chamada de `algoritmo()`, basta fazer
 ~~~
 julia> @time algoritmo()
 ~~~
