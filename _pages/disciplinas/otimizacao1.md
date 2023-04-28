@@ -231,7 +231,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 ## Códigos em Julia
 
-- [**Métodos do gradiente, Newton e Newton globalizado, com funções para testes**](/files/otim1/gradiente_newton.zip)
+- [Métodos do gradiente, Newton e Newton globalizado, com funções para testes](/files/otim1/gradiente_newton.zip)
 
 
 ## Vídeos interessantes sobre Otimização
