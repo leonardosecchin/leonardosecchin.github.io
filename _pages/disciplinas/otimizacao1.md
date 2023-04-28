@@ -153,7 +153,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
    - [**ANOTAÇÕES** - Métodos de descida gerais](/files/otim1/4.1.Metodos_descida_gerais.pdf)
    - [**ANOTAÇÕES** - Convergência dos métodos de descida](/files/otim1/4.3.Convergencia_metodos_descida.pdf)
    - Veja o Teorema 6.1.6 da referência complementar.
-   - [**Código Julia do método do gradiente com busca linear inexata**](/files/otim1/gradiente.zip)
+   - *Código do método do gradiente com busca linear inexata - veja seção "Códigos em Julia"*
 
 
 1. **Método de Newton**
@@ -165,7 +165,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
      - Leitura interessante: [Artigo sobre o desenvolvimento da ideia Newtoniana ao longo dos anos (download acessando pela Universidade)](https://doi.org/10.1007/978-3-319-94015-1_9)
    - [**ANOTAÇÕES** - Convergência global vs local](/files/otim1/4.4.Convergencia_global_vs_local.pdf)
    - [**ANOTAÇÕES** - Convergência dos métodos de Newton e Newton globalizado](/files/otim1/4.5.Convergencia_Newton.pdf)
-   - [**Código Julia do método de Newton globalizado**](/files/otim1/newton.zip)
+   - *Código dos métodos de Newton e Newton globalizado - veja seção "Códigos em Julia"*
 
 
 1. **Método dos gradientes conjugados**
@@ -227,6 +227,11 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 - [**ANOTAÇÕES** - Programação Quadrática Sequencial (SQP, do inglês) - algoritmo básico](/files/otim1/6.6.SQP.pdf)
 - [**ANOTAÇÕES** - Pontos interiores para problemas com restrições lineares](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
 - [**ANOTAÇÕES** - SQP para restrições não lineares de igualdade e desigualdade](/files/otim1/6.8.SQP_subprob_IP.pdf)
+
+
+## Códigos em Julia
+
+- [**Métodos do gradiente, Newton e Newton globalizado, com funções para testes**](/files/otim1/gradiente_newton.zip)
 
 
 ## Vídeos interessantes sobre Otimização
