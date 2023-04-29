@@ -129,8 +129,8 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 - [**SLIDES**](https://drive.google.com/file/d/19VJ5y_Y6v8Dh7RovndMlxlzzTL40BiiL/view?usp=sharing)
 - [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
-- Referência: capítulo 10 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 - **Tarefa computacional:** veja último *slide* do *link* acima
+- Referência: capítulo 10 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 
 
 ## METAHEURÍSTICA 3: Colônia de formigas (Ant Colony Optimization - ACO)
@@ -208,7 +208,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 ## Pacotes de terceiros
 
-- Pacote **Metaheuristics.jl:** implementação em Julia de várias metaheurísticas. [site](https://github.com/jmejia8/Metaheuristics.jl)
+- Pacote **Metaheuristics.jl:** implementação em Julia de várias metaheurísticas. [Site](https://github.com/jmejia8/Metaheuristics.jl).
 
 
 ## Leitura(s) recomendada(s)
