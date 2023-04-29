@@ -58,15 +58,17 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
 
 # MATERIAIS PARA AS AULAS
 
-<!--## Linguagens de programação
+## Linguagem de programação
 
-- Os códigos e as aulas serão baseados em códigos **Octave**.
-    - Em distrituições GNU/Linux como Ubuntu e Mint, Octave está disponível via repositório. Você deverá instalar o pacote principal ``octave``. Comandos específicos estão disponíveis em outros pacotes com nomes ``octave-X``, tais como ``octave-optim`` (algoritmos para otimização irrestrita), ``octave-nlopt`` (algoritmos para otimização restrita), ``octave-ga`` (um algoritmo genético pronto), e muitos outros. Instale os pacotes que for usar (aqueles necessários no curso serão indicados).
-    - No Windows, você pode baixar o Octave [neste link](https://www.gnu.org/software/octave/index).
-    - [**Documentação do Octave**](https://www.gnu.org/software/octave/doc/latest).
+A linguagem de referência é o Julia. Você pode encontrar instruções de instalação e uso [neste link](/julia/).
 
-- Outras linguagens podem ser usadas, como o Python. Uma outra opção é o Julia. Você pode encontrar instruções de instalação e uso [neste link](/julia/). Se for usar outras linguagens, tente não ser muito exótico(a) ;)-->
+**Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados, baixe [ESTE SCRIPT](/files/metaheu/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
+## Pacotes e códigos em Julia
+
+- Pacote **TSPLIB.jl:** instâncias da biblioteca TSPLIB (problema do caixeiro viajante) prontas em Julia [site](https://github.com/matago/TSPLIB.jl). Veja tópico "O problema do caixeiro viajante" para detalhes.
+- [**tspplot.jl:** código para plotar instâncias da TSPLIB](/files/metaheu/tspplot.jl)
+- [**tsp.jl:** funções para manipulação de instâncias da TSPLIB e heurística do vizinho mais próximo](/files/metaheu/tsp.jl)
 
 ## Apresentação
 
@@ -79,15 +81,6 @@ Assim, a nota final é no máximo 10, mesmo que a média das apresentações sej
     - Uma descrição sucinta do funcionamento do algoritmo
     - Não esqueça de indicar a referência da qual retirou as informações!
     - **Relatórios apresentados:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing); [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing); [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing); [Pedro Lucas](https://drive.google.com/file/d/1do5xYzwOLqI2ptsvzv9O8j7wTGMjtRvu/view?usp=sharing)
-
-## Códigos e pacotes Julia
-
-- Pacote **Metaheuristics.jl:** implementação em Julia de várias metaheurísticas. [site](https://github.com/jmejia8/Metaheuristics.jl)
-- Pacote **TSPLIB.jl:** instâncias da biblioteca TSPLIB (problema do caixeiro viajante) prontas em Julia [site](https://github.com/matago/TSPLIB.jl). Veja tópico abaixo para detalhes.
-- [**tspplot.jl:** código para plotar instâncias da TSPLIB](/files/metaheu/tspplot.jl)
-- [**tsp.jl:** funções para manipulação de instâncias da TSPLIB e heurística do vizinho mais próximo](/files/metaheu/tsp.jl)
-
-**Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados, baixe [ESTE SCRIPT](/files/metaheu/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
 
 ## O problema do caixeiro viajante (Travelling Salesman Problem - TSP)
@@ -130,8 +123,8 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - [**SLIDES**](https://drive.google.com/file/d/1AVM2-O65q1EVD7bq4LBRoJR1nRl-LQ9T/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - Referência: capítulo 2 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
-- Outros conteúdos:
-   - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
+<!--- Outros conteúdos:
+   - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)-->
 
 
 ## METAHEURÍSTICA 2: Simulated Annealing (SA)
@@ -140,8 +133,8 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - Referência: capítulo 10 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 - **Tarefa computacional:** veja último *slide* do *link* acima
-- Outros conteúdos:
-   - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
+<!--- Outros conteúdos:
+   - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)-->
 
 
 ## METAHEURÍSTICA 3: Colônia de formigas (Ant Colony Optimization - ACO)
@@ -153,11 +146,8 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     - Dorigo, Gambardella. Ant colony system: a cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1:53-66, 1997 [Link1](https://ieeexplore.ieee.org/document/585892) (acesso pela universidade) [Link2](https://people.idsia.ch/~luca/acs-ec97.pdf)
     - Dorigo, Caro. Ant colony optimization: a new meta-heuristic. [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
     - Capítulo 9 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
-- Outros conteúdos:
-    - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
-<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1cQ5wtYWb1_JscJSKOG6YiHG5wYY-Vapg/view?usp=sharing) (código comentado)**  
-    *Fonte: [http://yarpiz.com/53/ypea103-ant-colony-optimization](http://yarpiz.com/53/ypea103-ant-colony-optimization)*
--->
+<!--- Outros conteúdos:
+    - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)-->
 
 
 ## METAHEURÍSTICA 4: Evolução Diferencial (Differential Evolution - DE)
@@ -218,6 +208,11 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 <!--- **[Código Matlab/Octave de um GRASP para o TSP](https://drive.google.com/file/d/1ZdYhhQHka7aDrDlxtwvtuMIp6gVv-pHv/view?usp=sharing)**  
     _Fonte: [https://github.com/warloff/GRASP-for-Traveling-Salesman](https://github.com/warloff/GRASP-for-Traveling-Salesman)_-->
+
+
+## Pacotes de terceiros
+
+- Pacote **Metaheuristics.jl:** implementação em Julia de várias metaheurísticas. [site](https://github.com/jmejia8/Metaheuristics.jl)
 
 
 ## Leitura(s) recomendada(s)
