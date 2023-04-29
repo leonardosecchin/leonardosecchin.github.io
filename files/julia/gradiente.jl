@@ -7,8 +7,6 @@
 
 using Printf, LinearAlgebra, NLPModels
 
-include("buscalinear.jl")
-
 # FUNÇÃO PRINCIPAL
 """
 `x, f, gsupn, iter, nf, status = gradiente(nlp, [opções])`
