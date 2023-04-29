@@ -123,9 +123,6 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - [**SLIDES**](https://drive.google.com/file/d/1AVM2-O65q1EVD7bq4LBRoJR1nRl-LQ9T/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - Referência: capítulo 2 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
-<!--- Outros conteúdos:
-   - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
--->
 
 
 ## METAHEURÍSTICA 2: Simulated Annealing (SA)
@@ -134,9 +131,6 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - Referência: capítulo 10 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 - **Tarefa computacional:** veja último *slide* do *link* acima
-<!--- Outros conteúdos:
-   - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
--->
 
 
 ## METAHEURÍSTICA 3: Colônia de formigas (Ant Colony Optimization - ACO)
@@ -148,9 +142,6 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     - Dorigo, Gambardella. Ant colony system: a cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1:53-66, 1997 [Link1](https://ieeexplore.ieee.org/document/585892) (acesso pela universidade) [Link2](https://people.idsia.ch/~luca/acs-ec97.pdf)
     - Dorigo, Caro. Ant colony optimization: a new meta-heuristic. [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
     - Capítulo 9 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
-<!--- Outros conteúdos:
-    - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
--->
 
 
 ## METAHEURÍSTICA 4: Evolução Diferencial (Differential Evolution - DE)
