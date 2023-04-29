@@ -4,7 +4,7 @@
 # e tabela saídas em "resultados.txt".
 #
 # Autor: Leonardo D. Secchin
-# Data : mai 2022
+# Data : 28/04/2023
 #
 # Uso:
 #   testesSIF()
@@ -12,15 +12,15 @@
 
 using CUTEst, Printf
 
-# carrega método do gradiente com busca linear por Armijo + interpolação quadrática + salvaguardas
-include("gradiente_interp.jl")
+# carrega método do gradiente
+include("gradiente.jl")
 
 # carrega método do gradiente espectral projetado (SPG)
 # include("spg.jl")  #***** IMPLEMENTE SPG E INCLUA O ARQUIVO AQUI  *****
 
 nlp = []
 
-function testesSIF(; sifpath=pwd()*"/sif")
+function testesSIF()
 
     # máximo de iterações para os métodos
     maxit = 10000
@@ -28,8 +28,8 @@ function testesSIF(; sifpath=pwd()*"/sif")
     # abre arquivo de saída em modo inserção
     arq = open("resultados.txt", "a")
 
-    # seleciona problemas irrestritos
-    sif = CUTEst.select(contype="unc", max_var=2000, min_var=50, only_free_var=true);
+    # seleciona problemas irrestritos com número de variáveis entre 10 e 50
+    sif = CUTEst.select(contype="unc", max_var=50, min_var=10, only_free_var=true);
 
     try
 
@@ -39,7 +39,6 @@ function testesSIF(; sifpath=pwd()*"/sif")
     # compilação.
     nlp = CUTEstModel(sif[1]);
     gradiente(nlp, maxiter=1, saidas=false);
-#     spg(nlp, maxiter=1, saidas=false); #***** IMPLEMENTE SPG E DESCOMENTE ESTA LINHA  *****
     finalize(nlp)
 
     # escreve cabeçalho no arquivo de saída
@@ -62,65 +61,18 @@ function testesSIF(; sifpath=pwd()*"/sif")
             write(arq, @sprintf("%12s | %6d", sif[i], nlp.meta.nvar))
             flush(arq)
 
-            # variável para impressão de resultados com vários métodos
-            primeiro_res = true
-
-            # conta variáveis que possuem limitante inferior ou superior
-            boundedvars = count((nlp.meta.lvar .> -Inf) .| (nlp.meta.uvar .< Inf))
-
             ###############################################
             # APLICA MÉTODO DO GRADIENTE
-            # se o problema for irrestrito.
             ###############################################
-            if (nlp.meta.ncon == 0) & (boundedvars == 0)
+            println("Resolvendo "*sif[i]*" pelo método do gradiente...")
 
-                println("Resolvendo "*sif[i]*" pelo método do gradiente...")
+            # aplica gradiente a partir do ponto inicial fornecido no problema
+            ~, gra_f, gra_g, gra_it, gra_st = gradiente_interp(nlp, x0=nlp.meta.x0, maxiter=maxit, saidas=false);
 
-                # aplica gradiente a partir do ponto inicial fornecido no problema
-                ~, gra_f, gra_g, gra_it, gra_st = gradiente_interp(nlp, x0=nlp.meta.x0, maxiter=maxit, saidas=false);
-
-                # escreve resultado no arquivo de saida
-                write(arq, @sprintf(" |   grad | %5d | %9.2e | %8.2e | %2d |\n",
-                        gra_it, gra_f, gra_g, gra_st))
-                flush(arq)
-
-                primeiro_res = false
-
-            end
-
-            ###############################################
-            # APLICA MÉTODO DO GRAD. ESPECTRAL PROJ. (SPG)
-            # se o problema for irrestrito ou só tiver
-            # restrições de caixa.
-            ###############################################
-#             if nlp.meta.ncon == 0
-#
-#                 #**********************************************************
-#                 #***** IMPLEMENTE SPG E DESCOMENTE AS LINHAS A SEGUIR *****
-#                 #**********************************************************
-#
-#                 println("Resolvendo "*sif[i]*" pelo método do gradiente espectral projetado...")
-#
-#                 # aplica SPG a partir do ponto inicial fornecido no problema
-#                 ~, spg_f, spg_g, spg_it, spg_st = spg(nlp, x0=nlp.meta.x0, maxiter=maxit, saidas=false);
-#
-#                 # escreve resultado no arquivo de saida
-#                 # se já há linha de método anterior, tabula adequadamente
-#                 if !primeiro_res
-#                     write(arq, "             |       ")
-#                 end
-#
-#                 write(arq, @sprintf(" |    spg | %5d | %9.2e | %8.2e | %2d |\n",
-#                         spg_it, spg_f, spg_g, spg_st))
-#                 flush(arq)
-#
-#                 primeiro_res = false
-#
-#             end
-
-            # OBS:
-            # Você pode inserir outros métodos a serem executados
-            # em sequência. Adapte o bloco acima.
+            # escreve resultado no arquivo de saida
+            write(arq, @sprintf(" |   grad | %5d | %9.2e | %8.2e | %2d |\n",
+                    gra_it, gra_f, gra_g, gra_st))
+            flush(arq)
 
         end
 

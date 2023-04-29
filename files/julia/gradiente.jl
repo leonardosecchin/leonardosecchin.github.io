@@ -2,7 +2,7 @@
 # METODO DO GRADIENTE COM BUSCA LINEAR ARMIJO + INTERPOLAÇÃO QUADRÁTICA + SALVAGUARDAS
 #
 # Autor: Leonardo D. Secchin
-# Data : 25/05/2022, atualizado em 28/04/2023
+# Data : 28/04/2023
 ###################################################
 
 using Printf, LinearAlgebra, NLPModels
@@ -19,11 +19,10 @@ Método do gradiente com busca linear inexata (Armijo + interpolação quadráti
 
 # Saídas
 
-- `x`     : solução encontrada (ou histórico de todos os iterandos gerados)
-- `f`     : valor da função objetivo no último iterando
-- `gsupn` : norma do infinito do gradiente da função objetivo no último iterando
+- `x`     : solução encontrada
+- `f`     : valor da função objetivo no último iterando ou o histórico
+- `gsupn` : norma do infinito do gradiente da função objetivo no último iterando ou histórico
 - `iter`  : número de iterações realizadas
-- `nf`    : número de avaliações da função objetivo
 - `status`: 0 para sucesso, 1 para falha
 
 # Opções
@@ -32,17 +31,16 @@ Método do gradiente com busca linear inexata (Armijo + interpolação quadráti
 - `eps`    : precisão para convergencia (padrão = 1.0e-6)
 - `maxiter`: número máximo de iterações (padrão = 1000)
 - `saidas` : mensagens na tela? (padrão = true)
-- `interp` : usa interpolação quadrática? (padrão = true)
-- `salvax` : retorna histórico de x (padrão = false)
+- `hist`   : retorna histórico (padrão = false)
 
 # Exemplos
 
 `julia> using CUTEst`\\
 `julia> nlp = CUTEstModel("TRIGON1")`\\
 `julia> gradiente(nlp);`\\
-`julia> x, f, gsupn, iter, nf, status = gradiente(nlp, x0=ones(10), eps=1e-8, interp=false);`
+`julia> x, f, gsupn, iter, nf, status = gradiente(nlp, x0=ones(10), eps=1e-8);`
 """
-function gradiente(nlp; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=true, interp=true, salvax=false)
+function gradiente(nlp; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=true, hist=false)
 
     iter   = 0
     status = 1
@@ -67,7 +65,8 @@ function gradiente(nlp; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=true, inte
     g     = grad(nlp, x)
     gsupn = norm(g, Inf)
 
-    histx = x
+    histf = f
+    histgsupn = gsupn
 
     # contador de avaliações de f
     nf = 1
@@ -83,7 +82,7 @@ function gradiente(nlp; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=true, inte
         d = -g
 
         # retorna novo iterando após busca linear (Armijo + interpolação quadrática)
-        x, f, ~, lsnf = buscalinear(nlp, x, f, g, d, eta, interp)
+        x, f, ~, lsnf = buscalinear(nlp, x, f, g, d, eta)
 
         nf += lsnf
 
@@ -91,10 +90,12 @@ function gradiente(nlp; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=true, inte
         g     = grad(nlp, x)
         gsupn = norm(g, Inf)
 
-        if salvax
-            histx = [histx x]
+        if hist
+            histf = [histf f]
+            histgsupn = [histgsupn gsupn]
         else
-            histx = x
+            histf = f
+            histgsupn = gsupn
         end
 
         iter += 1
@@ -124,14 +125,14 @@ function gradiente(nlp; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=true, inte
         println("*******************************\n")
     end
 
-    return histx, f, gsupn, iter, nf, status
+    return x, histf, histgsupn, iter, status
 end
 
 
 # BUSCA LINEAR COM ARMIJO + BACKTRACKING + INTERPOLAÇÃO QUADRÁTICA
 # Adapte esta função para que Armijo modificado seja utilizado
 # (note que fmax já está no cabeçalho).
-function buscalinear(nlp, x, f, g, d, eta, interp)
+function buscalinear(nlp, x, f, g, d, eta)
 
     # calcula g' * d
     gtd = g' * d
@@ -149,20 +150,16 @@ function buscalinear(nlp, x, f, g, d, eta, interp)
     # enquanto Armijo não é satisfeito, atualiza t...
     while fnew > f + t*eta*gtd
 
-        if interp
-            # passo da interpolação quadrática
-            tquad = - 0.5*gtd*(t^2) / (fnew - f - t*gtd)
+        # passo da interpolação quadrática
+        tquad = - 0.5*gtd*(t^2) / (fnew - f - t*gtd)
 
-            # salvaguardas
-            if (tquad < 0.1*t) || (tquad > 0.9*t)
-                # backtracking
-                t = t / 2.0
-            else
-                # aceita o passo da interpolação quadrática
-                t = tquad
-            end
-        else
+        # salvaguardas
+        if (tquad < 0.1*t) || (tquad > 0.9*t)
+            # backtracking
             t = t / 2.0
+        else
+            # aceita o passo da interpolação quadrática
+            t = tquad
         end
 
         # novo ponto

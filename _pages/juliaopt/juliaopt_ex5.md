@@ -11,32 +11,32 @@ author_profile: true
 
 Vamos plotar em uma só figura o histórico de $f$ e $\|\nabla f\|_\infty$ para o problema do [Exemplo 1](/juliaopt_ex1). Você precisará do pacote `Plots`.
 
-Salve o arquivo [gradiente2.jl](/files/julia/gradiente2.jl). É a mesma implementação do [Exemplo 4](/juliaopt_ex4), mas com retorno do histórico de execução.
+Salve o arquivo [gradiente.jl](/files/julia/gradiente.jl). É a mesma implementação do [Exemplo 4](/juliaopt_ex4).
 
 ## Método 1 - Gerando gráficos pela linha de comandos do Julia
 
-Carregando `gradiente2.jl` (supondo que esteja no diretório do arquivo):
+Carregando `gradiente.jl` (supondo que esteja no diretório do arquivo):
 ~~~
-julia> include("gradiente2.jl")
-~~~
-
-Todos os pacotes necessários ja serão carregados. **Construa a estrutura `nlp` como no [Exemplo 1](/juliaopt_ex1).**
-
-Executando o método a partir do ponto $x_0=(1,1)$ e guardando a saída:
-~~~
-julia> x, f, gradnorm, iter, status, histf, histgradnorm = gradiente2(nlp, x0=[1;1]);
+julia> include("gradiente.jl")
 ~~~
 
-Os vetores `histf` e `histgradnorm` contêm o histórico de $f$ e $\|\nabla f\|_\infty$. Você pode imprimi-los na tela se quiser.
+Todos os pacotes necessários já serão carregados. **Construa a estrutura `nlp` como no [Exemplo 1](/juliaopt_ex1).**
+
+Executando o método a partir do ponto $x_0=(1,1)$ e guardando o histórico de $f$ e $\|\nabla f\|_\infty$ de cada iteração:
+~~~
+julia> x, f, gradnorm, iter, status = gradiente(nlp, x0=[1;1], hist=true);
+~~~
+
+Os vetores `f` e `gradnorm` contêm o histórico de $f$ e $\|\nabla f\|_\infty$. Você pode imprimi-los na tela se quiser.
 
 Iniciando a figura com o gráfico de $f$:
 ~~~
-julia> fig = plot(histf, label="f");
+julia> fig = plot(f, label="f");
 ~~~
 
 Agregando o gráfico de $\|\nabla f\|_\infty$ e configurando títulos:
 ~~~
-julia> fig = plot!(histgradnorm, title="FO e gradiente", xlabel="iter", label="|∇f|");
+julia> fig = plot!(gradnorm, title="FO e gradiente", xlabel="iter", label="|∇f|");
 ~~~
 
 *Obs.: você pode agregar quantos plots quiser à mesma figura executando sucessivos `plot!`. Ao executar `plot` (sem exclamação) novamente, Julia limpará a figura.*
@@ -80,7 +80,7 @@ Estude o *notebook* e mude-o como quiser. Você pode retirar o `;` (ponto e vír
 O comando `plot` aceita personalização. Por exemplo, para mudar título e texto do eixo $x$:
 
 ~~~
-julia> fig = plot(histf, label="f", title="Função objetivo", xlabel="iter");
+julia> fig = plot(f, label="f", title="Função objetivo", xlabel="iter");
 ~~~
 
 As opções são separadas por vírgula. Eis algumas delas:

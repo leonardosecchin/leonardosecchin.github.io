@@ -9,7 +9,7 @@ author_profile: true
 
 ## Objetivo: calcular tempos de execução.
 
-No Julia é fácil calcular o tempo de execução de um trecho de código. Quem é familharizado com Matlab deve conhecer os comandos `tic`/`toc`, que "marcam" o tempo inicial, final e depois retornam a diferença. Apesar de ser possível fazer algo semelhante no Julia com o comando `time()`, **essa estratégia é considerada obsoleta pois não computa o tempo com precisão, e portanto DEVE SER EVITADA**. Uma maneira mais adequada de computar tempo de execução é usando as diretivas `@time` ou `@elapsed`.
+No Julia é fácil calcular o tempo de execução de um trecho de código. Quem é familharizado com Matlab deve conhecer os comandos `tic`/`toc`, que "marcam" os tempos inicial e final da execução de um trecho de código. Apesar de ser possível fazer algo semelhante no Julia com o comando `time()`, **essa estratégia é considerada obsoleta pois não computa o tempo com precisão, e portanto deve ser evitada**. Uma maneira mais adequada de computar tempo de execução é usando as diretivas `@time` ou `@elapsed`.
 
 Por exemplo, para imprimir na tela o tempo de execução da chamada de `algoritmo()`, basta fazer
 ~~~
@@ -20,9 +20,7 @@ A diretiva `@elapsed` permite gravar o tempo de CPU em uma variável e a saída 
 ~~~
 julia> tempo = @elapsed resultado = algoritmo()
 ~~~
-Este trecho tem o mesmo efeito de `time()`, mas com tempo de CPU preciso.
-
 
 **Exercício**
 
-No [Exemplo 9](/juliaopt_ex9/), ajuste o arquivo `testesSIF.jl` para tabelar os tempos de execução das chamadas de `gradiente_interp` usando `@elapsed`, mantendo a saída do algoritmo. Grave os resultados em um **DataFrame**, como explicado no [Exemplo 12](/juliaopt_ex12/), adicionando uma coluna para o tempo de CPU.
+No [Exemplo 9](/juliaopt_ex9/), ajuste o arquivo `testesSIF.jl` para tabelar os tempos de execução das chamadas de `gradiente` usando `@elapsed`, mantendo a saída do algoritmo. Grave os resultados em um **DataFrame**, como explicado no [Exemplo 12](/juliaopt_ex12/), adicionando uma coluna para o tempo de CPU.

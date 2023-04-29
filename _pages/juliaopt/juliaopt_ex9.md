@@ -54,47 +54,18 @@ julia> flush(arq);
 julia> close(arq);
 ~~~
 
-## Tabelando resultados - exemplo completo
+## Tabelando resultados
 
-O exemplo a seguir executa o método do gradiente com interpolação quadrática em problemas da [CUTEst](/juliaopt_ex8/).
+No [Exemplo 4](/juliaopt_ex4/) foi disponibilizada uma implementação do método do gradiente. O exemplo a seguir executa o método do gradiente em problemas da [CUTEst](/juliaopt_ex8/).
 
-No [Exemplo 4](/juliaopt_ex4/) foi sugerida a implementação do método do gradiente com busca linear por interpolação quadrática. O método a seguir emprega tal estratégia baseada na implementação do método do gradiente espectral projetado (do inglês, SPG), em Fortran, desenvolvido por Birgin, Martinez e Raydan, e disponível em [www.ime.usp.br/~egbirgin/tango/codes.php](www.ime.usp.br/~egbirgin/tango/codes.php). Trata-se de uma estratégia com mais detalhes do que visto em aula. Ela costuma funcionar muito bem na prática. Baixe o código no *link* abaixo e veja detalhes na função `buscalinear`:
-
-- [**gradiente_interp.jl** - Método do gradiente com busca linear Armijo + interpolação quadrática + salvaguardas](/files/julia/gradiente_interp.jl)
+- Baixe o arquivo [**gradiente.jl**](/files/julia/gradiente.jl) contendo a implementação do método do gradiente
 
 A fim de aplicar o método acima em vários problemas de forma automatizada, baixe o código a seguir:
 
 - [**testesSIF.jl** - Testes automatizados com problemas da CUTEst](/files/julia/testesSIF.jl)
 
-Este código executa o método do gradiente sobre um diretório com arquivos `.SIF` (os arquivos da CUTEst). Você pode lembrar como carregar esses arquivos no Julia revendo o [Exemplo 8](/juliaopt_ex8/).
+Este código executa o método do gradiente sobre problemas selecionados da CUTEst. Você pode lembrar como carregar tais problemas revendo o [Exemplo 8](/juliaopt_ex8/).
 
-O arquivo ZIP a seguir contém problemas sem restrições selecionados da CUTEst. Descompacte-o para a pasta `sif` dentro do mesmo diretório que os códigos anteriores e execute `testesSIF()`.
+### Exercício
 
-- [**cutest_irrestrito.zip** - Problemas irrestritos selecionados da CUTEst](/files/julia/cutest_irrestrito.zip)
-
-*Fonte: bitbucket.org/optrove/sif*
-
-*Obs.: é possível resolver vários problemas `.SIF` em paralelo. Veja [github.com/JuliaSmoothOptimizers/CUTEst.jl](github.com/JuliaSmoothOptimizers/CUTEst.jl).*
-
-**ALERTA IMPORTANTE: no momento da escrita deste manual, o pacote `CUTEst.jl` não lida com diretórios/arquivos que contenham espaços. Se você encontrar erros na execução de `CUTEstModel` (comando presente em `testesSIF.jl`), considere colocar os arquivos `SIF` em caminhos sem espaços.**
-
-
-### Exercício 1
-
-Teste o método de gradiente com interpolação quadrática nos problemas irrestritos selecionados, como explicado acima.
-
-### Exercício 2
-
-Implemente o método do gradiente espectral projetado **a partir do código [`gradiente_interp.jl`](/files/julia/gradiente_interp.jl)**. No arquivo [`testesSIF.jl`](/files/julia/testesSIF.jl) há instruções para inserir sua implementação. Rode `testesSIF` sobre os [**problemas irrestritos selecionados**](/files/julia/cutest_irrestrito.zip).
-
-Veja um [**exemplo da saída gerada**](/files/julia/resultados.txt) pela rotina `testesSIF`, com dois métodos (`gradiente_interp.jl` e SPG).
-
-### Exercício 3
-
-Usando o mesmo código `testesSIF.jl`, teste sua implementação do gradiente espectral projetado para os problemas com restrições de caixa (variáveis com limitantes) selecionados da CUTEst:
-
-- [**cutest_caixa.zip** - Problemas com restrições de caixa selecionados da CUTEst](/files/julia/cutest_caixa.zip)
-
-*Fonte: bitbucket.org/optrove/sif*
-
-Lembre-se que neste caso o método do gradiente puro não pode ser aplicado, pois não está preparado para lidar com limitantes nas variáveis. A rotina `testesSIF` identifica automaticamente se no problema há variáveis limitadas ou não.
+Teste o método de gradiente nos problemas irrestritos selecionados, como explicado acima.
