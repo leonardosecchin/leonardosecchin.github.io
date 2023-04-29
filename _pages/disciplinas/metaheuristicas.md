@@ -124,7 +124,8 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - Referência: capítulo 2 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 <!--- Outros conteúdos:
-   - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)-->
+   - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
+-->
 
 
 ## METAHEURÍSTICA 2: Simulated Annealing (SA)
@@ -134,7 +135,8 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - Referência: capítulo 10 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 - **Tarefa computacional:** veja último *slide* do *link* acima
 <!--- Outros conteúdos:
-   - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)-->
+   - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
+-->
 
 
 ## METAHEURÍSTICA 3: Colônia de formigas (Ant Colony Optimization - ACO)
@@ -147,7 +149,8 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     - Dorigo, Caro. Ant colony optimization: a new meta-heuristic. [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
     - Capítulo 9 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 <!--- Outros conteúdos:
-    - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)-->
+    - [Slides de Andrea Roli](https://www.researchgate.net/profile/Andrea_Roli/publication/228746637_An_introduction_to_Metaheuristics/links/54b65e620cf2bd04be3202c0/An-introduction-to-Metaheuristics.pdf)
+-->
 
 
 ## METAHEURÍSTICA 4: Evolução Diferencial (Differential Evolution - DE)
@@ -166,7 +169,8 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     - **Funções-teste (retirado da terceira referência acima):** [metah.funcoes-teste](https://drive.google.com/file/d/1-uG0uM2BvYLMa93LL_KAH3qWhsOT9SLy/view?usp=sharing)
 
 <!--- **[Código Matlab/Octave](https://drive.google.com/file/d/12NKXXIfaK94O4ei6N2qjcqvjftKJu4Hm/view?usp=sharing) (código comentado)**  
-    _Fonte: [http://yarpiz.com/231/ypea107-differential-evolution](http://yarpiz.com/231/ypea107-differential-evolution)_-->
+    _Fonte: [http://yarpiz.com/231/ypea107-differential-evolution](http://yarpiz.com/231/ypea107-differential-evolution)
+-->
 
 
 ## METAHEURÍSTICA 5: Algoritmo Genético (Genetic Algorithm - GA)
@@ -194,7 +198,8 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 <!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1q9W2SjF0vXIX4dfD55jBool1RvXPSSxI/view?usp=sharing) (código comentado).**  
     - [Vídeo-aulas do projeto Yarpiz (em inglês)](http://yarpiz.com/440/ytea101-particle-swarm-optimization-pso-in-matlab-video-tutorial). Veja a parte 1/3 para explicação do algoritmo.
-    _Fonte: [http://yarpiz.com/50/ypea102-particle-swarm-optimization](http://yarpiz.com/50/ypea102-particle-swarm-optimization)_-->
+    _Fonte: [http://yarpiz.com/50/ypea102-particle-swarm-optimization](http://yarpiz.com/50/ypea102-particle-swarm-optimization)
+-->
 
 
 ## METAHEURÍSTICA 7: GRASP (Greedy Randomized Adaptive Search Procedure)
