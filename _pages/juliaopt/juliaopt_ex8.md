@@ -96,42 +96,22 @@ Há muitas outras possibilidades. A seguir, uma lista de *tags* que você pode u
   - Obs: o comando `CUTEst.contypes` lista os tipos de restrições acima.
 
 
-### USANDO PROBLEMAS BAIXADOS MANUALMENTE
+## A linguagem de modelagem AMPL e arquivos .nl
 
-A coleção completa dos problemas pode ser obtida manualmente pelo repositório <https://bitbucket.org/optrove/sif>. No GNU/linux, basta executar o seguinte comando de dentro da pasta que deseja guardar os problemas:
+Uma linguagem de modelagem muito utilizada é o [AMPL](https://ampl.com/). Na verdade, o AMPL tal como disponibilizado é uma espécie de "ambiente de otimização" pois traz consigo alguns resolvedores. No entanto, o AMPL **não é *software* livre**. É necessária uma licença para usufruir de todas as suas funcionalidades. Uma versão limitada de demonstração está disponível no [site do desenvolvedor](https://ampl.com/).
 
-~~~
-git clone https://bitbucket.org/optrove/sif ./mastsif
-~~~
-
-Isso criará a pasta `mastsif` contendo os arquivos `.SIF`. Você pode baixar (sub-)bibliotecas menores (cerca de 230Mb):
-
-- Problemas convexos de Maros & Meszaros:
-  ~~~
-  git clone https://bitbucket.org/optrove/maros-meszaros ./marosmeszaros
-  ~~~
-- Problemas lineares (PL's) da Netlib: descompacte o arquivo [deste link](ftp://ftp.numerical.rl.ac.uk/pub/cutest/netlib.tar.gz).
-
-Como já dissemos, o pacote `CUTEst` baixa todos os problemas da CUTEst automaticamente para o diretório de trabalho do Julia. Porém, caso você já tenha um diretório próprio com arquivos `.SIF` baixados manualmente ou simplesmente não queira usar aquele criado pelo Julia, você pode carregar os problemas fornecendo o caminho completo do arquivo:
-
-~~~
-julia> nlp = CUTEstModel("[seu diretorio de arquivos SIF]/SPARSQUR");
-~~~
-
-Uma outra maneira é mudar a variável de ambiente **MASTSIF**. O comando `CUTEstModel` toma como padrão o caminho dessa variável (caso ela não estiver definida em seu sistema, `CUTEstModel` usará o caminho dos problemas baixados automaticamente). Isso é útil quando você já usa a CUTEst em um código não Julia.
-
-**ALERTA IMPORTANTE: no momento da escrita deste manual, o pacote `CUTEst.jl` não lida com diretórios/arquivos que contenham espaços. Se você encontrar erros na execução de `CUTEstModel`, considere colocar os arquivos `SIF` em caminhos sem espaços.**
+É possível exportar os modelos AMPL para o formato `.nl`. Veja a [documentação](https://ampl.com/resources/the-ampl-book/chapter-downloads/) oficial. Apesar do AMPL não ser livre, o formato codificado `.nl` sim é livre. De fato, outros *softwares* geraram arquivos `.nl`, como é o caso do Julia. É possível ainda que problemas sejam disponibilizados diretamente em formato `.nl`.
 
 
-## Problemas no formato aberto .nl
+### Manipulando arquivos .nl no Julia
 
-É comum que modelos de otimização sejam disponibilizados em um formato livre com extensão `.nl`. No Julia, há dois pacotes para manipulação desse tipo de arquivo:
+No Julia, há dois pacotes para manipulação desse tipo de arquivo:
 - **`AmplNLReader`:** Lê arquivos `.nl` ([link](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl))
 - **`AmplNLWriter`:** Escreve arquivos `.nl` a partir de estruturas de modelagem próprias ([link](https://github.com/jump-dev/AmplNLWriter.jl))
 
-A seguir, um exemplo de leitura de um arquivo `.nl`. Isso é útil quando uma biblioteca de problemas é disponibilizada nesse formato, ou em arquivos do AMPL (veja seção seguinte).
+A seguir, um exemplo de leitura de um arquivo `.nl`. Isso é útil quando uma biblioteca de problemas é disponibilizada nesse formato, ou em arquivos do AMPL.
 
-Suponha que no diretório em que Julia foi executado exista o arquivo `modelo.nl`. Para criar o modelo `nlp`, já na estrutura `NLPModels`, é muito simples:
+Suponha que no diretório em que Julia foi executado exista o arquivo `modelo.nl`. Criar o modelo `nlp`, já na estrutura `NLPModels`, é muito simples:
 
 ~~~
 julia> using AmplNLReader
@@ -139,13 +119,6 @@ julia> nlp = AmplModel("modelo.nl")
 ~~~
 
 Por sua vez, o pacote `AmplNLWriter` escreve arquivos `.nl`, mas a partir de estruturas próprias de modelagem (isto é, você terá que criar o modelo já na estrutura do `AmplNLWriter`). É possível "conectar" `AmplNLWriter` diretamente à resolvedores sem passar por arquivos `.nl`, como se estivéssemos no ambiente do AMPL. Veja a documentação do pacote para detalhes.
-
-
-## A linguagem de modelagem AMPL
-
-Uma linguagem de modelagem muito utilizada é o [AMPL](https://ampl.com/). Na verdade, o AMPL tal como disponibilizado é uma espécie de "ambiente de otimização" pois traz consigo alguns resolvedores. No entanto, o AMPL **não é *software* livre**. É necessária uma licença para usufruir de todas as suas funcionalidades. Uma versão limitada de demonstração está disponível no [site do desenvolvedor](https://ampl.com/).
-
-É possível exportar os modelos AMPL para o formato livre `.nl`. Veja a [documentação](https://ampl.com/resources/the-ampl-book/chapter-downloads/) oficial.
 
 
 ## Outras fontes de problemas / formatos
@@ -176,9 +149,9 @@ Se pretende minimizar funções quadráticas, você pode ler matrizes da [Suite 
 
 Se tiver problemas com o pacote `SuiteSparseMatrixCollection`, uma alternativa é o pacote [`MatrixDepot`](https://github.com/JuliaMatrices/MatrixDepot.jl). Este último pacote também baixa matrizes automaticamente.
 
-### Formatos típicos em PL e programação quadrática
+### Formatos típicos em programação linear e quadrática
 
-Em programação linear/quadrática, os formatos livres de arquivo `MPS` e `QPS` são usados (por exemplo, o CPLEX lê esses formatos). Uma interface para leitura desses tipos de arquivos no Julia vem no pacote [`QPSReader`](https://github.com/JuliaSmoothOptimizers/QPSReader.jl).
+Em programação linear/quadrática, os formatos livres `MPS` e `QPS` são usados (por exemplo, o CPLEX os lê). Uma interface para leitura desses tipos de arquivos no Julia vem no pacote [`QPSReader`](https://github.com/JuliaSmoothOptimizers/QPSReader.jl).
 
 ### Problemas de quadrados mínimos não lineares
 
