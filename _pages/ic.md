@@ -118,15 +118,15 @@ O grupo de otimização da UFES, campus São Mateus, disponha de um computador d
 1. Modelos típicos de Pesquisa Operacional (em particular, de programação inteira mista), vistos nas disciplinas “Pesquisa Operacional I e II” (Exemplos: [DRLP](https://drive.google.com/file/d/1OQmZN3R_ZWwI8yjiXoLhmeDEDke4r3zy/view?usp=sharing); [Grade de horários](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i))
 1. Variantes BFGS para otimização irrestrita ([ref 1](https://www.researchgate.net/publication/30932966_A_Modified_BFGS_Algorithm_for_Unconstrained_Optimization), [ref 2](https://doi.org/10.1016/S0377-0427(00)00540-9), [ref 3](https://doi.org/10.1186/s13660-017-1453-5), [ref 4](https://doi.org/10.1007/s40314-018-0620-8))
 1. Método do gradiente ponderado com retardo para minimização de quadráticas estritamente convexas ([ref 1](http://www.optimization-online.org/DB_HTML/2019/03/7142.html), [ref 2](http://www.optimization-online.org/DB_HTML/2020/03/7655.html))
-1. Condições sequenciais de otimalidade em programação não linear ([slides](https://drive.google.com/open?id=1UOQ_CFm3yPapuoWBxL1sKI6LMZClJUpq), [livro SBMAC](http://arquivo.sbmac.org.br/arquivos/notas/livro_83.pdf))
-1. Métodos de otimização para Inteligência Artificial/Aprendizado de máquina ([intro](https://drive.google.com/file/d/1cy_d21RDGfP-VhFNRUdD7DFN5xI2ATQ-/view?usp=sharing))
+1. Métodos de otimização para Aprendizado de máquina supervisionado ([ref 1](/topicospo/), [ref 2](/files/ic-tcc/TCC_Matheus_Becali.pdf))
 <!--1. O ensino de Pesquisa Operacional no Ensino Médio *(depende de parceria com docente da área de educação matemática)*-->
 1. Gradiente primal-dual para problemas de programação linear ([ref](https://arxiv.org/pdf/2106.04756.pdf))
-1. Resolução de problemas quadráticos com variáveis binárias via estratégia "neurodinâmica" ([ref](https://www.researchgate.net/publication/349187795_A_neurodynamic_approach_to_zero-one_quadratic_programming), [artigo revista](https://doi.org/10.1007/s11075-021-01075-z))
-1. Tópicos variados em otimização não linear. Uma referência é o livro “Numerical Optimization” de Nocedal e Wright
 1. Gradiente espectral para otimização com caixas e 1 restrição linear ([ref](http://www.optimization-online.org/DB_FILE/2019/06/7256.pdf))
 1. Problemas não convexos com estrutura em blocos e restrição de acoplamento ([ref](https://arxiv.org/pdf/2112.09027.pdf))
 1. Comparação entre métodos tipo gradientes conjugados ([ref 1](https://doi.org/10.3934/math.2023128), [ref 2](https://assets.researchsquare.com/files/rs-2427275/v1/6b9ec5d3aa880cf7232956cc.pdf?c=1672923085))
+1. Implementação de métodos de pontos interiores para programação linear e quadrática ([ref 1](/topicospo/), [ref 2](/files/ic-tcc/resumoIC_ptoint.pdf)) (pré-requisito: Otimização II)
+1. Condições sequenciais de otimalidade em programação não linear ([slides](https://drive.google.com/open?id=1UOQ_CFm3yPapuoWBxL1sKI6LMZClJUpq), [livro SBMAC](http://arquivo.sbmac.org.br/arquivos/notas/livro_83.pdf))
+1. Resolução de problemas quadráticos com variáveis binárias via estratégia "neurodinâmica" ([ref](https://www.researchgate.net/publication/349187795_A_neurodynamic_approach_to_zero-one_quadratic_programming), [artigo revista](https://doi.org/10.1007/s11075-021-01075-z))
 
 
 ## Modelos não oficiais em Latex
