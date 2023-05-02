@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-- Quintas-feiras de 7:00 as 9:00 (Sala 11 Eixo 1)
-- Sextas-feiras de 7:00 as 9:00 (Sala 02 Eixo 1)
+- Terças-feiras de 11:00 as 13:00 (Sala 04 Eixo 3)
+- Sextas-feiras de 15:00 as 17:00 (Sala 12 Eixo 1)
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20I%20-%20DMA11995.pdf)
@@ -52,16 +52,15 @@ author_profile: true
 
 ## Avaliações
 
-<!--- **Avaliação 1**
-  - Conteúdo: otimização irrestrita, convexidade
-  - **TAREFAS A SEREM ENTREGUES:** exercícios 2.5, 2.7, 2.10, 2.14 (livro de Ana Friedlander), exercícios 2, 3, 5, 6, 7, 14 (parte convexidade da [Lista 1](https://drive.google.com/file/d/1yV6DClaPT3zCmB1JkfnVq_j4g77-8EJU/view?usp=sharing))
+- **Avaliação 1**
+  - **Prova escrita**
+  - Conteúdo: condições de otimalidade para otimização irrestrita, métodos de descida gerais (em particular, gradiente e Newton), convexidade
   - Valor: 10,0 pontos
-  - **Data máxima para entrega: 07/06/22**
-  - *Entregar resolução por escrito*
+  - **Data: 19/04/2023** (sexta-feira)
 
 - **Avaliação 2**
-  - Conteúdo: Métodos para otimização sem restrições
-  - **TAREFAS A SEREM ENTREGUES:**
+  - Conteúdo: método dos gradientes conjugados, métodos quase-Newton, método do gradiente espectral
+<!--  - **TAREFAS A SEREM ENTREGUES:**
     - exercícios 4.2, 4.3, 6.4, 6.9 (livro de Ana Friedlander)
     - exercícios 2, 5 ([Lista 2](https://drive.google.com/file/d/1_SjC-bMI8S4rQViRZ5LZe1Ef4oad1jwv/view?usp=sharing))
     - **Trabalho computacional** - siga o roteiro:
@@ -71,11 +70,11 @@ author_profile: true
       1. Escreva comentários comparando o método do gradiente espectral, Newton globalizado e o método do gradiente. Em sua análise, leve em consideração coisas como o tamanho do problema (número de variáveis), se o método convergiu, tempo de execução e número de avaliações de função.
   - Valor: 10,0 pontos (6,0 exercícios; 4,0 trabalho computacional)
   - **Data máxima para entrega: 14/07/22**
-  - *Entregar resolução dos exercícios por escrito; enviar os resultados dos testes computacionais em TXT e o código Julia implementado para secchinleo@gmail.com*
+  - *Entregar resolução dos exercícios por escrito; enviar os resultados dos testes computacionais em TXT e o código Julia implementado para secchinleo@gmail.com*-->
 
 - **Avaliação 3**
-  - Conteúdo: Otimização com restrições; Métodos para otimização com restrições
-  - **TAREFAS A SEREM ENTREGUES:**
+  - Conteúdo: otimização com restrições; condições de Karush-Kuhn-Tucker, método de restrições ativas
+<!--  - **TAREFAS A SEREM ENTREGUES:**
     - exercícios 13.1, 13.6, 13.13 (livro de Ana Friedlander)
     - exercícios 2, 3, 8, 9 (sem a implementação), 10, 11 ([Lista 3](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing))
   - Valor: 10,0 pontos
