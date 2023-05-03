@@ -144,6 +144,10 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     - Capítulo 9 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 
 
+## DICAS PARA CALIBRAÇÃO DE PARÂMETROS
+
+- [Código versão 1](https://drive.google.com/file/d/1Rz72-jm_O6qv8NBjWLx8HdZBHSydAKkX/view?usp=sharing)
+
 ## METAHEURÍSTICA 4: Evolução Diferencial (Differential Evolution - DE)
 
 - **SLIDES**
