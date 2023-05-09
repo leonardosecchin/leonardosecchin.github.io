@@ -23,7 +23,7 @@ f["sphere"] = x::Vector -> x'*x;
 l["sphere"] = -5.12;
 u["sphere"] =  5.12;
 
-f["rosenbrock"] = x::Vector -> 100.0*sum( x[i]^2 - x[i+1]^2 + (1.0 - x[i])^2 for i = 1:(length(x)-1) );
+f["rosenbrock"] = x::Vector -> sum( 100.0*(x[i+1] - x[i]^2)^2 + (1.0 - x[i])^2 for i = 1:(length(x)-1) );
 l["rosenbrock"] = -2.048;
 u["rosenbrock"] =  2.048;
 

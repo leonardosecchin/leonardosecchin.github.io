@@ -149,6 +149,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 - [Código versão 1](https://drive.google.com/file/d/1Rz72-jm_O6qv8NBjWLx8HdZBHSydAKkX/view?usp=sharing)
 
+
 ## METAHEURÍSTICA 4: Evolução Diferencial (Differential Evolution - DE)
 
 - **SLIDES**
@@ -160,14 +161,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     1. Brandão, Saramago. Métodos estocásticos de otimização: algoritmos genéticos e evolução diferencial, SBMAC, 2011 [Link](https://www.sbmac.org.br/wp-content/uploads/2022/08/livro_55.pdf)
 
 <!--- Outros conteúdos:
-    - [**Slides de Kelly Fleetwood**](http://www.maths.uq.edu.au/MASCOS/Multi-Agent04/Fleetwood.pdf)** (exclusivamente sobre evolução diferencial)**-->
-
-<!--- [Artigo 1](https://www.springer.com/us/book/9780387221960)
-- [Artigo 2](https://www.springer.com/la/book/9781849961288)-->
-
-<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/12NKXXIfaK94O4ei6N2qjcqvjftKJu4Hm/view?usp=sharing) (código comentado)**  
-    _Fonte: [http://yarpiz.com/231/ypea107-differential-evolution](http://yarpiz.com/231/ypea107-differential-evolution)
--->
+    - [**Slides de Kelly Fleetwood**](http://www.maths.uq.edu.au/MASCOS/Multi-Agent04/Fleetwood.pdf)**-->
 
 
 ## METAHEURÍSTICA 5: Algoritmo Genético (Genetic Algorithm - GA)
