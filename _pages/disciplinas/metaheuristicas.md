@@ -69,6 +69,7 @@ A linguagem de referência é o Julia. Você pode encontrar instruções de inst
 - Pacote **TSPLIB.jl:** instâncias da biblioteca TSPLIB (problema do caixeiro viajante) prontas em Julia [site](https://github.com/matago/TSPLIB.jl). Veja tópico "O problema do caixeiro viajante" para detalhes.
 - [**tspplot.jl:** código para plotar instâncias da TSPLIB](/files/metaheu/tspplot.jl)
 - [**tsp.jl:** funções para manipulação de instâncias da TSPLIB e heurística do vizinho mais próximo](/files/metaheu/tsp.jl)
+- [**funcoes-teste.jl:** funções para teste (Differential Evolution)](/files/metaheu/funcoes-teste.jl)
 
 ## Apresentação
 
@@ -139,9 +140,9 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - Referências:
-    - Dorigo, Gambardella. Ant colony system: a cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1:53-66, 1997 [Link1](https://ieeexplore.ieee.org/document/585892) (acesso pela universidade) [Link2](https://people.idsia.ch/~luca/acs-ec97.pdf)
-    - Dorigo, Caro. Ant colony optimization: a new meta-heuristic. [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
-    - Capítulo 9 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
+    1. Dorigo, Gambardella. Ant colony system: a cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1:53-66, 1997 [Link1](https://ieeexplore.ieee.org/document/585892) (acesso pela universidade) [Link2](https://people.idsia.ch/~luca/acs-ec97.pdf)
+    1. Dorigo, Caro. Ant colony optimization: a new meta-heuristic. [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
+    1. Capítulo 9 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 
 
 ## DICAS PARA CALIBRAÇÃO DE PARÂMETROS
@@ -151,17 +152,18 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 ## METAHEURÍSTICA 4: Evolução Diferencial (Differential Evolution - DE)
 
 - **SLIDES**
+- [**funcoes-teste.jl:** código Julia de funções para teste](/files/metaheu/funcoes-teste.jl) (descrição nas referências 1 e 2)
 - **Tarefa computacional:** veja último *slide* do *link* acima
-- Referência:
-    - [Artigo que definiu o método, pela primeira vez](https://link.springer.com/article/10.1023/A:1008202821328) (baixe pela universidade)
-- Outros conteúdos:
-    - [**Slides de Kelly Fleetwood**](http://www.maths.uq.edu.au/MASCOS/Multi-Agent04/Fleetwood.pdf)** (exclusivamente sobre evolução diferencial)**
-    - Evolução diferencial é uma técnica da classe dos Algoritmos Evolucionários. Essa classe é amplamente estudada. Veja alguns livros dedicados exclusivamente ao assunto:
-       - [Artigo 1](https://www.springer.com/us/book/9780387221960)
-       - [Artigo 2](https://www.springer.com/la/book/9781849961288)
-       - **Um livro somente sobre Evolução Diferencial:** [Feoktistov, Vitaliy. Differential Evolution – In Search of Solutions, Springer, 2006.](https://www.springer.com/us/book/9780387368955)
-       - Uma referência em português: [Brandão, Saramago. Métodos estocásticos de otimização: algoritmos genéticos e evolução diferencial, SBMAC, 2011.](http://www.sbmac.org.br/arquivos/notas/livro_55.pdf)
-    - **Funções-teste (retirado da terceira referência acima):** [metah.funcoes-teste](https://drive.google.com/file/d/1-uG0uM2BvYLMa93LL_KAH3qWhsOT9SLy/view?usp=sharing)
+- Referências:
+    1. Storn, Price. Differential Evolution - A Simple and Efficient Heuristic for global Optimization over Continuous Spaces. Journal of Global Optimization, 11:341-359, 1997 [Link](https://link.springer.com/article/10.1023/A:1008202821328) (acesso pela universidade)
+    1. Feoktistov, Vitaliy. Differential Evolution - In Search of Solutions, Springer, 2006 [Link](https://www.springer.com/us/book/9780387368955) (acesso pela universidade)
+    1. Brandão, Saramago. Métodos estocásticos de otimização: algoritmos genéticos e evolução diferencial, SBMAC, 2011 [Link](https://www.sbmac.org.br/wp-content/uploads/2022/08/livro_55.pdf)
+
+<!--- Outros conteúdos:
+    - [**Slides de Kelly Fleetwood**](http://www.maths.uq.edu.au/MASCOS/Multi-Agent04/Fleetwood.pdf)** (exclusivamente sobre evolução diferencial)**-->
+
+<!--- [Artigo 1](https://www.springer.com/us/book/9780387221960)
+- [Artigo 2](https://www.springer.com/la/book/9781849961288)-->
 
 <!--- **[Código Matlab/Octave](https://drive.google.com/file/d/12NKXXIfaK94O4ei6N2qjcqvjftKJu4Hm/view?usp=sharing) (código comentado)**  
     _Fonte: [http://yarpiz.com/231/ypea107-differential-evolution](http://yarpiz.com/231/ypea107-differential-evolution)
