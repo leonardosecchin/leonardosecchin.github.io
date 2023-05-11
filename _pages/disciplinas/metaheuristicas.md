@@ -129,16 +129,16 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 ## METAHEURÍSTICA 2: Simulated Annealing (SA)
 
 - [**SLIDES**](https://drive.google.com/file/d/19VJ5y_Y6v8Dh7RovndMlxlzzTL40BiiL/view?usp=sharing)
-- [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
+- [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - Referência: capítulo 10 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 
 
 ## METAHEURÍSTICA 3: Colônia de formigas (Ant Colony Optimization - ACO)
 
 - [**SLIDES**](https://drive.google.com/file/d/1_x7mVHBIfWV4l9cXr9Ju_Lo6CvBlDMtm/view?usp=sharing)
-- [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
+- [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - Referências:
     1. Dorigo, Gambardella. Ant colony system: a cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1:53-66, 1997 [Link1](https://ieeexplore.ieee.org/document/585892) (acesso pela universidade) [Link2](https://people.idsia.ch/~luca/acs-ec97.pdf)
     1. Dorigo, Caro. Ant colony optimization: a new meta-heuristic. [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
@@ -153,32 +153,15 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 ## METAHEURÍSTICA 4: Evolução Diferencial (Differential Evolution - DE)
 
 - [**SLIDES**](https://drive.google.com/file/d/1obXBLxFlhYt9IaBlRaMRuedDPlBrHh8U/view?usp=sharing)
-- [**funcoes-teste.jl:** código Julia de funções para teste](/files/metaheu/funcoes-teste.jl) (descrição nas referências 1 e 2)
 - **Tarefa computacional:** veja último *slide* do *link* acima
+- [**funcoes-teste.jl:** código Julia de funções para teste](/files/metaheu/funcoes-teste.jl) (descrição nas referências 1 e 2)
 - Referências:
     1. Storn, Price. Differential Evolution - A Simple and Efficient Heuristic for global Optimization over Continuous Spaces. Journal of Global Optimization, 11:341-359, 1997 [Link](https://link.springer.com/article/10.1023/A:1008202821328) (acesso pela universidade)
     1. Feoktistov, Vitaliy. Differential Evolution - In Search of Solutions, Springer, 2006 [Link](https://www.springer.com/us/book/9780387368955) (acesso pela universidade)
     1. Brandão, Saramago. Métodos estocásticos de otimização: algoritmos genéticos e evolução diferencial, SBMAC, 2011 [Link](https://www.sbmac.org.br/wp-content/uploads/2022/08/livro_55.pdf)
 
-<!--- Outros conteúdos:
-    - [**Slides de Kelly Fleetwood**](http://www.maths.uq.edu.au/MASCOS/Multi-Agent04/Fleetwood.pdf)**-->
 
-
-## METAHEURÍSTICA 5: Algoritmo Genético (Genetic Algorithm - GA)
-
-- **SLIDES**
-- [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
-- **Tarefa computacional:** veja último *slide* do *link* acima
-<!--- Referências:-->
-- Outros conteúdos:
-    - Slides de Estéfane Lacerda (UFRN) editados: [1\. GA binário](https://drive.google.com/file/d/1SCOCEyOHZmUgHga-J8IYPdX2UrlxZ2jz/view?usp=sharing) ; [2\. GA para o TSP](https://drive.google.com/file/d/1jftC9l-HwpB0PYON3YwYrN2lP87aUBsg/view?usp=sharing)
-    - [Artigo com explicação de operadores para o TSP](https://www.hindawi.com/journals/cin/2017/7430125/)
-    - Apresentação detalhada de alguns crossovers para o TSP: [PMX](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/PMXCrossoverOperator.aspx/), [Cycle](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)
-
-<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1HVYYuGsgvzA-2H0jGgnV-kAE9O_LrL0r/view?usp=sharing)**-->
-
-
-## METAHEURÍSTICA 6: Nuvem de partículas (Particle Swarm Optimization - PSO)
+## METAHEURÍSTICA 5: Nuvem de partículas (Particle Swarm Optimization - PSO)
 
 - **SLIDES**
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -191,6 +174,20 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     - [Vídeo-aulas do projeto Yarpiz (em inglês)](http://yarpiz.com/440/ytea101-particle-swarm-optimization-pso-in-matlab-video-tutorial). Veja a parte 1/3 para explicação do algoritmo.
     _Fonte: [http://yarpiz.com/50/ypea102-particle-swarm-optimization](http://yarpiz.com/50/ypea102-particle-swarm-optimization)
 -->
+
+
+## METAHEURÍSTICA 6: Algoritmo Genético (Genetic Algorithm - GA)
+
+- **SLIDES**
+- **Tarefa computacional:** veja último *slide* do *link* acima
+- [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
+<!--- Referências:-->
+- Outros conteúdos:
+    - Slides de Estéfane Lacerda (UFRN) editados: [1\. GA binário](https://drive.google.com/file/d/1SCOCEyOHZmUgHga-J8IYPdX2UrlxZ2jz/view?usp=sharing) ; [2\. GA para o TSP](https://drive.google.com/file/d/1jftC9l-HwpB0PYON3YwYrN2lP87aUBsg/view?usp=sharing)
+    - [Artigo com explicação de operadores para o TSP](https://www.hindawi.com/journals/cin/2017/7430125/)
+    - Apresentação detalhada de alguns crossovers para o TSP: [PMX](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/PMXCrossoverOperator.aspx/), [Cycle](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)
+
+<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1HVYYuGsgvzA-2H0jGgnV-kAE9O_LrL0r/view?usp=sharing)**-->
 
 
 ## METAHEURÍSTICA 7: GRASP (Greedy Randomized Adaptive Search Procedure)
@@ -392,6 +389,11 @@ D. Datta, A.R.S. Amaral, J.R. Figueira
 
 [**Coevolutionary Genetic Algorithm to Solve Economic Dispatch**](https://link.springer.com/chapter/10.1007/978-3-540-72960-0_15)  
 M.M.A. Samed, M.A.S.S. Ravagnani
+
+* * *
+
+[**A New Evolutionary Optimization Method Based on Center of Mass**](https://link.springer.com/content/pdf/10.1007/978-981-13-0860-4_6.pdf)  
+Jesús-Adolfo Mejía-de-Dios, Efrén Mezura-Montes
 
 * * *
 
