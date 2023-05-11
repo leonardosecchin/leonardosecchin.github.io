@@ -152,7 +152,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 ## METAHEURÍSTICA 4: Evolução Diferencial (Differential Evolution - DE)
 
-- **SLIDES**
+- [**SLIDES**](https://drive.google.com/file/d/1obXBLxFlhYt9IaBlRaMRuedDPlBrHh8U/view?usp=sharing)
 - [**funcoes-teste.jl:** código Julia de funções para teste](/files/metaheu/funcoes-teste.jl) (descrição nas referências 1 e 2)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - Referências:
