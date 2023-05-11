@@ -47,6 +47,6 @@ f["ellipsoid"] = x::Vector -> sum( sum(x[1:i])^2 for i = 1:length(x));
 l["ellipsoid"] = -65536;
 u["ellipsoid"] =  65536;
 
-f["griewangk"] = x::Vector -> x'*x/4000.0 - prod(cos(x[i]/sqrt(i)) for i = 1:length(x)) + 1.0;
-l["griewangk"] = -400;
-u["griewangk"] =  400;
+f["griewank"] = x::Vector -> x'*x/4000.0 - prod(cos(x[i]/sqrt(i)) for i = 1:length(x)) + 1.0;
+l["griewank"] = -400;
+u["griewank"] =  400;
