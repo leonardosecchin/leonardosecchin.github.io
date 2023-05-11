@@ -208,7 +208,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - Pacote **Metaheuristics.jl:** implementação em Julia de várias metaheurísticas. [Site](https://github.com/jmejia8/Metaheuristics.jl).
 
 
-## Outras metaheurísticas
+## OUTRAS METAHEURÍSTICAS
 
 ### Gravitational Search Algorithm
 
