@@ -36,4 +36,6 @@ sudo apt install gfortran g++ gcc libopenblas-dev -y
 Pkg.update();
 Pkg.add("Metaheuristics");
 Pkg.add("TSPLIB");
+Pkg.add("Random");
+Pkg.add("Distributions");
 Pkg.add("Plots");'

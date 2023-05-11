@@ -69,24 +69,16 @@ A linguagem de referência é o Julia. Você pode encontrar instruções de inst
 - Pacote **TSPLIB.jl:** instâncias da biblioteca TSPLIB (problema do caixeiro viajante) prontas em Julia [site](https://github.com/matago/TSPLIB.jl). Veja tópico "O problema do caixeiro viajante" para detalhes.
 - [**tspplot.jl:** código para plotar instâncias da TSPLIB](/files/metaheu/tspplot.jl)
 - [**tsp.jl:** funções para manipulação de instâncias da TSPLIB e heurística do vizinho mais próximo](/files/metaheu/tsp.jl)
-- [**funcoes-teste.jl:** funções para teste (Differential Evolution)](/files/metaheu/funcoes-teste.jl)
+- [**funcoes-teste.jl:** funções para teste (para Differential Evolution e Particle Swarm Optimization)](/files/metaheu/funcoes-teste.jl)
 
 ## Apresentação
 
 - [**SLIDES**](https://drive.google.com/file/d/1FPcIovf5He-djx_NMJut9Ki1bBvw40vX/view?usp=sharing)
 
-- **ATIVIDADE para a semana entre 27/03 e 31/03**, a ser discutida entre todos na aula do dia 06/04  
-    Pesquise metaheurísticas na internet/artigos. Para cada metaheurística encontrada, faça uma descrição contendo:
-    - A inspiração (fenômeno físico, natural, animal etc)
-    - Em qual(is) problema(s) foi aplicada, evidenciando se o problema é de otimização contínua (variáveis todas contínuas) ou combinatória
-    - Uma descrição sucinta do funcionamento do algoritmo
-    - Não esqueça de indicar a referência da qual retirou as informações!
-    - **Relatórios apresentados:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing); [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing); [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing); [Pedro Lucas](https://drive.google.com/file/d/1do5xYzwOLqI2ptsvzv9O8j7wTGMjtRvu/view?usp=sharing)
-
 
 ## O problema do caixeiro viajante (Travelling Salesman Problem - TSP)
 
-O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Problem* - TSP) serve como "saco de pancadas" para testarmos as implementações. O TSP é simples de entender, portanto não requer conhecimento profundo para começar a testar as metaheurísticas. Além disso, é um problema clássico e de difícil resolução, logo 
+O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Problem* - TSP) serve como "saco de pancadas" para testarmos as implementações. O TSP é simples de entender, portanto não requer conhecimento profundo para começar a testar as metaheurísticas. Além disso, é um problema clássico e de difícil resolução.
 - [Uma apresentação do TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 - [Slides de M.A.M. Carvalho (UFOP)](http://www.decom.ufop.br/marco/site_media/uploads/pcc104/antigo_21_aula_21.pdf)
 - Instâncias para testes - Biblioteca TSPLIB 
@@ -96,16 +88,6 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
     - [Lista de todas as instâncias da TSPLIB cujo custo é a distância euclideana](/files/metaheu/instancias_EUC_2D.txt)
     - Por curiosidade, as referências oficiais da TSPLIB são [este artigo](https://doi.org/10.1287/ijoc.3.4.376) e [arquivos originais](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/)
 - Visualização [on line](https://tspvis.com/) do funcionamento de algoritmos para o TSP.
-
-**Atividade sugerida:**
-
-1. Instale o Julia (caso não instalado)
-1. Instale o pacote `TSPLIB.jl`
-1. Carregue a instância `berlin52` e teste a função de `tspplot` obtida [neste link](/files/metaheu/tspplot.jl)
-1. Implemente a função de custo (distância euclideana do percurso)
-1. Implemente a busca **gulosa** pelo vizinho mais próximo (Nearest Neighbor search -- NN). Veja detalhes [neste link](https://pt.wikipedia.org/wiki/Algoritmo_do_vizinho_mais_pr%C3%B3ximo)
-1. Plote soluções obtidas por NN e compare com o valor ótimo (gravado em `tsp.optimal`)
-1. Implementar a heurística 2-OPT. Veja detalhes [neste link](https://en.wikipedia.org/wiki/2-opt). Use NN para inicializar. Comparar solução com anteriores.
 
 
 ## Sobre geradores de números randômicos
@@ -168,7 +150,6 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 <!--- Referências:-->
 - Outros conteúdos:
     - [Slides editados de Estéfane Lacerda, UFRN](https://drive.google.com/file/d/1ENpP6vWD6Qj-HteDyRq47HT3OgS2EvKq/view?usp=sharing); slides originais [aqui](http://www.dca.ufrn.br/~estefane/metaheuristicas/pso.pdf)
-    - [Slides resumidos com “equações de movimento”](https://drive.google.com/file/d/1TDujiXzrHaolRYQilgXdzhBSsCKBfX58/view?usp=sharing) (editadas a partir de slides do projeto Yarpiz — [originais aqui](http://yarpiz.com/wp-content/uploads/2016/05/yarpiz-ytea101-notes.pdf))
 
 <!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1q9W2SjF0vXIX4dfD55jBool1RvXPSSxI/view?usp=sharing) (código comentado).**  
     - [Vídeo-aulas do projeto Yarpiz (em inglês)](http://yarpiz.com/440/ytea101-particle-swarm-optimization-pso-in-matlab-video-tutorial). Veja a parte 1/3 para explicação do algoritmo.
@@ -236,7 +217,28 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 # ATIVIDADES
 
-Em breve.
+## Atividade 1
+
+**ATIVIDADE para a semana entre 27/03 e 31/03**, a ser discutida entre todos na aula do dia 06/04
+
+Pesquise metaheurísticas na internet/artigos. Para cada metaheurística encontrada, faça uma descrição contendo:
+- A inspiração (fenômeno físico, natural, animal etc)
+- Em qual(is) problema(s) foi aplicada, evidenciando se o problema é de otimização contínua (variáveis todas contínuas) ou combinatória
+- Uma descrição sucinta do funcionamento do algoritmo
+- Não esqueça de indicar a referência da qual retirou as informações!
+- **Relatórios apresentados:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing); [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing); [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing); [Pedro Lucas](https://drive.google.com/file/d/1do5xYzwOLqI2ptsvzv9O8j7wTGMjtRvu/view?usp=sharing)
+
+
+## Atividade 2
+
+1. Instale o Julia (caso não instalado)
+1. Instale o pacote `TSPLIB.jl`
+1. Carregue a instância `berlin52` e teste a função de `tspplot` obtida [neste link](/files/metaheu/tspplot.jl)
+1. Implemente a função de custo (distância euclideana do percurso)
+1. Implemente a busca **gulosa** pelo vizinho mais próximo (Nearest Neighbor search -- NN). Veja detalhes [neste link](https://pt.wikipedia.org/wiki/Algoritmo_do_vizinho_mais_pr%C3%B3ximo)
+1. Plote soluções obtidas por NN e compare com o valor ótimo (gravado em `tsp.optimal`)
+1. Implementar a heurística 2-OPT. Veja detalhes [neste link](https://en.wikipedia.org/wiki/2-opt). Use NN para inicializar. Comparar solução com anteriores.
+
 
 <!--## Atividade 1 – Metaheurísticas, apresentação
 
@@ -338,6 +340,10 @@ _**Média final das apresentações:**_
 - Observe que é possível   M.ap > 10   caso o grupo realize mais de uma apresentação.
 -->
 
+## Atividade final
+
+Leitura e apresentação de um artigo da literatura.
+
 **_Artigos selecionados:_**
 
 [**A Hybrid Grouping Genetic Algorithm for the Multiple-Type Access Node Location Problem**](https://link.springer.com/chapter/10.1007/978-3-642-04394-9_46)  
@@ -404,6 +410,14 @@ D. Datta, A.R.S. Amaral, J.R. Figueira
 
 [**Coevolutionary Genetic Algorithm to Solve Economic Dispatch**](https://link.springer.com/chapter/10.1007/978-3-540-72960-0_15)  
 M.M.A. Samed, M.A.S.S. Ravagnani
+
+* * *
+
+[Rashedi, Nezamabadi-pour, Saryazdi. GSA: A Gravitational Search Algorithm. Information Sciences, 179(13):2232-2248, 2009](https://doi.org/10.1016/j.ins.2009.03.004)
+
+* * *
+
+[Mejía-de-Dios, Mezura-Montes. A New Evolutionary Optimization Method Based on Center of Mass. In: Deep, K., Jain, M., Salhi, S. (eds) Decision Science in Action. Asset Analytics. Springer, Singapore, 2019](https://doi.org/10.1007/978-981-13-0860-4_6)
 
 * * *
 
