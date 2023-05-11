@@ -208,6 +208,21 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - Pacote **Metaheuristics.jl:** implementação em Julia de várias metaheurísticas. [Site](https://github.com/jmejia8/Metaheuristics.jl).
 
 
+## Outras metaheurísticas
+
+### Gravitational Search Algorithm
+
+- [Rashedi, Nezamabadi-pour, Saryazdi. GSA: A Gravitational Search Algorithm. Information Sciences, 179(13):2232-2248, 2009](https://doi.org/10.1016/j.ins.2009.03.004)
+- Para minimização de funções a variáveis contínuas
+- Presente no pacote **Metaheuristics.jl**
+
+### Evolutionary Centers Algorithm
+
+- [Mejía-de-Dios, Mezura-Montes. A New Evolutionary Optimization Method Based on Center of Mass. In: Deep, K., Jain, M., Salhi, S. (eds) Decision Science in Action. Asset Analytics. Springer, Singapore, 2019](https://doi.org/10.1007/978-981-13-0860-4_6)
+- Para minimização de funções a variáveis contínuas
+- Presente no pacote **Metaheuristics.jl**
+
+
 ## Leitura(s) recomendada(s)
 
 - [Análise de Sörensen sobre a profusão de artigos nos últimos anos e seu rigor científico](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12001)  
@@ -389,11 +404,6 @@ D. Datta, A.R.S. Amaral, J.R. Figueira
 
 [**Coevolutionary Genetic Algorithm to Solve Economic Dispatch**](https://link.springer.com/chapter/10.1007/978-3-540-72960-0_15)  
 M.M.A. Samed, M.A.S.S. Ravagnani
-
-* * *
-
-[**A New Evolutionary Optimization Method Based on Center of Mass**](https://link.springer.com/content/pdf/10.1007/978-981-13-0860-4_6.pdf)  
-Jesús-Adolfo Mejía-de-Dios, Efrén Mezura-Montes
 
 * * *
 
