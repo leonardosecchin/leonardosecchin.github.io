@@ -60,7 +60,9 @@ author_profile: true
 
 - **Avaliação 2**
   - Conteúdo: método dos gradientes conjugados, métodos quase-Newton, método do gradiente espectral
-<!--  - **TAREFAS A SEREM ENTREGUES:**
+
+<!--
+  - **TAREFAS A SEREM ENTREGUES:**
     - exercícios 4.2, 4.3, 6.4, 6.9 (livro de Ana Friedlander)
     - exercícios 2, 5 ([Lista 2](https://drive.google.com/file/d/1_SjC-bMI8S4rQViRZ5LZe1Ef4oad1jwv/view?usp=sharing))
     - **Trabalho computacional** - siga o roteiro:
@@ -74,17 +76,19 @@ author_profile: true
 
 - **Avaliação 3**
   - Conteúdo: otimização com restrições; condições de Karush-Kuhn-Tucker, método de restrições ativas
-<!--  - **TAREFAS A SEREM ENTREGUES:**
+
+<!--
+  - **TAREFAS A SEREM ENTREGUES:**
     - exercícios 13.1, 13.6, 13.13 (livro de Ana Friedlander)
     - exercícios 2, 3, 8, 9 (sem a implementação), 10, 11 ([Lista 3](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing))
   - Valor: 10,0 pontos
   - **Data máxima para entrega: 18/08/22**
   - *Entregar resolução por escrito*-->
 
-<!--- **PROVA FINAL**
+- **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
-  - **Data: --**-->
+  - **Data: --**
 
 <!-- - provas escritas, listas de exercícios e trabalhos computacionais. -->
 
