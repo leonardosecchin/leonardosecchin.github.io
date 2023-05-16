@@ -147,14 +147,10 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 - **SLIDES**
 - **Tarefa computacional:** veja último *slide* do *link* acima
-<!--- Referências:-->
-- Outros conteúdos:
-    - [Slides editados de Estéfane Lacerda, UFRN](https://drive.google.com/file/d/1ENpP6vWD6Qj-HteDyRq47HT3OgS2EvKq/view?usp=sharing); slides originais [aqui](http://www.dca.ufrn.br/~estefane/metaheuristicas/pso.pdf)
-
-<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1q9W2SjF0vXIX4dfD55jBool1RvXPSSxI/view?usp=sharing) (código comentado).**  
-    - [Vídeo-aulas do projeto Yarpiz (em inglês)](http://yarpiz.com/440/ytea101-particle-swarm-optimization-pso-in-matlab-video-tutorial). Veja a parte 1/3 para explicação do algoritmo.
-    _Fonte: [http://yarpiz.com/50/ypea102-particle-swarm-optimization](http://yarpiz.com/50/ypea102-particle-swarm-optimization)
--->
+- [**funcoes-teste.jl:** código Julia de funções para teste](/files/metaheu/funcoes-teste.jl)
+- Referências:
+    1. Kennedy, Eberhart, Shi. Swarm Intelligence. Morgan Kaufmann, 2001 [Link](https://www.sciencedirect.com/book/9781558605954/swarm-intelligence)
+    1. Shi, Eberhart. A modified particle swarm optimizer. 1998 IEEE International Conference on Evolutionary Computation Proceedings, 1998 [Link](https://doi.org/10.1109/ICEC.1998.699146)
 
 
 ## METAHEURÍSTICA 6: Algoritmo Genético (Genetic Algorithm - GA)
