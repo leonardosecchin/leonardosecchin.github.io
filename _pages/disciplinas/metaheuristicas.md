@@ -145,7 +145,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 ## METAHEURÍSTICA 5: Nuvem de partículas (Particle Swarm Optimization - PSO)
 
-- **SLIDES**
+- [**SLIDES**](https://drive.google.com/file/d/1kUMLRjPbqEZFLJosMY5o-5iEyDpWaxTm/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - [**funcoes-teste.jl:** código Julia de funções para teste](/files/metaheu/funcoes-teste.jl)
 - Referências:
