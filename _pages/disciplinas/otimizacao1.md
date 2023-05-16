@@ -7,7 +7,7 @@ author_profile: true
 
 ## Horários das aulas
 
-- Terças-feiras de 11:00 as 13:00 (Sala 04 Eixo 3)
+- Terças-feiras de 11:00 as 13:00 (Sala 09 Eixo 3)
 - Sextas-feiras de 15:00 as 17:00 (Sala 12 Eixo 1)
 
 
