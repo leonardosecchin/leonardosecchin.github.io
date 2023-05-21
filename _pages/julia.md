@@ -94,16 +94,18 @@ Para desinstalar o Julia neste método, simplesmente apague os diretórios `juli
 
 ## Julia com ambiente gráfico
 
-Existem plataformas (IDEs) gráficas que se integram ao Julia. Uma delas é o [Juno](https://junolab.org/).
+Existem plataformas (IDEs) gráficas que se integram ao Julia. Exemplos são o [Visual Studio](https://code.visualstudio.com/) e o [Juno](https://junolab.org/).
 
 É possível ainda utilizar seu navegador de internet como saída gráfica através do [Jupyter ou JupyterLab](https://jupyter.org/).
+
+Uma alternativa interessante é o pacote [Pluto](https://plutojl.org/). Este pacote abre um ambiente gráfico no navegador de internet com recursos interessantes. Para utilizá-lo, instale o pacote ``Pluto.jl`` no seu Julia (veja seção abaixo) e execute ``using Pluto; Pluto.run()`` do terminal do Julia.
 
 De qualquer forma, assim como no Matlab/Octave, a principal via de utilização do Julia é a linha de comandos. Portanto é essencial familiarizar-se com seus comandos.
 
 
 ## Recomendações
 
-Não aconselho usar o Julia do repositório do GNU/Linux pois a versão geralmente é defasada. Além disso, alguns pacotes podem não funcionar.
+Caso exista, não aconselho usar o Julia do repositório do GNU/Linux pois a versão pode ser defasada. É melhor baixar a última versão estável do site ou repositório.
 
 
 # Iniciando o uso do Julia
