@@ -171,13 +171,6 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
    - *Código dos métodos de Newton e Newton globalizado - veja seção "Códigos em Julia"*
 
 
-1. **Método dos gradientes conjugados**
-
-   *Referência principal:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 5.3 do livro publicado pela Cengage)**
-
-   - [**ANOTAÇÕES** - Método dos gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
-     - **Trabalho 1:** implementação e teste do método dos gradientes conjugados (veja seção "listas de exercícios e trabalhos")
-
 1. **Métodos quase-Newton**
 
    *Referência principal:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.3)**  
@@ -186,11 +179,21 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
    - [**ANOTAÇÕES** - Métodos quase-Newton tipo secante](/files/otim1/4.7.Quase-Newton.pdf)
 
+
 1. **Método do gradiente espectral**
 
     *Referência:* [TCC de Elivandro Oliveira Grippa](/files/ic-tcc/TCC_Elivandro_Grippa.pdf) **(seção 3.4)**
 
    - [**ANOTAÇÕES** - Método do gradiente espectral](/files/otim1/4.8.Gradiente_espectral.pdf)
+
+
+1. **Método dos gradientes conjugados**
+
+   *Referência principal:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 5.3 do livro publicado pela Cengage)**
+
+   - [**ANOTAÇÕES** - Método dos gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
+     - **Trabalho 1:** implementação e teste do método dos gradientes conjugados (veja seção "listas de exercícios e trabalhos")
+
 
 1. **Método do gradiente com passo constante e introdução à complexidade de algoritmos**
 
