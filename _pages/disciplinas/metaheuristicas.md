@@ -213,7 +213,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 # ATIVIDADES
 
-## Atividade 1
+## Atividade avaliativa 1
 
 **ATIVIDADE para a semana entre 27/03 e 31/03**, a ser discutida entre todos na aula do dia 06/04
 
@@ -225,7 +225,7 @@ Pesquise metaheurísticas na internet/artigos. Para cada metaheurística encontr
 - **Relatórios apresentados:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing); [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing); [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing); [Pedro Lucas](https://drive.google.com/file/d/1do5xYzwOLqI2ptsvzv9O8j7wTGMjtRvu/view?usp=sharing)
 
 
-## Atividade 2
+## Atividade 1
 
 1. Instale o Julia (caso não instalado)
 1. Instale o pacote `TSPLIB.jl`
@@ -236,75 +236,33 @@ Pesquise metaheurísticas na internet/artigos. Para cada metaheurística encontr
 1. Implementar a heurística 2-OPT. Veja detalhes [neste link](https://en.wikipedia.org/wiki/2-opt). Use NN para inicializar. Comparar solução com anteriores.
 
 
-<!--## Atividade 1 – Metaheurísticas, apresentação
+## Atividade avaliativa 2
 
-- Faça um resumo, **com suas palavras**, da introdução do livro de Dréo, Pétrowski, Siarry e Taillard, [disponível aqui](https://drive.google.com/file/d/1fqU2s6RCj4ixt1MkGzb0yLPjjcQr2JCm/view?usp=sharing). Diga o que entendeu, destaque os pontos que achou relevante, críticas, etc.
-- O trabalho poderá ser feito de próprio punho ou digitado, entregue pela plataforma AVA.
-- Um resumo de no mínimo 1 página é desejável. Não é para traduzir o texto!-->
+Serão avaliadas as implementações de **todas as metaheurísticas** apresentadas durante a disciplina. Cada aluno será "entrevistado" indivualmente, onde mostrará ao professor o que fez, executará testes e responderá à eventuais perguntas do professor. Não é necessário fazer *slides* para uma apresentação, a conversa será feita em frente ao computador. No entanto, **o(a) estudante deverá organizar o roteiro de sua fala, testes que apresentará, dificuldades enfrentadas etc.**
 
-<!--## Atividade 2
-
-1. Baixe o arquivo [`CreateNNSolution.m`](https://drive.google.com/file/d/1a-VuWkyhnspiovRiGUXO8KBXVjiyRGhg/view?usp=sharing) no mesmo diretório da busca tabu. Ele contém uma função para cálculo de uma solução do TSP através da heurística de vizinho mais próximo (NN - *Nearest Neighbor*)
-1. Use NN para criar a solução inicial para a busca tabu. Você pode trocar a permutação inicial randomizada em `ts.m` pela linha
-~~~
-sol.Position=CreateNNSolution(model);
-~~~
-1. Rode a "busca tabu" para `berlin52.tsp` e compare a execução com permutação inicial aleatória
-1. Implemente o seguinte critério de parada adicional: **"Pare se durante 10 iterações consecutivas a função objetivo não melhora"**
-1. Execute seu código para algumas instâncias da TSPLIB e decida se é efetivo na resolução (use as instâncias editadas [deste arquivo](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view?usp=sharing)). Compare os custos obtidos com os melhores reportados na literatura ([veja-os aqui](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/stsp-sol.html)).
-1. Obs: talvez você precise aumentar o número máximo de iterações para instâncias maiores...-->
-
-<!--- Baixe o arquivo ZIP com o código do Simulated Annealing (aula 14/08 acima);
-- Na aula vimos o método padrão aplicado ao TSP. Execute a versão com populações (diretório “02 TSP using SA (Population-Based)”);
-- Se familiarize com o código. Ele é muito parecido com o visto em aula. Mude parâmetros e entenda os efeitos;
-- Compare o comportamento das duas versões. Rode para o problema brinquedo e para o problema “berlin52.tsp” (copie o arquivo da pasta do método padrão e ajuste a criação do modelo);
-- **TAREFA – Faça um pequeno relatório que:**
-    - Pontue as diferenças entre as duas estratégias. Explique o que a estratégia por populações tenta fazer que a estratégia padrão tem dificuldade;
-    - Compare os gráficos gerados pelos algoritmos para o valor da função objetivo e tire conclusões acerca da qualidade das soluções e da velocidade de decrescimento da função objetivo;
-    - Faça seus testes também com o problema “berlin52.tsp”-->
-
-<!--## Trabalho computacional 1
-
-- O trabalho pode ser feito individualmente ou em dupla.
 - Nota máxima: **10,0 pontos**
-- Data limite para entrega: **15 de março**
-- Critério de avaliação: análise do relatório PDF enviado.
-- O ESTUDANTE/GRUPO DEVE ENVIAR O RELATÓRIO PARA secchinleo@gmail.com
+- Período das avaliações: **a definir**
 
-**Leia atentamente o PDF no link abaixo antes de qualquer teste numérico!**
+**Critérios considerados na avaliação:**
 
-[*** TRABALHO 1 ***](https://drive.google.com/file/d/1xd__iqTUhQD0_nLobUsuO0Kk0Wu-8lxn/view)
-
-**Arquivos auxiliares:**
-
-- [Código heurística NN - Nearest Neighbor](https://drive.google.com/file/d/1a-VuWkyhnspiovRiGUXO8KBXVjiyRGhg/view)
-- [Código da heurística 2-OPT](https://drive.google.com/file/d/1IdEeljHysvkf3BzkUmqW2j59GGkiOPM3/view)
-- [Instâncias TSP Euclidiano](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view)-->
+- Profundidade, clareza e organização da apresentação;
+- Domínio do assunto;
+- Coerência dos testes numéricos.
 
 
-<!--## Atividade 3-->
+## Atividade avaliativa 3
 
-<!--- **Objetivo: programar um Algoritmo Genético (AG) para resolver o TSP; familiarizar-se com ajuste de parâmetros, testes numéricos, etc.**
-- Escolha 2 mutações e 2 crossover’s para comparar (veja slides da aula de 23/08)
-- Faça um AG preferencialmente em Octave. As funções e estrutura para o TSP estão prontas nos códigos de aulas anteriores. USE-OS!
-- Faça testes para ajustar parâmetros e comparar diferentes mutações e crossover’s.
-- <span style="color: #ff0000">Utilize em seus testes problemas da TSPLIB, arquivo</span> [TSPLIB_modif](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view?usp=sharing). Esses problemas foram adaptados para o código do Octave já apresentado.
-- Os valores ótimos de cada problema podem ser encontrados [aqui](https://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/STSP.html).
-- **<span style="color: #ff0000">Fazer um relatório e entregar os códigos. O trabalho é individual.</span>**-->
-
-
-<!--## Atividade 3
-
-Esta atividade consiste na apresentação, pelo aluno, de um artigo selecionado. Cada aluno escolherá um artigo e fará uma apresentação explicando:
+Apresentação de um artigo selecionado. Cada estaudante escolherá um artigo e fará uma apresentação explicando:
 
 - o problema estudado, sua aplicação;
 - a metodologia de resolução (metaheurística usada/adaptada pelo(s) autore(s));
 - detalhes da representação dos dados;
 - detalhes do funcionamento do algoritmo;
-- discussão dos testes numéricos apresentados.-->
-<!--- reprodução, pelo menos parcial, dos testes numéricos. O aluno deverá programar o método e realizar os testes, comparando com os testes relatados no artigo (pode-se utilizar os códigos das aulas ou outros que estiverem disponíveis na internet, em qualquer linguagem de programação).-->
+- discussão dos testes numéricos apresentados.
 
-<!--_**Critérios de pontuação da apresentação:**_
+*O(A) estudante pode escolher um artigo da lista sugerida abaixo ou um artigo de sua preferência. No último caso, o artigo dependerá do aval do professor.*
+
+**Critérios de pontuação da apresentação:**
 
 - Qualidade da apresentação (slides, material digital ou impresso…)
 - Organização das ideias e sequência lógica do assunto
@@ -313,34 +271,16 @@ Esta atividade consiste na apresentação, pelo aluno, de um artigo selecionado.
 - Uso de linguagem apropriada; uso correto da língua portuguesa
 - Clareza e dicção
 - Adequação ao tempo pré-determinado
-- Coerência dos testes numéricos
 
-**_Critérios de avaliação:_**
+**Critérios de avaliação:**
 
 - Cada apresentação receberá nota de 0 a 10, seguindo os pontos elencados acima;
-- O trabalho pode ser individual ou em dupla;  
-    No entanto, o trabalho pode ser apresentado antes. O grupo deve informar ao professor a data da apresentação.
+- O trabalho pode ser **individual** ou em **dupla**;
 - As apresentações deverão ser em dia e horário das aulas;
-- **O tempo de cada apresentação corresponde às aulas do dia, ou seja, 1h 40min;**
-- <span style="color: #ff0000">**—— O grupo pode apresentar mais de um artigo ——**</span>  
-    <span style="color: #0000ff">**Neste caso, cada apresentação adicional valerá 5,0 pontos a mais que a anterior. Por exemplo, a primeira (obrigatória) vale 10,0 pontos, a segunda 15,0, a terceira 20,0 …**</span>  
-    <span style="color: #ff0000">O grupo deverá informar ao professor das apresentações adicionais.  
-    TODAS as apresentações deverão respeitar a data limite 29 de novembro.</span>
+- **O tempo máximo de cada apresentação corresponde às aulas do dia, ou seja, 2h 00min;**
+- Período das apresentações: **a definir**
 
-_Obs.: se o grupo quiser disponibilizar algum material de apoio à sua apresentação nesta página, basta informar ao professor!_
-
-_**Média final das apresentações:**_
-
-- A média final M.ap das apresentações será a média aritmética das notas de cada apresentação:  
-    <span style="color: #0000ff">**M.ap = (ap.1 + ap.2 + ap.3 + …) / n**</span>
-- Observe que é possível   M.ap > 10   caso o grupo realize mais de uma apresentação.
--->
-
-## Atividade final
-
-Leitura e apresentação de um artigo da literatura.
-
-**_Artigos selecionados:_**
+**Artigos selecionados:**
 
 [**A Hybrid Grouping Genetic Algorithm for the Multiple-Type Access Node Location Problem**](https://link.springer.com/chapter/10.1007/978-3-642-04394-9_46)  
 O. Alonso-Garrido, S. Salcedo-Sanz, L.E. Agustín-Blas, E.G. Ortiz-García, A.M. Pérez-Bellido, J.A. Portilla-Figueras.
@@ -428,4 +368,81 @@ M.M.A. Samed, M.A.S.S. Ravagnani
 * * *
 
 [Artigo 4](https://www.sciencedirect.com/science/article/pii/S0305054811001298)-->
+
+
+
+<!--## Atividade 2
+
+1. Baixe o arquivo [`CreateNNSolution.m`](https://drive.google.com/file/d/1a-VuWkyhnspiovRiGUXO8KBXVjiyRGhg/view?usp=sharing) no mesmo diretório da busca tabu. Ele contém uma função para cálculo de uma solução do TSP através da heurística de vizinho mais próximo (NN - *Nearest Neighbor*)
+1. Use NN para criar a solução inicial para a busca tabu. Você pode trocar a permutação inicial randomizada em `ts.m` pela linha
+~~~
+sol.Position=CreateNNSolution(model);
+~~~
+1. Rode a "busca tabu" para `berlin52.tsp` e compare a execução com permutação inicial aleatória
+1. Implemente o seguinte critério de parada adicional: **"Pare se durante 10 iterações consecutivas a função objetivo não melhora"**
+1. Execute seu código para algumas instâncias da TSPLIB e decida se é efetivo na resolução (use as instâncias editadas [deste arquivo](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view?usp=sharing)). Compare os custos obtidos com os melhores reportados na literatura ([veja-os aqui](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/stsp-sol.html)).
+1. Obs: talvez você precise aumentar o número máximo de iterações para instâncias maiores...-->
+
+<!--- Baixe o arquivo ZIP com o código do Simulated Annealing (aula 14/08 acima);
+- Na aula vimos o método padrão aplicado ao TSP. Execute a versão com populações (diretório “02 TSP using SA (Population-Based)”);
+- Se familiarize com o código. Ele é muito parecido com o visto em aula. Mude parâmetros e entenda os efeitos;
+- Compare o comportamento das duas versões. Rode para o problema brinquedo e para o problema “berlin52.tsp” (copie o arquivo da pasta do método padrão e ajuste a criação do modelo);
+- **TAREFA – Faça um pequeno relatório que:**
+    - Pontue as diferenças entre as duas estratégias. Explique o que a estratégia por populações tenta fazer que a estratégia padrão tem dificuldade;
+    - Compare os gráficos gerados pelos algoritmos para o valor da função objetivo e tire conclusões acerca da qualidade das soluções e da velocidade de decrescimento da função objetivo;
+    - Faça seus testes também com o problema “berlin52.tsp”-->
+
+<!--## Atividade 3-->
+
+<!--- **Objetivo: programar um Algoritmo Genético (AG) para resolver o TSP; familiarizar-se com ajuste de parâmetros, testes numéricos, etc.**
+- Escolha 2 mutações e 2 crossover’s para comparar (veja slides da aula de 23/08)
+- Faça um AG preferencialmente em Octave. As funções e estrutura para o TSP estão prontas nos códigos de aulas anteriores. USE-OS!
+- Faça testes para ajustar parâmetros e comparar diferentes mutações e crossover’s.
+- <span style="color: #ff0000">Utilize em seus testes problemas da TSPLIB, arquivo</span> [TSPLIB_modif](https://drive.google.com/file/d/1kchXGAtTER8-l6vAy1Q78QTe8m_ZJxJd/view?usp=sharing). Esses problemas foram adaptados para o código do Octave já apresentado.
+- Os valores ótimos de cada problema podem ser encontrados [aqui](https://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/STSP.html).
+- **<span style="color: #ff0000">Fazer um relatório e entregar os códigos. O trabalho é individual.</span>**-->
+
+
+<!--## Atividade 3
+
+Esta atividade consiste na apresentação, pelo aluno, de um artigo selecionado. Cada aluno escolherá um artigo e fará uma apresentação explicando:
+
+- o problema estudado, sua aplicação;
+- a metodologia de resolução (metaheurística usada/adaptada pelo(s) autore(s));
+- detalhes da representação dos dados;
+- detalhes do funcionamento do algoritmo;
+- discussão dos testes numéricos apresentados.-->
+<!--- reprodução, pelo menos parcial, dos testes numéricos. O aluno deverá programar o método e realizar os testes, comparando com os testes relatados no artigo (pode-se utilizar os códigos das aulas ou outros que estiverem disponíveis na internet, em qualquer linguagem de programação).-->
+
+<!--_**Critérios de pontuação da apresentação:**_
+
+- Qualidade da apresentação (slides, material digital ou impresso…)
+- Organização das ideias e sequência lógica do assunto
+- Domínio do assunto
+- Postura, naturalidade, dinamismo e interação diante da plateia
+- Uso de linguagem apropriada; uso correto da língua portuguesa
+- Clareza e dicção
+- Adequação ao tempo pré-determinado
+- Coerência dos testes numéricos
+
+**_Critérios de avaliação:_**
+
+- Cada apresentação receberá nota de 0 a 10, seguindo os pontos elencados acima;
+- O trabalho pode ser individual ou em dupla;  
+    No entanto, o trabalho pode ser apresentado antes. O grupo deve informar ao professor a data da apresentação.
+- As apresentações deverão ser em dia e horário das aulas;
+- **O tempo de cada apresentação corresponde às aulas do dia, ou seja, 1h 40min;**
+- <span style="color: #ff0000">**—— O grupo pode apresentar mais de um artigo ——**</span>  
+    <span style="color: #0000ff">**Neste caso, cada apresentação adicional valerá 5,0 pontos a mais que a anterior. Por exemplo, a primeira (obrigatória) vale 10,0 pontos, a segunda 15,0, a terceira 20,0 …**</span>  
+    <span style="color: #ff0000">O grupo deverá informar ao professor das apresentações adicionais.  
+    TODAS as apresentações deverão respeitar a data limite 29 de novembro.</span>
+
+_Obs.: se o grupo quiser disponibilizar algum material de apoio à sua apresentação nesta página, basta informar ao professor!_
+
+_**Média final das apresentações:**_
+
+- A média final M.ap das apresentações será a média aritmética das notas de cada apresentação:  
+    <span style="color: #0000ff">**M.ap = (ap.1 + ap.2 + ap.3 + …) / n**</span>
+- Observe que é possível   M.ap > 10   caso o grupo realize mais de uma apresentação.
+-->
 
