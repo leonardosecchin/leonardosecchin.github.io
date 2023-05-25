@@ -155,14 +155,15 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 ## METAHEURÍSTICA 6: Algoritmo Genético (Genetic Algorithm - GA)
 
-- **SLIDES**
+- [**SLIDES**](https://drive.google.com/file/d/1_yA_vAVXy_jHswyiXab9mf7RVBYtVfpe/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 <!--- Referências:-->
 - Outros conteúdos:
-    - Slides de Estéfane Lacerda (UFRN) editados: [1\. GA binário](https://drive.google.com/file/d/1SCOCEyOHZmUgHga-J8IYPdX2UrlxZ2jz/view?usp=sharing) ; [2\. GA para o TSP](https://drive.google.com/file/d/1jftC9l-HwpB0PYON3YwYrN2lP87aUBsg/view?usp=sharing)
     - [Artigo com explicação de operadores para o TSP](https://www.hindawi.com/journals/cin/2017/7430125/)
     - Apresentação detalhada de alguns crossovers para o TSP: [PMX](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/PMXCrossoverOperator.aspx/), [Cycle](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)
+
+<!--- Slides de Estéfane Lacerda (UFRN) editados: [1\. GA binário](https://drive.google.com/file/d/1SCOCEyOHZmUgHga-J8IYPdX2UrlxZ2jz/view?usp=sharing) ; [2\. GA para o TSP](https://drive.google.com/file/d/1jftC9l-HwpB0PYON3YwYrN2lP87aUBsg/view?usp=sharing)-->
 
 <!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1HVYYuGsgvzA-2H0jGgnV-kAE9O_LrL0r/view?usp=sharing)**-->
 
