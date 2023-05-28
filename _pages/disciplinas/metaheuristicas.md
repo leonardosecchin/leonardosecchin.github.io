@@ -28,23 +28,26 @@ Consulte Projeto Pedagógico do [Curso](https://matematicaindustrial.saomateus.u
 Principais metaheurísticas usadas na literatura recente (algoritmos genéticos, simulated annealing, busca tabu, colônia de formigas, outras metaheurísticas bio-inspiradas, GRASP, dentre outras).
 
 
-## Textos de referência
+## Referências principais
 
-- [Gendreau, Michel, Potvin, Jean-Yves (Eds.) Handbook of Metaheuristics. Springer, 2019](https://www.springer.com/us/book/9781441916631)
+- [Gendreau, Michel, Potvin, Jean-Yves (Eds.) – Handbook of Metaheuristics. Springer, 2019](https://www.springer.com/us/book/9781441916631)
 - [Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003.](https://www.springer.com/us/book/9780306480560)
 - [Dréo, Pétrowski, Siarry e Taillard – Metaheuristics for Hard Optimization. Springer, 2006](https://doi.org/10.1007/3-540-30966-7)
-- [Meta-heurísticas em Pesquisa Operacional](http://omnipax.com.br/site/?page_id=220) ([PDF disponível](http://omnipax.com.br/livros/2013/MHPO/mhpo-livro.pdf))
+- [Lopes, Rodrigues, Steiner (Eds.) – Meta-heurísticas em Pesquisa Operacional. Omnipax, 2013](http://omnipax.com.br/site/?page_id=220) ([PDF disponível](http://omnipax.com.br/livros/2013/MHPO/mhpo-livro.pdf))
+
+Obs: outras referências são descritas a cada tópico estudado
 
 
 ## Formas de avaliação
 
-Serão aplicadas no mínimo duas avaliações, dentre testes dissertativos, apresentações de seminários e/ou desenvolvimento de projetos. A média parcial para aprovação é sete, e final, cinco.
+Serão aplicadas no mínimo duas avaliações, dentre testes dissertativos, apresentações de seminários e/ou desenvolvimento de projetos.
 
 
 ## Critérios de avaliação
 
+- > 25% faltas —–> reprovado(a) por falta
 - Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
-- Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a).
+- Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a)
 
 
 <!--## Cálculo da média parcial
@@ -123,7 +126,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - Referências:
     1. Dorigo, Gambardella. Ant colony system: a cooperative learning approach to the traveling salesman problem. IEEE Transactions on Evolutionary Computation, 1:53-66, 1997 [Link1](https://ieeexplore.ieee.org/document/585892) (acesso pela universidade) [Link2](https://people.idsia.ch/~luca/acs-ec97.pdf)
-    1. Dorigo, Caro. Ant colony optimization: a new meta-heuristic. [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
+    1. Dorigo, Caro. Ant colony optimization: a new meta-heuristic. Proceedings of the 1999 Congress on Evolutionary Computation, 2002 [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
     1. Capítulo 9 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 
 
@@ -158,14 +161,11 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - [**SLIDES**](https://drive.google.com/file/d/1_yA_vAVXy_jHswyiXab9mf7RVBYtVfpe/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
-<!--- Referências:-->
-- Outros conteúdos:
-    - [Artigo com explicação de operadores para o TSP](https://www.hindawi.com/journals/cin/2017/7430125/)
-    - Apresentação detalhada de alguns crossovers para o TSP: [PMX](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/PMXCrossoverOperator.aspx/), [Cycle](http://www.rubicite.com/Tutorials/GeneticAlgorithms/CrossoverOperators/CycleCrossoverOperator.aspx)
-
-<!--- Slides de Estéfane Lacerda (UFRN) editados: [1\. GA binário](https://drive.google.com/file/d/1SCOCEyOHZmUgHga-J8IYPdX2UrlxZ2jz/view?usp=sharing) ; [2\. GA para o TSP](https://drive.google.com/file/d/1jftC9l-HwpB0PYON3YwYrN2lP87aUBsg/view?usp=sharing)-->
-
-<!--- **[Código Matlab/Octave](https://drive.google.com/file/d/1HVYYuGsgvzA-2H0jGgnV-kAE9O_LrL0r/view?usp=sharing)**-->
+- Referências:
+    1. Capítulo 5 de Gendreau, Michel, Potvin, Jean-Yves (Eds.) – Handbook of Metaheuristics. Springer, 2019
+    1. Hussain, Muhammad, Sajid, Hussain, Shoukry, Gani. Genetic Algorithm for Traveling Salesman Problem with Modified Cycle Crossover Operator. Computational Intelligence and Neuroscience, 2017 [Link](https://www.hindawi.com/journals/cin/2017/7430125/)
+    1. Slides de Estéfane G. M. de Lacerda (UFRN), 2008/2009
+    1. Capítulo 2 de Lopes, Rodrigues, Steiner (Eds.) – Meta-heurísticas em Pesquisa Operacional. Omnipax, 2013
 
 
 ## METAHEURÍSTICA 7: GRASP (Greedy Randomized Adaptive Search Procedure)
@@ -350,11 +350,13 @@ M.M.A. Samed, M.A.S.S. Ravagnani
 
 * * *
 
-[Rashedi, Nezamabadi-pour, Saryazdi. GSA: A Gravitational Search Algorithm. Information Sciences, 179(13):2232-2248, 2009](https://doi.org/10.1016/j.ins.2009.03.004)
+[**GSA: A Gravitational Search Algorithm**](https://doi.org/10.1016/j.ins.2009.03.004)  
+Rashedi, Nezamabadi-pour, Saryazdi
 
 * * *
 
-[Mejía-de-Dios, Mezura-Montes. A New Evolutionary Optimization Method Based on Center of Mass. In: Deep, K., Jain, M., Salhi, S. (eds) Decision Science in Action. Asset Analytics. Springer, Singapore, 2019](https://doi.org/10.1007/978-981-13-0860-4_6)
+[**A New Evolutionary Optimization Method Based on Center of Mass**](https://doi.org/10.1007/978-981-13-0860-4_6)  
+Mejía-de-Dios, Mezura-Montes
 
 * * *
 
