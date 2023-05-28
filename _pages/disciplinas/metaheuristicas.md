@@ -33,7 +33,6 @@ Principais metaheurísticas usadas na literatura recente (algoritmos genéticos,
 - [Gendreau, Michel, Potvin, Jean-Yves (Eds.) – Handbook of Metaheuristics. Springer, 2019](https://www.springer.com/us/book/9781441916631)
 - [Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003.](https://www.springer.com/us/book/9780306480560)
 - [Dréo, Pétrowski, Siarry e Taillard – Metaheuristics for Hard Optimization. Springer, 2006](https://doi.org/10.1007/3-540-30966-7)
-- [Lopes, Rodrigues, Steiner (Eds.) – Meta-heurísticas em Pesquisa Operacional. Omnipax, 2013](http://omnipax.com.br/site/?page_id=220) ([PDF disponível](http://omnipax.com.br/livros/2013/MHPO/mhpo-livro.pdf))
 
 Obs: outras referências são descritas a cada tópico estudado
 
@@ -165,7 +164,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     1. Capítulo 5 de Gendreau, Michel, Potvin, Jean-Yves (Eds.) – Handbook of Metaheuristics. Springer, 2019
     1. Hussain, Muhammad, Sajid, Hussain, Shoukry, Gani. Genetic Algorithm for Traveling Salesman Problem with Modified Cycle Crossover Operator. Computational Intelligence and Neuroscience, 2017 [Link](https://www.hindawi.com/journals/cin/2017/7430125/)
     1. Slides de Estéfane G. M. de Lacerda (UFRN), 2008/2009
-    1. Capítulo 2 de Lopes, Rodrigues, Steiner (Eds.) – Meta-heurísticas em Pesquisa Operacional. Omnipax, 2013
+    1. Capítulo 2 de Lopes, Rodrigues, Steiner (Eds.) – Meta-heurísticas em Pesquisa Operacional. Omnipax, 2013 [Link 1](https://repositorio.utfpr.edu.br/jspui/handle/1/943); [Link 2](https://www.researchgate.net/publication/236733898_Meta-Heuristicas_em_Pesquisa_Operacional)
 
 
 ## METAHEURÍSTICA 7: GRASP (Greedy Randomized Adaptive Search Procedure)
