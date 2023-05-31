@@ -44,7 +44,7 @@ Serão aplicadas no mínimo duas avaliações, dentre testes dissertativos, apre
 
 ## Critérios de avaliação
 
-- > 25% faltas —–> reprovado(a) por falta
+- Faltas acima de 25% da carga horária —–> reprovado(a) por falta
 - Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
 - Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a)
 
