@@ -169,15 +169,11 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 ## METAHEURÍSTICA 7: GRASP (Greedy Randomized Adaptive Search Procedure)
 
-- **SLIDES**
+- [**SLIDES**](https://drive.google.com/file/d/1vDhnZLesNQt80vmq5tCsf4rW3sLveEiI/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
-- Referência: capítulo 8 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
-- Outros conteúdos:
-    - [Slides do prof. Lucas Batista (UFMG)](http://www.cpdee.ufmg.br/~lusoba/disciplinas/eee933/slides/lusoba/13_GRASP.pdf)
-    - [Outros slides](https://drive.google.com/file/d/1pUrwz80FL-kh61fIKWNDtDP5MbuYzfW1/view?usp=sharing)
-
-<!--- **[Código Matlab/Octave de um GRASP para o TSP](https://drive.google.com/file/d/1ZdYhhQHka7aDrDlxtwvtuMIp6gVv-pHv/view?usp=sharing)**  
-    _Fonte: [https://github.com/warloff/GRASP-for-Traveling-Salesman](https://github.com/warloff/GRASP-for-Traveling-Salesman)_-->
+- Referências:
+    1. capítulo 8 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
+    1. E.F. Goldbarg, M.C. Goldbarg, J.P.F. Farias. Grasp with Path-Relinking for the TSP. Em: Doerner, Gendreau, Greistorfer, Gutjahr, Hartl, Reimann. (eds) Metaheuristics. Operations Research/Computer Science Interfaces Series, vol 39. Springer, 2007 [Link](https://link.springer.com/chapter/10.1007/978-0-387-71921-4_7)
 
 
 ## Pacotes de terceiros
@@ -416,7 +412,7 @@ Esta atividade consiste na apresentação, pelo aluno, de um artigo selecionado.
 - discussão dos testes numéricos apresentados.-->
 <!--- reprodução, pelo menos parcial, dos testes numéricos. O aluno deverá programar o método e realizar os testes, comparando com os testes relatados no artigo (pode-se utilizar os códigos das aulas ou outros que estiverem disponíveis na internet, em qualquer linguagem de programação).-->
 
-<!--_**Critérios de pontuação da apresentação:**_
+<!--_**Critérios de pontuação da apresentação:**_https://link.springer.com/chapter/10.1007/978-0-387-71921-4_7
 
 - Qualidade da apresentação (slides, material digital ou impresso…)
 - Organização das ideias e sequência lógica do assunto
