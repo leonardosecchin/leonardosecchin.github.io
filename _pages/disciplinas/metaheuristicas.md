@@ -171,6 +171,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 - [**SLIDES**](https://drive.google.com/file/d/1vDhnZLesNQt80vmq5tCsf4rW3sLveEiI/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
+- [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - Referências:
     1. capítulo 8 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
     1. E.F. Goldbarg, M.C. Goldbarg, J.P.F. Farias. Grasp with Path-Relinking for the TSP. Em: Doerner, Gendreau, Greistorfer, Gutjahr, Hartl, Reimann. (eds) Metaheuristics. Operations Research/Computer Science Interfaces Series, vol 39. Springer, 2007 [Link](https://link.springer.com/chapter/10.1007/978-0-387-71921-4_7)
