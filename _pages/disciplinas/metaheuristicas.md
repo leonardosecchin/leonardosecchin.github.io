@@ -235,7 +235,7 @@ Pesquise metaheurísticas na internet/artigos. Para cada metaheurística encontr
 
 ## Atividade avaliativa 2
 
-Serão avaliadas as implementações de **todas as metaheurísticas** apresentadas durante a disciplina. Cada aluno será "entrevistado" indivualmente, onde mostrará ao professor o que fez, executará testes e responderá à eventuais perguntas do professor. Não é necessário fazer *slides* para uma apresentação, a conversa será feita em frente ao computador. No entanto, **o(a) estudante deverá organizar o roteiro de sua fala, testes que apresentará, dificuldades enfrentadas etc.**
+Serão avaliadas as implementações de **todas as metaheurísticas** apresentadas durante a disciplina. Cada aluno será "entrevistado" individualmente, onde mostrará ao professor o que fez, executará testes e responderá à eventuais perguntas. Não é necessário fazer *slides* para uma apresentação, a conversa será feita em frente ao computador. No entanto, **o(a) estudante deverá organizar o roteiro de sua fala, testes que apresentará, dificuldades enfrentadas etc.**
 
 - Nota máxima: **10,0 pontos**
 - Período das avaliações: **15 e 16 de junho**
