@@ -222,9 +222,9 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 *Referência principal 2:* [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf) **(capítulo 2)**  
 *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)
 
-- [**ANOTAÇÕES** - Minimização com restrições lineares de igualdade](/files/otim1/6.1.Min_restricoes_lineares_igualdade.pdf)
+- [**ANOTAÇÕES** - Minimização com restrições lineares de igualdade (método do gradiente projetado)](/files/otim1/6.1.Min_restricoes_lineares_igualdade.pdf)
 - [**ANOTAÇÕES** - Minimização com restrições lineares de desigualdade; método das restrições ativas](/files/otim1/6.2.Min_restricoes_lineares_desig-restricoes_ativas.pdf)
-- [**ANOTAÇÕES** - Método do gradiente projetado](/files/otim1/6.9.Gradiente_projetado.pdf)
+- [**ANOTAÇÕES** - Método do gradiente projetado para restrições convexas quaisquer](/files/otim1/6.9.Gradiente_projetado.pdf)
 - [**ANOTAÇÕES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
 <!-- - [**ANOTAÇÕES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf) -->
 <!-- - **ANOTAÇÕES** - Método do gradiente espectral projetado (do inglês, SPG) -->
