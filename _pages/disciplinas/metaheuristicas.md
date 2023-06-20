@@ -274,8 +274,8 @@ Apresentação de um artigo selecionado. Cada estaudante escolherá um artigo e 
 - Cada apresentação receberá nota de 0 a 10, seguindo os pontos elencados acima;
 - O trabalho pode ser **individual** ou em **dupla**;
 - As apresentações deverão ser em dia e horário das aulas;
-- **O tempo máximo de cada apresentação corresponde às aulas do dia, ou seja, 2h 00min;**
-- Período das apresentações: **a definir**
+- **O tempo máximo de cada apresentação é de 1h;**
+- Período das apresentações: **duas últimas semanas de 2023/1**
 
 **Artigos selecionados:**
 
