@@ -34,7 +34,8 @@ author_profile: true
 - [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/otimizac-o-volume-1-condicoes-de-otimalidade-elementos-de-analise-convex-e-de-dualidade.html)
 - [Izmailov, A.; Solodov, M. Otimização vol 2. SBM.](https://loja.sbm.org.br/otimizac-o-volume-2-metodos-computacionais.html)
 
-## Listas de exercícios e trabalhos
+
+## Listas de exercícios
 
 - [LISTA 0 - Revisão, condições KKT](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing)
 - [LISTA 1 - Métodos de penalização externa e Lagrangiano aumentado](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing)
@@ -46,60 +47,56 @@ author_profile: true
   - [Código exemplo de uso do WORHP no Julia](/files/otim2/ex6_worhp.jl)
 - [LISTA 5 - Quadrados mínimos](https://drive.google.com/file/d/1YNKAcZT793tiR2xSp0y42tyErvcfZabl/view?usp=sharing)
   - [Código Julia do método de Gauss-Newton](/files/otim2/gaussnewton.zip)
+
+
+## Trabalhos computacionais
 <!-- - [TRABALHO COMPUTACIONAL 1 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing) -->
-<!-- - [TRABALHO COMPUTACIONAL 2 - Método de pontos interiores aplicado à programação linear](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing) -->
+- [Método de pontos interiores aplicado à programação linear](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing)
 
 
 ## Canais de acesso
 
-### E-mail do professor: leonardo.secchin@ufes.br
-
-<!--### [Pasta do Google Drive com aulas gravadas e anotações feitas em aula](https://drive.google.com/drive/folders/1kpCZoNnevXWSpag8uLVegWjDXgbJOhQx?usp=sharing)
-
-> **AVISO:**
-> *As aulas síncronas gravadas são de utilização restrita aos fins a que se destina a disciplina, em particular, para registro de avaliações, facultando-se ao aluno seu direito de não ter sua imagem registrada, mediante expressa manifestação ou, simplesmente, fechando sua câmera durante as aulas.*
-> *É proibida a utilização das imagens e/ou áudios das aulas sem expressa autorização do professor, ou ainda para quaisquer fins alheios às atividades da disciplina. O uso é individual e restrito aos alunos da disciplina, sendo proibido o compartilhamento dos vídeos e imagens em redes sociais, aplicativos de mensagens, páginas pessoais, via email ou afins.*
-
-### [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=16074)
-
-- O acesso é feito através do email institucional **@edu.ufes.br**;
-- Notas das atividades serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos.
-- Caso não tenha acesso, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) contendo
-  - **nome completo**
-  - **endereço de email @edu.ufes.br**
-  - **disciplina**
-
-
-### Link para ingresso no grupo de Whatsapp: veja no AVA-UFES-->
-
+- E-mail do professor: leonardo.secchin@ufes.br
+- Sala do professor: 08, prédio do Departamento de Matemática Aplicada
 
 
 ## Formas de avaliação
 
 - provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
 
+
 ## Avaliações
 
-<!--- **Avaliação 1**
-  - Tarefas: exercícios 5 e 7 da [lista 0](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing); exercícios 1, 3, 4, 5, 6, 7 da [lista 1](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing)
+- **Avaliação 1**
+<!--   - FORMA DE AVALIAÇÃO -->
+  - Conteúdo: ----
+<!--   - Tarefas: exercícios 5 e 7 da [lista 0](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing); exercícios 1, 3, 4, 5, 6, 7 da [lista 1](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing) -->
   - Valor: 10,0 pontos
-  - **Data limite: 30/11/22**
-  - Entregar resolução escrita à mão. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
-  - O trabalho é individual. Cópias receberão nota zero.
+  - **Data limite: ----**
+<!--   - Entregar resolução escrita à mão. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com -->
+<!--   - O trabalho é individual. Cópias receberão nota zero. -->
+
 - **Avaliação 2**
-  - Tarefas: exercícios 1, 2, 3, 4, 5, 6 da [lista 2](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing); exercícios 1, 2, 4 da [lista 3](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing)
+<!--   - FORMA DE AVALIAÇÃO -->
+  - Conteúdo: ----
+<!--   - Tarefas: exercícios 1, 2, 3, 4, 5, 6 da [lista 2](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing); exercícios 1, 2, 4 da [lista 3](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing) -->
   - Valor: 10,0 pontos
-  - **Data limite: 06/01/23**
-  - Entregar resolução escrita à mão ou escaneadas para o email secchinleo@gmail.com. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
-  - O trabalho é individual. Cópias receberão nota zero.
+  - **Data limite: ----**
+<!--   - Entregar resolução escrita à mão ou escaneadas para o email secchinleo@gmail.com. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com -->
+<!--   - O trabalho é individual. Cópias receberão nota zero. -->
+
 - **Avaliação 3**
-  - Conteúdo: todo o conteúdo
+<!--   - FORMA DE AVALIAÇÃO -->
+  - Conteúdo: ----
   - Valor: 10,0 pontos
-  - **Data: 08/02/23, horário da aula**
+  - **Data: ----**
+
 - **PROVA FINAL**
+  - **Prova escrita**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
-  - **Data: 15/02/23**-->
+  - **Data: ----**
+
 
 ## Critérios para aprovação
 
@@ -119,7 +116,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 **Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados nas disciplinas de otimização, baixe [ESTE SCRIPT](/files/julia/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
-### Introdução e revisão das condições de Karush-Kuhn-Tucker (KKT)
+
+### Introdução; as condições de Karush-Kuhn-Tucker (KKT)
 
 - Introdução [[**ANOTAÇÕES**](/files/otim2/anotacoes/1.Introducao.pdf)]
 - Condições KKT [[**ANOTAÇÕES**](/files/otim2/anotacoes/2.Condicoes_KKT.pdf)] [[**QUADRO**](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)]
@@ -135,6 +133,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    - Penalização externa pura [[**ANOTACOES**](/files/otim2/anotacoes/3.Penalizacao_externa.pdf)] [[**QUADRO**](/files/otim1/6.3.Penalizacao_externa.pdf)]
    - Prova das condições KKT via penalização externa [[**ANOTACOES**](/files/otim2/anotacoes/4.Penalizacao_externa_e_KKT.pdf)] [[**QUADRO**](/files/otim1/6.4.KKT_via_penalizacao.pdf)]
    - **Exercicios:** veja LISTA 1
+
 
 1. **Método do Lagrangiano aumentado**
 
@@ -181,12 +180,12 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
      - [Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
 
 
-### Região de confiança
+### Estratégia de regiões de confiança
 
 *Referência 1: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.cengage.com.br/livro/otimizacao-continua/) ([versão alternativa](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf))*
 *Referência 2: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006*
 
-- Estratégia de região de confiança e convergência global [[**ANOTACOES**](/files/otim2/anotacoes/10.regiao_confianca.pdf)] [[**QUADRO**](/files/otim2/4.Regioes_confianca.pdf)]
+- Estratégia de regiões de confiança e convergência global [[**ANOTACOES**](/files/otim2/anotacoes/10.regiao_confianca.pdf)] [[**QUADRO**](/files/otim2/4.Regioes_confianca.pdf)]
 - O passo de Cauchy e o método dog-leg [[**ANOTACOES**](/files/otim2/anotacoes/11.cauchy_dogleg.pdf)]
 - **Exercicios:** veja LISTA 3
 
@@ -195,9 +194,9 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
-- Programação Quadrática Sequencial (SQP) básica para restrições de igualdade [[**ANOTACOES**](/files/otim2/anotacoes/12.SQP_basico_igualdades.pdf)] <!--[[**QUADRO**](/files/otim2/5.1.SQP_basico_igualdades.pdf)]-->
-- Boa definição do SQP básico e algumas questões práticas do método [[**ANOTACOES**](/files/otim2/anotacoes/13.boa_definicao_SQP_basico.pdf)] <!--[[**QUADRO**](/files/otim2/5.2.SQP_basico_boa_definicao.pdf)]-->
-- Subproblemas de SQP - questões práticas e problemas com restrições de desigualdade [[**ANOTACOES**](/files/otim2/anotacoes/14.subproblemas_SQP.pdf)] <!--[[**QUADRO**](/files/otim2/5.3.SQP_subprob.pdf)] [[**QUADRO**](/files/otim2/5.4.SQP_subprob_IP.pdf)]-->
+- Programação Quadrática Sequencial (SQP) básica para restrições de igualdade [[**ANOTACOES**](/files/otim2/anotacoes/12.SQP_basico_igualdades.pdf)]
+- Boa definição do SQP básico e algumas questões práticas do método [[**ANOTACOES**](/files/otim2/anotacoes/13.boa_definicao_SQP_basico.pdf)]
+- Subproblemas de SQP - questões práticas e problemas com restrições de desigualdade [[**ANOTACOES**](/files/otim2/anotacoes/14.subproblemas_SQP.pdf)]
 - **Pacote computacional WORHP (proprietário com licença para uso acadêmico)**
   - [Site do desenvolvedor](https://worhp.de/)
   - [Principal referência bibliográfica do pacote](https://link.springer.com/chapter/10.1007%2F978-1-4614-4469-5_4)
@@ -206,6 +205,16 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   - **Exercicios:** veja LISTA 4
 
 - (**Conteúdo extra**) Pacote proprietário com versão de demonstração junto ao [AMPL](https://ampl.com/products/solvers/solvers-we-sell/): [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
+
+
+### O Problema de quadrados mínimos linear e não-linear
+
+*Referência: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006*
+
+- Quadrados mínimos linear [[**ANOTAÇÕES**](/files/otim2/6.4.quadrados_min_linear.pdf)]
+- Quadrados mínimos não linear - método de Gauss-Newton [[**ANOTAÇÕES**](/files/otim2/6.5.Quad_min_naolinear_Gauss_Newton.pdf)]
+- Quadrados mínimos não linear - método de Levenberg-Marquardt [[**ANOTAÇÕES**](/files/otim2/6.6.Quad_min_naolinear_Levenberg_Marquardt.pdf)]
+- **Exercicios:** veja LISTA 4
 
 
 ### Dualidade em programação não linear
@@ -217,16 +226,6 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - Dualidade em Programação Não Linear, parte 2 [[**QUADRO**](/files/otim2/6.2.Dualidade2.pdf)]
 - Método de planos de corte / Resolução de sistemas de inequações convexas [[**QUADRO**](/files/otim2/6.3.Planos_corte.pdf)]
   - [Código Julia](https://drive.google.com/file/d/1hEk6GZaokQ9bMBIAqXTdC5bkQau_pacC/view?usp=sharing)
-- **Exercicios:** veja LISTA 4
-
-
-### O Problema de quadrados mínimos linear e não-linear
-
-*Referência: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006*
-
-- Quadrados mínimos linear [[**ANOTAÇÕES**](/files/otim2/6.4.quadrados_min_linear.pdf)]
-- Quadrados mínimos não linear - método de Gauss-Newton [[**ANOTAÇÕES**](/files/otim2/6.5.Quad_min_naolinear_Gauss_Newton.pdf)]
-- Quadrados mínimos não linear - método de Levenberg-Marquardt [[**ANOTAÇÕES**](/files/otim2/6.6.Quad_min_naolinear_Levenberg_Marquardt.pdf)]
 - **Exercicios:** veja LISTA 4
 
 

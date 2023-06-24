@@ -47,7 +47,8 @@ author_profile: true
 
 ## Canais de acesso
 
-### E-mail do professor: leonardo.secchin@ufes.br
+- E-mail do professor: leonardo.secchin@ufes.br
+- Sala do professor: 08, prédio do Departamento de Matemática Aplicada
 
 
 ## Avaliações
@@ -75,7 +76,7 @@ author_profile: true
   - *Entregar resolução dos exercícios por escrito; enviar os resultados dos testes computacionais em TXT e o código Julia implementado para secchinleo@gmail.com*-->
 
 - **Avaliação 3**
-  - Conteúdo: otimização com restrições; condições de Karush-Kuhn-Tucker, método de restrições ativas
+  - Conteúdo: otimização com restrições; método de restrições ativas
 
 <!--
   - **TAREFAS A SEREM ENTREGUES:**
@@ -86,6 +87,7 @@ author_profile: true
   - *Entregar resolução por escrito*-->
 
 - **PROVA FINAL**
+  - **Prova escrita**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
   - **Data: --**
@@ -192,19 +194,6 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
    *Referência principal:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 5.3 do livro publicado pela Cengage)**
 
    - [**ANOTAÇÕES** - Método dos gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
-     - **Trabalho 1:** implementação e teste do método dos gradientes conjugados (veja seção "listas de exercícios e trabalhos")
-
-
-1. **Método do gradiente com passo constante e introdução à complexidade de algoritmos**
-
-   - [**ANOTAÇÕES** - Método do gradiente com passo constante e sua complexidade](/files/otim1/4.9.Gradiente_passo_cte.pdf)
-
-
-<!--### Comparação do desempenho de diferentes algoritmos
-
-- Texto referência para este módulo: seção 6.3 do livro de Karas e Ribeiro.
-- **ANOTAÇÕES** - Perfis de desempenho segundo [Dolan e Moré](https://link.springer.com/article/10.1007/s101070100263)
-  - [BenchmarkProfiles.jl](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl) - gerando perfis de desempenho com o Julia-->
 
 
 
@@ -222,13 +211,9 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 *Referência principal 2:* [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf) **(capítulo 2)**  
 *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)
 
-- [**ANOTAÇÕES** - Minimização com restrições lineares de igualdade (método do gradiente projetado)](/files/otim1/6.1.Min_restricoes_lineares_igualdade.pdf)
+- [**ANOTAÇÕES** - Minimização com restrições lineares de igualdade (método do gradiente projetado para restrições lineares)](/files/otim1/6.1.Min_restricoes_lineares_igualdade.pdf)
 - [**ANOTAÇÕES** - Minimização com restrições lineares de desigualdade; método das restrições ativas](/files/otim1/6.2.Min_restricoes_lineares_desig-restricoes_ativas.pdf)
-- [**ANOTAÇÕES** - Método do gradiente projetado para restrições convexas quaisquer](/files/otim1/6.9.Gradiente_projetado.pdf)
 - [**ANOTAÇÕES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
-<!-- - [**ANOTAÇÕES** - Prova das condições KKT via penalização externa](/files/otim1/6.4.KKT_via_penalizacao.pdf) -->
-<!-- - **ANOTAÇÕES** - Método do gradiente espectral projetado (do inglês, SPG) -->
-<!--  - **Trabalho 2:** Implementação do SPG em Julia (veja seção "listas de exercícios e trabalhos")-->
 - [**ANOTAÇÕES** - Penalização interna](/files/otim1/6.5.Penalizacao_interna.pdf)
 - [**ANOTAÇÕES** - Programação Quadrática Sequencial (SQP, do inglês) - algoritmo básico](/files/otim1/6.6.SQP.pdf)
 - [**ANOTAÇÕES** - Pontos interiores para problemas com restrições lineares](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
@@ -238,6 +223,25 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 ## Códigos em Julia
 
 - [Métodos do gradiente, Newton e Newton globalizado, com funções para testes](/files/otim1/gradiente_newton.zip)
+- ["Pré-implementação" do método de gradientes conjugados para quadráticas, com função para testes](/files/otim1/gc.zip)
+
+
+## Tópicos extras
+
+### Comparação do desempenho de diferentes algoritmos
+
+- Texto referência: seção 6.3 do livro de Karas e Ribeiro.
+- **ANOTAÇÕES** - Perfis de desempenho segundo [Dolan e Moré](https://link.springer.com/article/10.1007/s101070100263)
+  - [BenchmarkProfiles.jl](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl) - gerando perfis de desempenho com o Julia
+
+
+### Otimização aplicada ao aprendizado de máquina supervisionado (a fazer)
+
+
+### Outros
+
+   - [**ANOTAÇÕES** - Método do gradiente com passo constante e introdução à complexidade de algoritmos](/files/otim1/4.9.Gradiente_passo_cte.pdf)
+   - [**ANOTAÇÕES** - Método do gradiente projetado para restrições convexas quaisquer](/files/otim1/6.9.Gradiente_projetado.pdf)
 
 
 ## Vídeos interessantes sobre Otimização
