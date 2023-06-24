@@ -33,7 +33,7 @@ Para saber mais sobre o Julia, consulte o [Wikipedia](https://en.wikipedia.org/w
 
 # Passo a passo para instalação do Julia em sua máquina
 
-## Método 1: Pacotes pré-compilados (mais fácil)
+## Método 1: Pacotes pré-compilados (mais fácil, recomendado)
 
 1. Baixe a última **versão estável** para seu sistema em <https://julialang.org/downloads>
 1. Siga as instruções de instalação
