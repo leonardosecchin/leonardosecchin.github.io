@@ -38,17 +38,15 @@ author_profile: true
 - [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
 
 
-<!--## [Disciplina no Ambiente Virtual de Aprendizagem - AVA-UFES](https://ava.ufes.br/course/view.php?id=2643)
-
-- Todo o material do curso, como slides e referências, estará disponível exclusivamente nesta página.
-- Notas das atividades e **aulas gravadas** serão disponibilizadas somente no AVA-UFES, com acesso restrito aos alunos.
-- Se você é aluno(a) e não tem acesso à disciplina no AVA-UFES, envie email para [leonardo.secchin@ufes.br](mailto:leonardo.secchin@ufes.br) com seu **nome completo** e **endereço de email**.-->
-
-
 ## Canais de acesso
 
 - E-mail do professor: leonardo.secchin@ufes.br
-- Sala do professor: 08, prédio do Departamento de Matemática Aplicada
+- Sala do professor: prédio do Departamento de Matemática Aplicada, sala 08
+
+
+## Formas de avaliação
+
+- provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
 
 
 ## Avaliações
@@ -60,7 +58,10 @@ author_profile: true
   - **Data: 19/04/2023** (sexta-feira)
 
 - **Avaliação 2**
+  - **Apresentação de trabalho computacional**
   - Conteúdo: método dos gradientes conjugados, métodos quase-Newton, método do gradiente espectral
+  - Valor: 10,0 pontos
+  - **Data: --**
 
 <!--
   - **TAREFAS A SEREM ENTREGUES:**
@@ -76,7 +77,10 @@ author_profile: true
   - *Entregar resolução dos exercícios por escrito; enviar os resultados dos testes computacionais em TXT e o código Julia implementado para secchinleo@gmail.com*-->
 
 - **Avaliação 3**
+  - **Prova escrita**
   - Conteúdo: otimização com restrições; método de restrições ativas
+  - Valor: 10,0 pontos
+  - **Data: --**
 
 <!--
   - **TAREFAS A SEREM ENTREGUES:**
@@ -92,19 +96,26 @@ author_profile: true
   - Valor: 10,0 pontos
   - **Data: --**
 
-<!-- - provas escritas, listas de exercícios e trabalhos computacionais. -->
+
+## Critérios para aprovação
+
+- Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
+- Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a).
 
 
-## Listas de exercícios e trabalhos
+## Listas de exercícios
 
 - [LISTA 1 – Conceitos básicos, otimização irrestrita](https://drive.google.com/file/d/1yV6DClaPT3zCmB1JkfnVq_j4g77-8EJU/view?usp=sharing)
 - [LISTA 2 – Convexidade](https://drive.google.com/file/d/1dtHGGeXg4Sn4qz-3PeWBFdQvG9C5mucq/view?usp=sharing)
 - [LISTA 3 – Métodos para otimização sem restrições](https://drive.google.com/file/d/1_SjC-bMI8S4rQViRZ5LZe1Ef4oad1jwv/view?usp=sharing)
+- [LISTA 4 – Otimização com restrições](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing)
+
+
+## Trabalhos computacionais
+
 <!-- - [TRABALHO COMPUTACIONAL 1 - Método dos gradientes conjugados](https://drive.google.com/file/d/1D4MEh-yAYjrFiv6E5iIQ6Gwj66wP5dGv/view?usp=sharing) -->
 <!--   - [Código base](https://drive.google.com/file/d/1C9O5pa0DkSLNU3pyajtfQCCF56HdFsxS/view?usp=sharing) -->
 <!--- [TRABALHO COMPUTACIONAL 2 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing)-->
-- [LISTA 4 – Otimização com restrições](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing)
-
 
 
 ## Material
@@ -117,7 +128,6 @@ author_profile: true
 - [VÍDEO: Uma visão geral da otimização - fala do prof. Jose Mario Martinez (Unicamp)](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
 
 
-
 ### Otimização sem restrições
 
 *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 2)**  
@@ -126,14 +136,12 @@ author_profile: true
 - [**ANOTAÇÕES** - Otimização sem restrições](/files/otim1/2.Otimizacao_sem_restricoes.pdf)
 
 
-
 ### Convexidade
 
 *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 3)**  
 *Referência complementar:* [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf) **(capítulo 3)**
 
 - [**ANOTAÇÕES** - Convexidade](/files/otim1/3.Convexidade.pdf)
-
 
 
 ### A linguagem de programação Julia
@@ -184,17 +192,16 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 1. **Método do gradiente espectral**
 
-    *Referência:* [TCC de Elivandro Oliveira Grippa](/files/ic-tcc/TCC_Elivandro_Grippa.pdf) **(seção 3.4)**
+    *Referência principal:* [TCC de Elivandro Oliveira Grippa](/files/ic-tcc/TCC_Elivandro_Grippa.pdf) **(seção 3.4)**
 
    - [**ANOTAÇÕES** - Método do gradiente espectral](/files/otim1/4.8.Gradiente_espectral.pdf)
 
 
-1. **Método dos gradientes conjugados**
+1. **Método dos gradientes conjugados para minimização de quadráticas**
 
    *Referência principal:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 5.3 do livro publicado pela Cengage)**
 
    - [**ANOTAÇÕES** - Método dos gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
-
 
 
 ### Otimização com restrições
@@ -202,7 +209,6 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seções 13.1 e 13.2)**
 
 - [**ANOTAÇÕES** - Otimização com restrições; condições de Karush-Kuhn-Tucker (KKT)](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
-
 
 
 ### Métodos para otimização com restrições
@@ -230,12 +236,13 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 ### Comparação do desempenho de diferentes algoritmos
 
-- Texto referência: seção 6.3 do livro de Karas e Ribeiro.
-- **ANOTAÇÕES** - Perfis de desempenho segundo [Dolan e Moré](https://link.springer.com/article/10.1007/s101070100263)
+*Referência principal:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 6.3 do livro publicado pela Cengage)**
+
+- [**ANOTAÇÕES**](/files/topicospo/performance_profiles.pdf) - Perfis de desempenho segundo [Dolan e Moré](https://link.springer.com/article/10.1007/s101070100263) e comentários sobre contagem de tempo de execução
   - [BenchmarkProfiles.jl](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl) - gerando perfis de desempenho com o Julia
 
 
-### Otimização aplicada ao aprendizado de máquina supervisionado (a fazer)
+### Breve introdução à otimização aplicada ao aprendizado de máquina supervisionado (a fazer)
 
 
 ### Outros

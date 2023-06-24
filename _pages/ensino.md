@@ -19,16 +19,6 @@ author_profile: true
 
 ## Disciplinas já ministradas
 
-- [**Álgebra Linear**  
-  (vários cursos)](/algebra-linear/)
-- [**Cálculo 3**  
-  (Matemática Industrial, Engenharias e Ciência da Computação)](/calculo3/)
-- [**Laboratório de Matemática**  
-  (Matemática Industrial e Licenciatura em Matemática)](/laboratorio-de-matematica/)
-- [**Lógica / Noções de lógica**  
-  (Matemática Industrial)](/logica/)
-- [**Matemática Básica**  
-  (Matemática Industrial)](/matematica-basica/)
 - [**Metaheurísticas**  
   (Matemática Industrial)](/metaheuristicas/)
 - [**Otimização 1**  
@@ -37,12 +27,22 @@ author_profile: true
   (Matemática Industrial)](/otimizacao2/)
 - [**Tópicos em Pesquisa Operacional**  
   (Matemática Industrial)](/topicospo/)
+
+---
+
+- [**Cálculo 3**  
+  (Matemática Industrial, Engenharias e Ciência da Computação)](/calculo3/)
+- [**Álgebra Linear**  
+  (vários cursos)](/algebra-linear/)
+- [**Laboratório de Matemática**  
+  (Matemática Industrial e Licenciatura em Matemática)](/laboratorio-de-matematica/)
+- [**Lógica / Noções de lógica**  
+  (Matemática Industrial)](/logica/)
+- [**Matemática Básica**  
+  (Matemática Industrial)](/matematica-basica/)
 - [**Geometria Analítica** (listas de exercícios)](https://drive.google.com/file/d/1Z3oxequQlLdjKyLiXw6Yq0JT4rLmm-gL/view?usp=sharing)
 <!--- [**Noções de Lógica** (notas de aula)](https://drive.google.com/file/d/0B-G5znuapK7JRk9laWRVOWFGTFE/view?usp=sharing)-->
 - [**Análise Convexa** (listas de exercícios)](https://drive.google.com/file/d/14dBCjGENT4phLsUo7Ip7_nvQ-Rp2D7Ev/view?usp=sharing)
-- **Programação Linear** (notas de aula)
-
-<!--## [Programas das disciplinas do Departamento de Matemática Aplicada](http://www.matematicaaplicada.saomateus.ufes.br/programas-de-disciplinas-do-dma)-->
 
 ## Vídeo-aulas de terceiros
 

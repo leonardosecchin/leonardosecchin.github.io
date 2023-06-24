@@ -7,17 +7,21 @@ author_profile: true
 
 ## Horários das aulas
 
-- xxx
-- xxx
+- --- <!--Terças-feiras de 11:00 as 13:00 (Sala 09 Eixo 3)-->
+- --- <!--Sextas-feiras de 15:00 as 17:00 (Sala 12 Eixo 1)-->
+
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
 
+
 ## Objetivos da disciplina
 
+- Estudar conceitos de programação não linear com restrições
 - Estudar os fundamentos dos métodos de resolução clássicos para programação não linear, sobretudo com restrições
 - Analisar aspectos teóricos e numéricos dos métodos
 - Implementar algoritmos em computador e testá-los em problemas da literatura
-- Promover a utilização de pacotes computacionais, discutindo seus comportamentos numéricos e aspectos teóricos (discussão de artigos científicos e manuais)
+- Promover a utilização de pacotes computacionais, discutindo seu comportamento numérico à luz da teoria (discussão de artigos científicos e manuais)
+
 
 ## Textos de referência
 
@@ -29,35 +33,17 @@ author_profile: true
 - [Friedlander, A. Elementos de Programação Não-Linear.](https://www.ime.unicamp.br/~friedlan/livro.pdf) (uma versão reformulada deste livro feita em 2019 também está disponível gratuitamente – [em inglês](https://www.researchgate.net/profile/Ana_Friedlander/publication/333092979_Lectures_on_Fundamentals_of_Numerical_Optimization_This_work_is_licensed_under_a_Creative_Commons_Attribution-NonCommercial-NoDerivatives_40_International_License/links/5cdb3316299bf14d95986f4c/Lectures-on-Fundamentals-of-Numerical-Optimization-This-work-is-licensed-under-a-Creative-Commons-Attribution-NonCommercial-NoDerivatives-40-International-License.pdf?_sg%5B0%5D=OcGvJeXueMxS6BI2Ruh7vdBjq1UbRs08hbzY_ieOwf-F0wbQV_O5SCrfExGkTY-y43lsfpsMQPPREXRuUtCI3Q.L1d61aB9LuNNTfXTsMGRDUyMu00T2tMlftIlfXKRwzMOxblNU-PGVtK1f8wKCtVkis9mkC5L8aBBMztB8CL8Pg&_sg%5B1%5D=vow2_Zf4aDnMI9DAyt0keCr_vCEW83UgpiHMcP9TuSekVV5WsTXWfPlSy9f0mvI65u3MoRoPQsY8UAxf5x5ERSHyb330XujVzueLhVpB79ZJ.L1d61aB9LuNNTfXTsMGRDUyMu00T2tMlftIlfXKRwzMOxblNU-PGVtK1f8wKCtVkis9mkC5L8aBBMztB8CL8Pg&_iepl%5BviewId%5D=vGV9CjhN7zYAxyRbOeaGqa1E&_iepl%5BsingleItemViewId%5D=DdnpMX2t0bkYAOVB5OSNnqJP&_iepl%5BpositionInFeed%5D=8&_iepl%5BhomeFeedVariantCode%5D=ncls&_iepl%5BactivityId%5D=1105855063920647&_iepl%5BactivityType%5D=service_add_recommendation_activity&_iepl%5BactivityTimestamp%5D=1558097593&_iepl%5BrecTarActComb%5D=person_publish_publication&_iepl%5BrecActVar%5D=feed_via_people_you_follow_and_feed_interest_nodes_blended_signals_boost_preprints_and_reads%3Epublications_via_interest_nodes_scored_by_keywords_and_cited_a_boost_preprints_and_reads&_iepl%5BrecScore%5D=39.05640411377&_iepl%5Bcontexts%5D%5B0%5D=homeFeed&_iepl%5BtargetEntityId%5D=PB%3A333092979&_iepl%5BinteractionType%5D=publicationDownload))
 <!-- - [Pontos interiores aplicado à Programação Linear (texto próprio)](https://drive.google.com/open?id=17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW) -->
 
-## Textos Complementares
+
+## Textos complementares
 
 - [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/otimizac-o-volume-1-condicoes-de-otimalidade-elementos-de-analise-convex-e-de-dualidade.html)
 - [Izmailov, A.; Solodov, M. Otimização vol 2. SBM.](https://loja.sbm.org.br/otimizac-o-volume-2-metodos-computacionais.html)
 
 
-## Listas de exercícios
-
-- [LISTA 0 - Revisão, condições KKT](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing)
-- [LISTA 1 - Métodos de penalização externa e Lagrangiano aumentado](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing)
-  - Código para o exercício 5(c): [plbin.jl](https://drive.google.com/file/d/1Uqcb0X9kNTIHE-m2kOeS1c_pXfOyvzvd/view?usp=sharing)
-  - Instâncias para o exercício 7: [portfolio.zip](https://drive.google.com/file/d/1RMvGiE38Ow3qcP9PncKJlCISYX48QXcb/view?usp=sharing)
-- [LISTA 2 - Método de penalização interna / pontos interiores](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing)
-- [LISTA 3 - Região de confiança](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing)
-- [LISTA 4 - Programação quadrática sequencial e dualidade](https://drive.google.com/file/d/1QwVVJgkS-7Ilkk0t4JLriD4o80S3Dmzw/view?usp=sharing)
-  - [Código exemplo de uso do WORHP no Julia](/files/otim2/ex6_worhp.jl)
-- [LISTA 5 - Quadrados mínimos](https://drive.google.com/file/d/1YNKAcZT793tiR2xSp0y42tyErvcfZabl/view?usp=sharing)
-  - [Código Julia do método de Gauss-Newton](/files/otim2/gaussnewton.zip)
-
-
-## Trabalhos computacionais
-<!-- - [TRABALHO COMPUTACIONAL 1 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing) -->
-- [Método de pontos interiores aplicado à programação linear](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing)
-
-
 ## Canais de acesso
 
 - E-mail do professor: leonardo.secchin@ufes.br
-- Sala do professor: 08, prédio do Departamento de Matemática Aplicada
+- Sala do professor: prédio do Departamento de Matemática Aplicada, sala 08
 
 
 ## Formas de avaliação
@@ -102,6 +88,26 @@ author_profile: true
 
 - Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
 - Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a).
+
+
+## Listas de exercícios
+
+- [LISTA 0 - Revisão, condições KKT](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing)
+- [LISTA 1 - Métodos de penalização externa e Lagrangiano aumentado](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing)
+  - Código para o exercício 5(c): [plbin.jl](https://drive.google.com/file/d/1Uqcb0X9kNTIHE-m2kOeS1c_pXfOyvzvd/view?usp=sharing)
+  - Instâncias para o exercício 7: [portfolio.zip](https://drive.google.com/file/d/1RMvGiE38Ow3qcP9PncKJlCISYX48QXcb/view?usp=sharing)
+- [LISTA 2 - Método de penalização interna / pontos interiores](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing)
+- [LISTA 3 - Região de confiança](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing)
+- [LISTA 4 - Programação quadrática sequencial e dualidade](https://drive.google.com/file/d/1QwVVJgkS-7Ilkk0t4JLriD4o80S3Dmzw/view?usp=sharing)
+  - [Código exemplo de uso do WORHP no Julia](/files/otim2/ex6_worhp.jl)
+- [LISTA 5 - Quadrados mínimos](https://drive.google.com/file/d/1YNKAcZT793tiR2xSp0y42tyErvcfZabl/view?usp=sharing)
+  - [Código Julia do método de Gauss-Newton](/files/otim2/gaussnewton.zip)
+
+
+## Trabalhos computacionais
+
+<!-- - [TRABALHO COMPUTACIONAL 1 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing) -->
+- [Método de pontos interiores aplicado à programação linear](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing)
 
 
 ## Material
