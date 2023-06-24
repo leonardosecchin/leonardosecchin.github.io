@@ -44,7 +44,7 @@ Serão aplicadas no mínimo duas avaliações, dentre testes dissertativos, apre
 
 ## Cálculo da média parcial (2023/1)
 
-(atividade avaliativa 1)*1,0  +  (atividade avaliativa 2)*6,0  +  (atividade avaliativa 3)*3,0) / 10
+(1,0(atividade avaliativa 1) + 6,0(atividade avaliativa 2) + 3,0(atividade avaliativa 3)) / 10,0
 
 
 ## Critérios para aprovação
