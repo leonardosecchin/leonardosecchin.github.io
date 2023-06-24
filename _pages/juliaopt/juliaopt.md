@@ -5,7 +5,7 @@ permalink: /juliaopt/
 author_profile: true
 ---
 
-Nesta página você encontrará exemplos/exercícios simples para iniciar a escrita e resolução de problemas de otimização em Julia. Não é um tutorial completo sobre, e poderá ser expandido. Evidentemente, há muito material na internet que você pode acessar. Um deles é o [curso de Abel Siqueira (UFPR) no Youtube](https://www.youtube.com/playlist?list=PLOOY0eChA1uyk_01nGJVmcQGvcJq9h6_6).
+Nesta página você encontrará exemplos/exercícios simples para iniciar a escrita e resolução de problemas de otimização em Julia. Não é um tutorial completo sobre, e poderá ser expandido. Evidentemente, há muito material na internet que você pode acessar. Um deles é o [curso de Abel Siqueira no Youtube](https://www.youtube.com/playlist?list=PLOOY0eChA1uyk_01nGJVmcQGvcJq9h6_6).
 
 
 # Pré-requisitos
