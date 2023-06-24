@@ -34,7 +34,7 @@ Principais metaheurísticas usadas na literatura recente (algoritmos genéticos,
 - [Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003.](https://www.springer.com/us/book/9780306480560)
 - [Dréo, Pétrowski, Siarry e Taillard – Metaheuristics for Hard Optimization. Springer, 2006](https://doi.org/10.1007/3-540-30966-7)
 
-Obs: outras referências são descritas a cada tópico estudado
+Obs: outras referências são descritas em cada tópico
 
 
 ## Formas de avaliação
@@ -42,20 +42,16 @@ Obs: outras referências são descritas a cada tópico estudado
 Serão aplicadas no mínimo duas avaliações, dentre testes dissertativos, apresentações de seminários e/ou desenvolvimento de projetos.
 
 
-## Critérios de avaliação
+## Cálculo da média parcial (2023/1)
 
-- Faltas acima de 25% da carga horária —–> reprovado(a) por falta
-- Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
-- Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a)
+(atividade avaliativa 1)*1,0  +  (atividade avaliativa 2)*6,0  +  (atividade avaliativa 3)*3,0) / 10
 
 
-<!--## Cálculo da média parcial
+## Critérios para aprovação
 
-Igual ao **máximo** entre 10,0 e a média ponderada das atividades e apresentações:
-
-(  (atividade 1)*1,0  +  (atividade 2)*2,0  +  (atividade 3)*3,0  +   média apres)*5,0  ) / 11
-
-Assim, a nota final é no máximo 10, mesmo que a média das apresentações seja > 10.-->
+- Faltas acima de 25% da carga horária —> reprovado(a) por falta
+- Média parcial >= 7,0 —> aprovado(a) (desde que não reprovado(a) por falta)
+- Média parcial < 7,0 —> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —> aprovado(a)
 
 
 # MATERIAIS PARA AS AULAS
