@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-- ---
-- ---
+- xxx
+- xxx
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
 
