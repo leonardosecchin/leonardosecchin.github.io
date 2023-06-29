@@ -299,8 +299,8 @@ _Instâncias para testes: [http://www.lac.inpe.br/~lorena/instancias.html](http:
 
 * * *
 
-[**Simulated annealing and tabu search approaches for the Corridor Allocation Problem**](https://www.sciencedirect.com/science/article/abs/pii/S0377221713005808)  
-H. Ahonen, A.G.de Alvarenga, A.R.S. Amaral.
+**(ESCOLHIDO)** [**Simulated annealing and tabu search approaches for the Corridor Allocation Problem**](https://www.sciencedirect.com/science/article/abs/pii/S0377221713005808)  
+H. Ahonen, A.G.de Alvarenga, A.R.S. Amaral
 
 <!--_Instâncias para testes: (tabelas C.4, C.5 e C.6 do artigo) [CAP-Amaral 2012](#)  
 Instâncias tratadas para Octave: [CAP-Amaral_m](#)_-->
