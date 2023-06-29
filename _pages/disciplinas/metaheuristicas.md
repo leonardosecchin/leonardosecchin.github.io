@@ -273,6 +273,17 @@ Apresentação de um artigo selecionado. Cada estaudante escolherá um artigo e 
 - **O tempo máximo de cada apresentação é de 1h;**
 - Período das apresentações: **duas últimas semanas de 2023/1**
 
+
+**ARTIGOS ESCOLHIDOS**
+
+- Arthur Ferraz:
+- Douglas Santos Lacerda:
+- Giuliano Messias Da Silva: [Rubens Francisco de Paula Junior, Danilo Cesar Azeredo Silva, Mario Mestria. ALGORITMOS POPULACIONAIS PARA SOLUCIONAR O PROBLEMA DAS P-MEDIANAS, LIV Simpósio Brasileiro de Pesquisa Operacional, Vol 54, 2022](https://proceedings.science/sbpo/sbpo-2022/trabalhos/algoritmos-populacionais-para-solucionar-o-problema-das-p-medianas?lang=pt-br)
+- Joao Jose De Sousa Junior: [Ahonen, Alvarenga, Amaral. Simulated annealing and tabu search approaches for the Corridor Allocation Problem. European Journal of Operational Research, 232(1):221-233, 2014](https://doi.org/10.1016/j.ejor.2013.07.010)
+- Pedro Henrique Fischer Ferreira e Pedro Lucas Coswosk Cosme:
+- Wemble Oliveira Silva: [Rodrigues, Leite, Santos, Souza, Silva. Metaheurística algoritmo genético para solução de problemas de planejamento florestal com restrições de integridade. Árvore, 28(2):233-245, 2004](https://doi.org/10.1590/S0100-67622004000200010)
+
+
 **Artigos selecionados:**
 
 [**A Hybrid Grouping Genetic Algorithm for the Multiple-Type Access Node Location Problem**](https://link.springer.com/chapter/10.1007/978-3-642-04394-9_46)  
