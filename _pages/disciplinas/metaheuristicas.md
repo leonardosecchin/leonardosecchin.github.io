@@ -276,7 +276,7 @@ Apresentação de um artigo selecionado. Cada estaudante escolherá um artigo e 
 
 **ARTIGOS ESCOLHIDOS**
 
-- Arthur Ferraz:
+- Arthur Ferraz: [Wang, Xu, Zhao. Improved KNN algorithms of spherical regions based on clustering and region division. Alexandria Engineering Journal, 61(5):3571-3585, 2022](https://doi.org/10.1016/j.aej.2021.09.004)
 - Douglas Santos Lacerda:
 - Giuliano Messias Da Silva: [Rubens Francisco de Paula Junior, Danilo Cesar Azeredo Silva, Mario Mestria. ALGORITMOS POPULACIONAIS PARA SOLUCIONAR O PROBLEMA DAS P-MEDIANAS, LIV Simpósio Brasileiro de Pesquisa Operacional, Vol 54, 2022](https://proceedings.science/sbpo/sbpo-2022/trabalhos/algoritmos-populacionais-para-solucionar-o-problema-das-p-medianas?lang=pt-br)
 - Joao Jose De Sousa Junior: [Ahonen, Alvarenga, Amaral. Simulated annealing and tabu search approaches for the Corridor Allocation Problem. European Journal of Operational Research, 232(1):221-233, 2014](https://doi.org/10.1016/j.ejor.2013.07.010)
