@@ -114,8 +114,7 @@ author_profile: true
 
 ## Trabalhos computacionais
 
-<!-- - [TRABALHO COMPUTACIONAL 1 - Método dos gradientes conjugados](https://drive.google.com/file/d/1D4MEh-yAYjrFiv6E5iIQ6Gwj66wP5dGv/view?usp=sharing) -->
-<!--   - [Código base](https://drive.google.com/file/d/1C9O5pa0DkSLNU3pyajtfQCCF56HdFsxS/view?usp=sharing) -->
+ - [Método dos gradientes conjugados](https://drive.google.com/file/d/1MnXOSK4mQs5rVvqPdjBzfA6tTMYreLOq/view?usp=sharing). [Código base](/files/otim1/gc.jl)
 <!--- [TRABALHO COMPUTACIONAL 2 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing)-->
 
 
