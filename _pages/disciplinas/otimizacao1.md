@@ -114,8 +114,12 @@ author_profile: true
 
 ## Trabalhos computacionais
 
- - [Método dos gradientes conjugados](https://drive.google.com/file/d/1MnXOSK4mQs5rVvqPdjBzfA6tTMYreLOq/view?usp=sharing). [Código base](/files/otim1/gc.jl)
-<!--- [TRABALHO COMPUTACIONAL 2 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing)-->
+- [Método dos gradientes conjugados](https://drive.google.com/file/d/1MnXOSK4mQs5rVvqPdjBzfA6tTMYreLOq/view?usp=sharing)
+  - [código base](/files/otim1/gc.jl)
+- [Método do gradiente espectral](https://drive.google.com/file/d/1peXtd38yV7RDbVAqRp0NFCEu06RCLoJI/view?usp=sharing)
+  - [código base](/files/otim1/gradiente_newton.zip)
+- Quase-Newton globalizado
+  - [código base](/files/otim1/gradiente_newton.zip)
 
 
 ## Material
