@@ -118,7 +118,7 @@ author_profile: true
   - [código base](/files/otim1/gc.jl)
 - [Método do gradiente espectral](https://drive.google.com/file/d/1peXtd38yV7RDbVAqRp0NFCEu06RCLoJI/view?usp=sharing)
   - [código base](/files/otim1/gradiente_newton.zip)
-- Quase-Newton globalizado
+- [Quase-Newton (BFGS) globalizado](https://drive.google.com/file/d/1v6_Ka1Tj5MJs2qiwNSsZ7ICzbAXA0fMz/view?usp=sharing)
   - [código base](/files/otim1/gradiente_newton.zip)
 
 
