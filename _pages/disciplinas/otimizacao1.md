@@ -61,7 +61,7 @@ author_profile: true
   - **Apresentação de trabalho computacional**
   - Conteúdo: método dos gradientes conjugados, métodos quase-Newton, método do gradiente espectral
   - Valor: 10,0 pontos
-  - **Data: --**
+  - **Data: 14/07 (podendo ser estendido)**
 
 <!--
   - **TAREFAS A SEREM ENTREGUES:**
@@ -77,10 +77,10 @@ author_profile: true
   - *Entregar resolução dos exercícios por escrito; enviar os resultados dos testes computacionais em TXT e o código Julia implementado para secchinleo@gmail.com*-->
 
 - **Avaliação 3**
-  - **Prova escrita**
+  - **Lista de exercícios**
   - Conteúdo: otimização com restrições; método de restrições ativas
   - Valor: 10,0 pontos
-  - **Data: --**
+  - **Data: 21/07**
 
 <!--
   - **TAREFAS A SEREM ENTREGUES:**
