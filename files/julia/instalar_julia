@@ -14,7 +14,9 @@
 echo "======================================================"
 echo "Recomenda-se instalar a última versão ESTÀVEL do Julia"
 echo "Para saber qual a versão atual, consulte"
+echo
 echo "   https://julialang.org/downloads/"
+echo
 echo "e veja a versão em 'Current stable release'"
 echo "======================================================"
 
