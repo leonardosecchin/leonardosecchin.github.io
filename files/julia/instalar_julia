@@ -36,7 +36,7 @@ cd ~
 
 rm -f julia-$VERSAO-linux-x86_64.tar.gz*
 # baixa o Julia pré-compilado
-if ! wget https://julialang-s3.julialang.org/bin/linux/x64/${VERSAO:0:3}/julia-$VERSAO-linux-x86_64.tar.gz; then
+if ! wget https://julialang-s3.julialang.org/bin/linux/x64/$(echo $VERSAO | cut -c 1-3)/julia-$VERSAO-linux-x86_64.tar.gz; then
     echo
     echo "URL não encontrada! Verifique se a versão existe. Caso afirmativo, você poderá ter que ajustar a URL no script."
     echo
