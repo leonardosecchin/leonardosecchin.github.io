@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 #####################################
 # Este script instala o Julia pré-compilado com
