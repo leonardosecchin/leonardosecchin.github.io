@@ -82,7 +82,7 @@ author_profile: true
   - Valor: 10,0 pontos
   - **TAREFAS A SEREM ENTREGUES:**
     - exercícios 13.1, 13.6, 13.13 (livro de Ana Friedlander)
-    - exercícios 2, 3, 8 ([Lista 3](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing))
+    - exercícios 2, 3, 8 ([Lista 4](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing))
   - Valor: 10,0 pontos
   - **Data máxima para entrega: 23/07/23**
   - *Entregar resolução por escrito*
