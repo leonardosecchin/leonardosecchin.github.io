@@ -80,15 +80,12 @@ author_profile: true
   - **Lista de exercícios**
   - Conteúdo: otimização com restrições; método de restrições ativas
   - Valor: 10,0 pontos
-  - **Data: 21/07**
-
-<!--
   - **TAREFAS A SEREM ENTREGUES:**
     - exercícios 13.1, 13.6, 13.13 (livro de Ana Friedlander)
-    - exercícios 2, 3, 8, 9 (sem a implementação), 10, 11 ([Lista 3](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing))
+    - exercícios 2, 3, 8 ([Lista 3](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing))
   - Valor: 10,0 pontos
-  - **Data máxima para entrega: 18/08/22**
-  - *Entregar resolução por escrito*-->
+  - **Data máxima para entrega: 23/07/23**
+  - *Entregar resolução por escrito*
 
 - **PROVA FINAL**
   - **Prova escrita**
