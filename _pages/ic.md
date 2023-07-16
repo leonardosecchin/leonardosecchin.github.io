@@ -67,7 +67,7 @@ Os(As) estudantes de IC e TCC têm a sua disposição o [laboratório de Matemá
 O grupo de otimização da UFES, campus São Mateus, disponha de um computador de bom desempenho para realização de pesquisas. O acesso é remoto e está disponível ininterruptamente. Quando o trabalho de IC/TCC requerer testes computacionais mais robustos, de longa duração, o(a) estudante poderá ter uma conta para acesso ao computador do grupo de pesquisa. Para mais informações visite [https://otimizacaoufes.github.io](https://otimizacaoufes.github.io).
 
 
-## Orientações
+## Orientações de IC e TCC
 
 ### em andamento
 
