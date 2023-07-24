@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-- Terças-feiras de 11:00 as 13:00 (Sala 09 Eixo 3)
-- Sextas-feiras de 15:00 as 17:00 (Sala 12 Eixo 1)
+- -- <!--Terças-feiras de 11:00 as 13:00 (Sala 09 Eixo 3)-->
+- -- <!--Sextas-feiras de 15:00 as 17:00 (Sala 12 Eixo 1)-->
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20I%20-%20DMA11995.pdf)
@@ -52,40 +52,27 @@ author_profile: true
 ## Avaliações
 
 - **Avaliação 1**
-  - **Prova escrita**
-  - Conteúdo: condições de otimalidade para otimização irrestrita, métodos de descida gerais (em particular, gradiente e Newton), convexidade
+<!--   - **Prova escrita** -->
+<!--   - Conteúdo: condições de otimalidade para otimização irrestrita, métodos de descida gerais (em particular, gradiente e Newton), convexidade -->
   - Valor: 10,0 pontos
-  - **Data: 19/04/2023** (sexta-feira)
+  - **Data: --**
 
 - **Avaliação 2**
-  - **Apresentação de trabalho computacional**
-  - Conteúdo: método dos gradientes conjugados, métodos quase-Newton, método do gradiente espectral
+<!--   - **Apresentação de trabalho computacional** -->
+<!--   - Conteúdo: método dos gradientes conjugados, métodos quase-Newton, método do gradiente espectral -->
   - Valor: 10,0 pontos
-  - **Data: 14/07 (podendo ser estendido)**
-
-<!--
-  - **TAREFAS A SEREM ENTREGUES:**
-    - exercícios 4.2, 4.3, 6.4, 6.9 (livro de Ana Friedlander)
-    - exercícios 2, 5 ([Lista 2](https://drive.google.com/file/d/1_SjC-bMI8S4rQViRZ5LZe1Ef4oad1jwv/view?usp=sharing))
-    - **Trabalho computacional** - siga o roteiro:
-      1. Implemente em Julia o método do gradiente espectral com busca linear usando Armijo modificado + *backtracking* + interpolação quadrática. Use o [código base](https://drive.google.com/file/d/1DgpSZkwaL-Zt6C__iT-EpkBR1c_E_JXr/view?usp=sharing);
-      1. Teste sua implementação em problemas da CUTEst. Para tanto, rode a função `testesCUTEst()` do arquivo `testes.jl` do código base;
-      1. Veja um exemplo dos [resultados esperados](https://drive.google.com/file/d/1ep9z6digx6AhjV58WprbzesKLuwsOKAy/view?usp=sharing);
-      1. Escreva comentários comparando o método do gradiente espectral, Newton globalizado e o método do gradiente. Em sua análise, leve em consideração coisas como o tamanho do problema (número de variáveis), se o método convergiu, tempo de execução e número de avaliações de função.
-  - Valor: 10,0 pontos (6,0 exercícios; 4,0 trabalho computacional)
-  - **Data máxima para entrega: 14/07/22**
-  - *Entregar resolução dos exercícios por escrito; enviar os resultados dos testes computacionais em TXT e o código Julia implementado para secchinleo@gmail.com*-->
+  - **Data: --**
 
 - **Avaliação 3**
-  - **Lista de exercícios**
-  - Conteúdo: otimização com restrições; método de restrições ativas
+<!--   - **Lista de exercícios** -->
+<!--   - Conteúdo: otimização com restrições; método de restrições ativas -->
   - Valor: 10,0 pontos
-  - **TAREFAS A SEREM ENTREGUES:**
-    - exercícios 13.1, 13.6, 13.13 (livro de Ana Friedlander)
-    - exercícios 2, 3, 8 ([Lista 4](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing))
+<!--   - **TAREFAS A SEREM ENTREGUES:** -->
+<!--     - exercícios 13.1, 13.6, 13.13 (livro de Ana Friedlander) -->
+<!--     - exercícios 2, 3, 8 ([Lista 4](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing)) -->
   - Valor: 10,0 pontos
-  - **Data máxima para entrega: 23/07/23**
-  - *Entregar resolução por escrito*
+  - **Data: --**
+<!--   - *Entregar resolução por escrito* -->
 
 - **PROVA FINAL**
   - **Prova escrita**
@@ -111,12 +98,9 @@ author_profile: true
 
 ## Trabalhos computacionais
 
-- [Método dos gradientes conjugados](https://drive.google.com/file/d/1MnXOSK4mQs5rVvqPdjBzfA6tTMYreLOq/view?usp=sharing)
-  - [código base](/files/otim1/gc.jl)
-- [Método do gradiente espectral](https://drive.google.com/file/d/1peXtd38yV7RDbVAqRp0NFCEu06RCLoJI/view?usp=sharing)
-  - [código base](/files/otim1/gradiente_newton.zip)
-- [Quase-Newton (BFGS) globalizado](https://drive.google.com/file/d/1v6_Ka1Tj5MJs2qiwNSsZ7ICzbAXA0fMz/view?usp=sharing)
-  - [código base](/files/otim1/gradiente_newton.zip)
+- Método dos gradientes conjugados: [descrição](https://drive.google.com/file/d/1MnXOSK4mQs5rVvqPdjBzfA6tTMYreLOq/view?usp=sharing); [código base](/files/otim1/gc.jl)
+- Método do gradiente espectral: [descrição](https://drive.google.com/file/d/1peXtd38yV7RDbVAqRp0NFCEu06RCLoJI/view?usp=sharing); [código base](/files/otim1/gradiente_newton.zip)
+- Quase-Newton (BFGS) globalizado: [descrição](https://drive.google.com/file/d/1v6_Ka1Tj5MJs2qiwNSsZ7ICzbAXA0fMz/view?usp=sharing); [código base](/files/otim1/gradiente_newton.zip)
 
 
 ## Material

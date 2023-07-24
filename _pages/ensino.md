@@ -5,12 +5,12 @@ permalink: /ensino/
 author_profile: true
 ---
 
-## DISCIPLINAS 2023/1
+## DISCIPLINAS 2023/2
 
-- [**Otimização 1**  
-  (Matemática Industrial)](/otimizacao1/)
-- [**Metaheurísticas**  
-  (Matemática Industrial)](/metaheuristicas/)
+- [**Otimização 2**  
+  (Matemática Industrial)](/otimizacao2/)
+- [**Pesquisa Operacional 2**  
+  (Matemática Industrial)](/po2/)
 
 ## A linguagem de programação Julia
 
@@ -25,6 +25,8 @@ author_profile: true
   (Matemática Industrial)](/otimizacao1/)
 - [**Otimização 2**  
   (Matemática Industrial)](/otimizacao2/)
+- [**Pesquisa Operacional 2**  
+  (Matemática Industrial)](/po2/)
 - [**Tópicos em Pesquisa Operacional**  
   (Matemática Industrial)](/topicospo/)
 

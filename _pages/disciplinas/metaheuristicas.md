@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-- Quintas-feiras de 13:00 as 15:00 (LABMAT / excepcionalmente Sala 08 Eixo 3)
-- Sextas-feiras de 13:00 as 15:00 (LABMAT / excepcionalmente Sala 11 Eixo 1)
+- -- <!--Quintas-feiras de 13:00 as 15:00 (LABMAT / excepcionalmente Sala 08 Eixo 3)-->
+- -- <!--Sextas-feiras de 13:00 as 15:00 (LABMAT / excepcionalmente Sala 11 Eixo 1)-->
 
 
 ## Ementa
@@ -204,9 +204,9 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - [Slides do prof. Lucas Batista (Eng. Elétrica/UFMG)](http://www.cpdee.ufmg.br/~lusoba/disciplinas/eee933/slides/lusoba/)
 
 
-# ATIVIDADES
+# ATIVIDADES PROPOSTAS (2023/1)
 
-## Atividade avaliativa 1
+## Atividade 1
 
 **ATIVIDADE para a semana entre 27/03 e 31/03**, a ser discutida entre todos na aula do dia 06/04
 
@@ -215,10 +215,10 @@ Pesquise metaheurísticas na internet/artigos. Para cada metaheurística encontr
 - Em qual(is) problema(s) foi aplicada, evidenciando se o problema é de otimização contínua (variáveis todas contínuas) ou combinatória
 - Uma descrição sucinta do funcionamento do algoritmo
 - Não esqueça de indicar a referência da qual retirou as informações!
-- **Relatórios apresentados:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing); [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing); [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing); [Pedro Lucas](https://drive.google.com/file/d/1do5xYzwOLqI2ptsvzv9O8j7wTGMjtRvu/view?usp=sharing)
+<!-- - **Relatórios apresentados:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing); [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing); [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing); [Pedro Lucas](https://drive.google.com/file/d/1do5xYzwOLqI2ptsvzv9O8j7wTGMjtRvu/view?usp=sharing) -->
 
 
-## Atividade 1
+## Atividade 2
 
 1. Instale o Julia (caso não instalado)
 1. Instale o pacote `TSPLIB.jl`
@@ -229,7 +229,7 @@ Pesquise metaheurísticas na internet/artigos. Para cada metaheurística encontr
 1. Implementar a heurística 2-OPT. Veja detalhes [neste link](https://en.wikipedia.org/wiki/2-opt). Use NN para inicializar. Comparar solução com anteriores.
 
 
-## Atividade avaliativa 2
+## Atividade 3
 
 Serão avaliadas as implementações de **todas as metaheurísticas** apresentadas durante a disciplina. Cada aluno será "entrevistado" individualmente, onde mostrará ao professor o que fez, executará testes e responderá à eventuais perguntas. Não é necessário fazer *slides* para uma apresentação, a conversa será feita em frente ao computador. No entanto, **o(a) estudante deverá organizar o roteiro de sua fala, testes que apresentará, dificuldades enfrentadas etc.**
 
@@ -243,7 +243,7 @@ Serão avaliadas as implementações de **todas as metaheurísticas** apresentad
 - Coerência dos testes numéricos.
 
 
-## Atividade avaliativa 3
+## Atividade 4
 
 Apresentação de um artigo selecionado. Cada estaudante escolherá um artigo e fará uma apresentação explicando:
 
@@ -274,17 +274,17 @@ Apresentação de um artigo selecionado. Cada estaudante escolherá um artigo e 
 - Período das apresentações: **duas últimas semanas de 2023/1**
 
 
-**ARTIGOS ESCOLHIDOS**
+<!-- **ARTIGOS ESCOLHIDOS** -->
 
-- Arthur Ferraz: [Wang, Xu, Zhao. Improved KNN algorithms of spherical regions based on clustering and region division. Alexandria Engineering Journal, 61(5):3571-3585, 2022](https://doi.org/10.1016/j.aej.2021.09.004)
-- Douglas Santos Lacerda: [Yamamoto, Camara, Lorena. Tabu Search Heuristic for Point-Feature Cartographic Label Placement. GeoInformatica, 6:77-90, 2002](https://link.springer.com/article/10.1023%2FA%3A1013720231747)
-- Giuliano Messias Da Silva: [Rubens Francisco de Paula Junior, Danilo Cesar Azeredo Silva, Mario Mestria. ALGORITMOS POPULACIONAIS PARA SOLUCIONAR O PROBLEMA DAS P-MEDIANAS, LIV Simpósio Brasileiro de Pesquisa Operacional, Vol 54, 2022](https://proceedings.science/sbpo/sbpo-2022/trabalhos/algoritmos-populacionais-para-solucionar-o-problema-das-p-medianas?lang=pt-br)
-- Joao Jose De Sousa Junior: [Ahonen, Alvarenga, Amaral. Simulated annealing and tabu search approaches for the Corridor Allocation Problem. European Journal of Operational Research, 232(1):221-233, 2014](https://doi.org/10.1016/j.ejor.2013.07.010)
-- Pedro Henrique Fischer Ferreira e Pedro Lucas Coswosk Cosme: [Mejía-de-Dios, Mezura-Montes. A New Evolutionary Optimization Method Based on Center of Mass. In: Deep, K., Jain, M., Salhi, S. (eds) Decision Science in Action. Asset Analytics. Springer, Singapore, 2019](https://doi.org/10.1007/978-981-13-0860-4_6)
-- Wemble Oliveira Silva: [Rodrigues, Leite, Santos, Souza, Silva. Metaheurística algoritmo genético para solução de problemas de planejamento florestal com restrições de integridade. Árvore, 28(2):233-245, 2004](https://doi.org/10.1590/S0100-67622004000200010)
+<!-- - Arthur Ferraz: [Wang, Xu, Zhao. Improved KNN algorithms of spherical regions based on clustering and region division. Alexandria Engineering Journal, 61(5):3571-3585, 2022](https://doi.org/10.1016/j.aej.2021.09.004) -->
+<!-- - Douglas Santos Lacerda: [Yamamoto, Camara, Lorena. Tabu Search Heuristic for Point-Feature Cartographic Label Placement. GeoInformatica, 6:77-90, 2002](https://link.springer.com/article/10.1023%2FA%3A1013720231747) -->
+<!-- - Giuliano Messias Da Silva: [Rubens Francisco de Paula Junior, Danilo Cesar Azeredo Silva, Mario Mestria. ALGORITMOS POPULACIONAIS PARA SOLUCIONAR O PROBLEMA DAS P-MEDIANAS, LIV Simpósio Brasileiro de Pesquisa Operacional, Vol 54, 2022](https://proceedings.science/sbpo/sbpo-2022/trabalhos/algoritmos-populacionais-para-solucionar-o-problema-das-p-medianas?lang=pt-br) -->
+<!-- - Joao Jose De Sousa Junior: [Ahonen, Alvarenga, Amaral. Simulated annealing and tabu search approaches for the Corridor Allocation Problem. European Journal of Operational Research, 232(1):221-233, 2014](https://doi.org/10.1016/j.ejor.2013.07.010) -->
+<!-- - Pedro Henrique Fischer Ferreira e Pedro Lucas Coswosk Cosme: [Mejía-de-Dios, Mezura-Montes. A New Evolutionary Optimization Method Based on Center of Mass. In: Deep, K., Jain, M., Salhi, S. (eds) Decision Science in Action. Asset Analytics. Springer, Singapore, 2019](https://doi.org/10.1007/978-981-13-0860-4_6) -->
+<!-- - Wemble Oliveira Silva: [Rodrigues, Leite, Santos, Souza, Silva. Metaheurística algoritmo genético para solução de problemas de planejamento florestal com restrições de integridade. Árvore, 28(2):233-245, 2004](https://doi.org/10.1590/S0100-67622004000200010) -->
 
 
-**Artigos selecionados:**
+**Artigos sugeridos:**
 
 [**A Hybrid Grouping Genetic Algorithm for the Multiple-Type Access Node Location Problem**](https://link.springer.com/chapter/10.1007/978-3-642-04394-9_46)  
 O. Alonso-Garrido, S. Salcedo-Sanz, L.E. Agustín-Blas, E.G. Ortiz-García, A.M. Pérez-Bellido, J.A. Portilla-Figueras.
@@ -306,11 +306,11 @@ D.R.M. Fernandes, C. Rocha, D. Aloise, G.M. Ribeiro, E.M. Santos, A. Silva
 [**A greedy randomized adaptive search procedure for the point-feature cartographic label placement**](https://www.sciencedirect.com/science/article/pii/S0098300407001033)  
 G.L. Cravo, G.M. Ribeiro, L.A.N. Lorena
 
-_Instâncias para testes: [http://www.lac.inpe.br/~lorena/instancias.html](http://www.lac.inpe.br/~lorena/instancias.html)  (seção “Map labeling”)_
+<!-- _Instâncias para testes: [http://www.lac.inpe.br/~lorena/instancias.html](http://www.lac.inpe.br/~lorena/instancias.html)  (seção “Map labeling”)_ -->
 
 * * *
 
-**(ESCOLHIDO)** [**Simulated annealing and tabu search approaches for the Corridor Allocation Problem**](https://www.sciencedirect.com/science/article/abs/pii/S0377221713005808)  
+[**Simulated annealing and tabu search approaches for the Corridor Allocation Problem**](https://www.sciencedirect.com/science/article/abs/pii/S0377221713005808)  
 H. Ahonen, A.G.de Alvarenga, A.R.S. Amaral
 
 <!--_Instâncias para testes: (tabelas C.4, C.5 e C.6 do artigo) [CAP-Amaral 2012](#)  

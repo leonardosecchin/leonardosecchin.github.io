@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-- --- <!--Terças-feiras de 11:00 as 13:00 (Sala 09 Eixo 3)-->
-- --- <!--Sextas-feiras de 15:00 as 17:00 (Sala 12 Eixo 1)-->
+- -- <!--Terças-feiras de 11:00 as 13:00 (Sala 09 Eixo 3)-->
+- -- <!--Sextas-feiras de 15:00 as 17:00 (Sala 12 Eixo 1)-->
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
@@ -107,7 +107,7 @@ author_profile: true
 ## Trabalhos computacionais
 
 <!-- - [TRABALHO COMPUTACIONAL 1 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing) -->
-- [Método de pontos interiores aplicado à programação linear](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing)
+- Método de pontos interiores aplicado à programação linear: [descrição](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing)
 
 
 ## Material
