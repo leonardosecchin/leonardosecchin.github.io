@@ -104,6 +104,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 - Modelagem de problemas
 - Relação Linear e relaxação Lagrangeana
+   - Tópico 4 [deste link](/topicospo/)
 
 
 ### Métodos em programação inteira mista
@@ -112,7 +113,9 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 1. Branch and cut
 1. Branch and price
 1. Geração de colunas
-1. Comentaŕios sobre heurísticas/metaheurísticas para programação inteira
+   - Tópico 6 [deste link](/topicospo/)
+1. Comentários sobre heurísticas/metaheurísticas
+   - Conteúdo disciplina [``Metaheurísticas''](/metaheuristicas/)
 
 
 ### Otimização em redes
