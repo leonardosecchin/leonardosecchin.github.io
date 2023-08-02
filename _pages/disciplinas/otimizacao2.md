@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-- -- <!--Terças-feiras de 11:00 as 13:00 (Sala 09 Eixo 3)-->
-- -- <!--Sextas-feiras de 15:00 as 17:00 (Sala 12 Eixo 1)-->
+- Terças-feiras de 12:00 as 14:00 (Sala 13 Eixo 3)
+- Quintas-feiras de 12:00 as 14:00 (Sala 8 Eixo 1)
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
