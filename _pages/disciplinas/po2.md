@@ -115,7 +115,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 1. Geração de colunas
    - Tópico 6 [deste link](/topicospo/)
 1. Comentários sobre heurísticas/metaheurísticas
-   - Conteúdo disciplina [``Metaheurísticas''](/metaheuristicas/)
+   - Conteúdo disciplina ["Metaheurísticas"](/metaheuristicas/)
 
 
 ### Otimização em redes
