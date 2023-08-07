@@ -103,7 +103,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 ### Programação inteira e inteira mista
 
 - Modelagem de problemas
-- Relação Linear e relaxação Lagrangeana
+- Relaxação Linear e relaxação Lagrangeana
    - Tópico 4 [deste link](/topicospo/)
 
 
