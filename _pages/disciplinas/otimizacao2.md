@@ -137,7 +137,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
    - Penalização externa pura [[**ANOTACOES**](/files/otim2/anotacoes/3.Penalizacao_externa.pdf)] [[**QUADRO**](/files/otim1/6.3.Penalizacao_externa.pdf)]
-   - Prova das condições KKT via penalização externa [[**ANOTACOES**](/files/otim2/anotacoes/4.Penalizacao_externa_e_KKT.pdf)] [[**QUADRO**](/files/otim1/6.4.KKT_via_penalizacao.pdf)]
+   - Convergência do esquema de penalização externa e prova das condições KKT [[**ANOTACOES**](/files/otim2/anotacoes/4.Penalizacao_externa_e_KKT.pdf)]
    - **Exercicios:** veja LISTA 1
 
 
@@ -145,10 +145,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
-   - Apresentação [[**QUADRO**](/files/otim2/2.1.LA_apresentacao.pdf)]
-   - Penalização externa pura e controle de admissibilidade [[**QUADRO**](/files/otim2/1.Penalizacao_pura_admissibilidade.pdf)]
-     - [[**ANOTACOES**](/files/otim2/anotacoes/5.Lagrangiano_aumentado.pdf)]
-   - Convergência teórica [[**ANOTACOES**](/files/otim2/anotacoes/6.Lagrangiano_aumentado_convergencia.pdf)] [[**QUADRO**](/files/otim2/2.2.LA_convergencia.pdf)]
+   - O método de Lagrangiano aumentado "Algencan" [[**ANOTACOES**](/files/otim2/anotacoes/5.Lagrangiano_aumentado.pdf)]
+   - Convergência teórica de Algencan [[**ANOTACOES**](/files/otim2/anotacoes/6.Lagrangiano_aumentado_convergencia.pdf)]
    - **Pacote computacional livre Algencan**
      - [Sítio oficial](https://www.ime.usp.br/~egbirgin/tango/codes.php#algencan)
      - Referências bibliográficas do Algencan:
@@ -163,7 +161,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
    *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
-   - Penalização interna / Pontos interiores [[**ANOTACOES**](/files/otim2/anotacoes/7.Penalidade_interna.pdf)] [[**QUADRO**](/files/otim2/3.Penalizacao_interna.pdf)]
+   - Penalização interna / Pontos interiores [[**ANOTACOES**](/files/otim2/anotacoes/7.Penalidade_interna.pdf)]
    - Pontos interiores para programação linear [[**ANOTACOES**](/files/otim2/anotacoes/9.Pontos_interiores_PL.pdf)] [**Contas direção Newtoniana** - veja pgs 1 a 5 deste [link](/files/topicospo/PTO_INT_3-primal_dual_afim_escala.pdf)]
    - **Pacote computacional livre Ipopt** [[**ANOTACOES**](/files/otim2/anotacoes/8.Ipopt.pdf)]
      - [Sítio oficial](https://github.com/coin-or/Ipopt)
@@ -191,7 +189,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 *Referência 1: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.cengage.com.br/livro/otimizacao-continua/) ([versão alternativa](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf))*
 *Referência 2: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006*
 
-- Estratégia de regiões de confiança e convergência global [[**ANOTACOES**](/files/otim2/anotacoes/10.regiao_confianca.pdf)] [[**QUADRO**](/files/otim2/4.Regioes_confianca.pdf)]
+- Estratégia de regiões de confiança e convergência global [[**ANOTACOES**](/files/otim2/anotacoes/10.regiao_confianca.pdf)]
 - O passo de Cauchy e o método dog-leg [[**ANOTACOES**](/files/otim2/anotacoes/11.cauchy_dogleg.pdf)]
 - **Exercicios:** veja LISTA 3
 
