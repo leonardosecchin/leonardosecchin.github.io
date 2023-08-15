@@ -14,7 +14,7 @@ Nesse sentido, nas minhas orientações de iniciação científica (IC) procuro 
 
 O(A) aluno(a) que deseja realizar trabalho de IC comigo poderá propor temas relacionados à otimização de acordo com suas habilidades e interesses. O(A) estudante que não tenha tema em mente pode me procurar também. Além de considerar seu conhecimento prévio, a escolha do tema levará em conta meus projetos de pesquisa, interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas, adequação do tema ao perfil de formação do egresso e quantidade de alunos que oriento. **É importante ficar atento(a) aos pré-requisitos (ver abaixo).** O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
 
-O **Trabalho de Conclusão de Curso (TCC)** é elemento curricular obrigatório dos cursos de graduação. A escolha do tema e o modo de orientação são semelhantes à IC. O TCC pode ser um trabalho complementar á uma IC prévia, estar ligado ao estágio curricular, ou ainda ser um trabalho realizado do zero, caso em que é desejável o aluno procurar-me com 1 ano de antecedência. Diferentemente da IC, não há bolsa para realização de TCC.
+O **Trabalho de Conclusão de Curso (TCC)** é elemento curricular obrigatório dos cursos de graduação. A escolha do tema e o modo de orientação são semelhantes à IC. O TCC pode ser um trabalho complementar à uma IC prévia, estar ligado ao estágio curricular, ou ainda ser um trabalho realizado do zero, caso em que é desejável o(a) aluno(a) procurar-me com 1 ano de antecedência. Diferentemente da IC, não há bolsa para realização de TCC.
 
 
 ## Pré-requisitos para IC
@@ -29,7 +29,7 @@ Pré-requisitos para qualquer projeto:
 Condições desejáveis:
 - ter cursado "Otimização 2" (Matemática Industrial). Em determinados anos **pode ser obrigatório** a depender dos projetos que tenho a disposição.
 
-**Pré-requisito para CONCORRER À BOLSA (PIBIC):**
+**Pré-requisito para CONCORRER À BOLSA de IC (PIBIC):**
 - ter coeficiente de rendimento médio igual ou superior a 7,0 (sete), comprovado em histórico escolar atualizado.
 
 *O(A) estudante que não atender aos pré-requisitos para concorrer à bolsa mas atender aos pré-requisitos gerais será enquadrado(a) na modalidade voluntário (PIVIC).*
@@ -43,7 +43,7 @@ Condições desejáveis:
 
 - no caso de estudantes de Matemática Industrial, ter sido aprovado(a) nas disciplinas de Otimização e Pesquisa Operacional com bom desempenho;
 - é desejável procurar-me 1 ano antes da data de defesa pretendida, sobretudo se o(a) estudante não tem um tema maduro com o qual já tenha trabalhado. Caso já seja aluno(a) de IC, uma opção é fazer o TCC após a IC, no mesmo tema, como complemento do trabalho de iniciação científica. Neste caso, o TCC geralmente é feito em um único semestre. Algo semelhante vale para estudantes de estágio, a depender do trabalho prévio realizado;
-- quando for defender o TCC, estar matriculado na disciplina "TCC" ou equivalente no respectivo semestre letivo (essa é uma condição exigida pelos cursos de graduação para defesa).
+- quando for defender o TCC, estar matriculado na disciplina "TCC" ou equivalente no respectivo semestre letivo. Essa é uma condição exigida pelos cursos de graduação para defesa.
 
 
 ## Linguagens de programação
@@ -66,7 +66,7 @@ Há possibilidade de bolsa(s), a depender da disponibilidade de recursos da UFES
 
 ### para orientação de TCC
 
-O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é disciplina obrigatória dos cursos de graduação, mas não é necessária a matrícula para iniciar a orientação. Na verdade, é desejável que o estudo inicie um ano antes da colação de grau.
+O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é disciplina obrigatória dos cursos de graduação, mas não é necessária a matrícula para iniciar a orientação.
 
 
 ## Recursos computacionais para realização dos trabalhos
