@@ -109,7 +109,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - [**GLPK**](https://www.gnu.org/software/glpk/)  
    GLPK é um pacote que implementa vários métodos para programação linear inteira mista. Ao contrário do CPLEX, é *software* livre, ou seja, você pode instalar e usar sem a necessidade de obter licenças. É uma opção de fácil instalação caso você tenha problemas com o CPLEX.
 
-- **Uso dos pacotes no Julia**
+- **Uso dos pacotes no Julia**  
    Tanto o CPLEX quando o GLPK podem ser utilizados dentro do Julia. Para tanto, basta instalar os pacotes [`CPLEX.jl`](https://github.com/jump-dev/CPLEX.jl) e [`GLPK.jl`](https://github.com/jump-dev/GLPK.jl) no seu Julia.
    - Obs: `CPLEX.jl` **não** instala o CPLEX automaticamente, você precisa obter a licença e instalar na sua máquina. Já `GLPK.jl` baixa e instala o GLPK automaticamente.
    - Teste executando o [código exemplo](/files/po2/ufl.jl) para o problema de localização de facilidades não capacitado
