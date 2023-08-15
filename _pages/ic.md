@@ -5,14 +5,16 @@ permalink: /ic/
 author_profile: true
 ---
 
+## Apresentação
+
 De acordo com a UFES,
 > "o Programa Institucional de Iniciação Científica (PIIC) é **voltado para a iniciação à pesquisa** de estudantes de graduação universitária. Ele visa fundamentalmente incentivar a carreira científica dos estudantes de graduação que **apresentam bom desempenho acadêmico**, preparando-os para a pós-graduação" (retirado do [site da PRPPG](https://prppg.ufes.br/programa-institucional-de-ic-piic)).
 
-Nesse sentido, nas minhas orientações procuro sugerir a leitura de artigos científicos e, dentro do possível, proponho temas não abordados nas disciplinas regulares da graduação.
+Nesse sentido, nas minhas orientações de iniciação científica (IC) procuro sugerir a leitura de artigos científicos e, dentro do possível, proponho temas não abordados nas disciplinas regulares da graduação.
 
-O(A) aluno(a) que deseja realizar trabalho de iniciação científica (IC) comigo poderá propor temas relacionados à otimização de acordo com suas habilidades e interesses. O(A) estudante que não tenha tema em mente pode me procurar também. Além de considerar seu conhecimento prévio, a escolha do tema levará em conta meus projetos de pesquisa, interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas, adequação do tema ao perfil de formação do egresso e quantidade de alunos que oriento. **É importante ficar atento(a) aos pré-requisitos (ver abaixo).** O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
+O(A) aluno(a) que deseja realizar trabalho de IC comigo poderá propor temas relacionados à otimização de acordo com suas habilidades e interesses. O(A) estudante que não tenha tema em mente pode me procurar também. Além de considerar seu conhecimento prévio, a escolha do tema levará em conta meus projetos de pesquisa, interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas, adequação do tema ao perfil de formação do egresso e quantidade de alunos que oriento. **É importante ficar atento(a) aos pré-requisitos (ver abaixo).** O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
 
-Estudantes interessados(as) em TCC devem procurar-me com antecedência. É desejável iniciar o estudo pelo menos 1 ano antes da data de colação de grau, sobretudo se o(a) estudante não tem um tema maduro com o qual já tenha trabalhado.
+O **Trabalho de Conclusão de Curso (TCC)** é elemento curricular obrigatório dos cursos de graduação. A escolha do tema e o modo de orientação são semelhantes à IC. O TCC pode ser um trabalho complementar á uma IC prévia, estar ligado ao estágio curricular, ou ainda ser um trabalho realizado do zero, caso em que é desejável o aluno procurar-me com 1 ano de antecedência. Diferentemente da IC, não há bolsa para realização de TCC.
 
 
 ## Pré-requisitos para IC
@@ -37,7 +39,14 @@ Condições desejáveis:
 *O(A) estudante que alegar atender aos pré-requisitos não poderá alegar o contrário posteriormente.*
 
 
-### Linguagens de programação
+## Pré-requisitos para TCC
+
+- no caso de estudantes de Matemática Industrial, ter sido aprovado(a) nas disciplinas de Otimização e Pesquisa Operacional com bom desempenho;
+- é desejável procurar-me 1 ano antes da data de defesa pretendida, sobretudo se o(a) estudante não tem um tema maduro com o qual já tenha trabalhado. Caso já seja aluno(a) de IC, uma opção é fazer o TCC após a IC, no mesmo tema, como complemento do trabalho de iniciação científica. Neste caso, o TCC geralmente é feito em um único semestre. Algo semelhante vale para estudantes de estágio, a depender do trabalho prévio realizado;
+- quando for defender o TCC, estar matriculado na disciplina "TCC" ou equivalente no respectivo semestre letivo (essa é uma condição exigida pelos cursos de graduação para defesa).
+
+
+## Linguagens de programação
 
 Nos trabalhos que requerem implementação computacional, recomendo o uso da linguagem **Julia**. Nela, a escrita de modelos de otimização, o acesso à bancos de problemas-teste e o uso de pacotes de otimização consagrados é fácil. Essas características nem sempre estão disponíveis em C, Fortran ou mesmo Python. Além disso, é fácil programar em Julia (assemelha-se ao Matlab) e sua eficiência é comparada à linguagens de baixo nível como C e Fortran. Portanto, mesmo que você domine uma linguagem de programação como Python, recomendo considerar o uso do Julia.
 
@@ -70,6 +79,12 @@ O grupo de otimização da UFES, campus São Mateus, disponha de um computador d
 ## Orientações de IC e TCC
 
 ### em andamento
+
+1. 2023 (TCC). O método do gradiente espectral projetado e variantes para minimização com restrições convexas (provisório)  
+   Estudante: Pedro Henrique Fischer Ferreira
+
+1. 2023 (TCC). A definir  
+   Estudante: Wisley Kenede
 
 1. 2022-2023 (IC). O método do gradiente espectral projetado e variantes para minimização com restrições convexas  
    Estudante: Pedro Henrique Fischer Ferreira  
