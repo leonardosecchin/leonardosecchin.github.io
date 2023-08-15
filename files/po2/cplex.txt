@@ -26,7 +26,7 @@ PASSOS PARA INSTALAR CPLEX EM SUA MÁQUINA E USÁ-LO NO JULIA
 
 12. Marque "I agree" e clique em "Download now". Salve o arquivo ".exe" (caso Windows) ou ".bin" (caso Linux) na pasta de sua preferência
 
-13. Execute a instalação e siga as instruções. No linux, você pode executar o arquivo .bin fazendo no terminal algo como "sh cplex_studio2211.linux_x86_64.bin" da pasta em que salvou o arquivo
+13. Execute a instalação COMO USUÁRIO ADMINISTRADOR (root) e siga as instruções. No linux, você pode executar o arquivo .bin fazendo no terminal algo como "sh cplex_studio2211.linux_x86_64.bin" da pasta em que salvou o arquivo (faça isso como USUÁRIO ADMINISTRADOR - root)
 
 Se tudo deu certo, ao final do processo você terá instalado o CPLEX em sua máquina já com a licença acadêmica.
 
