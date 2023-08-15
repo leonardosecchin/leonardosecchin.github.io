@@ -100,6 +100,21 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 **Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados nas disciplinas de otimização, baixe [ESTE SCRIPT](/files/julia/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
 
+### Softwares
+
+- [**CPLEX**](https://www.ibm.com/br-pt/analytics/cplex-optimizer)  
+   O CPLEX é um pacote mantido pela IBM e muito utilizado na academia e indústria. Nele há vários métodos para programação linear inteira mista. É um software proprietário, mas estudantes das universidades podem obter licença de uso mediante preencimento de um cadastro. **Recomendo familharizar-se com o pacote desde o início da disciplina.**
+   - [Instruções para obtenção da licença](/files/po2/cplex.txt)
+
+- [**GLPK**](https://www.gnu.org/software/glpk/)  
+   GLPK é um pacote que implementa vários métodos para programação linear inteira mista. Ao contrário do CPLEX, é *software* livre, ou seja, você pode instalar e usar sem a necessidade de obter licenças. É uma opção de fácil instalação caso você tenha problemas com o CPLEX.
+
+- **Uso dos pacotes no Julia**
+   Tanto o CPLEX quando o GLPK podem ser utilizados dentro do Julia. Para tanto, basta instalar os pacotes [`CPLEX.jl`](https://github.com/jump-dev/CPLEX.jl) e [`GLPK.jl`](https://github.com/jump-dev/GLPK.jl) no seu Julia.
+   - Obs: `CPLEX.jl` **não** instala o CPLEX automaticamente, você precisa obter a licença e instalar na sua máquina. Já `GLPK.jl` baixa e instala o GPLK automaticamente.
+   - Teste executando o [código exemplo](/files/topicospo/ufl.jl)
+
+
 ### Programação inteira e inteira mista
 
 - Modelagem de problemas

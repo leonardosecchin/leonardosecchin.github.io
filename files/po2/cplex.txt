@@ -1,0 +1,52 @@
+===========================================================
+PASSOS PARA INSTALAR CPLEX EM SUA MÁQUINA E USÁ-LO NO JULIA
+===========================================================
+
+1. Acesse o site do desenvolvedor www.ibm.com/br-pt/analytics/cplex-optimizer
+
+2. Clique em "Acesse a edição acadêmica gratuita"
+
+3. Caso já tenha uma conta IBM, clique em "Login". Caso ainda não tenha cadastro, faça clicando em "Register"
+
+4. Se estiver criando uma nova conta, use seu email "edu.ufes.br". Isso é importante para que identifiquem que você é estudante da UFES
+
+5. Logue na sua conta
+
+6. Se ver a mensagem "Your access to IBM SkillsBuild Software Downloads has expired", clique em "Recertify". Preencha as informações requeridas, aceite os termos e proceda. Valide sua conta seguindo as instruções
+
+7. No painel inicial da sua conta (já logada), clique em "Software"
+
+8. Escolha a opção "ILOG CPLEX Optimization Studio"
+
+9. Clique em "Download ->"
+
+10. Neste estágio, irá aparecer uma lista de softwares. No topo da lista, marque a opção "HTTP" na guia "Download method"
+
+11. Marque a opção adequada na lista (por exemplo, "IBM ILOG CPLEX Optimization Studio VXX.X.X for Windows x86-64" se você usa Windows ou "IBM ILOG CPLEX Optimization Studio VXX.X.X for Linux x86-64" se você usa Linux)
+
+12. Marque "I agree" e clique em "Download now". Salve o arquivo ".exe" (caso Windows) ou ".bin" (caso Linux) na pasta de suan preferência
+
+13. Execute a instalação e siga as instruções. No linux, você pode executar o arquivo .bin fazendo no terminal algo como "sh cplex_studio2211.linux_x86_64.bin"
+
+Se tudo deu certo, ao final do processo você terá instalado o CPLEX em sua máquina já com a licença acadêmica.
+
+
+USANDO O CPLEX NO JULIA
+-----------------------
+
+Com o CPLEX já instalado, siga os passos:
+
+1. Abra o Julia
+
+2. Defina o caminho do executável do CPLEX. Exemplos:
+
+   # Windows:
+   ENV["CPLEX_STUDIO_BINARIES"] = "C:\\Program Files\\CPLEX_Studio2211\\cplex\\bin\\x86-64_win\\"
+
+   # Linux:
+   ENV["CPLEX_STUDIO_BINARIES"] = "/opt/CPLEX_Studio2211/cplex/bin/x86-64_linux/"
+
+   Obs: ajuste o caminho para a versão do CPLEX que baixou
+
+3. Instale o pacote CPLEX.jl executando, de dentro do Julia, "] add CPLEX"
+   Obs: caso você tenha fornecido um caminho inválido para o executável do CPLEX, aparecerão mensagens na tela. Neste caso, redefina o caminho e recompile o pacote executando "] build CPLEX"
