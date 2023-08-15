@@ -40,11 +40,11 @@ Com o CPLEX já instalado, siga os passos:
 
 2. Defina o caminho do executável do CPLEX. Para tanto, execute do terminal do Julia comandos como:
 
-   # Windows:
+   # No Windows:
    ENV["CPLEX_STUDIO_BINARIES"] = "C:\\Program Files\\CPLEX_Studio2211\\cplex\\bin\\x86-64_win\\"
 
-   # Linux:
-   ENV["CPLEX_STUDIO_BINARIES"] = "/opt/CPLEX_Studio2211/cplex/bin/x86-64_linux/"
+   # No Linux:
+   ENV["CPLEX_STUDIO_BINARIES"] = "/opt/ibm/ILOG/CPLEX_Studio2211/cplex/bin/x86-64_linux/"
 
    Obs: ajuste o caminho para a versão do CPLEX que baixou
 
