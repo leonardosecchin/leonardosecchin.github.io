@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-- Terças-feiras de 16:00 as 18:00 (Sala 16 Eixo 3)
-- Quintas-feiras de 16:00 as 18:00 (Sala 8 Eixo 1)
+- Terças-feiras de 16:00 as 18:00 (Sala 4 Eixo 3)
+- Sextas-feiras de 12:00 as 14:00 (Sala 8 Eixo 1)
 
 
 ## [Ementa e programa](https://matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Pesquisa%20Operacional%20II%20-%20DMA12297.pdf)
