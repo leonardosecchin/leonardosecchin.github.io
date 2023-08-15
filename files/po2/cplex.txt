@@ -18,7 +18,7 @@ PASSOS PARA INSTALAR CPLEX EM SUA MÁQUINA E USÁ-LO NO JULIA
 
 8. Escolha a opção "ILOG CPLEX Optimization Studio"
 
-9. Clique em "Download ->"
+9. Clique em "Download ->" (talvez você precise permitir janelas popups no seu navegador)
 
 10. Neste estágio, irá aparecer uma lista de softwares. No topo da lista, marque a opção "HTTP" na guia "Download method"
 
