@@ -23,8 +23,8 @@ author_profile: true
 ## Textos de referência
 
 - Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed., 2006
-- [Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021.](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.ch10)
-- Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006.
+- [Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.ch10)
+- Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006
 
 ## Textos complementares
 
@@ -117,9 +117,14 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Programação inteira e inteira mista
 
-- Modelagem de problemas
-- Relaxação Linear e relaxação Lagrangeana
-   - Tópico 4 [deste link](/topicospo/)
+- Modelagem de problemas  
+  *Referências:*  
+  *1) Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed., 2006*  
+  *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+
+- Relaxação Linear e relaxação Lagrangeana  
+  *Referência:*  
+  *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021 (capítulo 10)*
 
 
 ### Métodos em programação inteira mista

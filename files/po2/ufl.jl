@@ -8,7 +8,7 @@
 #   automaticamente instalado.
 #
 # Autor: Leonardo D. Secchin
-# Data : 15/08/2023
+# Data : 17/08/2023
 # leonardosecchin.github.io/po2/
 ###################################################
 
@@ -45,6 +45,15 @@ UFL = Model(CPLEX.Optimizer)
 # UFL = Model(GLPK.Optimizer)
 
 #set_silent(UFL)  # desliga saída solver na tela
+
+# Modelo UFL:
+#
+# min  sum_i,j c[i,j]*x[i,j] + sum_j f[j]*y[j]
+#
+# s.a. sum_j x[i,j] = 1,       i=1,...,m
+#      x[i,j] <= y[j],         i=1,...,m,  j=1,...,n
+#      x[i,j] >= 0,            i=1,...,m,  j=1,...,n
+#      y[j] binário,           j=1,...,n
 
 # insere variáveis
 @variable(UFL, x[1:m,1:n] >= 0)
