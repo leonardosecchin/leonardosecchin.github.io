@@ -127,6 +127,29 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021 (capítulo 10)*
 
 
+### Exemplos de problemas e respectivos pacotes/códigos para uso no Julia
+
+- Problema de localização de facilidades não capacitado (*Uncapacitated Facility Location Problems* - UFL)
+  - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/FacilityLocationProblems.jl) (esse pacote contém também a versão do problema com capacidades)
+- Problema de alocação generalizado (*Generalized Assignmnent Problem* - GAP)
+  - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/AssignmentProblems.jl)
+- Problema de empacotamento (*Bin Packing Problem* - BBP)
+  - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/BPPLib.jl)
+- *Capacitated Lot Sizing Problem* - CLSP
+  - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/LotSizingProblems.jl)
+- *Multi-Depot Vechile Scheduling Problem* - MDVSP
+  - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/MDVSP.jl)
+- Problema de roateamento de veículos capacitado (*Capacitated Vehicle Routing Problem Library* - CVRPLIB)
+  - [Pacote para ler instâncias no Julia](https://github.com/chkwon/CVRPLIB.jl)
+- *Inventory Routing Problem* - IRP
+  - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/InventoryRoutingProblems.jl)
+- *Capacitated Lot Sizing Problem* - CLSP
+  - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/LotSizingProblems.jl)
+- Problema da mochila (*Knapsack problem*)
+- Problema do caixeiro viajante (*Traveling Salesman Problem* - TSP)
+  - [Pacote para ler instâncias no Julia](https://github.com/matago/TSPLIB.jl)
+
+
 ### Métodos em programação inteira mista
 
 1. Branch and bound
