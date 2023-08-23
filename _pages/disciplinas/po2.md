@@ -139,7 +139,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/LotSizingProblems.jl)
 - *Multi-Depot Vechile Scheduling Problem* - MDVSP
   - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/MDVSP.jl)
-- Problema de roateamento de veículos capacitado (*Capacitated Vehicle Routing Problem Library* - CVRPLIB)
+- Problema de roteamento de veículos capacitado (*Capacitated Vehicle Routing Problem* - CVRP)
   - [Pacote para ler instâncias no Julia](https://github.com/chkwon/CVRPLIB.jl)
 - *Inventory Routing Problem* - IRP
   - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/InventoryRoutingProblems.jl)
