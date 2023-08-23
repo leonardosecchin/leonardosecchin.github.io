@@ -149,6 +149,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - Problema do caixeiro viajante (*Traveling Salesman Problem* - TSP)
   - [Pacote para ler instâncias no Julia](https://github.com/matago/TSPLIB.jl)
 
+[Página com bibliotecas para vários problemas em pesquisa operacional](http://people.brunel.ac.uk/~mastjjb/jeb/info.html) (não fornece interface para Julia).
+
 
 ### Métodos em programação inteira mista
 
