@@ -121,7 +121,7 @@ julia> nlp = AmplModel("modelo.nl")
 Por sua vez, o pacote `AmplNLWriter` escreve arquivos `.nl`, mas a partir de estruturas próprias de modelagem (isto é, você terá que criar o modelo já na estrutura do `AmplNLWriter`). É possível "conectar" `AmplNLWriter` diretamente à resolvedores sem passar por arquivos `.nl`, como se estivéssemos no ambiente do AMPL. Veja a documentação do pacote para detalhes.
 
 
-## Outras fontes de problemas / formatos
+## Outras fontes de problemas
 
 ### Problemas irrestritos
 
@@ -149,10 +149,7 @@ Se pretende minimizar funções quadráticas, você pode ler matrizes da [Suite 
 
 Se tiver problemas com o pacote `SuiteSparseMatrixCollection`, uma alternativa é o pacote [`MatrixDepot`](https://github.com/JuliaMatrices/MatrixDepot.jl). Este último pacote também baixa matrizes automaticamente.
 
-### Formatos típicos em programação linear e quadrática
 
-Em programação linear/quadrática, os formatos livres `MPS` e `QPS` são usados (por exemplo, o CPLEX os lê). Uma interface para leitura desses tipos de arquivos no Julia vem no pacote [`QPSReader`](https://github.com/JuliaSmoothOptimizers/QPSReader.jl).
+### Mais fontes
 
-### Problemas de quadrados mínimos não lineares
-
-O pacote [`NLSModels`](https://github.com/JuliaSmoothOptimizers/NLSProblems.jl) traz os problemas de quadrados mínimos não lineares de [Moré, Garbow e Hillstrom (1981)](https://doi.org/10.1145/355934.355936) em formato `NLPModels`.
+Consulte [este link](/juliaopt_problems/) para mais fontes.

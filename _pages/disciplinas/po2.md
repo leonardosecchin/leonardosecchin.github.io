@@ -129,25 +129,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Exemplos de problemas e respectivos pacotes/códigos para uso no Julia
 
-- Problemas de localização de facilidades (*Facility Location Problems* - UFL)
-  - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/FacilityLocationProblems.jl)
-- Problema de alocação generalizado (*Generalized Assignmnent Problem* - GAP)
-  - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/AssignmentProblems.jl)
-- Problema de empacotamento (*Bin Packing Problem* - BBP)
-  - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/BPPLib.jl)
-- *Capacitated Lot Sizing Problem* - CLSP
-  - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/LotSizingProblems.jl)
-- *Multi-Depot Vechile Scheduling Problem* - MDVSP
-  - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/MDVSP.jl)
-- Problema de roteamento de veículos capacitado (*Capacitated Vehicle Routing Problem* - CVRP)
-  - [Pacote para ler instâncias no Julia](https://github.com/chkwon/CVRPLIB.jl)
-- *Inventory Routing Problem* - IRP
-  - [Pacote para ler instâncias no Julia](https://github.com/rafaelmartinelli/InventoryRoutingProblems.jl)
-- Problema da mochila (*Knapsack problem*)
-- Problema do caixeiro viajante (*Traveling Salesman Problem* - TSP)
-  - [Pacote para ler instâncias no Julia](https://github.com/matago/TSPLIB.jl)
-
-[Página com bibliotecas para vários problemas em pesquisa operacional](http://people.brunel.ac.uk/~mastjjb/jeb/info.html) (não fornece interface para Julia).
+Consulte [este link](/juliaopt_problems/)
 
 
 ### Métodos em programação inteira mista

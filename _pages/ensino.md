@@ -16,6 +16,7 @@ author_profile: true
 
 - [Tutorial para instalação e uso do Julia](/julia/)
 - [**Julia para Otimização** - primeiros passos](/juliaopt/)
+- [Bancos de problemas-teste e interfaces para Julia](/juliaopt_problems/)
 
 ## Disciplinas já ministradas
 
