@@ -100,7 +100,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 **Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados nas disciplinas de otimização, baixe [ESTE SCRIPT](/files/julia/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
 
-### Softwares
+### Softwares e códigos
 
 - [**CPLEX**](https://www.ibm.com/br-pt/analytics/cplex-optimizer)  
    O CPLEX é um pacote mantido pela IBM e muito utilizado na academia e indústria. Nele há vários métodos para programação linear inteira mista. É um software proprietário, mas estudantes das universidades podem obter licença de uso mediante preencimento de um cadastro. **Recomendo familiarizar-se com o pacote desde o início da disciplina.**
@@ -129,7 +129,11 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Exemplos de problemas e respectivos pacotes/códigos para uso no Julia
 
-Consulte [este link](/juliaopt_problems/)
+- Vários exemplos [neste link](/juliaopt_problems/)
+
+- **Problema de layout em fila dupla** - modelo de programação linear inteira mista com CPLEX
+   - [Artigo com descrição do problema/modelo](https://doi.org/10.1007/s11590-011-0426-8)
+   - [Código do modelo com CPLEX e instâncias do problema](/files/po2/drlp.zip)
 
 
 ### Métodos em programação inteira mista
