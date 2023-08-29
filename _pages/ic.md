@@ -90,7 +90,7 @@ O grupo de otimização da UFES, campus São Mateus, disponha de um computador d
 
 1. 2023 (IC). O método do gradiente espectral projetado e variantes para minimização com restrições convexas  
    Estudante: Pedro Henrique Fischer Ferreira  
-   [[Resumo do projeto](/files/ic-tcc/resumoIC_espectral.pdf)] [[Relatório final da pesquisa]()]
+   [[Resumo do projeto](/files/ic-tcc/resumoIC_espectral.pdf)] <!--[[Relatório final da pesquisa]()]-->
 1. 2023 (IC). Métodos de pontos interiores para programação linear e quadrática  
    Estudante: Carolina Martinelli  
    [[Resumo do projeto](/files/ic-tcc/resumoIC_ptoint.pdf)]
