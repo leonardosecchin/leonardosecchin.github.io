@@ -117,12 +117,12 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Programação inteira e inteira mista
 
-- Modelagem de problemas  
+1. Modelagem de problemas  
   *Referências:*  
   *1) Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed., 2006*  
   *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
-- Relaxação Linear e relaxação Lagrangeana  
+1. Relaxação Linear e relaxação Lagrangeana  
   *Referência:*  
   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021 (capítulo 10)*
 
@@ -139,12 +139,21 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 ### Métodos em programação inteira mista
 
 1. Branch and bound
+   1. Pré-processamento
+      - Pré-processamento de PL's: fixação de variáveis, aperto de limitantes das variáveis e identificação de restrições redundantes
+      - Identificação de PL's inviáveis ou ilimitados
+      - Estratégias adicionais de pré-processamento para problemas com variáveis inteiras e binárias: aperto de restrições
+   1. Inserção de restrições no quadro simplex e o método dual simplex (revisão)
+   1. Branch and bound baseado em relaxação linear
+   1. Branch and bound - exemplos com variáveis inteiras e binárias
 1. Branch and cut
+   1. Desigualdades válidas
+   1. Cortes de Chvatal-Gomory
 1. Branch and price
 1. Geração de colunas
-   - Tópico 6 [deste link](/topicospo/)
+   - Um material: tópico 6 [deste link](/topicospo/)
 1. Comentários sobre heurísticas/metaheurísticas
-   - Conteúdo disciplina ["Metaheurísticas"](/metaheuristicas/)
+   - Uma visão ampla de algumas metaheurísticas: disciplina ["Metaheurísticas"](/metaheuristicas/)
 
 
 ### Otimização em redes
