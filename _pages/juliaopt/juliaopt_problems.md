@@ -5,7 +5,7 @@ permalink: /juliaopt_problems/
 author_profile: true
 ---
 
-Esta página reúne fontes de problemas-teste para otimização contínua, otimização combinatória, programação linear inteira mista e outros. A ênfase é nas fontes que possuem interface para Julia desenvolvidas pela comunidade científica. Cada interface possue uma forma específica de leitura dos problemas, consulte a página/documentação de cada pacote. Em geral, o uso dessas interfaces no Julia é bastante simples.
+Esta página reúne fontes de problemas-teste para otimização contínua, otimização combinatória, programação linear inteira mista e outros. A ênfase é nas fontes que possuem interface para Julia desenvolvidas pela comunidade científica. Cada interface possui uma forma específica de leitura dos problemas, consulte a página/documentação de cada pacote. Em geral, o uso dessas interfaces é bastante simples.
 
 
 ## Otimização contínua (em geral, problemas não lineares)
