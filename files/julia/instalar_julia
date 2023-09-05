@@ -1,32 +1,39 @@
 #!/bin/sh
 
-#####################################
+###############################################################
 # Este script instala o Julia pré-compilado com
 # alguns pacotes utilizados nas disciplinas de otimização.
 #
-# Testado no GNU/Linux Ubuntu 22.04. Para rodar este script, execute
+# Testado no GNU/Linux Ubuntu 22.04. Para rodar, execute
 #   sh instalar_julia
 # do terminal, da pasta em que salvou o script.
 #
-# Autor: Leonardo D. Secchin, 24/06/23
-#####################################
+# Autor: Leonardo D. Secchin, 24/06/23. Atualizado em 05/09/23.
+###############################################################
 
-echo "======================================================"
-echo "Recomenda-se instalar a última versão ESTÀVEL do Julia"
-echo "Para saber qual a versão atual, consulte"
+echo "======================================================="
+echo "Recomenda-se instalar a última versão ESTÀVEL do Julia!"
+echo
+echo "O script tenta identificar a última versão da internet,"
+echo "porém isso pode falhar. Caso isso ocorra, consulte"
 echo
 echo "   https://julialang.org/downloads/"
 echo
-echo "e veja a versão em 'Current stable release'"
-echo "======================================================"
+echo "e veja a versão atual em 'Current stable release'."
+echo "======================================================="
+
+URLgithub=$(curl -I -s https://github.com/JuliaLang/julia/releases/latest | grep "location")
+
+ULTIMAVERSAO=$(echo $URLgithub | cut -c 60-64)
 
 echo
-echo "Digite a versão no formato X.X.X (sem o 'v'): "
+echo "Última versão estável detectada: $ULTIMAVERSAO (verifique se o formato é correto)"
+echo
+echo "Digite a versão no formato X.X.X (sem o 'v') [ENTER PARA ACEITAR $ULTIMAVERSAO]: "
 
 read VERSAO
 if [ -z $VERSAO ]; then
-    echo "Versão inválida!"
-    exit 1
+    VERSAO=$ULTIMAVERSAO
 fi
 
 echo
