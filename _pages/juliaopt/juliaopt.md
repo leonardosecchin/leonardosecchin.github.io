@@ -5,7 +5,7 @@ permalink: /juliaopt/
 author_profile: true
 ---
 
-Nesta página você encontrará exemplos/exercícios simples para iniciar a escrita e resolução de problemas de otimização em Julia. Não é um tutorial completo sobre, e poderá ser expandido. Evidentemente, há muito material na internet que você pode acessar. Um deles é o [curso de Abel Siqueira no Youtube](https://www.youtube.com/playlist?list=PLOOY0eChA1uyk_01nGJVmcQGvcJq9h6_6).
+Nesta página você encontrará exemplos/exercícios simples para iniciar a escrita e resolução de modelos de otimização em Julia. Não é um tutorial completo. Evidentemente, há muito material na internet que você pode acessar; um deles é o [curso de Abel Siqueira no Youtube](https://www.youtube.com/playlist?list=PLOOY0eChA1uyk_01nGJVmcQGvcJq9h6_6).
 
 
 # Pré-requisitos
@@ -16,7 +16,6 @@ Principais pacotes utilizados nos exemplos:
 - Escrita dos modelos de otimização: `JuMP`. Documentação completa [aqui](https://jump.dev/JuMP.jl/stable/)
 - Modelos de otimização com derivadas automáticas: `NLPModels`, `NLPModelsJuMP`. Como avaliar funções e suas derivadas, veja [este link](https://github.com/JuliaSmoothOptimizers/NLPModels.jl)
 - Rotinas de álgebra linear: `LinearAlgebra`
-<!--- Armazenamento de matrizes esparsas: `SparseArrays`-->
 - Impressão na tela/arquivo estilo C: `Printf`
 - Plotagem de gráficos: `Plots`
 
@@ -38,6 +37,10 @@ Outros pacotes são apresentados nos exemplos.
 - [Exemplo 12](/juliaopt_ex12/): tabelando resultados de forma inteligente com *DataFrames*
 - [Exemplo 13](/juliaopt_ex13/): tratando erros de execução
 - [Exemplo 14](/juliaopt_ex14/): calculando tempos de execução
+
+# Bancos de problemas-teste
+
+- Você encontra alguns bancos de problemas-teste para otimização contínua, otimização combinatória, programação linear inteira mista e outros [neste link](/juliaopt_problems/).
 
 # Leituras interessantes
 
