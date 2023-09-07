@@ -84,7 +84,7 @@ O grupo de otimização da UFES, campus São Mateus, disponha de um computador d
    Estudante: Pedro Henrique Fischer Ferreira
 
 1. 2023 (TCC). Uma abordagem ao problema de roteamento de veículos com janelas de tempo usando meta-heurísticas  
-   Estudante: Wisley Kenede
+   Estudante: Wisley Kenede Pereira de Jesus
 
 ### concluídas
 
