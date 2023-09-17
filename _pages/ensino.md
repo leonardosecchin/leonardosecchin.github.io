@@ -35,8 +35,8 @@ author_profile: true
 
 - [**Cálculo 3**  
   (Matemática Industrial, Engenharias e Ciência da Computação)](/calculo3/)
-- [**Álgebra Linear**  
-  (vários cursos)](/algebra-linear/)
+<!--- [**Álgebra Linear**  
+  (vários cursos)](/algebra-linear/)-->
 - [**Laboratório de Matemática**  
   (Matemática Industrial e Licenciatura em Matemática)](/laboratorio-de-matematica/)
 - [**Lógica / Noções de lógica**  

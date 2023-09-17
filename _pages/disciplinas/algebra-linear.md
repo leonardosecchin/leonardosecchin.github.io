@@ -15,7 +15,7 @@ author_profile: true
 ## Textos de referência
 
 *   Boldrini e outros. Álgebra Linear. Editora Harbra.
-*   [Notas de aula](https://leonardosecchin.github.io/files/alglin/notas-AL.pdf)
+<!-- *   [Notas de aula](https://leonardosecchin.github.io/files/alglin/notas-AL.pdf) -->
 
 ## Textos complementares
 
