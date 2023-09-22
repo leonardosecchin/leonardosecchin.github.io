@@ -54,11 +54,11 @@ author_profile: true
 ## Avaliações
 
 - **Avaliação 1**
-<!--   - FORMA DE AVALIAÇÃO -->
-  - Conteúdo: ----
+  - **Prova escrita**
+  - Conteúdo: condições KKT, penalidade e Lagrangiano aumentado
 <!--   - Tarefas: exercícios 5 e 7 da [lista 0](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing); exercícios 1, 3, 4, 5, 6, 7 da [lista 1](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing) -->
   - Valor: 10,0 pontos
-  - **Data limite: ----**
+  - **Data: 06/10/23 (sexta-feira)**
 <!--   - Entregar resolução escrita à mão. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com -->
 <!--   - O trabalho é individual. Cópias receberão nota zero. -->
 
