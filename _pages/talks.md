@@ -7,6 +7,9 @@ author_profile: true
 
 ## 2023
 
+- [**Sobre o desenvolvimento de métodos computacionais para otimização contínua: aspectos teóricos e práticos**](https://drive.google.com/file/d/19b59NNzKabGECPYWralRPPjLDQy-niQQ/view?usp=drivesdk) *(in portuguese)*  
+  XI Jornada de Matemática da UFPI - JMatUFPI, 2023
+
 - [**"KKT melhorado"**](https://drive.google.com/file/d/1toTVwG99XTVBDAuguxwuZs6FptyURld7/view?usp=sharing) *(in portuguese)*  
   Seminário de Otimização Contínua Unicamp/USP (web), 2023
 
