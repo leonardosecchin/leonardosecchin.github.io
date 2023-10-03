@@ -218,7 +218,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - Quadrados mínimos linear [[**ANOTAÇÕES**](/files/otim2/6.4.quadrados_min_linear.pdf)]
 - Quadrados mínimos não linear - método de Gauss-Newton [[**ANOTAÇÕES**](/files/otim2/6.5.Quad_min_naolinear_Gauss_Newton.pdf)]
 - Quadrados mínimos não linear - método de Levenberg-Marquardt [[**ANOTAÇÕES**](/files/otim2/6.6.Quad_min_naolinear_Levenberg_Marquardt.pdf)]
-- **Exercicios:** veja LISTA 4
+- **Exercicios:** veja LISTA 5
 
 
 ### Dualidade em programação não linear
@@ -230,7 +230,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - Dualidade em Programação Não Linear, parte 2 [[**QUADRO**](/files/otim2/6.2.Dualidade2.pdf)]
 - Método de planos de corte / Resolução de sistemas de inequações convexas [[**QUADRO**](/files/otim2/6.3.Planos_corte.pdf)]
   - [Código Julia](https://drive.google.com/file/d/1hEk6GZaokQ9bMBIAqXTdC5bkQau_pacC/view?usp=sharing)
-- **Exercicios:** veja LISTA 4
+<!-- - **Exercicios:** veja LISTA 4 -->
 
 
 ## Links
