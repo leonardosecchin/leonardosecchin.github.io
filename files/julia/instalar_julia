@@ -11,6 +11,12 @@
 # Autor: Leonardo D. Secchin, 24/06/23. Atualizado em 05/09/23.
 ###############################################################
 
+echo
+echo "Instalando pré-requisitos (requer senha do usuário)..."
+echo
+sudo apt update
+sudo apt install gfortran g++ gcc libopenblas-dev make curl -y
+
 echo "======================================================="
 echo "Recomenda-se instalar a última versão ESTÀVEL do Julia!"
 echo
@@ -72,11 +78,6 @@ source ~/.bashrc
 echo
 echo "Verificando pacotes de sistema (necessário senha do administrador)..."
 echo
-
-# instala pré-requisitos no sistema (requer senha do administrador)
-sudo apt update
-sudo apt install gfortran g++ gcc libopenblas-dev make -y
-
 
 echo
 echo "======================================================="
