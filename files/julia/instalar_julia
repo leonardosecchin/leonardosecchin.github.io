@@ -75,7 +75,7 @@ echo
 
 # instala pré-requisitos no sistema (requer senha do administrador)
 sudo apt update
-sudo apt install gfortran g++ gcc libopenblas-dev -y
+sudo apt install gfortran g++ gcc libopenblas-dev make -y
 
 
 echo
