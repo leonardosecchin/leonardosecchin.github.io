@@ -162,7 +162,6 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
    - Penalização interna / Pontos interiores [[**ANOTACOES**](/files/otim2/anotacoes/7.Penalidade_interna.pdf)]
-   - Pontos interiores para programação linear [[**ANOTACOES**](/files/otim2/anotacoes/9.Pontos_interiores_PL.pdf)] [**Contas direção Newtoniana** - veja pgs 1 a 5 deste [link](/files/topicospo/PTO_INT_3-primal_dual_afim_escala.pdf)]
    - **Pacote computacional livre Ipopt** [[**ANOTACOES**](/files/otim2/anotacoes/8.Ipopt.pdf)]
      - [Sítio oficial](https://github.com/coin-or/Ipopt)
      - [Documentação oficial](https://coin-or.github.io/Ipopt/)
@@ -170,6 +169,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
      - [Referência bibliográfica do Ipopt](https://link.springer.com/article/10.1007/s10107-004-0559-y) (versão alternativa com [acesso livre](http://www.optimization-online.org/DB_HTML/2004/03/836.html))
      - [Lista de opções configuráveis no pacote](https://coin-or.github.io/Ipopt/OPTIONS.html)
      - **Pacote Julia** `NLPModelsIpopt.jl`. Veja informações [neste link](/juliaopt_ex7/)
+   - Pontos interiores para programação linear [[**ANOTACOES**](/files/otim2/anotacoes/9.Pontos_interiores_PL.pdf)] [**Contas direção Newtoniana** - veja pgs 1 a 5 deste [link](/files/topicospo/PTO_INT_3-primal_dual_afim_escala.pdf)]
    - **Exercicios:** veja LISTA 2
 
    **Conteúdo extra**
