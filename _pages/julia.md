@@ -33,7 +33,7 @@ Para saber mais sobre o Julia, consulte o [Wikipedia](https://en.wikipedia.org/w
 
 # Passo a passo para instalação do Julia em sua máquina
 
-## Método 1: Pacotes pré-compilados (mais fácil, recomendado)
+## Método 1: Pacotes pré-compilados
 
 1. Baixe a última **versão estável** para seu sistema em <https://julialang.org/downloads>
 1. Siga as instruções de instalação
@@ -92,6 +92,11 @@ alias julia="[DIRETORIO DA INSTALACAO JULIA]/./julia"
 Para desinstalar o Julia neste método, simplesmente apague os diretórios `julia` e `.julia`.
 
 
+## Método 3: Loja de aplicativos (versões novas do GNU/Linux Ubuntu)
+
+É possível encontrar o Julia na loja de aplicativos do Ubuntu (*Ubuntu Software*). As versões recentes do Ubuntu trazem versões atualizadas do Julia. Dentro da loja, procure por "Julia", escolha a fonte "Snap Store" e certifique-se que a versão selecionada é a estável mais atualizada. Caso não encontre versões atualizadas, recomenda-se os métodos anteriores.
+
+
 ## Julia com ambiente gráfico
 
 Existem plataformas (IDEs) gráficas que se integram ao Julia. Exemplos são o [Visual Studio](https://code.visualstudio.com/) e o [Juno](https://junolab.org/).
@@ -101,11 +106,6 @@ Existem plataformas (IDEs) gráficas que se integram ao Julia. Exemplos são o [
 Uma alternativa interessante é o pacote [Pluto](https://plutojl.org/). Este pacote abre um ambiente gráfico no navegador de internet com recursos interessantes. Para utilizá-lo, instale o pacote ``Pluto.jl`` no seu Julia (veja seção abaixo) e execute ``using Pluto; Pluto.run()`` do terminal do Julia.
 
 De qualquer forma, assim como no Matlab/Octave, a principal via de utilização do Julia é a linha de comandos. Portanto é essencial familiarizar-se com seus comandos.
-
-
-## Recomendações
-
-Caso exista, não aconselho usar o Julia do repositório do GNU/Linux pois a versão pode ser defasada. É melhor baixar a última versão estável do site ou repositório.
 
 
 # Iniciando o uso do Julia
