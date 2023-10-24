@@ -17,10 +17,6 @@ author_profile: true
 
 ## Submitted articles
 
-1. **Secant-type method with feasible inexact projection for solving constrained mixed generalized equations**  
-   P. C. da Silva Junior, O. P. Ferreira, L. D. Secchin, G. N. Silva  
-   2023
-
 1. **On enhanced KKT optimality conditions for smooth nonlinear optimization** [[preprint](https://optimization-online.org/?p=21206)]  
    R. Andreani, M. L. Schuverdt, L. D. Secchin  
    2022
@@ -33,14 +29,18 @@ author_profile: true
    R. Andreani, A. Ramos, L. D. Secchin  
    2022
 
-1. **Optimality conditions for nonlinear second-order cone programming and symmetric cone programming** [[preprint](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)]  
-   R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
-   2019
-
 
 ## Published papers and articles in press
 
 If you are unable to download a paper, please email me.
+
+1. **Secant-type method with feasible inexact projection for solving constrained mixed generalized equations**  
+   P. C. da Silva Junior, O. P. Ferreira, L. D. Secchin, G. N. Silva  
+   A aparecer na Journal of Computational and Applied Mathematics, 2023
+
+1. **Optimality conditions for nonlinear second-order cone programming and symmetric cone programming** [[preprint](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)]  
+   R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
+   A aparecer na Journal of Optimization Theory and Applications, 2023
 
 1. **An extended delayed weighted gradient algorithm for solving strongly convex optimization problems** [[doi](https://doi.org/10.1016/j.cam.2022.114525)] [[preprint](http://www.optimization-online.org/DB_HTML/2021/09/8591.html)]  
    R. Andreani, H. Oviedo, M. Raydan, L. D. Secchin  
