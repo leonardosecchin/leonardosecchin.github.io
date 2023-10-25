@@ -170,6 +170,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
      - [Lista de opções configuráveis no pacote](https://coin-or.github.io/Ipopt/OPTIONS.html)
      - **Pacote Julia** `NLPModelsIpopt.jl`. Veja informações [neste link](/juliaopt_ex7/)
    - Pontos interiores para programação linear [[**ANOTACOES**](/files/otim2/anotacoes/9.Pontos_interiores_PL.pdf)] [**Contas direção Newtoniana** - veja pgs 1 a 5 deste [link](/files/topicospo/PTO_INT_3-primal_dual_afim_escala.pdf)]
+     - Uma implementação de pontos interiores para PL em Julia: [**pacote** `Tulip.jl`](https://github.com/ds4dm/Tulip.jl)
+     - [**Código**](/files/otim2/ptointPL.jl) com testes comparando: (1) simplex do CPLEX; (2) pontos interiores do CPLEX e (3) pontos interiores do Tulip
    - **Exercicios:** veja LISTA 2
 
    **Conteúdo extra**
