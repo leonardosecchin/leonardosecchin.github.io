@@ -323,8 +323,8 @@ function testar(; saidas=false, presolve=true)
 
     # cabeçalho tabela com resultados
     arq = open("resultados.txt", "a")
-    write(arq, "Prob                            n        m   st   it          f     tempo  metodo\n"*
-               "==========================================================================================\n")
+    write(arq, "Prob                            n        m   st       it          f     tempo  metodo\n"*
+               "==============================================================================================\n")
 
     # executa pontos interiores em cada problema
     for p in problemas
@@ -340,22 +340,22 @@ function testar(; saidas=false, presolve=true)
             PLtempo = @elapsed ~, PLf, PLiter, PLstatus =
                 cplex(A, b, c, lb=l, ub=u, saidas=saidas, simplex=true, presolve=presolve);
 
-            write(arq, @sprintf("%24s %8d %8d %4d %4d  %9.2e  %4.6f  cplex (simplex)\n", p, n, m, PLstatus, PLiter, PLf, PLtempo))
+            write(arq, @sprintf("%24s %8d %8d %4d %8d  %9.2e  %4.6f  cplex (simplex)\n", p, n, m, PLstatus, PLiter, PLf, PLtempo))
 
             # CPLEX pontos interiores
             PLtempo = @elapsed ~, PLf, PLiter, PLstatus =
                 cplex(A, b, c, lb=l, ub=u, saidas=saidas, simplex=false, presolve=presolve);
 
-            write(arq, @sprintf("%24s %8d %8d %4d %4d  %9.2e  %4.6f  cplex (pto int)\n", p, n, m, PLstatus, PLiter, PLf, PLtempo))
+            write(arq, @sprintf("%24s %8d %8d %4d %8d  %9.2e  %4.6f  cplex (pto int)\n", p, n, m, PLstatus, PLiter, PLf, PLtempo))
 
             # Tulip pontos interiores
             PLtempo = @elapsed ~, PLf, PLiter, PLstatus =
                 tulip(A, b, c, lb=l, ub=u, saidas=saidas, presolve=presolve);
 
-            write(arq, @sprintf("%24s %8d %8d %4d %4d  %9.2e  %4.6f  tulip\n", p, n, m, PLstatus, PLiter, PLf, PLtempo))
+            write(arq, @sprintf("%24s %8d %8d %4d %8d  %9.2e  %4.6f  tulip\n", p, n, m, PLstatus, PLiter, PLf, PLtempo))
 
 
-            write(arq, "------------------------------------------------------------------------------------------\n")
+            write(arq, "----------------------------------------------------------------------------------------------\n")
 
             flush(arq)
 
