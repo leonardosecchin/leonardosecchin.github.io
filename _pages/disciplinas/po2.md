@@ -100,7 +100,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 **Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados nas disciplinas de otimização, baixe [ESTE SCRIPT](/files/julia/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
 
-### Softwares e códigos
+### Softwares / Interfaces para Julia
 
 - [**CPLEX**](https://www.ibm.com/br-pt/analytics/cplex-optimizer)  
    O CPLEX é um pacote mantido pela IBM e muito utilizado na academia e indústria. Nele há vários métodos para programação linear inteira mista. É um software proprietário, mas estudantes das universidades podem obter licença de uso mediante preencimento de um cadastro. **Recomendo familiarizar-se com o pacote desde o início da disciplina.**
@@ -138,21 +138,26 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Métodos em programação inteira mista
 
-1. Branch and bound
+1. Método de enumeração e corte (*Branch-and-bound*)
    1. Pré-processamento
       - Pré-processamento de PL's: fixação de variáveis, aperto de limitantes das variáveis e identificação de restrições redundantes
       - Identificação de PL's inviáveis ou ilimitados
       - Estratégias adicionais de pré-processamento para problemas com variáveis inteiras e binárias: aperto de restrições
    1. Inserção de restrições no quadro simplex e o método dual simplex (revisão)
-   1. Branch and bound baseado em relaxação linear
-   1. Branch and bound - exemplos com variáveis inteiras e binárias
-1. Branch and cut
+   1. *Branch-and-bound* baseado em relaxação linear
+   1. *Branch-and-bound* - exemplos com variáveis inteiras e binárias
+1. Método de planos de corte
    1. Desigualdades válidas
+   1. Esquema geral do método
+1. Método *Branch-and-cut*
    1. Cortes de Chvatal-Gomory
-1. Branch and price
-1. Geração de colunas
+   1. Cortes fracionários de Gomory via quadro simplex
+1. Método de geração de colunas
    - Um material: tópico 6 [deste link](/topicospo/)
-1. Comentários sobre heurísticas/metaheurísticas
+   - [Geração de colunas aplicado ao problema de corte de estoque (*cutting stock*)](/files/topicospo/GER_COL_4-cutting-stock.pdf);  [**Código Julia com instâncias do problema**](/files/topicospo/GER_COL_cutting_stock.zip)
+   - Decomposição de Dantzig-Wolfe
+1. Comentários sobre os métodos *Branch-and-price* e *Branch-cut-and-price*
+1. Comentários sobre o uso de heurísticas/metaheurísticas no contexto de métodos enumerativos
    - Uma visão ampla de algumas metaheurísticas: disciplina ["Metaheurísticas"](/metaheuristicas/)
 
 
@@ -160,7 +165,3 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 
 ### Programação dinâmica
-
-
-<!-- ## Links -->
-
