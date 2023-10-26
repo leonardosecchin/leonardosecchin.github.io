@@ -138,7 +138,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Métodos em programação inteira mista
 
-1. Método de enumeração e corte (*Branch-and-bound*)
+1. Método de enumeração e poda (*Branch-and-bound*)
    1. Pré-processamento
       - Pré-processamento de PL's: fixação de variáveis, aperto de limitantes das variáveis e identificação de restrições redundantes
       - Identificação de PL's inviáveis ou ilimitados
