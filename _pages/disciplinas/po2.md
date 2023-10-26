@@ -146,6 +146,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    1. Inserção de restrições no quadro simplex e o método dual simplex (revisão)
    1. *Branch-and-bound* baseado em relaxação linear
    1. *Branch-and-bound* - exemplos com variáveis inteiras e binárias
+   1. Exemplo de problema inviável em que *branch-and-bound* fracassa: [**artigo**](https://doi.org/10.1007/BF01580225)  [**código Julia**](/files/po2/unsolvable.jl)
 1. Método de planos de corte
    1. Desigualdades válidas
    1. Esquema geral do método
