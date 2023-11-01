@@ -34,7 +34,7 @@ author_profile: true
 
 If you are unable to download a paper, please email me.
 
-1. **Secant-type method with feasible inexact projection for solving constrained mixed generalized equations**  
+1. **Secant-type method with feasible inexact projection for solving constrained mixed generalized equations** [[doi](https://doi.org/10.1016/j.cam.2023.115638)]  
    P. C. da Silva Junior, O. P. Ferreira, L. D. Secchin, G. N. Silva  
    To appear in Journal of Computational and Applied Mathematics, 2023
 
