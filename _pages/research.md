@@ -34,7 +34,7 @@ author_profile: true
 
 If you are unable to download a paper, please email me.
 
-1. **Secant-inexact projection algorithms for solving a new class of constrained mixed generalized equations problems** [[doi](https://doi.org/10.1016/j.cam.2023.115638)]
+1. **Secant-inexact projection algorithms for solving a new class of constrained mixed generalized equations problems** [[doi](https://doi.org/10.1016/j.cam.2023.115638)]  
    P. C. da Silva Junior, O. P. Ferreira, L. D. Secchin, G. N. Silva  
    Journal of Computational and Applied Mathematics, 2023
 
