@@ -36,7 +36,7 @@ If you are unable to download a paper, please email me.
 
 1. **Secant-inexact projection algorithms for solving a new class of constrained mixed generalized equations problems** [[doi](https://doi.org/10.1016/j.cam.2023.115638)]  
    P. C. da Silva Junior, O. P. Ferreira, L. D. Secchin, G. N. Silva  
-   Journal of Computational and Applied Mathematics, 2023
+   Journal of Computational and Applied Mathematics, 440:115638, 2024
 
 1. **Optimality conditions for nonlinear second-order cone programming and symmetric cone programming** [[preprint](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)]  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
