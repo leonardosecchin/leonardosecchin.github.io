@@ -33,7 +33,26 @@ Para saber mais sobre o Julia, consulte o [Wikipedia](https://en.wikipedia.org/w
 
 # Passo a passo para instalação do Julia em sua máquina
 
-## Método 1: Pacotes pré-compilados
+
+## Método 1: Loja de aplicativos (versões novas do GNU/Linux Ubuntu)
+
+É possível encontrar o Julia na loja de aplicativos do Ubuntu (*Ubuntu Software*). As versões recentes do Ubuntu trazem versões atualizadas do Julia. Dentro da loja, procure por "Julia", escolha a fonte "Snap Store" e certifique-se que a versão selecionada é a estável (atualize a lista de softwares da loja antes). Caso não encontre versões atualizadas, recomenda-se outros métodos. O Julia pode estar dispoinível em lojas de aplicativos de outras distrubuições Linux.
+
+Atualizações do Julia são gerenciadas pelo próprio sistema operacional.
+
+
+## Método 2: Gerenciador Juliaup
+
+`Juliaup` é um instalador do Julia com gerenciamento de versões. Funciona em Mac, Windows e Linux. Acesse [este link](https://github.com/JuliaLang/juliaup) para detalhes.
+
+Este método é interessante para usuários do Windows. Em versões recentes do Windows, é encontrado na loga de aplicativos do sistema. Veja [este link](https://apps.microsoft.com/detail/9NJNWW8PVKMN?rtc=1&hl=pt-br&gl=BR).
+
+Atualizações do Julia são gerenciadas pelo `Juliaup`.
+
+
+## Método 3: Pacotes pré-compilados
+
+**ATENÇÃO: neste método, não há atualização automática do Julia.**
 
 1. Baixe a última **versão estável** para seu sistema em <https://julialang.org/downloads>
 1. Siga as instruções de instalação
@@ -46,7 +65,11 @@ julia
 **Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados nas disciplinas de otimização, baixe [ESTE SCRIPT](/files/julia/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
 
-## Método 2: Compilar do código-fonte (para *experts* no GNU/Linux)
+## Método 4: Compilar do código-fonte
+
+**ATENÇÃO: este método é mais complicado e só é indicado caso queira instalar versões do Julia ainda em teste! Na maioria das vezes, não será será o seu caso!**
+
+**Versões de teste trazem as últimas atualizações do Julia, que ainda não receberam o certificado de estabilidade. Por isso, podem apresentar mal funcionamento. Caso pretenda usar versões estáveis do Julia, recomenda-se os métodos anteriores.**
 
 1. Clone o repositório Git <https://github.com/JuliaLang/julia> executando no terminal, a partir de sua pasta de preferência (por exemplo, sua pasta pessoal),
 ~~~
@@ -58,11 +81,10 @@ git clone https://github.com/JuliaLang/julia.git
 cd julia
 ~~~
 
-1. Neste repositório há versões do Julia ainda em teste. Recomendo instalar a última **versão estável**. Para isso, acesse <https://github.com/JuliaLang/julia> e veja qual a versão corrente na seção "releases" no lado direito da página. Aponte a versão executando
+1. Neste repositório há versões do Julia ainda em teste. Aponte a versão desejada executando
 ~~~
 git checkout v1.x.x
 ~~~
-onde **v1.x.x** é a versão corrente.
 
 1. Instale pré-requisitos no seu sistema. Para usuários do Ubuntu ou Mint, execute
 ~~~
@@ -90,11 +112,6 @@ alias julia="[DIRETORIO DA INSTALACAO JULIA]/./julia"
 ~~~
 
 Para desinstalar o Julia neste método, simplesmente apague os diretórios `julia` e `.julia`.
-
-
-## Método 3: Loja de aplicativos (versões novas do GNU/Linux Ubuntu)
-
-É possível encontrar o Julia na loja de aplicativos do Ubuntu (*Ubuntu Software*). As versões recentes do Ubuntu trazem versões atualizadas do Julia. Dentro da loja, procure por "Julia", escolha a fonte "Snap Store" e certifique-se que a versão selecionada é a estável mais atualizada. Caso não encontre versões atualizadas, recomenda-se os métodos anteriores.
 
 
 ## Julia com ambiente gráfico
