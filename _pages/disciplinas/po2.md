@@ -164,5 +164,15 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Otimização em redes
 
+1. Conceitos básicos (grafos, árvore etc)
+1. Exemplos (caminho mínimo, fluxo máximo, fluxo de custo mínimo, problemas do transporte e atribuição)
+1. Problema do transporte: resolução via simplex
+   1. Matriz totalmente unimodular
+   1. Obtendo base inicial
+   1. Quadro simplex
+1. Problema do menor caminho: algoritmos
+1. Árvore geradora mínima: algoritmos
+1. Fluxo em redes
+
 
 ### Programação dinâmica
