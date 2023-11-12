@@ -31,7 +31,7 @@ Dentre as vantagens do Julia sobre o Matlab, destacam-se:
 Para saber mais sobre o Julia, consulte o [Wikipedia](https://en.wikipedia.org/wiki/Julia_(programming_language)).
 
 
-# Passo a passo para instalação do Julia em sua máquina
+# Instalando o Julia em sua máquina
 
 
 ## Método 1: Loja de aplicativos (versões novas do GNU/Linux Ubuntu)
