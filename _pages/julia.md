@@ -65,13 +65,15 @@ julia
 **Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados nas disciplinas de otimização, baixe [ESTE SCRIPT](/files/julia/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
 
-## Método 4: Compilar do código-fonte
+## Método 4: Compilar do código fonte
 
-**ATENÇÃO: este método é mais complicado e só é indicado caso queira instalar versões do Julia ainda em teste! Na maioria das vezes, não será será o seu caso!**
+É possível compilar o Julia a partir de seu código fonte, disponível em <https://github.com/JuliaLang/julia.git>.
 
-**Versões de teste trazem as últimas atualizações do Julia, que ainda não receberam o certificado de estabilidade. Por isso, podem apresentar mal funcionamento. Caso pretenda usar versões estáveis do Julia, recomenda-se os métodos anteriores.**
+<!-- **ATENÇÃO: este método é mais complicado e só é indicado caso queira instalar versões do Julia ainda em teste! Na maioria das vezes, não será será o seu caso!** -->
 
-1. Clone o repositório Git <https://github.com/JuliaLang/julia> executando no terminal, a partir de sua pasta de preferência (por exemplo, sua pasta pessoal),
+<!-- **Versões de teste trazem as últimas atualizações do Julia, que ainda não receberam o certificado de estabilidade. Por isso, podem apresentar mal funcionamento. Caso pretenda usar versões estáveis do Julia, recomenda-se os métodos anteriores.** -->
+
+<!--1. Clone o repositório Git <https://github.com/JuliaLang/julia> executando no terminal, a partir de sua pasta de preferência (por exemplo, sua pasta pessoal),
 ~~~
 git clone https://github.com/JuliaLang/julia.git
 ~~~
@@ -111,7 +113,7 @@ Você também pode criar um atalho no seu `.bashrc` para que, executando `julia`
 alias julia="[DIRETORIO DA INSTALACAO JULIA]/./julia"
 ~~~
 
-Para desinstalar o Julia neste método, simplesmente apague os diretórios `julia` e `.julia`.
+Para desinstalar o Julia neste método, simplesmente apague os diretórios `julia` e `.julia`.-->
 
 
 ## Julia com ambiente gráfico
