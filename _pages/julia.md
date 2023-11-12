@@ -45,7 +45,7 @@ Atualizações do Julia são gerenciadas pelo próprio sistema operacional.
 
 `Juliaup` é um instalador do Julia com gerenciamento de versões. Funciona em Mac, Windows e Linux. Acesse [este link](https://github.com/JuliaLang/juliaup) para detalhes.
 
-Este método é interessante para usuários do Windows. Em versões recentes do Windows, é encontrado na loga de aplicativos do sistema. Veja [este link](https://apps.microsoft.com/detail/9NJNWW8PVKMN?rtc=1&hl=pt-br&gl=BR).
+Este método é interessante para usuários do Windows. Em versões recentes do Windows, é encontrado na loja de aplicativos do sistema. Veja [este link](https://apps.microsoft.com/detail/9NJNWW8PVKMN?rtc=1&hl=pt-br&gl=BR).
 
 Atualizações do Julia são gerenciadas pelo `Juliaup`.
 
