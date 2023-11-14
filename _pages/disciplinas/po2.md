@@ -170,6 +170,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    1. Matriz totalmente unimodular
    1. Obtendo base inicial
    1. Quadro simplex
+   1. Network simplex method: veja breve descrição [neste link](https://en.wikipedia.org/wiki/Network_simplex_algorithm#Applications)
 1. Problema do menor caminho: algoritmos
 1. Árvore geradora mínima: algoritmos
 1. Fluxo em redes
