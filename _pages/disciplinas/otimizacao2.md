@@ -63,13 +63,13 @@ author_profile: true
 <!--   - O trabalho é individual. Cópias receberão nota zero. -->
 
 - **Avaliação 2**
-<!--   - FORMA DE AVALIAÇÃO -->
-  - Conteúdo: ----
-<!--   - Tarefas: exercícios 1, 2, 3, 4, 5, 6 da [lista 2](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing); exercícios 1, 2, 4 da [lista 3](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing) -->
-  - Valor: 10,0 pontos
-  - **Data limite: ----**
-<!--   - Entregar resolução escrita à mão ou escaneadas para o email secchinleo@gmail.com. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com -->
-<!--   - O trabalho é individual. Cópias receberão nota zero. -->
+  - **Lista de exercícios**
+  - Conteúdo: penalização interna, regiões de confiança
+  - Tarefas: exercícios 2, 3, 5, 6 e 8 da [lista 2](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing); exercícios 2, 3 da [lista 3](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing)
+  - Valor: 12,0 pontos, distribuídos considerando a dificuldade de cada exercício
+  - **Data limite: 03/12/23**
+  - Entregar resolução escrita à mão ou escaneadas para o email secchinleo@gmail.com. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
+  - O trabalho é individual. **CÓPIAS RECEBERÃO NOTA ZERO.**
 
 - **Avaliação 3**
 <!--   - FORMA DE AVALIAÇÃO -->
@@ -81,7 +81,7 @@ author_profile: true
   - **Prova escrita**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
-  - **Data: ----**
+  - **Data: 19/12/23 (terça-feira)**
 
 
 ## Critérios para aprovação
