@@ -45,35 +45,24 @@ author_profile: true
 
 ## Avaliações
 
-- **Avaliação 1**
-<!--   - FORMA DE AVALIAÇÃO -->
-  - Conteúdo: ----
-<!--   - Tarefas: exercícios 5 e 7 da [lista 0](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing); exercícios 1, 3, 4, 5, 6, 7 da [lista 1](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing) -->
+<!--- **Trabalho**
+  - Veja a [descrição dos trabalhos]()
+  - Tarefas:
   - Valor: 10,0 pontos
-  - **Data: ----**
-<!--   - Entregar resolução escrita à mão. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com -->
-<!--   - O trabalho é individual. Cópias receberão nota zero. -->
+  - **Data limite: 03/12/23**-->
 
-- **Avaliação 2**
-<!--   - FORMA DE AVALIAÇÃO -->
+<!--- **Avaliação 2**
+  - FORMA DE AVALIAÇÃO
   - Conteúdo: ----
-<!--   - Tarefas: exercícios 1, 2, 3, 4, 5, 6 da [lista 2](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing); exercícios 1, 2, 4 da [lista 3](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing) -->
+  - Tarefas: 
   - Valor: 10,0 pontos
-  - **Data: ----**
-<!--   - Entregar resolução escrita à mão ou escaneadas para o email secchinleo@gmail.com. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com -->
-<!--   - O trabalho é individual. Cópias receberão nota zero. -->
+  - **Data: ----**-->
 
-- **Avaliação 3**
-<!--   - FORMA DE AVALIAÇÃO -->
-  - Conteúdo: ----
-  - Valor: 10,0 pontos
-  - **Data: ----**
-
-- **PROVA FINAL**
+<!--- **PROVA FINAL**
   - **Prova escrita**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
-  - **Data: ----**
+  - **Data: ----**-->
 
 
 ## Critérios para aprovação
@@ -130,10 +119,6 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 ### Exemplos de problemas e respectivos pacotes/códigos para uso no Julia
 
 - Vários exemplos [neste link](/juliaopt_problems/)
-
-- **Problema de layout em fila dupla** - modelo de programação linear inteira mista com CPLEX
-   - [Artigo com descrição do problema/modelo](https://doi.org/10.1007/s11590-011-0426-8)
-   - [Código do modelo com CPLEX e instâncias do problema](/files/po2/drlp.zip)
 
 
 ### Métodos em programação inteira mista
