@@ -45,11 +45,14 @@ author_profile: true
 
 ## Avaliações
 
-<!--- **Trabalho**
-  - Veja a [descrição dos trabalhos]()
-  - Tarefas:
+- **Trabalho**
+  - Veja a [descrição dos trabalhos](https://drive.google.com/file/d/1dU8AoopY72hxBZwnUw0L8GtP0EvA1KNw/view?usp=sharing)
   - Valor: 10,0 pontos
-  - **Data limite: 03/12/23**-->
+  - **Data limite: 10/12/23**
+  - Trabalhos por estudante:
+    - Trabalho A: João Pedro. [Baixar ZIP](https://drive.google.com/file/d/1d1JNmtltMY1HiTOCGrD1hJ7Rb5-cz3wF/view?usp=sharing)
+    - Trabalho B: Kely. [Baixar ZIP](https://drive.google.com/file/d/1_dA2vaVaTaQGKPFU4ZjBo9Z3ptIZ75yc/view?usp=sharing)
+    - Trabalho C: Douglas. [Baixar ZIP](https://drive.google.com/file/d/1X_s-8cko_92egBOd5zlYMQ6mC1Flskpj/view?usp=sharing)
 
 <!--- **Avaliação 2**
   - FORMA DE AVALIAÇÃO
