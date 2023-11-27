@@ -22,7 +22,7 @@ author_profile: true
 
 ## Textos de referência
 
-- Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed., 2006
+- Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006
 - [Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.ch10)
 - Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006
 
@@ -111,7 +111,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 1. Modelagem de problemas  
   *Referências:*  
-  *1) Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed., 2006*  
+  *1) Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006*  
   *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
 1. Relaxação Linear e relaxação Lagrangeana  
@@ -130,38 +130,76 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    1. Pré-processamento
       - Pré-processamento de PL's: fixação de variáveis, aperto de limitantes das variáveis e identificação de restrições redundantes
       - Identificação de PL's inviáveis ou ilimitados
-      - Estratégias adicionais de pré-processamento para problemas com variáveis inteiras e binárias: aperto de restrições
-   1. Inserção de restrições no quadro simplex e o método dual simplex (revisão)
-   1. *Branch-and-bound* baseado em relaxação linear
-   1. *Branch-and-bound* - exemplos com variáveis inteiras e binárias
-   1. Exemplo de problema inviável em que *branch-and-bound* fracassa: [**artigo**](https://doi.org/10.1007/BF01580225)  [**código Julia**](/files/po2/unsolvable.jl)
+      - Estratégias adicionais de pré-processamento para problemas com variáveis inteiras e binárias: aperto de restrições  
+   *Referências:*  
+   *1) Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006*  
+   *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+
+   1. Inserção de restrições no quadro simplex e o método dual simplex (revisão)  
+   *Referências:*  
+   *1) Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006*  
+   *2) Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*
+
+   1. *Branch-and-bound* baseado em relaxação linear  
+   *Referência:*  
+   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+
+   1. *Branch-and-bound* - exemplos com variáveis inteiras e binárias  
+   *Referência:*  
+   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+
+   1. Exemplo de problema inviável em que *branch-and-bound* fracassa
+      1. [**Código Julia**](/files/po2/unsolvable.jl)  
+   *Referência:*  
+   [*Jeroslow. Trivial integer programs unsolvable by branch-and-bound. Mathematical Programming 6, 105-109 (1974)*](https://doi.org/10.1007/BF01580225)
+
 1. Método de planos de corte
    1. Desigualdades válidas
-   1. Esquema geral do método
+   1. Esquema geral do método  
+   *Referência:*  
+   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+
 1. Método *Branch-and-cut*
    1. Cortes de Chvatal-Gomory
-   1. Cortes fracionários de Gomory via quadro simplex
+   1. Cortes fracionários de Gomory via quadro simplex  
+   *Referência:*  
+   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+
 1. Método de geração de colunas
-   - Um material: tópico 6 [deste link](/topicospo/)
    - [Geração de colunas aplicado ao problema de corte de estoque (*cutting stock*)](/files/topicospo/GER_COL_4-cutting-stock.pdf);  [**Código Julia com instâncias do problema**](/files/topicospo/GER_COL_cutting_stock.zip)
-   - Decomposição de Dantzig-Wolfe
-1. Comentários sobre os métodos *Branch-and-price* e *Branch-cut-and-price*
-1. Comentários sobre o uso de heurísticas/metaheurísticas no contexto de métodos enumerativos
-   - Uma visão ampla de algumas metaheurísticas: disciplina ["Metaheurísticas"](/metaheuristicas/)
+   - Decomposição de Dantzig-Wolfe  
+   *Referências:*  
+   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*  
+   *2) Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006*  
+   *3) Tópico 6 [deste link](/topicospo/)*
+
+1. Comentários sobre os métodos *Branch-and-price* e *Branch-cut-and-price*  
+   *Referência:*  
+   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+
+1. Comentários sobre o uso de heurísticas/metaheurísticas no contexto de métodos enumerativos  
+   *Referência:*  
+   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
 
 ### Otimização em redes
 
+*Referência:*  
+*1) Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*
+
 1. Conceitos básicos (grafos, árvore etc)
-1. Exemplos (caminho mínimo, fluxo máximo, fluxo de custo mínimo, problemas do transporte e atribuição)
+1. Exemplos: caminho mínimo, fluxo máximo, fluxo de custo mínimo, problemas do transporte e atribuição
 1. Problema do transporte: resolução via simplex
    1. Matriz totalmente unimodular
-   1. Obtendo base inicial
+   1. Obtendo uma base inicial viável
    1. Quadro simplex
-   1. Network simplex method: veja breve descrição [neste link](https://en.wikipedia.org/wiki/Network_simplex_algorithm#Applications)
-1. Problema do menor caminho: algoritmos
-1. Árvore geradora mínima: algoritmos
-1. Fluxo em redes
+   1. Caso particular: problema de atribuição
+      1. Relaxação linear, matriz totalmente unimodular e integralidade das soluções
+1. Problema de fluxo de custo mínimo
+   1. Método simplex de rede
+1. Problema do menor caminho
+<!-- 1. Árvore geradora mínima -->
+<!-- 1. Fluxo em redes -->
 
 
-### Programação dinâmica
+<!-- ### Programação dinâmica -->
