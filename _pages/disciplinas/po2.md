@@ -22,14 +22,14 @@ author_profile: true
 
 ## Textos de referência
 
-- Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006
 - [Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.ch10)
-- Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006
+- Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010
+- Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006
 
 ## Textos complementares
 
-- Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008.
-- Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010
+- Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006
+- Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008
 
 
 ## Canais de acesso
