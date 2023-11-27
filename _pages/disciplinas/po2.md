@@ -131,9 +131,9 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
       - Pré-processamento de PL's: fixação de variáveis, aperto de limitantes das variáveis e identificação de restrições redundantes
       - Identificação de PL's inviáveis ou ilimitados
       - Estratégias adicionais de pré-processamento para problemas com variáveis inteiras e binárias: aperto de restrições  
-   *Referências:*  
-   *1) Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006*  
-   *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+   >*Referências:*  
+   >*1) Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006*  
+   >*2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
    1. Inserção de restrições no quadro simplex e o método dual simplex (revisão)  
    *Referências:*  
@@ -149,7 +149,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
    1. Exemplo de problema inviável em que *branch-and-bound* fracassa
-      1. [**Código Julia**](/files/po2/unsolvable.jl)  
+      - [**Código Julia**](/files/po2/unsolvable.jl)  
    *Referência:*  
    [*Jeroslow. Trivial integer programs unsolvable by branch-and-bound. Mathematical Programming 6, 105-109 (1974)*](https://doi.org/10.1007/BF01580225)
 
@@ -166,8 +166,9 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
 1. Método de geração de colunas
-   - [Geração de colunas aplicado ao problema de corte de estoque (*cutting stock*)](/files/topicospo/GER_COL_4-cutting-stock.pdf);  [**Código Julia com instâncias do problema**](/files/topicospo/GER_COL_cutting_stock.zip)
-   - Decomposição de Dantzig-Wolfe  
+   1. [Geração de colunas aplicado ao problema de corte de estoque (*cutting stock*)](/files/topicospo/GER_COL_4-cutting-stock.pdf)
+      - [**Código Julia com instâncias do problema**](/files/topicospo/GER_COL_cutting_stock.zip)
+   1. Decomposição de Dantzig-Wolfe  
    *Referências:*  
    *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*  
    *2) Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006*  
@@ -194,7 +195,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    1. Obtendo uma base inicial viável
    1. Quadro simplex
    1. Caso particular: problema de atribuição
-      1. Relaxação linear, matriz totalmente unimodular e integralidade das soluções
+      - Relaxação linear, matriz totalmente unimodular e integralidade das soluções
 1. Problema de fluxo de custo mínimo
    1. Método simplex de rede
 1. Problema do menor caminho
