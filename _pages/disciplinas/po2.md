@@ -127,9 +127,9 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 1. Método de enumeração e poda (*Branch-and-bound*)
    1. Pré-processamento  
-   >*Referências:*  
-   >*1) Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006*  
-   >*2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+   *Referências:*  
+   *1) Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006*  
+   *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
       - Pré-processamento de PL's: fixação de variáveis, aperto de limitantes das variáveis e identificação de restrições redundantes
       - Identificação de PL's inviáveis ou ilimitados
       - Estratégias adicionais de pré-processamento para problemas com variáveis inteiras e binárias: aperto de restrições
@@ -147,7 +147,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
    1. Exemplo de problema inviável em que *branch-and-bound* fracassa  
    *Referência: [Jeroslow. Trivial integer programs unsolvable by branch-and-bound. Mathematical Programming 6, 105-109 (1974)](https://doi.org/10.1007/BF01580225)*
-      - [**Código Julia**](/files/po2/unsolvable.jl)  
+      - [Código Julia](/files/po2/unsolvable.jl)
 
 1. Método de planos de corte  
    *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
@@ -190,6 +190,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 1. Problema de fluxo de custo mínimo
    1. Método simplex de rede
 1. Problema do menor caminho
+   1. Algoritmo de Dijkstra para custos não negativos
 <!-- 1. Árvore geradora mínima -->
 <!-- 1. Fluxo em redes -->
 
