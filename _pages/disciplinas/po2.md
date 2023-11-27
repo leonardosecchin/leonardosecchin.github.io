@@ -115,8 +115,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
 1. Relaxação Linear e relaxação Lagrangeana  
-  *Referência:*  
-  *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021 (capítulo 10)*
+  *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
 
 ### Exemplos de problemas e respectivos pacotes/códigos para uso no Julia
@@ -127,13 +126,13 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 ### Métodos em programação inteira mista
 
 1. Método de enumeração e poda (*Branch-and-bound*)
-   1. Pré-processamento
-      - Pré-processamento de PL's: fixação de variáveis, aperto de limitantes das variáveis e identificação de restrições redundantes
-      - Identificação de PL's inviáveis ou ilimitados
-      - Estratégias adicionais de pré-processamento para problemas com variáveis inteiras e binárias: aperto de restrições  
+   1. Pré-processamento  
    >*Referências:*  
    >*1) Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006*  
    >*2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+      - Pré-processamento de PL's: fixação de variáveis, aperto de limitantes das variáveis e identificação de restrições redundantes
+      - Identificação de PL's inviáveis ou ilimitados
+      - Estratégias adicionais de pré-processamento para problemas com variáveis inteiras e binárias: aperto de restrições
 
    1. Inserção de restrições no quadro simplex e o método dual simplex (revisão)  
    *Referências:*  
@@ -141,52 +140,44 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    *2) Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*
 
    1. *Branch-and-bound* baseado em relaxação linear  
-   *Referência:*  
-   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
    1. *Branch-and-bound* - exemplos com variáveis inteiras e binárias  
-   *Referência:*  
-   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
-   1. Exemplo de problema inviável em que *branch-and-bound* fracassa
+   1. Exemplo de problema inviável em que *branch-and-bound* fracassa  
+   *Referência: [Jeroslow. Trivial integer programs unsolvable by branch-and-bound. Mathematical Programming 6, 105-109 (1974)](https://doi.org/10.1007/BF01580225)*
       - [**Código Julia**](/files/po2/unsolvable.jl)  
-   *Referência:*  
-   [*Jeroslow. Trivial integer programs unsolvable by branch-and-bound. Mathematical Programming 6, 105-109 (1974)*](https://doi.org/10.1007/BF01580225)
 
-1. Método de planos de corte
+1. Método de planos de corte  
+   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
    1. Desigualdades válidas
-   1. Esquema geral do método  
-   *Referência:*  
-   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+   1. Esquema geral do método
 
-1. Método *Branch-and-cut*
+1. Método *Branch-and-cut*  
+   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
    1. Cortes de Chvatal-Gomory
-   1. Cortes fracionários de Gomory via quadro simplex  
-   *Referência:*  
-   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+   1. Cortes fracionários de Gomory via quadro simplex
 
-1. Método de geração de colunas
-   1. [Geração de colunas aplicado ao problema de corte de estoque (*cutting stock*)](/files/topicospo/GER_COL_4-cutting-stock.pdf)
-      - [**Código Julia com instâncias do problema**](/files/topicospo/GER_COL_cutting_stock.zip)
-   1. Decomposição de Dantzig-Wolfe  
+1. Método de geração de colunas  
    *Referências:*  
    *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*  
    *2) Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006*  
    *3) Tópico 6 [deste link](/topicospo/)*
+   1. [Geração de colunas aplicado ao problema de corte de estoque (*cutting stock*)](/files/topicospo/GER_COL_4-cutting-stock.pdf)
+      - [**Código Julia com instâncias do problema**](/files/topicospo/GER_COL_cutting_stock.zip)
+   1. Decomposição de Dantzig-Wolfe  
 
 1. Comentários sobre os métodos *Branch-and-price* e *Branch-cut-and-price*  
-   *Referência:*  
-   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
 1. Comentários sobre o uso de heurísticas/metaheurísticas no contexto de métodos enumerativos  
-   *Referência:*  
-   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
 
 ### Otimização em redes
 
-*Referência:*  
-*1) Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*
+*Referência: Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*
 
 1. Conceitos básicos (grafos, árvore etc)
 1. Exemplos: caminho mínimo, fluxo máximo, fluxo de custo mínimo, problemas do transporte e atribuição
