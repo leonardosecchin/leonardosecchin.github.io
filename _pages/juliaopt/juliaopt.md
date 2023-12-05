@@ -38,9 +38,14 @@ Outros pacotes são apresentados nos exemplos.
 - [Exemplo 13](/juliaopt_ex13/): tratando erros de execução
 - [Exemplo 14](/juliaopt_ex14/): calculando tempos de execução
 
+
 # Bancos de problemas-teste
 
 - Você encontra alguns bancos de problemas-teste para otimização contínua, otimização combinatória, programação linear inteira mista e outros [neste link](/juliaopt_problems/).
+
+
+# [Pacotes para fins específicos (avançado)](/juliaopt_extrapkg/)
+
 
 # Leituras interessantes
 
