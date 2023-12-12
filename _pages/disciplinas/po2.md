@@ -68,10 +68,10 @@ author_profile: true
   - **Data: ----**-->
 
 
-## Critérios para aprovação
+<!-- ## Critérios para aprovação -->
 
-- Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
-- Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a).
+<!-- - Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta) -->
+<!-- - Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a). -->
 
 
 <!-- ## Listas de exercícios -->
