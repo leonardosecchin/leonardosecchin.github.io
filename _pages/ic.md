@@ -148,6 +148,6 @@ Os modelos abaixo **NÃO são modelos oficiais** de qualquer curso ou da Univers
 
 Podem ser baixados e modificados livremente por alunos e docentes, não sendo necessário pedir permissão para tal. É importante frisar que **não há suporte**, sendo de inteira responsabilidade do(a) estudante e seu(sua) orientador(a) qualquer dano ou problema decorrente do seu uso.
 
-**[Modelo TCC para Matemática Industrial](https://drive.google.com/file/d/1S-Rtsf3iPgLUQ4IwrHRJYUMaZQQZ-50T/view?usp=sharing)**
+**[Modelo TCC para Matemática Industrial](https://drive.google.com/file/d/1S-Rtsf3iPgLUQ4IwrHRJYUMaZQQZ-50T/view?usp=sharing)** (atualizado em 12/12/23)
 
 **[Modelo apresentação slides](https://drive.google.com/file/d/1-cmwFB82Ds1hpxEtIlJIKQPfuzNU6bCW/view?usp=sharing)**
