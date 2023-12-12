@@ -83,14 +83,13 @@ O grupo de otimização da UFES, campus São Mateus, disponha de um computador d
 1. 2023 (TCC). O método do gradiente espectral projetado e aplicações ao aprendizado de máquina supervisionado  
    Estudante: Pedro Henrique Fischer Ferreira
 
-1. 2023 (TCC). Uma abordagem ao problema de roteamento de veículos com janelas de tempo usando meta-heurísticas  
-   Estudante: Wisley Kenede Pereira de Jesus
-
 ### concluídas
 
+1. 2023 (TCC). Uma abordagem ao problema de roteamento de veículos com janelas de tempo usando meta-heurísticas  
+   Estudante: Wisley Kenede Pereira de Jesus
 1. 2023 (IC). O método do gradiente espectral projetado e variantes para minimização com restrições convexas  
    Estudante: Pedro Henrique Fischer Ferreira  
-   [[Resumo do projeto](/files/ic-tcc/resumoIC_espectral.pdf)] <!--[[Relatório final da pesquisa]()]-->
+   [[Resumo do projeto](/files/ic-tcc/resumoIC_espectral.pdf)] [[Relatório final da pesquisa](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_19999_relatorio%20final.pdf)]
 1. 2023 (IC). Métodos de pontos interiores para programação linear e quadrática  
    Estudante: Carolina Martinelli  
    [[Resumo do projeto](/files/ic-tcc/resumoIC_ptoint.pdf)]
