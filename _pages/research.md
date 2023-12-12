@@ -38,7 +38,7 @@ If you are unable to download a paper, please email me.
    P. C. da Silva Junior, O. P. Ferreira, L. D. Secchin, G. N. Silva  
    Journal of Computational and Applied Mathematics, 440:115638, 2024
 
-1. **Optimality conditions for nonlinear second-order cone programming and symmetric cone programming** [[doi](https://doi.org/10.1007/s10957-023-02338-6)] [[preprint](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)]
+1. **Optimality conditions for nonlinear second-order cone programming and symmetric cone programming** [[doi](https://doi.org/10.1007/s10957-023-02338-6)] [[preprint](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)]  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
    To appear in Journal of Optimization Theory and Applications, 2023
 
