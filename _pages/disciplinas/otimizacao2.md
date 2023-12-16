@@ -236,9 +236,6 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ## Links
 
-- [Ernesto G. Birgin - Applications of nonlinear programming to packing problems](https://www.ime.usp.br/~egbirgin/publications/egbirgin-fmfi2014-contribution.pdf)
-- [KANZOW, SCHWARTZ, WEIB - The Sparse (st) Optimization Problem: Reformulations, Optimality, Stationarity, and Numerical Results](https://arxiv.org/pdf/2210.09589.pdf)
-- [KANZOW, RAHARJA, SCHWARTZ - An Augmented Lagrangian Method for Cardinality-Constrained Optimization Problems](https://doi.org/10.1007/s10957-021-01854-7)
 - [Nonlinear Optimization Examples](https://www.math.wpi.edu/saspdf/iml/chap11.pdf)
 - [FICO Xpress Optimization Examples](https://www.fico.com/fico-xpress-optimization/docs/latest/examples/mosel/NonLinear/GUID-81E21BAC-28BD-3D1A-B9B3-D65BA12E3C5B.html)
 
