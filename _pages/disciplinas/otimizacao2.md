@@ -187,7 +187,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Estratégia de regiões de confiança
 
-*Referência 1: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.cengage.com.br/livro/otimizacao-continua/) ([versão alternativa](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf))*
+*Referência 1: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.cengage.com.br/livro/otimizacao-continua/) ([versão alternativa](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf))*  
 *Referência 2: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006*
 
 - Estratégia de regiões de confiança e convergência global [[**ANOTACOES**](/files/otim2/anotacoes/10.regiao_confianca.pdf)]
@@ -206,7 +206,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   - [Site do desenvolvedor](https://worhp.de/)
   - [Principal referência bibliográfica do pacote](https://link.springer.com/chapter/10.1007%2F978-1-4614-4469-5_4)
   - Outra referência com [acesso livre](https://www.math.uni-bremen.de/zetem/cms/media.php/279/2546042wassel.pdf)
-  - [**Roteiro para instalar o WORHP e usá-lo no Julia**](/files/otim2/worhp.txt)
+  - [**Roteiro para instalar o WORHP e usá-lo no Julia (testado em nov/2023)**](/files/otim2/worhp.txt)
   - **Exercicios:** veja LISTA 4
 
 - (**Conteúdo extra**) Pacote proprietário com versão de demonstração junto ao [AMPL](https://ampl.com/products/solvers/solvers-we-sell/): [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
@@ -224,7 +224,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Dualidade em programação não linear
 
-*Referência 1: [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)*
+*Referência 1: [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)*  
 *Referência 2: Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008*
 
 - Dualidade em Programação Não Linear, parte 1 [[**QUADRO**](/files/otim2/6.1.Dualidade1.pdf)]
