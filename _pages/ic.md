@@ -85,7 +85,7 @@ O grupo de otimização da UFES, campus São Mateus, disponha de um computador d
 
 ### concluídas
 
-1. 2023 (TCC). Uma abordagem ao problema de roteamento de veículos com janelas de tempo usando meta-heurísticas  
+1. 2023 (TCC). [Uma abordagem ao problema de roteamento de veículos com janelas de tempo usando meta-heurísticas](/files/ic-tcc/TCC_Wisley_Kenede.pdf)  
    Estudante: Wisley Kenede Pereira de Jesus
 1. 2023 (IC). O método do gradiente espectral projetado e variantes para minimização com restrições convexas  
    Estudante: Pedro Henrique Fischer Ferreira  
