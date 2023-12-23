@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-- Terças-feiras de 16:00 as 18:00 (Sala 4 Eixo 3)
-- Sextas-feiras de 12:00 as 14:00 (Sala 3 Eixo 1)
+- --- <!--Terças-feiras de 16:00 as 18:00 (Sala 4 Eixo 3)-->
+- --- <!--Sextas-feiras de 12:00 as 14:00 (Sala 3 Eixo 1)-->
 
 
 ## [Ementa e programa](https://matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Pesquisa%20Operacional%20II%20-%20DMA12297.pdf)
@@ -43,16 +43,16 @@ author_profile: true
 - provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
 
 
-## Avaliações
+<!-- ## Avaliações -->
 
-- **Trabalho**
+<!--- **Trabalho**
   - Veja a [descrição dos trabalhos](https://drive.google.com/file/d/1dU8AoopY72hxBZwnUw0L8GtP0EvA1KNw/view?usp=sharing)
   - Valor: 10,0 pontos
   - **Data limite: 10/12/23**
   - Trabalhos por estudante:
     - Trabalho A: João Pedro. [Baixar ZIP](https://drive.google.com/file/d/1d1JNmtltMY1HiTOCGrD1hJ7Rb5-cz3wF/view?usp=sharing)
     - Trabalho B: Kely. [Baixar ZIP](https://drive.google.com/file/d/1_dA2vaVaTaQGKPFU4ZjBo9Z3ptIZ75yc/view?usp=sharing)
-    - Trabalho C: Douglas. [Baixar ZIP](https://drive.google.com/file/d/1X_s-8cko_92egBOd5zlYMQ6mC1Flskpj/view?usp=sharing)
+    - Trabalho C: Douglas. [Baixar ZIP](https://drive.google.com/file/d/1X_s-8cko_92egBOd5zlYMQ6mC1Flskpj/view?usp=sharing)-->
 
 <!--- **Avaliação 2**
   - FORMA DE AVALIAÇÃO
@@ -81,6 +81,7 @@ author_profile: true
 
 
 ## Conteúdo
+
 
 ### A linguagem de programação Julia
 

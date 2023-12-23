@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-- Terças-feiras de 12:00 as 14:00 (Sala 4 Eixo 3)
-- Sextas-feiras de 16:00 as 18:00 (Sala 3 Eixo 1)
+- --- <!--Terças-feiras de 12:00 as 14:00 (Sala 4 Eixo 3)-->
+- --- <!--Sextas-feiras de 16:00 as 18:00 (Sala 3 Eixo 1)-->
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
@@ -50,25 +50,25 @@ author_profile: true
 - provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
 
 
-## Avaliações
+<!-- ## Avaliações -->
 
-- **Avaliação 1**
-  - **Prova escrita**
-  - Conteúdo: condições KKT, penalidade externa e Lagrangiano aumentado
+<!-- - **Avaliação 1** -->
+<!--   - **Prova escrita** -->
+<!--   - Conteúdo: condições KKT, penalidade externa e Lagrangiano aumentado -->
 <!--   - Tarefas: exercícios 5 e 7 da [lista 0](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing); exercícios 1, 3, 4, 5, 6, 7 da [lista 1](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing) -->
-  - Valor: 10,0 pontos
-  - **Data: 06/10/23 (sexta-feira)**
+<!--   - Valor: 10,0 pontos -->
+<!--   - **Data: 06/10/23 (sexta-feira)** -->
 <!--   - Entregar resolução escrita à mão. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com -->
 <!--   - O trabalho é individual. Cópias receberão nota zero. -->
 
-- **Avaliação 2**
+<!--- **Avaliação 2**
   - **Lista de exercícios**
   - Conteúdo: penalização interna, regiões de confiança
   - Tarefas: exercícios 2, 3, 5, 6 e 8 da [lista 2](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing); exercícios 2, 3 da [lista 3](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing)
   - Valor: 12,0 pontos, distribuídos considerando a dificuldade de cada exercício
   - **Data limite: 03/12/23**
   - Entregar resolução escrita à mão ou escaneadas para o email secchinleo@gmail.com. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
-  - O trabalho é individual. **CÓPIAS RECEBERÃO NOTA ZERO.**
+  - O trabalho é individual. **CÓPIAS RECEBERÃO NOTA ZERO.**-->
 
 <!-- - **Avaliação 3** -->
 <!--   - FORMA DE AVALIAÇÃO -->
@@ -76,11 +76,11 @@ author_profile: true
 <!--   - Valor: 10,0 pontos -->
 <!--   - **Data: ----** -->
 
-- **PROVA FINAL**
+<!--- **PROVA FINAL**
   - **Prova escrita**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
-  - **Data: 19/12/23 (terça-feira)**
+  - **Data: 19/12/23 (terça-feira)**-->
 
 
 <!-- ## Critérios para aprovação -->
