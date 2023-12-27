@@ -58,5 +58,3 @@ author_profile: true
 - [Vídeos do Centro de Ciências Matemáticas Aplicadas à Indústria – CEPID CeMEAI](https://www.youtube.com/channel/UCWyGvB0wy9qRCyRFKK41gUg)
 - [Vídeos Instituto Matemática e Computação Científica (IMECC) – Unicamp](https://www.youtube.com/channel/UCuIreVLerOxz20iOiiNZNAw)
 - [Vídeos do Prof. José Mario Martínez (Unicamp)](https://www.youtube.com/channel/UCUrtvwe5cvgzuMY8w7rgLjQ)
-- [Seminários grupo de otimização Unicamp](http://www.ime.unicamp.br/~martinez/seminarios.html)
-- [Vídeos IMECC no facebook](https://www.facebook.com/pg/IMECCUnicampBR/videos/?ref=page_internal)
