@@ -30,7 +30,7 @@ echo "======================================================="
 
 URLgithub=$(curl -I -s https://github.com/JuliaLang/julia/releases/latest | grep "location")
 
-ULTIMAVERSAO=$(echo $URLgithub | cut -c 60-64)
+ULTIMAVERSAO=$(echo $URLgithub | cut -c 60-65)
 
 echo
 echo "Última versão estável detectada: $ULTIMAVERSAO (verifique se o formato é correto)"
@@ -51,7 +51,7 @@ cd ~
 
 rm -f julia-$VERSAO-linux-x86_64.tar.gz*
 # baixa o Julia pré-compilado
-if ! wget https://julialang-s3.julialang.org/bin/linux/x64/$(echo $VERSAO | cut -c 1-3)/julia-$VERSAO-linux-x86_64.tar.gz; then
+if ! wget https://julialang-s3.julialang.org/bin/linux/x64/$(echo $VERSAO | cut -c 1-4)/julia-$VERSAO-linux-x86_64.tar.gz; then
     echo
     echo "URL não encontrada! Verifique se a versão existe. Caso afirmativo, você poderá ter que ajustar a URL no script."
     echo
