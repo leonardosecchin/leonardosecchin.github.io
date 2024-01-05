@@ -17,6 +17,10 @@ author_profile: true
 
 ## Submitted articles
 
+1. **A relaxed quasinormality condition and the boundedness of dual augmented Lagrangian sequences** [[preprint](https://optimization-online.org/?p=25207)]  
+   R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin  
+   2024
+
 1. **On enhanced KKT optimality conditions for smooth nonlinear optimization** [[preprint](https://optimization-online.org/?p=21206)]  
    R. Andreani, M. L. Schuverdt, L. D. Secchin  
    2022
