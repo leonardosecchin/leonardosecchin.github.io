@@ -21,7 +21,7 @@ author_profile: true
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin  
    2024
 
-1. **Strong global convergence properties of algorithms for nonlinear symmetric cone programming** <!--[[preprint]()]-->  
+1. **Strong global convergence properties of algorithms for nonlinear symmetric cone programming** [[preprint](https://optimization-online.org/?p=25213)]  
    R. Andreani, G. Haeser, A. Ramos, D. O. Santos, L. D. Secchin, A. Serranoni  
    2024
 
