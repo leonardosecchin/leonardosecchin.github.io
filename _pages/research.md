@@ -48,7 +48,7 @@ If you are unable to download a paper, please email me.
 
 1. **Optimality conditions for nonlinear second-order cone programming and symmetric cone programming** [[doi](https://doi.org/10.1007/s10957-023-02338-6)] [[preprint](http://www.optimization-online.org/DB_HTML/2019/10/7436.html)]  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
-   To appear in Journal of Optimization Theory and Applications, 2023
+   Journal of Optimization Theory and Applications, 200:1-33, 2024
 
 1. **An extended delayed weighted gradient algorithm for solving strongly convex optimization problems** [[doi](https://doi.org/10.1016/j.cam.2022.114525)] [[preprint](http://www.optimization-online.org/DB_HTML/2021/09/8591.html)]  
    R. Andreani, H. Oviedo, M. Raydan, L. D. Secchin  
