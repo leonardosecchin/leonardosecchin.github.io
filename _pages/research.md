@@ -25,10 +25,6 @@ author_profile: true
    R. Andreani, G. Haeser, A. Ramos, D. O. Santos, L. D. Secchin, A. Serranoni  
    2024
 
-1. **On enhanced KKT optimality conditions for smooth nonlinear optimization** [[preprint](https://optimization-online.org/?p=21206)]  
-   R. Andreani, M. L. Schuverdt, L. D. Secchin  
-   2022
-
 1. **A practical second-order optimality condition for cardinality-constrained problems with application to an augmented Lagrangian method** [[preprint](http://www.optimization-online.org/DB_HTML/2022/04/8880.html)]  
    J. C. A. Medeiros, A. A. Ribeiro, M. Sachine, L. D. Secchin  
    2022
@@ -41,6 +37,10 @@ author_profile: true
 ## Published papers and articles in press
 
 If you are unable to download a paper, please email me.
+
+1. **On enhanced KKT optimality conditions for smooth nonlinear optimization** [[preprint](https://optimization-online.org/?p=21206)]  
+   R. Andreani, M. L. Schuverdt, L. D. Secchin  
+   To appear in SIAM Journal on Optimization, 2024
 
 1. **Secant-inexact projection algorithms for solving a new class of constrained mixed generalized equations problems** [[doi](https://doi.org/10.1016/j.cam.2023.115638)]  
    P. C. da Silva Junior, O. P. Ferreira, L. D. Secchin, G. N. Silva  
