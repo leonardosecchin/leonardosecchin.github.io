@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Laboratorio de matemática"
+title: "Laboratório de matemática"
 permalink: /laboratorio-de-matematica/
 author_profile: true
 ---

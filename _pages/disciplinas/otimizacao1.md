@@ -70,7 +70,6 @@ author_profile: true
 <!--   - **TAREFAS A SEREM ENTREGUES:** -->
 <!--     - exercícios 13.1, 13.6, 13.13 (livro de Ana Friedlander) -->
 <!--     - exercícios 2, 3, 8 ([Lista 4](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing)) -->
-  - Valor: 10,0 pontos
   - **Data: --**
 <!--   - *Entregar resolução por escrito* -->
 
