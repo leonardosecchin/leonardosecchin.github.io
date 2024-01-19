@@ -12,9 +12,9 @@ De acordo com a UFES,
 
 Nesse sentido, nas minhas orientações de iniciação científica (IC) procuro sugerir a leitura de artigos científicos e, dentro do possível, proponho temas não abordados nas disciplinas regulares da graduação.
 
-O(A) aluno(a) que deseja realizar trabalho de IC comigo poderá propor temas relacionados à otimização de acordo com suas habilidades e interesses. O(A) estudante que não tenha tema em mente pode me procurar também. Além de considerar seu conhecimento prévio, a escolha do tema levará em conta meus projetos de pesquisa, interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas, adequação do tema ao perfil de formação do egresso e quantidade de alunos que oriento. **É importante ficar atento(a) aos pré-requisitos (ver abaixo).** O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
+O(A) aluno(a) que deseja realizar trabalho de IC comigo poderá propor temas relacionados à otimização (preferencialmente não linear) de acordo com suas habilidades e interesses. O(A) estudante que não tenha tema em mente pode me procurar também. Havendo disponibilidade para novas orientações, a escolha do tema levará em conta o conhecimento prévio do(a) estudante, meus projetos de pesquisa, meus interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas e adequação do tema ao perfil de formação do egresso. **É importante ficar atento(a) aos pré-requisitos (ver abaixo).** O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
 
-O **Trabalho de Conclusão de Curso (TCC)** é elemento curricular obrigatório dos cursos de graduação. A escolha do tema e o modo de orientação são semelhantes à IC. O TCC pode ser um trabalho complementar à uma IC prévia, estar ligado ao estágio curricular, ou ainda ser um trabalho realizado do zero, caso em que é desejável o(a) aluno(a) procurar-me com 1 ano de antecedência. Diferentemente da IC, não há bolsa para realização de TCC.
+O **Trabalho de Conclusão de Curso (TCC)** é elemento curricular obrigatório dos cursos de graduação. A escolha do tema e o modo de orientação são semelhantes à IC. O TCC pode ser um trabalho complementar à uma IC prévia, estar ligado ao estágio curricular, ou ainda ser um trabalho realizado do zero, caso em que é desejável o(a) aluno(a) procurar-me com 1 ano de antecedência. Diferentemente da IC, não há possibilidade de bolsa para realização de TCC.
 
 
 ## Pré-requisitos para IC
@@ -24,7 +24,7 @@ Pré-requisitos para qualquer projeto:
 - ter capacidade de **programar em computador**. A **linguagem de programação Julia** é a preferência em quase todos os casos (veja a seção "Linguagens de programação" abaixo);
 - ter capacidade de **ler e entender textos em inglês**, já que as referências são em grande parte escritas na língua. Não é necessário saber escrever ou falar inglês;
 - ter bom desempenho acadêmico nas disciplinas de otimização/pesquisa operacional cursadas;
-- ter disponibilidade de **20h semanais para as atividades da IC**. O(A) estudante não poderá se abster das atividades da IC em hipótese alguma, **indpendentemente da quantidade de atividades diversas ou disciplinas em que esteja matriculado**.
+- ter disponibilidade de **20h semanais para as atividades da IC**. O(A) estudante não poderá se abster das atividades da IC em hipótese alguma, **indpendentemente da quantidade de atividades diversas ou disciplinas em que esteja matriculado(a)**.
 
 Condições desejáveis:
 - ter cursado "Otimização 2" (Matemática Industrial). Em determinados anos **pode ser obrigatório** a depender dos projetos que tenho a disposição.
@@ -32,18 +32,18 @@ Condições desejáveis:
 **Pré-requisito para CONCORRER À BOLSA de IC (PIBIC):**
 - ter coeficiente de rendimento médio igual ou superior a 7,0 (sete), comprovado em histórico escolar atualizado.
 
-*O(A) estudante que não atender aos pré-requisitos para concorrer à bolsa mas atender aos pré-requisitos gerais será enquadrado(a) na modalidade voluntário (PIVIC).*
+*O(A) estudante que não atender aos pré-requisitos para concorrer à bolsa mas cumprir os pré-requisitos gerais será enquadrado(a) na modalidade voluntário (PIVIC).*
 
 *O(A) estudante que, ao longo da IC, apresentar desempenho insatisfatório poderá ter sua IC cancelada por parte do orientador. Neste caso, não terá direito à certificado.*
 
-*O(A) estudante que alegar atender aos pré-requisitos não poderá alegar o contrário posteriormente.*
+*O(A) estudante que alegar atender aos pré-requisitos quando da submissão do projeto não poderá alegar o contrário posteriormente.*
 
 
 ## Pré-requisitos para TCC
 
 - no caso de estudantes de Matemática Industrial, ter sido aprovado(a) nas disciplinas de Otimização e Pesquisa Operacional com bom desempenho;
-- é desejável procurar-me 1 ano antes da data de defesa pretendida, sobretudo se o(a) estudante não tem um tema maduro com o qual já tenha trabalhado. Caso já seja aluno(a) de IC, uma opção é fazer o TCC após a IC, no mesmo tema, como complemento do trabalho de iniciação científica. Neste caso, o TCC geralmente é feito em um único semestre. Algo semelhante vale para estudantes de estágio, a depender do trabalho prévio realizado;
-- quando for defender o TCC, estar matriculado na disciplina "TCC" ou equivalente no respectivo semestre letivo. Essa é uma condição exigida pelos cursos de graduação para defesa.
+- é desejável procurar-me 1 ano antes da data de defesa pretendida, sobretudo se o(a) estudante não tem um tema maduro com o qual já tenha trabalhado. Caso já seja aluno(a) de IC, uma opção é fazer o TCC após a IC, no mesmo tema, como complemento do trabalho de IC. Neste caso, o TCC geralmente é feito em um único semestre. Algo semelhante vale para estudantes de estágio, a depender do trabalho prévio realizado;
+- quando for defender o TCC, estar matriculado na disciplina "TCC" ou equivalente caso exigido pelo respectivo Colegiado de curso.
 
 
 ## Linguagens de programação
