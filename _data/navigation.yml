@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: research/
 
-  - title: "Software"
-    url: software/
+  - title: "Code"
+    url: code/
 
   - title: "Ensino"
     url: ensino/
