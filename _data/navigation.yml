@@ -9,11 +9,8 @@ main:
   - title: "Ensino"
     url: ensino/
         
-  - title: "Iniciação Científica/TCC"
+  - title: "IC/TCC"
     url: ic/
-    
-  - title: "Servidor Otim."
-    url: https://otimizacaoufes.github.io
     
   - title: "Misc."
     url: misc/
