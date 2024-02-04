@@ -121,3 +121,9 @@ If you are unable to download a paper, please email me.
 1. **Karush-Kuhn-Tucker Conditions** [[PDF](/files/kkt_ifors.pdf)]  
    M. L. Schuverdt, L. D. Secchin  
    IFORS News, 16(2):16-18, June 2021, ISSN 2223-4373
+
+
+### Funding
+
+- 2019-2021. Fundação de Amparo à Pesquisa e Inovação do Espírito Santo - FAPES (grant 116/2019)
+- 2022-present. National Council for Scientific and Technological Development - CNPq (grant 309136/2021-0)
