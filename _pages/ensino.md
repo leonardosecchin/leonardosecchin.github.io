@@ -7,7 +7,7 @@ author_profile: true
 
 ## DISCIPLINAS 2024/1
 
-- [**Matemática Industrial**  
+- [**(Introdução à) Matemática Industrial**  
   (Matemática Industrial, 1o e 7o períodos)](/matind/)
 
 

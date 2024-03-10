@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Matemática Industrial"
+title: "(Introdução à) Matemática Industrial"
 permalink: /matind/
 author_profile: true
 ---
@@ -23,13 +23,14 @@ author_profile: true
 
 ## Objetivos da disciplina
 
-- Motivar e promover a reflexão sobre a atuação do matemático na resolução de problemas reais
+- Motivar e promover a reflexão sobre a atuação do matemático na sociedade e na resolução de problemas reais
 - Estudar artigos científicos de variados temas e problemas no contexto industrial relacionados à conteúdos do curso
-- Reproduzir, na medida do possível, casos de aplicação da matemática para a resolução de variados problemas
+- Reproduzir, na medida do possível, casos de aplicação da matemática para a resolução de problemas variados
 - Sugerir ou acompanhar temas de interesse para TCC/IC (7o período)
+- Desenvolver atividades de extensão (1o período)
 
 
-## Textos de referência
+## Textos de apoio
 
 - Artigos científicos a serem escolhidos pelo professor
 - Friedman, A.; Littman, W. Industrial Mathematics - A course in Solving Real-World Problems, SIAM, 1994
@@ -49,7 +50,7 @@ author_profile: true
 
 ## Formas de avaliação
 
-- participação nas aulas e discussões, apresentações orais
+- Participação nas aulas e discussões, apresentações orais e produção de relatórios
 
 
 <!-- ## Avaliações -->
