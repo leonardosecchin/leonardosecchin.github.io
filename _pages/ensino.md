@@ -5,7 +5,10 @@ permalink: /ensino/
 author_profile: true
 ---
 
-<!-- ## DISCIPLINAS 2023/2 -->
+## DISCIPLINAS 2024/1
+
+- [**Matemática Industrial**  
+  (Matemática Industrial, 1o e 7o períodos)](/matind/)
 
 
 ## A linguagem de programação Julia
