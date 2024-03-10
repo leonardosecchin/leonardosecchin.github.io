@@ -99,3 +99,19 @@ author_profile: true
 
 - Discussão sobre a atuação do "matemático aplicado"
 - -->
+
+## Sociedades e Institutos de Matemática Aplicada no mundo
+
+- [Sociedade Brasileira de Matemática Aplicada e Computacional - SBMAC](https://www.sbmac.org.br/)
+- [Society for Industrial and Applied Mathematic - SIAM](https://siam.org/)
+- [Canadian Applied and Industrial Mathematics Society - CAIMS](https://caims.ca/)
+- [Courant Institute of Mathematical Sciences](http://www.cims.nyu.edu/)
+- [Massachusetts Institute of Technology - MIT](https://www.mit.edu/)
+- [The International Council for Industrial and Applied Mathematics - ICIAM](https://iciam.org/)
+
+## Eventos de Matemática Aplicada à Indústria
+
+- [Congresso Nacional de Matemática Aplicada e Computacional (CNMAC)](https://www.cnmac.org.br/)
+- [Workshop de Soluções Matemáticas para Problemas Industriais - CeMEAI/USP](https://cemeai.icmc.usp.br/WSMPI/)
+- [Congressos da ICIAM](https://iciam.org/iciam-congresses)
+- [Congressos da SIAM](https://www.siam.org/conferences/calendar)
