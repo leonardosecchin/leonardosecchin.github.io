@@ -1,24 +1,24 @@
 ---
 layout: archive
-title: "(Introdução à) Matemática Industrial"
+title: "Introdução à Matemática Industrial"
 permalink: /matind/
 author_profile: true
 ---
 
 ## Horários das aulas
 
-**1o período:**
+<!-- **1o período:** -->
 
 - Segundas-feiras de 13:00 as 15:00 (Sala 12 Eixo 1)
 - Terças-feiras de 16:00 as 18:00 (Sala 08 Eixo 1)
 
-**7o período:**
+<!--**7o período:**
 
 - Terças-feiras de 14:00 as 16:00 (Sala 11 Eixo 3)
-- Quintas-feiras de 13:00 as 15:00 (Sala 14 Eixo 3)
+- Quintas-feiras de 13:00 as 15:00 (Sala 14 Eixo 3)-->
 
 
-## [Ementa e programa (7o período)](https://matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Matem%c3%a1tica%20Industrial%20-%20DMA12413.pdf)
+<!-- ## [Ementa e programa (7o período)](https://matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Matem%c3%a1tica%20Industrial%20-%20DMA12413.pdf) -->
 
 
 ## Objetivos da disciplina
@@ -30,17 +30,17 @@ author_profile: true
 - Desenvolver atividades de extensão (1o período)
 
 
-## Textos de apoio
+<!-- ## Textos de apoio -->
 
-- Artigos científicos a serem escolhidos pelo professor
-- Friedman, A.; Littman, W. Industrial Mathematics - A course in Solving Real-World Problems, SIAM, 1994
-- Burkard, R. et al. Computational Mathematics Driven By Industrial Problems. Lectures Notes in Mathematics, Springer, 1999
-- Schmidt, A.; Narimanyan, A. Advanced Numerical Methods and Their Applications to Industrial Problems. Center for Industrial Mathematics University of Bremen, Bremen, Germany, 2004
+<!-- - Artigos científicos a serem escolhidos pelo professor -->
+<!-- - Friedman, A.; Littman, W. Industrial Mathematics - A course in Solving Real-World Problems, SIAM, 1994 -->
+<!-- - Burkard, R. et al. Computational Mathematics Driven By Industrial Problems. Lectures Notes in Mathematics, Springer, 1999 -->
+<!-- - Schmidt, A.; Narimanyan, A. Advanced Numerical Methods and Their Applications to Industrial Problems. Center for Industrial Mathematics University of Bremen, Bremen, Germany, 2004 -->
 
 
-## Artigos científicos selecionados
+<!-- ## Artigos científicos selecionados -->
 
---
+<!-- -- -->
 
 ## Canais de acesso
 

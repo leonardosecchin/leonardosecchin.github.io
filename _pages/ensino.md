@@ -7,8 +7,8 @@ author_profile: true
 
 ## DISCIPLINAS 2024/1
 
-- [**(Introdução à) Matemática Industrial**  
-  (Matemática Industrial, 1o e 7o períodos)](/matind/)
+- [**Introdução à Matemática Industrial**  
+  (Matemática Industrial)](/matind/)
 
 
 ## A linguagem de programação Julia
