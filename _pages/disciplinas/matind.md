@@ -26,8 +26,8 @@ author_profile: true
 - Motivar e promover a reflexão sobre a atuação do matemático na sociedade e na resolução de problemas reais
 - Estudar artigos científicos de variados temas e problemas no contexto industrial relacionados à conteúdos do curso
 - Reproduzir, na medida do possível, casos de aplicação da matemática para a resolução de problemas variados
-- Sugerir ou acompanhar temas de interesse para TCC/IC (7o período)
-- Desenvolver atividades de extensão (1o período)
+<!-- - Sugerir ou acompanhar temas de interesse para TCC/IC (7o período) -->
+- Desenvolver atividades de extensão
 
 
 <!-- ## Textos de apoio -->
