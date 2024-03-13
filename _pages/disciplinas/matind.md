@@ -7,15 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-<!-- **1o período:** -->
-
 - Segundas-feiras de 13:00 as 15:00 (Sala 12 Eixo 1)
 - Terças-feiras de 16:00 as 18:00 (Sala 08 Eixo 1)
-
-<!--**7o período:**
-
-- Terças-feiras de 14:00 as 16:00 (Sala 11 Eixo 3)
-- Quintas-feiras de 13:00 as 15:00 (Sala 14 Eixo 3)-->
 
 
 <!-- ## [Ementa e programa (7o período)](https://matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Matem%c3%a1tica%20Industrial%20-%20DMA12413.pdf) -->
@@ -26,7 +19,6 @@ author_profile: true
 - Motivar e promover a reflexão sobre a atuação do matemático na sociedade e na resolução de problemas reais
 - Estudar artigos científicos de variados temas e problemas no contexto industrial relacionados à conteúdos do curso
 - Reproduzir, na medida do possível, casos de aplicação da matemática para a resolução de problemas variados
-<!-- - Sugerir ou acompanhar temas de interesse para TCC/IC (7o período) -->
 - Desenvolver atividades de extensão
 
 
@@ -37,10 +29,6 @@ author_profile: true
 <!-- - Burkard, R. et al. Computational Mathematics Driven By Industrial Problems. Lectures Notes in Mathematics, Springer, 1999 -->
 <!-- - Schmidt, A.; Narimanyan, A. Advanced Numerical Methods and Their Applications to Industrial Problems. Center for Industrial Mathematics University of Bremen, Bremen, Germany, 2004 -->
 
-
-<!-- ## Artigos científicos selecionados -->
-
-<!-- -- -->
 
 ## Canais de acesso
 
@@ -93,12 +81,40 @@ author_profile: true
 
 ## Tarefas
 
---
+Em breve
 
-<!--## Plano
+## Tópicos abordados nas aulas
 
-- Discussão sobre a atuação do "matemático aplicado"
-- -->
+*12/03/24 a 19/03/24*
+
+- Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
+- Exemplos
+  - [Dinâmica populacional](https://pt.wikipedia.org/wiki/Din%C3%A2mica_populacional)
+    - Modelo predador-presa
+    - Modelos de propagação do COVID-19
+  - Simulação de fenômenos físicos
+    - [Dinâmica de Fluidos (ou Mecânica do Fluidos)](https://impa.br/pesquisa/dinamica-dos-fluidos/)
+  - Problemas de otimização e pesquisa operacional
+    - [Roteamento (de veículos)](https://pt.wikipedia.org/wiki/Problema_de_roteamento_de_ve%C3%ADculos)
+    - [Confecção de grade de horários escolares](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_4479_relatorio.pdf)
+    - Problemas de logística
+    - etc...
+- Uso do computador na resolução de problemas
+- [Algoritmos](https://pt.wikipedia.org/wiki/Algoritmo)
+  - Um exemplo de algoritmo iterativo simples para minimizar funções
+  - Discussão de testes simples no computador
+  - O suporte teórico para o funcionamento de algoritmos: um dos papéis de um matemático aplicado
+
+*No radar*
+
+- Hoje em dia, novas descobertas são feitas em matemática?
+- Como se divulga a ciência produzida pela humanidade (em particular, em matemática)?
+  - Revistas científicas
+  - Eventos/Congressos científicos
+  - Como o valor de uma descoberta científica é comprovada?
+  - Exemplos de como novas descobertas foram aplicadas na resolução de problemas reais
+- Matemática no aprendizado de máquina supervisionado (*supervised machine learning*)
+
 
 ## Sociedades e Institutos de Matemática Aplicada no mundo
 

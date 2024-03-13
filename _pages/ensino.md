@@ -9,6 +9,8 @@ author_profile: true
 
 - [**Introdução à Matemática Industrial**  
   (Matemática Industrial)](/matind/)
+- [**Otimização 1**  
+  (Matemática Industrial)](/otimizacao1/)
 
 
 ## A linguagem de programação Julia
