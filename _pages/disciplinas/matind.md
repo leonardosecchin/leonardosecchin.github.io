@@ -104,16 +104,19 @@ Em breve
   - Um exemplo de algoritmo iterativo simples para minimizar funções
   - Discussão de testes simples no computador
   - O suporte teórico para o funcionamento de algoritmos: um dos papéis de um matemático aplicado
-
-*No radar*
-
 - Hoje em dia, novas descobertas são feitas em matemática?
 - Como se divulga a ciência produzida pela humanidade (em particular, em matemática)?
   - Revistas científicas
   - Eventos/Congressos científicos
   - Como o valor de uma descoberta científica é comprovada?
   - Exemplos de como novas descobertas foram aplicadas na resolução de problemas reais
+
+*No radar*
+
 - Matemática no aprendizado de máquina supervisionado (*supervised machine learning*)
+- Apresentação aluno Pedro Henrique Fischer (TCC)
+- Apresentação aluno Pedro Lucas (projeto IC)
+- Apresentação aluna Carolina (projeto Mexilhões)
 
 
 ## Sociedades e Institutos de Matemática Aplicada no mundo
