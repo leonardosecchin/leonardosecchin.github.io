@@ -113,6 +113,7 @@ Em breve
 
 *No radar*
 
+- Discussão aplicações da matemática - contribuições trazidas pelos alunos
 - Matemática no aprendizado de máquina supervisionado (*supervised machine learning*)
 - Apresentação aluno Pedro Henrique Fischer (TCC)
 - Apresentação aluno Pedro Lucas (projeto IC)
