@@ -88,7 +88,7 @@ Em breve
 *12/03/24 a 19/03/24*
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
-- Exemplos
+- Exemplos de aplicações
   - [Dinâmica populacional](https://pt.wikipedia.org/wiki/Din%C3%A2mica_populacional)
     - Modelo predador-presa
     - Modelos de propagação do COVID-19
@@ -99,12 +99,15 @@ Em breve
     - [Confecção de grade de horários escolares](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_4479_relatorio.pdf)
     - Problemas de logística
     - etc...
-- Uso do computador na resolução de problemas
+- Uso do computador na resolução de problemas: será frequente durante o curso!
 - [Algoritmos](https://pt.wikipedia.org/wiki/Algoritmo)
   - Um exemplo de algoritmo iterativo simples para minimizar funções
   - Discussão de testes simples no computador
   - O suporte teórico para o funcionamento de algoritmos: um dos papéis de um matemático aplicado
-- Hoje em dia, novas descobertas são feitas em matemática?
+    - O matemático tem a capacidade de criar algoritmos...
+    - também de mostrar ou pelo menos sugerir sob quais condições ele funciona...
+    - para tanto, alia argumentos matemáticos com testes numéricos em computador!
+- Hoje em dia, novas descobertas são feitas em matemática? SIM!!!
 - Como se divulga a ciência produzida pela humanidade (em particular, em matemática)?
   - [Revistas científicas](https://ciencia.ufla.br/todos-livros/566-a-importancia-da-comunicacao-e-divulgacao-da-ciencia)
     - Revistas de **comunicação científica** (comunicação de alto nível técnico, direcionado à comunidade científica especializada)
@@ -115,16 +118,19 @@ Em breve
       - [Revista FAPESP (instituições de SP)](https://revistapesquisa.fapesp.br/)
       - [Ciência Hoje](https://cienciahoje.org.br/)
       - [Iniciativas de divulgação científica promovidas pelo IMPA (Instituto de Matemática Pura e Aplicada)](https://impa.br/divulgacao/)
-  - Eventos/Congressos científicos (direcionados à divulgação interna à comunidade científica). Exemplos no fim
+  - Eventos/Congressos científicos (direcionados à divulgação interna à comunidade científica). Veja exemplos no fim desta página
   - Exemplos de como novas descobertas foram aplicadas na resolução de problemas reais
 
 *No radar*
 
-- Discussão aplicações da matemática - contribuições trazidas pelos alunos
+- Discussão aplicações da matemática - contribuições dos alunos
 - Matemática no aprendizado de máquina supervisionado (*supervised machine learning*)
 - Apresentação aluno Pedro Henrique Fischer (TCC)
 - Apresentação aluno Pedro Lucas (projeto IC)
 - Apresentação aluna Carolina (projeto Mexilhões)
+
+## Discussão aplicações da matemática - contribuições dos alunos
+- (Caio) [Saber matemática é cada dia mais importante para os médicos](https://ensinoepesquisa.einstein.br/fiquepordentro/noticia/saber-matematica-e-cada-dia-mais-importante-para-os-medicos#:~:text=O%20aprendizado%20da%20interpreta%C3%A7%C3%A3o%20dos,os%20profissionais%20envolvidos%20em%20pesquisa.)
 
 
 ## Sociedades e Institutos de Matemática Aplicada no mundo
