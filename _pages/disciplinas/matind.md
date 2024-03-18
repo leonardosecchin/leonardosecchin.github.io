@@ -106,11 +106,11 @@ Em breve
   - O suporte teórico para o funcionamento de algoritmos: um dos papéis de um matemático aplicado
 - Hoje em dia, novas descobertas são feitas em matemática?
 - Como se divulga a ciência produzida pela humanidade (em particular, em matemática)?
-  - Revistas científicas: [texto 1](https://ciencia.ufla.br/todos-livros/566-a-importancia-da-comunicacao-e-divulgacao-da-ciencia)
-    - Revistas de comunição científica (comunicação de alto nível técnico, direcionado à comunidade científica especializada)
+  - [Revistas científicas](https://ciencia.ufla.br/todos-livros/566-a-importancia-da-comunicacao-e-divulgacao-da-ciencia)
+    - Revistas de **comunicação científica** (comunicação de alto nível técnico, direcionado à comunidade científica especializada)
       - Exemplo de revista da área de matemática aplicada: [Computational and Applied Mathematics](https://link.springer.com/journal/40314/volumes-and-issues)
       - Processo de validação de um trabalho científico por especialistas: [revisão por pares](https://www.springer.com/br/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/peer-review-process/12011818#:~:text=A%20revis%C3%A3o%20por%20pares%20%C3%A9,oferecem%20aconselhamento%20gratuito%20aos%20autores.)
-    - Exemplos de revistas de divulgação científica (linguajar acessível direcionado à sociedade em geral)
+    - Exemplos de revistas de **divulgação científica** (linguajar acessível direcionado à sociedade em geral)
       - [Revista Universidade (UFES)](https://blog.ufes.br/revistauniversidade/)
       - [Revista FAPESP (instituições de SP)](https://revistapesquisa.fapesp.br/)
       - [Ciência Hoje](https://cienciahoje.org.br/)
