@@ -106,9 +106,16 @@ Em breve
   - O suporte teórico para o funcionamento de algoritmos: um dos papéis de um matemático aplicado
 - Hoje em dia, novas descobertas são feitas em matemática?
 - Como se divulga a ciência produzida pela humanidade (em particular, em matemática)?
-  - Revistas científicas
-  - Eventos/Congressos científicos
-  - Como o valor de uma descoberta científica é comprovada?
+  - Revistas científicas: [texto 1](https://ciencia.ufla.br/todos-livros/566-a-importancia-da-comunicacao-e-divulgacao-da-ciencia)
+    - Revistas de comunição científica (comunicação de alto nível técnico, direcionado à comunidade científica especializada)
+      - Exemplo de revista da área de matemática aplicada: [Computational and Applied Mathematics](https://link.springer.com/journal/40314/volumes-and-issues)
+      - Processo de validação de um trabalho científico por especialistas: [revisão por pares](https://pt.wikipedia.org/wiki/Revis%C3%A3o_por_pares)
+    - Exemplos de revistas de divulgação científica (linguajar acessível direcionado à sociedade em geral)
+      - [Revista Universidade (UFES)](https://blog.ufes.br/revistauniversidade/)
+      - [Revista FAPESP (instituições de SP)](https://revistapesquisa.fapesp.br/)
+      - [Ciência Hoje](https://cienciahoje.org.br/)
+      - [Iniciativas de divulgação científica promovidas pelo IMPA (Instituto de Matemática Pura e Aplicada)](https://impa.br/divulgacao/)
+  - Eventos/Congressos científicos (direcionados à divulgação interna à comunidade científica). Exemplos no fim
   - Exemplos de como novas descobertas foram aplicadas na resolução de problemas reais
 
 *No radar*
