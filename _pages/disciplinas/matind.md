@@ -85,7 +85,7 @@ Em breve
 
 ## Tópicos abordados nas aulas
 
-*12/03/24 a 19/03/24*
+*12/03/24 a 18/03/24*
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
 - Exemplos de aplicações
@@ -119,7 +119,19 @@ Em breve
       - [Ciência Hoje](https://cienciahoje.org.br/)
       - [Iniciativas de divulgação científica promovidas pelo IMPA (Instituto de Matemática Pura e Aplicada)](https://impa.br/divulgacao/)
   - Eventos/Congressos científicos (direcionados à divulgação interna à comunidade científica). Veja exemplos no fim desta página
-  - Exemplos de como novas descobertas foram aplicadas na resolução de problemas reais
+
+
+*19/03/24 - Exemplos de aplicação motivados pela matéria "Saber matemática é cada dia mais importante para os médicos"*
+
+- [PACKMOL](https://onlinelibrary.wiley.com/doi/10.1002/jcc.21224) - um *software* desenvolvido com parceria de matemáticos para configurações iniciais para simulações de dinâmica molecular
+  - [Vídeo](https://www.youtube.com/watch?v=SINkp_3yvi0)
+  - [Dinâmica molecular](https://pt.wikipedia.org/wiki/Din%C3%A2mica_molecular)
+  - [Dinâmica molecular: teoria e aplicações em planejamento de fármacos](https://www.scielo.br/j/eq/a/FKXQP7hsfpP3Sgzw4GL7Vkg/)
+- [O problema de alocação de salas em um corredor](https://doi.org/10.1016/j.cor.2012.04.016)
+- [Artigo científico sobre detecção de câncer por imagem usando aprendizado de máquina, co-autoria com ex-aluno do curso de Matemática Industrial](https://doi.org/10.1016/j.eswa.2023.122418)
+- [Exemplo de uso de simulação computacional na gestão hospitalar](https://www.aedb.br/seget/arquivos/artigos16/1424430.pdf)
+- [Vídeo com similação computacional da circulação sanguínea através de um aneurisma](https://www.youtube.com/watch?v=eBp0H7qvYQA)
+
 
 *No radar*
 
@@ -128,6 +140,7 @@ Em breve
 - Apresentação aluno Pedro Henrique Fischer (TCC)
 - Apresentação aluno Pedro Lucas (projeto IC)
 - Apresentação aluna Carolina (projeto Mexilhões)
+- Apresentação ex-aluno Matheus Becali (detecção de câncer por imagens)
 
 
 ## Discussão aplicações da matemática - contribuições dos alunos
