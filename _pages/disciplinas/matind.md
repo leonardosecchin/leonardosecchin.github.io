@@ -136,11 +136,14 @@ Em breve
 *No radar*
 
 - Discussão aplicações da matemática - contribuições dos alunos
+- Sistema presa-predador
 - Matemática no aprendizado de máquina supervisionado (*supervised machine learning*)
+- Softwares de simulação discreta
 - Apresentação aluno Pedro Henrique Fischer (TCC)
 - Apresentação aluno Pedro Lucas (projeto IC)
 - Apresentação aluna Carolina (projeto Mexilhões)
-- Apresentação ex-aluno Matheus Becali (detecção de câncer por imagens)
+- Apresentação aluna Douglas (projeto IC)
+- Apresentação ex-aluno Matheus Becali (detecção de câncer por imagem)
 
 
 ## Discussão aplicações da matemática - contribuições dos alunos
