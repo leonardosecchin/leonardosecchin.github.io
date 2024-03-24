@@ -133,10 +133,13 @@ Em breve
 - [Vídeo com similação computacional da circulação sanguínea através de um aneurisma](https://www.youtube.com/watch?v=eBp0H7qvYQA)
 
 
+*25/03/24*
+
+- [Modelagem de um sistema presa-predador simples](/files/matind/presa-predador.html)
+
 *No radar*
 
 - Discussão aplicações da matemática - contribuições dos alunos
-- Sistema presa-predador
 - Matemática no aprendizado de máquina supervisionado (*supervised machine learning*)
 - Softwares de simulação discreta
 - Apresentação aluno Pedro Henrique Fischer (TCC)
