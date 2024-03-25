@@ -135,7 +135,10 @@ Em breve
 
 *25/03/24*
 
-- [Modelagem de um sistema presa-predador simples](/files/matind/presa-predador.html)
+- Sistemas presa-predador
+  - [Vídeo](https://www.youtube.com/watch?v=cHLCAXY-ZTw)
+  - [Modelagem de um sistema presa-predador simples](/files/matind/presa-predador.html)
+
 
 *No radar*
 
