@@ -154,7 +154,7 @@ Em breve
 
 ## Discussão aplicações da matemática - contribuições dos alunos
 - (Caio) [Saber matemática é cada dia mais importante para os médicos](https://ensinoepesquisa.einstein.br/fiquepordentro/noticia/saber-matematica-e-cada-dia-mais-importante-para-os-medicos#:~:text=O%20aprendizado%20da%20interpreta%C3%A7%C3%A3o%20dos,os%20profissionais%20envolvidos%20em%20pesquisa.)
-- (Andre) [A matemática na produção e análise de alimentos](https://matematicax.com.br/a-matematica-na-producao-e-analise-de-alimentos/)
+- (André) [A matemática na produção e análise de alimentos](https://matematicax.com.br/a-matematica-na-producao-e-analise-de-alimentos/)
 
 
 ## Sociedades e Institutos de Matemática Aplicada no mundo
