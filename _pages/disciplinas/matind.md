@@ -140,6 +140,11 @@ Em breve
   - [Modelagem de um sistema presa-predador simples](/files/matind/presa-predador.html)
 
 
+**Apresentações de alunos do curso de Matemática Industrial:**
+
+- Douglas Santos Lacerda: "Introdução à epidemiologia matemática" - Segunda-feira (data a definir)
+
+
 *No radar*
 
 - Discussão aplicações da matemática - contribuições dos alunos
@@ -148,7 +153,6 @@ Em breve
 - Apresentação aluno Pedro Henrique Fischer (TCC)
 - Apresentação aluno Pedro Lucas (projeto IC)
 - Apresentação aluna Carolina (projeto Mexilhões)
-- Apresentação aluna Douglas (projeto IC)
 - Apresentação ex-aluno Matheus Becali (detecção de câncer por imagem)
 
 
