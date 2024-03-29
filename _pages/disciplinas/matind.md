@@ -17,7 +17,7 @@ author_profile: true
 ## Objetivos da disciplina
 
 - Motivar e promover a reflexão sobre a atuação do matemático na sociedade e na resolução de problemas reais
-- Estudar artigos científicos de variados temas e problemas no contexto industrial relacionados à conteúdos do curso
+- Estudar textos científicos de variados temas e problemas no contexto industrial relacionados à conteúdos do curso
 - Reproduzir, na medida do possível, casos de aplicação da matemática para a resolução de problemas variados
 - Desenvolver atividades de extensão
 
@@ -38,32 +38,9 @@ author_profile: true
 
 ## Formas de avaliação
 
-- Participação nas aulas e discussões, apresentações orais e produção de relatórios
-
-
-<!-- ## Avaliações -->
-
-<!-- - **Avaliação 1** -->
-<!--   - **Prova escrita** -->
-<!--   - Conteúdo: condições de otimalidade para otimização irrestrita, métodos de descida gerais (em particular, gradiente e Newton), convexidade -->
-<!--   - Valor: 10,0 pontos -->
-<!--   - **Data: --** -->
-
-<!-- - **Avaliação 2** -->
-<!--   - **Apresentação de trabalho computacional** -->
-<!--   - Conteúdo: método dos gradientes conjugados, métodos quase-Newton, método do gradiente espectral -->
-<!--   - Valor: 10,0 pontos -->
-<!--   - **Data: --** -->
-
-<!-- - **Avaliação 3** -->
-<!--   - **Lista de exercícios** -->
-<!--   - Conteúdo: otimização com restrições; método de restrições ativas -->
-<!--   - Valor: 10,0 pontos -->
-<!--   - **TAREFAS A SEREM ENTREGUES:** -->
-<!--     - exercícios 13.1, 13.6, 13.13 (livro de Ana Friedlander) -->
-<!--     - exercícios 2, 3, 8 ([Lista 4](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing)) -->
-<!--   - **Data: --** -->
-<!--   - *Entregar resolução por escrito* -->
+- Nota parcial 1: participação nas aulas e discussões
+- Nota parcial 2: relatório dos tópicos vistos em sala de aula, construído ao longo da disciplina
+- Nota parcial 3: apresentação oral do relátorio
 
 <!-- - **PROVA FINAL** -->
 <!--   - **Prova escrita** -->
@@ -75,13 +52,9 @@ author_profile: true
 ## Critérios para aprovação
 
 - Faltas acima de 25% da carga horária –> reprovado(a) por falta
-- Média parcial >= 7,0 —> aprovado(a) (desde que não reprovado(a) por falta)
-- Média parcial < 7,0 —> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —> aprovado(a)
+- Média notas parciais >= 7,0 —> aprovado(a) (desde que não reprovado(a) por falta)
+- Média notas parciais < 7,0 —> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —> aprovado(a)
 
-
-## Tarefas
-
-Em breve
 
 ## Tópicos abordados nas aulas
 
@@ -133,27 +106,40 @@ Em breve
 - [Vídeo com similação computacional da circulação sanguínea através de um aneurisma](https://www.youtube.com/watch?v=eBp0H7qvYQA)
 
 
-*25/03/24*
+*25/03/24 - 26/03/24*
 
-- Sistemas presa-predador
+- [Sistemas presa-predador](https://pt.wikipedia.org/wiki/Equa%C3%A7%C3%A3o_de_Lotka-Volterra)
   - [Vídeo](https://www.youtube.com/watch?v=cHLCAXY-ZTw)
   - [Modelagem de um sistema presa-predador simples](/files/matind/presa-predador.html)
 
 
-**Apresentações de alunos do curso de Matemática Industrial:**
+*01/04/24 - 02/04/24*
 
-- Douglas Santos Lacerda: "Introdução à epidemiologia matemática" - Segunda-feira (data a definir)
+- [Simulação de eventos discretos](https://pt.wikipedia.org/wiki/Simula%C3%A7%C3%A3o_de_eventos_discretos)
+  - Software [Arena](https://paragon.com.br/arena/)
+  - Exemplo de simulação de uma praça de pedágio
 
 
 *No radar*
 
 - Discussão aplicações da matemática - contribuições dos alunos
+- Aplicações e resolução numérica de modelos de programação linear inteira mista
 - Matemática no aprendizado de máquina supervisionado (*supervised machine learning*)
-- Softwares de simulação discreta
-- Apresentação aluno Pedro Henrique Fischer (TCC)
+- Apresentação aluno Pedro Henrique Fischer (TCC) - Segunda-feira (data a definir)
 - Apresentação aluno Pedro Lucas (projeto IC)
-- Apresentação aluna Carolina (projeto Mexilhões)
+- Apresentação aluna Carolina (projeto Mexilhões) - Terça-feira (data a definir)
 - Apresentação ex-aluno Matheus Becali (detecção de câncer por imagem)
+
+
+### Apresentações de alunos do curso de Matemática Industrial
+
+- **Introdução à epidemiologia matemática**  
+  *Douglas Santos Lacerda*  
+  Segunda-feira (data a definir)
+
+- **Gerenciamento de Estoque em uma Empresa do Ramo Alimentício**  
+  *Joao Pedro Gouvea de Camargo*  
+  Segunda-feira (data a definir)
 
 
 ## Discussão aplicações da matemática - contribuições dos alunos
