@@ -116,8 +116,15 @@ author_profile: true
 *01/04/24 - 02/04/24*
 
 - [Simulação de eventos discretos](https://pt.wikipedia.org/wiki/Simula%C3%A7%C3%A3o_de_eventos_discretos)
-  - Software [Arena](https://paragon.com.br/arena/)
-  - Exemplo de simulação de uma praça de pedágio
+  - Simulações com eventos probabilísticos (Simulação Monte-Carlo)
+    - [Texto 1](https://pt.wikipedia.org/wiki/M%C3%A9todo_de_Monte_Carlo)
+    - [Texto 2](https://www.ibm.com/br-pt/topics/monte-carlo-simulation)
+    - [Vídeo com exemplos](https://www.youtube.com/watch?v=4c68KAbdYdQ) do prof. [João F. de F. Almeida (UFMG)](http://lattes.cnpq.br/9513742728448307)
+    - Sistemas de Filas (exemplos de aplicação): [ex 1](https://proceedings.science/sbpo/sbpo-2020/trabalhos/teoria-das-filas-e-simulacao-um-estudo-para-a-otimizacao-das-filas-de-um-superme?lang=pt-br) ; [ex 2](https://proceedings.science/sbpo/sbpo-2020/trabalhos/estudo-de-simulacao-em-um-contact-center-hospitalar-o-caso-de-um-hospital-oncolo?lang=pt-br) ; [ex 3](https://abepro.org.br/biblioteca/tn_stp_231_350_30416.pdf)
+  - Software de simulação [Arena](https://paragon.com.br/arena/)
+    - Exemplo do cálculo aproximado de $\pi$; arquivo do [Arena](files/matind/pi.doe)
+    - Exemplos simples de simulação de filas
+    - Exemplo de [simulação de uma praça de pedágio](/files/matind/apresArena.pdf); arquivo do [Arena](files/matind/praca_pedagio.doe)
 
 
 *No radar*
