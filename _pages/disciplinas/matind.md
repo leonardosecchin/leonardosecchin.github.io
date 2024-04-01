@@ -123,7 +123,7 @@ author_profile: true
     - Sistemas de Filas (exemplos de aplicação): [ex 1](https://proceedings.science/sbpo/sbpo-2020/trabalhos/teoria-das-filas-e-simulacao-um-estudo-para-a-otimizacao-das-filas-de-um-superme?lang=pt-br) ; [ex 2](https://proceedings.science/sbpo/sbpo-2020/trabalhos/estudo-de-simulacao-em-um-contact-center-hospitalar-o-caso-de-um-hospital-oncolo?lang=pt-br) ; [ex 3](https://abepro.org.br/biblioteca/tn_stp_231_350_30416.pdf)
   - Software de simulação [Arena](https://paragon.com.br/arena/)
     - Exemplo do cálculo aproximado de $\pi$; arquivo do [Arena](files/matind/pi.doe)
-    - Exemplos simples de simulação de filas
+    - Exemplo simples de simulação de uma fila: [arquivo Arena](files/matind/fila.doe) ; [relatório simulação](files/matind/fila_relatorio.pdf)
     - Exemplo de [simulação de uma praça de pedágio](/files/matind/apresArena.pdf); arquivo do [Arena](files/matind/praca_pedagio.doe)
 
 
