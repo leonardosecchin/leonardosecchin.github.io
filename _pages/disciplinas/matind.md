@@ -116,7 +116,7 @@ author_profile: true
 *01/04/24 - 02/04/24*
 
 - [Simulação de eventos discretos](https://pt.wikipedia.org/wiki/Simula%C3%A7%C3%A3o_de_eventos_discretos)
-  - Simulações com eventos probabilísticos (Simulação Monte-Carlo)
+  - Simulações com eventos aleatórios (Simulação Monte-Carlo)
     - [Texto 1](https://pt.wikipedia.org/wiki/M%C3%A9todo_de_Monte_Carlo)
     - [Texto 2](https://www.ibm.com/br-pt/topics/monte-carlo-simulation)
     - [Vídeo com exemplos](https://www.youtube.com/watch?v=4c68KAbdYdQ) do prof. [João F. de F. Almeida (UFMG)](http://lattes.cnpq.br/9513742728448307)
