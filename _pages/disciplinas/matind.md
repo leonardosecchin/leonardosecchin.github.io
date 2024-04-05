@@ -144,6 +144,12 @@ author_profile: true
   *Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
 
 
+*07/05/24*
+
+- **Modelagem Matemática da Dinâmica Populacional do Mexilhão Dourado**  
+  *Carolina Martinelli (estudante Mat. Ind.)*
+
+
 *No radar*
 
 - Discussão aplicações da matemática - contribuições dos alunos
