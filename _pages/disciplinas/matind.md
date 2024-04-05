@@ -162,7 +162,6 @@ author_profile: true
 - Matemática no aprendizado de máquina supervisionado (*supervised machine learning*)
 - Apresentação aluno Pedro Henrique Fischer (TCC) - Segunda-feira (a definir)
 - Apresentação aluno Pedro Lucas (projeto IC)
-- Apresentação aluna Carolina (projeto Mexilhões) - Terça-feira (a definir)
 - Apresentação ex-aluno Matheus Becali (detecção de câncer por imagem)
 
 
