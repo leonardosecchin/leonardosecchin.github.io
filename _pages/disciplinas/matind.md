@@ -113,7 +113,7 @@ author_profile: true
   - [Modelagem de um sistema presa-predador simples](/files/matind/presa-predador.html)
 
 
-*01/04/24 - 02/04/24*
+*01/04/24 - 09/04/24*
 
 - [Simulação de eventos discretos](https://pt.wikipedia.org/wiki/Simula%C3%A7%C3%A3o_de_eventos_discretos)
   - Simulações com eventos aleatórios (Simulação Monte-Carlo)
@@ -127,26 +127,34 @@ author_profile: true
     - Exemplo de [simulação de uma praça de pedágio](/files/matind/apresArena.pdf); arquivo do [Arena](/files/matind/praca_pedagio.doe)
 
 
+*15/04/24*
+
+- **Introdução à epidemiologia matemática**  
+  *Douglas Santos Lacerda (estudante Mat. Ind.)*
+
+
+*15/04/24 - 16/04/24*
+
+- Aplicações e resolução numérica de modelos de programação linear inteira mista
+
+
+*29/04/24*
+
+- **Gerenciamento de Estoque em uma Empresa do Ramo Alimentício**  
+  *Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
+
+
 *No radar*
 
 - Discussão aplicações da matemática - contribuições dos alunos
-- Aplicações e resolução numérica de modelos de programação linear inteira mista
 - Matemática no aprendizado de máquina supervisionado (*supervised machine learning*)
-- Apresentação aluno Pedro Henrique Fischer (TCC) - Segunda-feira (data a definir)
+- Apresentação aluno Pedro Henrique Fischer (TCC) - Segunda-feira (a definir)
 - Apresentação aluno Pedro Lucas (projeto IC)
-- Apresentação aluna Carolina (projeto Mexilhões) - Terça-feira (data a definir)
+- Apresentação aluna Carolina (projeto Mexilhões) - Terça-feira (a definir)
 - Apresentação ex-aluno Matheus Becali (detecção de câncer por imagem)
 
 
-### Apresentações de alunos do curso de Matemática Industrial
-
-- **Introdução à epidemiologia matemática**  
-  *Douglas Santos Lacerda*  
-  Segunda-feira (data a definir)
-
-- **Gerenciamento de Estoque em uma Empresa do Ramo Alimentício**  
-  *Joao Pedro Gouvea de Camargo*  
-  Segunda-feira (data a definir)
+<!-- ### Apresentações de alunos do curso de Matemática Industrial -->
 
 
 ## Discussão aplicações da matemática - contribuições dos alunos
