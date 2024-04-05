@@ -150,6 +150,12 @@ author_profile: true
   *Carolina Martinelli (estudante Mat. Ind.)*
 
 
+*27/05/24 (a confirmar)*
+
+- **Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
+  *Wesley Rocha Grippa (docente DMA/UFES)*
+
+
 *No radar*
 
 - Discussão aplicações da matemática - contribuições dos alunos
