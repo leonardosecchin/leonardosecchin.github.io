@@ -140,17 +140,17 @@ author_profile: true
 
 *29/04/24*
 
-- **Gerenciamento de Estoque em uma Empresa do Ramo Alimentício**  
+- **Gerenciamento de estoque em uma empresa do ramo alimentício**  
   *Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
 
 
 *07/05/24*
 
-- **Modelagem Matemática da Dinâmica Populacional do Mexilhão Dourado**  
+- **Modelagem matemática da dinâmica populacional do mexilhão dourado**  
   *Carolina Martinelli (estudante Mat. Ind.)*
 
 
-*27/05/24 (a confirmar)*
+*27/05/24*
 
 - **Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
   *Wesley Rocha Grippa (docente DMA/UFES)*
