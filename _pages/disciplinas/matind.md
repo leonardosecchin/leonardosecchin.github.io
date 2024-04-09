@@ -124,7 +124,9 @@ author_profile: true
   - Software de simulação [Arena](https://paragon.com.br/arena/)
     - Exemplo do cálculo aproximado de $\pi$; arquivo do [Arena](/files/matind/pi.doe)
     - Exemplo simples de simulação de uma fila: [arquivo Arena](/files/matind/fila.doe) ; [relatório simulação](/files/matind/fila_relatorio.pdf)
-    - Exemplo de [simulação de uma praça de pedágio](/files/matind/apresArena.pdf); arquivo do [Arena](/files/matind/praca_pedagio.doe)
+    - Exemplo de [simulação de uma praça de pedágio](/files/matind/apresArena.pdf)
+      - arquivo do [Arena](/files/matind/praca_pedagio.doe)
+      - [passo a passo da construção do modelo no Arena](/files/matind/pedagio_arena_passo-a-passo.pdf)
 
 
 *15/04/24*
