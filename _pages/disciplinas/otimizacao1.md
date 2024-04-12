@@ -148,8 +148,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
    *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.1)**
 
    - [**ANOTAÇÕES** - Métodos de descida gerais](/files/otim1/4.1.Metodos_descida_gerais.pdf)
-   - [**ANOTAÇÕES** - Convergência dos métodos de descida](/files/otim1/4.3.Convergencia_metodos_descida.pdf)
-   - Veja o Teorema 6.1.6 da referência complementar.
+   - [**ANOTAÇÕES** - Convergência dos métodos de descida](/files/otim1/4.3.Convergencia_metodos_descida.pdf) (baseado no Teorema 6.1.6 da referência complementar)
    - *Código do método do gradiente com busca linear inexata - veja seção "Códigos em Julia"*
 
 
