@@ -138,7 +138,23 @@ author_profile: true
 
 *15/04/24 - 16/04/24*
 
-- Aplicações e resolução numérica de modelos de programação linear inteira mista
+- Programação Linear/Inteira
+  - [Sobre problemas de otimização](https://pt.wikipedia.org/wiki/Otimiza%C3%A7%C3%A3o)
+  - Pequena apresentação da [programação linear/inteira](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_linear)
+  - Uma visão mais completa da programação linear: leia o capítulo 1 da [referência 1](/files/matind/livro_18_sbmac.pdf)
+  - Problemas de programação linear, linear inteira e linear inteira mista
+  - Exemplos de aplicação
+    - O problema do caminho mínimo (seção 2.1 da [referência 2](/files/matind/livro_76_sbmac.pdf))
+    - O problema de localização de facilidades (seção 2.3 da [referência 2](/files/matind/livro_76_sbmac.pdf))
+    - Plenjamento da produção (seção 4.1 da [referência 1](/files/matind/livro_18_sbmac.pdf))
+    - O problema da mochila (seção 5.1 da [referência 1](/files/matind/livro_18_sbmac.pdf))
+    - Dimensionamento de lotes com tempos de preparo (seção 5.3 da [referência 1](/files/matind/livro_18_sbmac.pdf))
+  - Resolução numérica de modelos de programação linear inteira mista
+
+*Referências:*
+
+1. [RANGEL, S. Introdução à Construção de Modelos de Otimização Linear e Inteira. Notas em Matemática Aplicada, v. 18. SBMAC, 2012](/files/matind/livro_18_sbmac.pdf)
+1. [ARAUJO, S. A. de; RANGEL, S. Matemática Aplicada ao Planejamento da Produção e Logı́stica. Notas em Matemática Aplicada, v. 76. SBMAC, 2014](/files/matind/livro_76_sbmac.pdf)
 
 
 *29/04/24*
