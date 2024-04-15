@@ -172,7 +172,13 @@ author_profile: true
 ### SEMANA 10 (13/05/2024 a 17/05/2024)
 
 
-### SEMANA 11 (20/05/2024 a 24/05/2024)
+### SEMANA 11 (20/05/2024 a 24/05/2024): Matemática no aprendizado de máquina supervisionado
+
+
+### SEMANA 11: Apresentação 4 (21/05/2024)
+
+- **Redes neurais profundas: aplicação na detecção de câncer por imagem**  
+  *Matheus Becali Rocha (ex-estudante Mat. Ind., mestrando Computação/UFES)*
 
 
 ### SEMANA 12: Apresentação 4 (27/05/24)
@@ -202,13 +208,8 @@ author_profile: true
 *No radar*
 
 - Discussão aplicações da matemática - contribuições dos alunos
-- Matemática no aprendizado de máquina supervisionado (*supervised machine learning*)
 - Apresentação aluno Pedro Henrique Fischer (TCC) - Segunda-feira (a definir)
 - Apresentação aluno Pedro Lucas (projeto IC)
-- Apresentação ex-aluno Matheus Becali (detecção de câncer por imagem)
-
-
-<!-- ### Apresentações de alunos do curso de Matemática Industrial -->
 
 
 ## Discussão aplicações da matemática - contribuições dos alunos
