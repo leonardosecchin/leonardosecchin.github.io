@@ -111,6 +111,7 @@ author_profile: true
 - [Sistemas presa-predador](https://pt.wikipedia.org/wiki/Equa%C3%A7%C3%A3o_de_Lotka-Volterra)
   - [Vídeo](https://www.youtube.com/watch?v=cHLCAXY-ZTw)
   - [Modelagem de um sistema presa-predador simples](/files/matind/presa-predador.html)
+  - [Código da simulação feita em aula (notebook na linguagem Julia)](/files/matind/presa-predador.ipynb)
 
 
 *01/04/24 - 09/04/24*
