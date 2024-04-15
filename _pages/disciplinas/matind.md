@@ -131,7 +131,7 @@ author_profile: true
     - [passo a passo da construção do modelo no Arena](/files/matind/pedagio_arena_passo-a-passo.pdf)
 
 
-### SEMANA 6: APRESENTAÇÃO 1 (15/04/24)
+### SEMANA 6: Apresentação 1 (15/04/24)
 
 - **Introdução à epidemiologia matemática**  
   *Douglas Santos Lacerda (estudante Mat. Ind.)*
@@ -157,13 +157,13 @@ author_profile: true
 1. [ARAUJO, S. A. de; RANGEL, S. Matemática Aplicada ao Planejamento da Produção e Logı́stica. Notas em Matemática Aplicada, v. 76. SBMAC, 2014](/files/matind/livro_76_sbmac.pdf)
 
 
-### SEMANA 8: APRESENTAÇÃO 2 (29/04/24)
+### SEMANA 8: Apresentação 2 (29/04/24)
 
 - **Gerenciamento de estoque em uma empresa do ramo alimentício**  
   *Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
 
 
-### SEMANA 9: APRESENTAÇÃO 3 (07/05/24)
+### SEMANA 9: Apresentação 3 (07/05/24)
 
 - **Modelagem matemática da dinâmica populacional do mexilhão dourado**  
   *Carolina Martinelli (estudante Mat. Ind.)*
@@ -175,7 +175,7 @@ author_profile: true
 ### SEMANA 11 (20/05/2024 a 24/05/2024)
 
 
-### SEMANA 12: APRESENTAÇÃO 3 (27/05/24)
+### SEMANA 12: Apresentação 4 (27/05/24)
 
 - **Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
   *Wesley Rocha Grippa (docente DMA/UFES)*
