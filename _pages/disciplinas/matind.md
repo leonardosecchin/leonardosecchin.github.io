@@ -58,7 +58,8 @@ author_profile: true
 
 ## Tópicos abordados nas aulas
 
-*12/03/24 a 18/03/24*
+
+### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
 - Exemplos de aplicações
@@ -94,7 +95,7 @@ author_profile: true
   - Eventos/Congressos científicos (direcionados à divulgação interna à comunidade científica). Veja exemplos no fim desta página
 
 
-*19/03/24 - Exemplos de aplicação motivados pela matéria "Saber matemática é cada dia mais importante para os médicos"*
+*Exemplos de aplicação motivados pela matéria "Saber matemática é cada dia mais importante para os médicos"*
 
 - [PACKMOL](https://onlinelibrary.wiley.com/doi/10.1002/jcc.21224) - um *software* desenvolvido com parceria de matemáticos para configurações iniciais para simulações de dinâmica molecular
   - [Vídeo](https://www.youtube.com/watch?v=SINkp_3yvi0)
@@ -106,50 +107,49 @@ author_profile: true
 - [Vídeo com similação computacional da circulação sanguínea através de um aneurisma](https://www.youtube.com/watch?v=eBp0H7qvYQA)
 
 
-*25/03/24 - 26/03/24*
+### SEMANA 3 (25/03/24 a 29/03/24): Sistemas presa-predador
 
-- [Sistemas presa-predador](https://pt.wikipedia.org/wiki/Equa%C3%A7%C3%A3o_de_Lotka-Volterra)
-  - [Vídeo](https://www.youtube.com/watch?v=cHLCAXY-ZTw)
-  - [Modelagem de um sistema presa-predador simples](/files/matind/presa-predador.html)
-  - [Código da simulação feita em aula (notebook na linguagem Julia)](/files/matind/presa-predador.ipynb)
-
-
-*01/04/24 - 09/04/24*
-
-- [Simulação de eventos discretos](https://pt.wikipedia.org/wiki/Simula%C3%A7%C3%A3o_de_eventos_discretos)
-  - Simulações com eventos aleatórios (Simulação Monte-Carlo)
-    - [Texto 1](https://pt.wikipedia.org/wiki/M%C3%A9todo_de_Monte_Carlo)
-    - [Texto 2](https://www.ibm.com/br-pt/topics/monte-carlo-simulation)
-    - [Vídeo com exemplos](https://www.youtube.com/watch?v=4c68KAbdYdQ) do prof. [João F. de F. Almeida (UFMG)](http://lattes.cnpq.br/9513742728448307)
-    - Sistemas de Filas (exemplos de aplicação): [ex 1](https://proceedings.science/sbpo/sbpo-2020/trabalhos/teoria-das-filas-e-simulacao-um-estudo-para-a-otimizacao-das-filas-de-um-superme?lang=pt-br) ; [ex 2](https://proceedings.science/sbpo/sbpo-2020/trabalhos/estudo-de-simulacao-em-um-contact-center-hospitalar-o-caso-de-um-hospital-oncolo?lang=pt-br) ; [ex 3](https://abepro.org.br/biblioteca/tn_stp_231_350_30416.pdf)
-  - Software de simulação [Arena](https://paragon.com.br/arena/)
-    - Exemplo do cálculo aproximado de $\pi$; arquivo do [Arena](/files/matind/pi.doe)
-    - Exemplo simples de simulação de uma fila: [arquivo Arena](/files/matind/fila.doe) ; [relatório simulação](/files/matind/fila_relatorio.pdf)
-    - Exemplo de [simulação de uma praça de pedágio](/files/matind/apresArena.pdf)
-      - arquivo do [Arena](/files/matind/praca_pedagio.doe)
-      - [passo a passo da construção do modelo no Arena](/files/matind/pedagio_arena_passo-a-passo.pdf)
+- [Equação de Lotka-Volterra](https://pt.wikipedia.org/wiki/Equa%C3%A7%C3%A3o_de_Lotka-Volterra)
+- [Vídeo](https://www.youtube.com/watch?v=cHLCAXY-ZTw)
+- [Modelagem de um sistema presa-predador simples](/files/matind/presa-predador.html)
+- [Código da simulação feita em aula (notebook na linguagem Julia)](/files/matind/presa-predador.ipynb)
 
 
-*15/04/24*
+### SEMANAS 4 e 5 (01/04/24 a 12/04/24): Simulação de eventos discretos
+
+- [Introdução](https://pt.wikipedia.org/wiki/Simula%C3%A7%C3%A3o_de_eventos_discretos)
+- Simulações com eventos aleatórios (Simulação Monte-Carlo)
+  - [Texto 1](https://pt.wikipedia.org/wiki/M%C3%A9todo_de_Monte_Carlo)
+  - [Texto 2](https://www.ibm.com/br-pt/topics/monte-carlo-simulation)
+  - [Vídeo com exemplos](https://www.youtube.com/watch?v=4c68KAbdYdQ) do prof. [João F. de F. Almeida (UFMG)](http://lattes.cnpq.br/9513742728448307)
+  - Sistemas de Filas (exemplos de aplicação): [ex 1](https://proceedings.science/sbpo/sbpo-2020/trabalhos/teoria-das-filas-e-simulacao-um-estudo-para-a-otimizacao-das-filas-de-um-superme?lang=pt-br) ; [ex 2](https://proceedings.science/sbpo/sbpo-2020/trabalhos/estudo-de-simulacao-em-um-contact-center-hospitalar-o-caso-de-um-hospital-oncolo?lang=pt-br) ; [ex 3](https://abepro.org.br/biblioteca/tn_stp_231_350_30416.pdf)
+- Software de simulação [Arena](https://paragon.com.br/arena/)
+  - Exemplo do cálculo aproximado de $\pi$; arquivo do [Arena](/files/matind/pi.doe)
+  - Exemplo simples de simulação de uma fila: [arquivo Arena](/files/matind/fila.doe) ; [relatório simulação](/files/matind/fila_relatorio.pdf)
+  - Exemplo de [simulação de uma praça de pedágio](/files/matind/apresArena.pdf)
+    - arquivo do [Arena](/files/matind/praca_pedagio.doe)
+    - [passo a passo da construção do modelo no Arena](/files/matind/pedagio_arena_passo-a-passo.pdf)
+
+
+### SEMANA 6: APRESENTAÇÃO 1 (15/04/24)
 
 - **Introdução à epidemiologia matemática**  
   *Douglas Santos Lacerda (estudante Mat. Ind.)*
 
 
-*15/04/24 - 16/04/24*
+### SEMANAS 6 e 7 (16/04/24 a 26/04/24): Programação Linear/Inteira
 
-- Programação Linear/Inteira
-  - [Sobre problemas de otimização](https://pt.wikipedia.org/wiki/Otimiza%C3%A7%C3%A3o)
-  - Pequena apresentação da [programação linear/inteira](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_linear)
-  - Uma visão mais completa da programação linear: leia o capítulo 1 da [referência 1](/files/matind/livro_18_sbmac.pdf)
-  - Problemas de programação linear, linear inteira e linear inteira mista
-  - Exemplos de aplicação
-    - O problema do caminho mínimo (seção 2.1 da [referência 2](/files/matind/livro_76_sbmac.pdf))
-    - O problema de localização de facilidades (seção 2.3 da [referência 2](/files/matind/livro_76_sbmac.pdf))
-    - Plenjamento da produção (seção 4.1 da [referência 1](/files/matind/livro_18_sbmac.pdf))
-    - O problema da mochila (seção 5.1 da [referência 1](/files/matind/livro_18_sbmac.pdf))
-    - Dimensionamento de lotes com tempos de preparo (seção 5.3 da [referência 1](/files/matind/livro_18_sbmac.pdf))
-  - Resolução numérica de modelos de programação linear inteira mista
+- [Sobre problemas de otimização](https://pt.wikipedia.org/wiki/Otimiza%C3%A7%C3%A3o)
+- Pequena apresentação da [programação linear/inteira](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_linear)
+- Uma visão mais completa da programação linear: leia o capítulo 1 da [referência 1](/files/matind/livro_18_sbmac.pdf)
+- Problemas de programação linear, linear inteira e linear inteira mista
+- Exemplos de aplicação
+  - O problema do caminho mínimo (seção 2.1 da [referência 2](/files/matind/livro_76_sbmac.pdf))
+  - O problema de localização de facilidades (seção 2.3 da [referência 2](/files/matind/livro_76_sbmac.pdf))
+  - Plenjamento da produção (seção 4.1 da [referência 1](/files/matind/livro_18_sbmac.pdf))
+  - O problema da mochila (seção 5.1 da [referência 1](/files/matind/livro_18_sbmac.pdf))
+  - Dimensionamento de lotes com tempos de preparo (seção 5.3 da [referência 1](/files/matind/livro_18_sbmac.pdf))
+- Resolução numérica de modelos de programação linear inteira mista
 
 *Referências:*
 
@@ -157,22 +157,46 @@ author_profile: true
 1. [ARAUJO, S. A. de; RANGEL, S. Matemática Aplicada ao Planejamento da Produção e Logı́stica. Notas em Matemática Aplicada, v. 76. SBMAC, 2014](/files/matind/livro_76_sbmac.pdf)
 
 
-*29/04/24*
+### SEMANA 8: APRESENTAÇÃO 2 (29/04/24)
 
 - **Gerenciamento de estoque em uma empresa do ramo alimentício**  
   *Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
 
 
-*07/05/24*
+### SEMANA 9: APRESENTAÇÃO 3 (07/05/24)
 
 - **Modelagem matemática da dinâmica populacional do mexilhão dourado**  
   *Carolina Martinelli (estudante Mat. Ind.)*
 
 
-*27/05/24*
+### SEMANA 10 (13/05/2024 a 17/05/2024)
+
+
+### SEMANA 11 (20/05/2024 a 24/05/2024)
+
+
+### SEMANA 12: APRESENTAÇÃO 3 (27/05/24)
 
 - **Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
   *Wesley Rocha Grippa (docente DMA/UFES)*
+
+
+<!-- ### SEMANA 13 (03/06/2024 a 07/06/2024) -->
+
+
+<!-- ### SEMANA 14 (10/06/2024 a 14/06/2024) -->
+
+
+<!-- ### SEMANA 15 (17/06/2024 a 21/06/2024) -->
+
+
+<!-- ### SEMANA 16 (24/06/2024 a 28/06/2024) -->
+
+
+<!-- ### SEMANA 17 (01/07/2024 a 05/07/2024) -->
+
+
+<!-- ### SEMANA 18 (08/07/2024 a 12/07/2024) -->
 
 
 *No radar*
