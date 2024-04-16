@@ -7,6 +7,7 @@ author_profile: true
 
 {% include toc title="Sumário" %}
 
+
 ## Horários das aulas
 {:.no_toc}
 
@@ -19,7 +20,6 @@ author_profile: true
 
 
 ## Objetivos da disciplina
-{:.no_toc}
 
 - Estudar conceitos de programação não linear com restrições
 - Estudar os fundamentos dos métodos de resolução clássicos para programação não linear, sobretudo com restrições
@@ -29,7 +29,6 @@ author_profile: true
 
 
 ## Textos de referência
-{:.no_toc}
 
 - [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)
 - [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
@@ -93,6 +92,7 @@ author_profile: true
 
 
 <!-- ## Critérios para aprovação -->
+<!-- {:.no_toc} -->
 
 <!-- - Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta) -->
 <!-- - Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a). -->
@@ -120,7 +120,7 @@ author_profile: true
 
 
 ## Material
-{:.no_toc}
+
 
 ### A linguagem de programação Julia
 
@@ -142,7 +142,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Métodos de Penalidades
 
-1. **Penalização externa**
+#### Penalização externa
 
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
@@ -151,7 +151,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    - **Exercicios:** veja LISTA 1
 
 
-1. **Método do Lagrangiano aumentado**
+#### Método do Lagrangiano aumentado
 
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
@@ -167,7 +167,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    - **Exercicios:** veja LISTA 1
 
 
-1. **Penalização interna / barreiras / pontos interiores**
+#### Penalização interna / barreiras / pontos interiores
 
    *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
