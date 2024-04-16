@@ -1,10 +1,12 @@
 ---
-layout: archive
+layout: single
 title: "Otimização 2"
 permalink: /otimizacao2/
-author_profile: false
-toc: true
+author_profile: true
+toc_label: "Sumário"
 ---
+
+{% include toc %}
 
 ## Horários das aulas
 
