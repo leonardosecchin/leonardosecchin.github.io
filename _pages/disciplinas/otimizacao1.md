@@ -5,8 +5,8 @@ permalink: /otimizacao1/
 author_profile: true
 ---
 
->## Sumário
-> 1. <span style="font-size:6pt; line-height:80%">[LISTAS DE EXERCÍCIOS](#listas)</span>
+> ## Sumário
+> <span style="font-size:8pt; line-height:80%">1. [LISTAS DE EXERCÍCIOS](#listas)</span>
 > 1. [Conceitos básicos](#basico)
 > 1. [Otimização sem restrições](#irrestrito)
 > 1. [Convexidade](#convexidade)
@@ -30,9 +30,7 @@ author_profile: true
 >    1. [Método do gradiente com passo constante](#grad-passo-cte)
 >    1. [Gradiente projetado para restrições convexas](#grad-projetado)
 
-
 ***
-
 
 ## Horários das aulas
 
