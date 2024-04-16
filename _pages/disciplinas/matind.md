@@ -136,6 +136,12 @@ author_profile: true
 - **Introdução à epidemiologia matemática**  
   *Douglas Santos Lacerda (estudante Mat. Ind.)*
 
+Material fornecido pelo palestrante:
+1. [Slides da apresentação](/files/matind/slides_Douglas.pdf)
+1. [Site com os dados do covid no ES](https://coronavirus.es.gov.br/painel-covid-19-es)
+1. [Valores do R efetivo no Espírito Santo](https://covid19br.github.io/estados?aba=aba3&uf=ES&q=dia)
+1. [Nota técnica - Análise da propagação da pandemia de COVID-19 no estado do Espírito Santo e na conurbação da Grande Vitória a partir de modelos matemáticos](https://ijsn.es.gov.br/publicacoes/nota-tecnica/nt-niee-01-2020-analise-da-propagacao-da-pandemia-de-covid-19-no-estado-do-espirito-santo-e-na-conurbacao-da-grande-vitoria-a-partir-de-modelos-matematicos#:~:text=Esta%20Nota%20T%C3%A9cnica%20foi%20elaborada,coronav%C3%ADrus%20(COVID%2D19).)
+
 
 ### SEMANAS 6 e 7 (16/04/24 a 26/04/24): Programação Linear/Inteira
 
