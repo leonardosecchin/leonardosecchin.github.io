@@ -5,13 +5,14 @@ permalink: /otimizacao1/
 author_profile: true
 ---
 
-1. [Horários das aulas](#markdown-header-Horários-das-aulas)
+1. [Horários das aulas](#horarios)
+1. [Métodos de descida gerais](#descida)
 
 
 ***
 
 
-## Horários das aulas
+## <a name="horarios"></a>Horários das aulas
 
 - Quartas-feiras de 11:00 as 13:00 (Sala 09 Eixo 1)
 - Sextas-feiras de 07:00 as 09:00 (Sala 12 Eixo 1)
@@ -148,7 +149,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 ### Métodos para otimização sem restrições
 
-1. **Métodos de descida gerais**
+1. <a name="descida"></a>**Métodos de descida gerais**
 
    *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seção 6.1)**  
    *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.1)**
