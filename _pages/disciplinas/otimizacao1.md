@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 > ## Sumário
-> <span style="font-size:8pt; line-height:80%">1. [LISTAS DE EXERCÍCIOS](#listas)
+> 1. [LISTAS DE EXERCÍCIOS](#listas)
 > 1. [Conceitos básicos](#basico)
 > 1. [Otimização sem restrições](#irrestrito)
 > 1. [Convexidade](#convexidade)
@@ -28,7 +28,7 @@ author_profile: true
 > 1. Tópicos extras
 >    1. [Comparação de desempenho](#desempenho)
 >    1. [Método do gradiente com passo constante](#grad-passo-cte)
->    1. [Gradiente projetado para restrições convexas](#grad-projetado)</span>
+>    1. [Gradiente projetado para restrições convexas](#grad-projetado)
 
 ***
 
