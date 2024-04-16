@@ -142,17 +142,17 @@ author_profile: true
 - [Sobre problemas de otimização](https://pt.wikipedia.org/wiki/Otimiza%C3%A7%C3%A3o)
 - Pequena apresentação da [programação linear/inteira](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_linear)
 - Uma visão mais completa da programação linear: leia o capítulo 1 da [referência 1](/files/matind/livro_18_sbmac.pdf)
-- Problemas de programação linear, linear inteira e linear inteira mista
 - Exemplos de aplicação
   - Planejamento da produção (seção 4.1 da [referência 1](/files/matind/livro_18_sbmac.pdf))
   - O problema da mochila (seção 5.1 da [referência 1](/files/matind/livro_18_sbmac.pdf))
-  - O problema do caminho mínimo (seção 2.1 da [referência 2](/files/matind/livro_76_sbmac.pdf))
   - O problema do caixeiro viajante (seção 5.2 da [referência 1](/files/matind/livro_18_sbmac.pdf))
     - [Resolvedor on-line](https://tspvis.com/) (escolher o algoritmo Branch-and-Bound)
-  - O problema de localização de facilidades (seção 2.3 da [referência 2](/files/matind/livro_76_sbmac.pdf))
-  - Dimensionamento de lotes com tempos de preparo (seção 5.3 da [referência 1](/files/matind/livro_18_sbmac.pdf))
-  - Mais exemplos no capítulo 2 de [LUNA, E. P. L.; GOLDBARG, M. C. Otimização combinatória e programação linear - modelos e algoritmos. Ed. Elsevier, 2005.](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)
+  - O problema do caminho mínimo (seção 2.1 da [referência 2](/files/matind/livro_76_sbmac.pdf))
+  - Localização de facilidades (seção 2.3 da [referência 2](/files/matind/livro_76_sbmac.pdf))
+  - Problema de [corte de estoque](/files/topicospo/GER_COL_4-cutting-stock.pdf)
+  - Mais exemplos nas referências 1, 2 e no capítulo 2 de [LUNA, E. P. L.; GOLDBARG, M. C. Otimização combinatória e programação linear - modelos e algoritmos. Ed. Elsevier, 2005.](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)
 - Resolução numérica de modelos de programação linear inteira mista
+  - [Códigos usados em aula](/files/matind/PLI.zip)
 
 *Referências:*
 
