@@ -144,10 +144,12 @@ author_profile: true
 - Uma visão mais completa da programação linear: leia o capítulo 1 da [referência 1](/files/matind/livro_18_sbmac.pdf)
 - Problemas de programação linear, linear inteira e linear inteira mista
 - Exemplos de aplicação
-  - O problema do caminho mínimo (seção 2.1 da [referência 2](/files/matind/livro_76_sbmac.pdf))
-  - O problema de localização de facilidades (seção 2.3 da [referência 2](/files/matind/livro_76_sbmac.pdf))
-  - Plenjamento da produção (seção 4.1 da [referência 1](/files/matind/livro_18_sbmac.pdf))
+  - Planejamento da produção (seção 4.1 da [referência 1](/files/matind/livro_18_sbmac.pdf))
   - O problema da mochila (seção 5.1 da [referência 1](/files/matind/livro_18_sbmac.pdf))
+  - O problema do caminho mínimo (seção 2.1 da [referência 2](/files/matind/livro_76_sbmac.pdf))
+  - O problema do caixeiro viajante (seção 5.2 da [referência 1](/files/matind/livro_18_sbmac.pdf))
+    - [Resolvedor on-line](https://tspvis.com/) (escolher o algoritmo Branch-and-Bound)
+  - O problema de localização de facilidades (seção 2.3 da [referência 2](/files/matind/livro_76_sbmac.pdf))
   - Dimensionamento de lotes com tempos de preparo (seção 5.3 da [referência 1](/files/matind/livro_18_sbmac.pdf))
 - Resolução numérica de modelos de programação linear inteira mista
 
