@@ -3,21 +3,23 @@ layout: single
 title: "Otimização 2"
 permalink: /otimizacao2/
 author_profile: true
-toc_label: "Sumário"
 ---
 
-{% include toc %}
+{% include toc title="Sumário" %}
 
 ## Horários das aulas
+{:.no_toc}
 
 - --- <!--Terças-feiras de 12:00 as 14:00 (Sala 4 Eixo 3)-->
 - --- <!--Sextas-feiras de 16:00 as 18:00 (Sala 3 Eixo 1)-->
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
+{:.no_toc}
 
 
 ## Objetivos da disciplina
+{:.no_toc}
 
 - Estudar conceitos de programação não linear com restrições
 - Estudar os fundamentos dos métodos de resolução clássicos para programação não linear, sobretudo com restrições
@@ -27,6 +29,7 @@ toc_label: "Sumário"
 
 
 ## Textos de referência
+{:.no_toc}
 
 - [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)
 - [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
@@ -37,18 +40,21 @@ toc_label: "Sumário"
 
 
 ## Textos complementares
+{:.no_toc}
 
 - [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/otimizac-o-volume-1-condicoes-de-otimalidade-elementos-de-analise-convex-e-de-dualidade.html)
 - [Izmailov, A.; Solodov, M. Otimização vol 2. SBM.](https://loja.sbm.org.br/otimizac-o-volume-2-metodos-computacionais.html)
 
 
 ## Canais de acesso
+{:.no_toc}
 
 - E-mail do professor: leonardo.secchin@ufes.br
 - Sala do professor: prédio do Departamento de Matemática Aplicada, sala 08
 
 
 ## Formas de avaliação
+{:.no_toc}
 
 - provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
 
