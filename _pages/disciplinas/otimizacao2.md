@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Otimização 2"
 permalink: /otimizacao2/
 author_profile: true
