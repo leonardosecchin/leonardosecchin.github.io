@@ -8,9 +8,9 @@ main:
 
   - title: "Ensino"
     url: ensino/
-        
+
   - title: "IC/TCC"
     url: ic/
-    
+
   - title: "Misc."
     url: misc/

@@ -5,6 +5,8 @@ permalink: /otimizacao2/
 author_profile: true
 ---
 
+{% include toc %}
+
 ## Horários das aulas
 
 - --- <!--Terças-feiras de 12:00 as 14:00 (Sala 4 Eixo 3)-->
