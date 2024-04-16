@@ -113,12 +113,14 @@ author_profile: true
 
 
 ## Trabalhos computacionais
+{:.no_toc}
 
 <!-- - [TRABALHO COMPUTACIONAL 1 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing) -->
 - Método de pontos interiores aplicado à programação linear: [descrição](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing)
 
 
 ## Material
+{:.no_toc}
 
 ### A linguagem de programação Julia
 
@@ -244,12 +246,14 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 
 ## Links
+{:.no_toc}
 
 - [Nonlinear Optimization Examples](https://www.math.wpi.edu/saspdf/iml/chap11.pdf)
 - [FICO Xpress Optimization Examples](https://www.fico.com/fico-xpress-optimization/docs/latest/examples/mosel/NonLinear/GUID-81E21BAC-28BD-3D1A-B9B3-D65BA12E3C5B.html)
 
 
 ## Vídeos interessantes sobre Otimização
+{:.no_toc}
 
 1.  [IMECC Unicamp no facebook](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
 1.  [Grupo de otimização IMECC Unicamp](http://www.ime.unicamp.br/~martinez/seminarios.html)
