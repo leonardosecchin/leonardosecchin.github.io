@@ -151,6 +151,7 @@ author_profile: true
     - [Resolvedor on-line](https://tspvis.com/) (escolher o algoritmo Branch-and-Bound)
   - O problema de localização de facilidades (seção 2.3 da [referência 2](/files/matind/livro_76_sbmac.pdf))
   - Dimensionamento de lotes com tempos de preparo (seção 5.3 da [referência 1](/files/matind/livro_18_sbmac.pdf))
+  - Mais exemplos no capítulo 2 de [LUNA, E. P. L.; GOLDBARG, M. C. Otimização combinatória e programação linear - modelos e algoritmos. Ed. Elsevier, 2005.](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)
 - Resolução numérica de modelos de programação linear inteira mista
 
 *Referências:*
