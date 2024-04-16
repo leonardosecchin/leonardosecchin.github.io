@@ -18,11 +18,11 @@ author_profile: true
   1. [Método dos gradientes conjugados](#cg)
 1. [Otimização com restrições](#kkt)
 1. Métodos para otimização com restrições
-- [Minimização com restrições lineares](#min-rest-lineares)
-- [Penalização externa](#externa)
-- [Penalização interna](#interna)
-- [Programação Quadrática Sequencial](#sqp)
-- [Pontos interiores](#pi)
+  1. [Minimização com restrições lineares](#min-rest-lineares)
+  1. [Penalização externa](#externa)
+  1. [Penalização interna](#interna)
+  1. [Programação Quadrática Sequencial](#sqp)
+  1. [Pontos interiores](#pi)
 1. [Códigos em Julia](#codigos)
 1. Tópicos extras
   1. [Comparação de desempenho](#desempenho)
