@@ -7,6 +7,7 @@ author_profile: true
 
 ## Sumário
 
+<span style="font-size:8pt;">
 > 1. [LISTAS DE EXERCÍCIOS](#listas)
 > 1. [Conceitos básicos](#basico)
 > 1. [Otimização sem restrições](#irrestrito)
@@ -30,6 +31,7 @@ author_profile: true
 >    1. [Comparação de desempenho](#desempenho)
 >    1. [Método do gradiente com passo constante](#grad-passo-cte)
 >    1. [Gradiente projetado para restrições convexas](#grad-projetado)
+</span>
 
 
 ***
@@ -217,11 +219,11 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
    - [**ANOTAÇÕES** - Método dos gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
 
 
-### Otimização com restrições
+### <a name="kkt"></a>Otimização com restrições
 
 *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seções 13.1 e 13.2)**
 
-- <a name="kkt"></a>[**ANOTAÇÕES** - Otimização com restrições; condições de Karush-Kuhn-Tucker (KKT)](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
+- [**ANOTAÇÕES** - Otimização com restrições; condições de Karush-Kuhn-Tucker (KKT)](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)
 
 
 ### Métodos para otimização com restrições
