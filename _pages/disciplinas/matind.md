@@ -18,6 +18,7 @@ author_profile: true
 >1. [PALESTRA: Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo](#apres5)
 >1. [Discussão aplicações da matemática - contribuições dos alunos](#contrib)
 
+
 ***
 
 ## Horários das aulas
