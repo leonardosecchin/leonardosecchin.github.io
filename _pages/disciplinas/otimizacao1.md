@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 >## Sumário
-<span style="font-size:6pt;">
+<span style="font-size:6pt; line-height:80%">
 > 1. [LISTAS DE EXERCÍCIOS](#listas)
 > 1. [Conceitos básicos](#basico)
 > 1. [Otimização sem restrições](#irrestrito)
