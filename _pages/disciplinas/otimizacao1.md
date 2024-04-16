@@ -7,32 +7,6 @@ author_profile: true
 
 {% include toc title="Sumário" %}
 
-> ## Sumário
-> 1. [LISTAS DE EXERCÍCIOS](#listas)
-> 1. [Conceitos básicos](#basico)
-> 1. [Otimização sem restrições](#irrestrito)
-> 1. [Convexidade](#convexidade)
-> 1. [A linguagem de programação Julia](#julia)
-> 1. Métodos para otimização sem restrições
->    1. [Métodos de descida gerais](#descida)
->    1. [Método de Newton](#newton)
->    1. [Métodos quase-Newton](#quase-newton)
->    1. [Método do gradiente espectral](#espectral)
->    1. [Método dos gradientes conjugados](#cg)
-> 1. [Otimização com restrições](#kkt)
-> 1. Métodos para otimização com restrições
->    1. [Minimização com restrições lineares](#min-rest-lineares)
->    1. [Penalização externa](#externa)
->    1. [Penalização interna](#interna)
->    1. [Programação Quadrática Sequencial](#sqp)
->    1. [Pontos interiores](#pi)
-> 1. [Códigos em Julia](#codigos)
-> 1. Tópicos extras
->    1. [Comparação de desempenho](#desempenho)
->    1. [Método do gradiente com passo constante](#grad-passo-cte)
->    1. [Gradiente projetado para restrições convexas](#grad-projetado)
-
-***
 
 ## Horários das aulas
 {:.no_toc}
@@ -123,7 +97,7 @@ author_profile: true
 - Média parcial < 7,0 —> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —> aprovado(a).
 
 
-## <a name="listas"></a>Listas de exercícios
+## Listas de exercícios
 
 - [LISTA 1 – Conceitos básicos, otimização irrestrita](https://drive.google.com/file/d/1yV6DClaPT3zCmB1JkfnVq_j4g77-8EJU/view?usp=sharing)
 - [LISTA 2 – Convexidade](https://drive.google.com/file/d/1dtHGGeXg4Sn4qz-3PeWBFdQvG9C5mucq/view?usp=sharing)
@@ -140,7 +114,7 @@ author_profile: true
 
 ## Material
 
-### <a name="basico"></a>Conceitos básicos
+### Conceitos básicos
 
 *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 1)**
 
@@ -148,7 +122,7 @@ author_profile: true
 - [VÍDEO: Uma visão geral da otimização - fala do prof. Jose Mario Martinez (Unicamp)](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
 
 
-### <a name="irrestrito"></a>Otimização sem restrições
+### Otimização sem restrições
 
 *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 2)**  
 *Referência complementar:* [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf) **(capítulo 2)**
@@ -156,7 +130,7 @@ author_profile: true
 - [**ANOTAÇÕES** - Otimização sem restrições](/files/otim1/2.Otimizacao_sem_restricoes.pdf)
 
 
-### <a name="convexidade"></a>Convexidade
+### Convexidade
 
 *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 3)**  
 *Referência complementar:* [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf) **(capítulo 3)**
@@ -164,7 +138,7 @@ author_profile: true
 - [**ANOTAÇÕES** - Convexidade](/files/otim1/3.Convexidade.pdf)
 
 
-### <a name="julia"></a>A linguagem de programação Julia
+### A linguagem de programação Julia
 
 Julia é uma linguagem de programação de alto nível criada em 2012 que implementa várias ferramentas para uso geral em matemática aplicada. Em particular, Julia possui várias ferramentas para otimização. É muito parecida com o Matlab, portanto os códigos são fáceis de entender. Os trabalhos computacionais desta disciplina serão feitos em Julia. A seguir você encontra instruções de instalação, bem como exemplos simples que ajudarão você a dar os primeiros passos nas ferramentas de otimização disponíveis no Julia.
 
@@ -176,9 +150,10 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 **Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados nas disciplinas de otimização, baixe [ESTE SCRIPT](/files/julia/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
 
-### Métodos para otimização sem restrições
+## Métodos para otimização sem restrições
+{:.no_toc}
 
-1. <a name="descida"></a>**Métodos de descida gerais**
+### Métodos de descida gerais
 
    *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seção 6.1)**  
    *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.1)**
@@ -188,7 +163,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
    - *Código do método do gradiente com busca linear inexata - veja seção "Códigos em Julia"*
 
 
-1. <a name="newton"></a>**Método de Newton**
+### Método de Newton
 
    *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 5, seção 6.2)**  
    *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.1)**
@@ -200,7 +175,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
    - *Código dos métodos de Newton e Newton globalizado - veja seção "Códigos em Julia"*
 
 
-1. <a name="quase-newton"></a>**Métodos quase-Newton**
+### Métodos quase-Newton
 
    *Referência principal:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.3)**  
    *Referência complementar 1:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seção 6.1)**  
@@ -209,21 +184,21 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
    - [**ANOTAÇÕES** - Métodos quase-Newton tipo secante](/files/otim1/4.7.Quase-Newton.pdf)
 
 
-1. <a name="espectral"></a>**Método do gradiente espectral**
+### Método do gradiente espectral
 
     *Referência principal:* [TCC de Elivandro Oliveira Grippa](/files/ic-tcc/TCC_Elivandro_Grippa.pdf) **(seção 3.4)**
 
    - [**ANOTAÇÕES** - Método do gradiente espectral](/files/otim1/4.8.Gradiente_espectral.pdf)
 
 
-1. <a name="cg"></a>**Método dos gradientes conjugados para minimização de quadráticas**
+### Método dos gradientes conjugados para minimização de quadráticas
 
    *Referência principal:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 5.3 do livro publicado pela Cengage)**
 
    - [**ANOTAÇÕES** - Método dos gradientes conjugados](/files/otim1/4.6.Gradientes_conjugados.pdf)
 
 
-### <a name="kkt"></a>Otimização com restrições
+### Otimização com restrições
 
 *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seções 13.1 e 13.2)**
 
@@ -236,16 +211,16 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 *Referência principal 2:* [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf) **(capítulo 2)**  
 *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)
 
-- <a name="min-rest-lineares"></a>[**ANOTAÇÕES** - Minimização com restrições lineares de igualdade (método do gradiente projetado para restrições lineares)](/files/otim1/6.1.Min_restricoes_lineares_igualdade.pdf)
+- [**ANOTAÇÕES** - Minimização com restrições lineares de igualdade (método do gradiente projetado para restrições lineares)](/files/otim1/6.1.Min_restricoes_lineares_igualdade.pdf)
 - [**ANOTAÇÕES** - Minimização com restrições lineares de desigualdade; método das restrições ativas](/files/otim1/6.2.Min_restricoes_lineares_desig-restricoes_ativas.pdf)
-- <a name="externa"></a>[**ANOTAÇÕES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
-- <a name="interna"></a>[**ANOTAÇÕES** - Penalização interna](/files/otim1/6.5.Penalizacao_interna.pdf)
-- <a name="sqp"></a>[**ANOTAÇÕES** - Programação Quadrática Sequencial (SQP, do inglês) - algoritmo básico](/files/otim1/6.6.SQP.pdf)
-- <a name="pi"></a>[**ANOTAÇÕES** - Pontos interiores para problemas com restrições lineares](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
+- [**ANOTAÇÕES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
+- [**ANOTAÇÕES** - Penalização interna](/files/otim1/6.5.Penalizacao_interna.pdf)
+- [**ANOTAÇÕES** - Programação Quadrática Sequencial (SQP, do inglês) - algoritmo básico](/files/otim1/6.6.SQP.pdf)
+- [**ANOTAÇÕES** - Pontos interiores para problemas com restrições lineares](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)
 - [**ANOTAÇÕES** - SQP para restrições não lineares de igualdade e desigualdade](/files/otim1/6.8.SQP_subprob_IP.pdf)
 
 
-## <a name="codigos"></a>Códigos em Julia
+## Códigos em Julia
 
 - [Métodos do gradiente, Newton e Newton globalizado, com funções para testes](/files/otim1/gradiente_newton.zip)
 - ["Pré-implementação" do método de gradientes conjugados para quadráticas, com função para testes](/files/otim1/gc.jl)
@@ -253,7 +228,8 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 ## Tópicos extras
 
-### <a name="desempenho"></a>Comparação do desempenho de diferentes algoritmos
+### Comparação do desempenho de diferentes algoritmos
+{:.no_toc}
 
 *Referência principal:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 6.3 do livro publicado pela Cengage)**
 
@@ -262,15 +238,17 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 
 ### Breve introdução à otimização aplicada ao aprendizado de máquina supervisionado (a fazer)
-
+{:.no_toc}
 
 ### Outros
+{:.no_toc}
 
    - <a name="grad-passo-cte"></a>[**ANOTAÇÕES** - Método do gradiente com passo constante e introdução à complexidade de algoritmos](/files/otim1/4.9.Gradiente_passo_cte.pdf)
    - <a name="grad-projetado"></a>[**ANOTAÇÕES** - Método do gradiente projetado para restrições convexas quaisquer](/files/otim1/6.9.Gradiente_projetado.pdf)
 
 
 ## Vídeos interessantes sobre Otimização
+{:.no_toc}
 
 -  [IMECC Unicamp no facebook](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
 -  [Grupo de Otimização IMECC Unicamp](http://www.ime.unicamp.br/~martinez/seminarios.html)

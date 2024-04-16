@@ -119,7 +119,7 @@ author_profile: true
 - Método de pontos interiores aplicado à programação linear: [descrição](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing)
 
 
-# Material
+## Material
 
 
 ### A linguagem de programação Julia
@@ -140,9 +140,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - **Exercicios:** veja LISTA 0
 
 
-### Métodos de Penalidades
-
-#### Penalização externa
+### Penalização externa
 
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
@@ -151,7 +149,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    - **Exercicios:** veja LISTA 1
 
 
-#### Método do Lagrangiano aumentado
+### Método do Lagrangiano aumentado
 
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
@@ -167,7 +165,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    - **Exercicios:** veja LISTA 1
 
 
-#### Penalização interna / barreiras / pontos interiores
+### Penalização interna / barreiras / pontos interiores
 
    *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
