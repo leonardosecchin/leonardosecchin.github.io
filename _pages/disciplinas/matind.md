@@ -5,6 +5,8 @@ permalink: /matind/
 author_profile: true
 ---
 
+## Sumário
+
 1. [Discussões iniciais (papel do matemática, divulgação científica etc)](#inicio)
 1. [Sistemas presa-predador](#presa-predador)
 1. [Simulação de eventos discretos](#eventos-discretos)
