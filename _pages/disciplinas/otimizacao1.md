@@ -5,29 +5,29 @@ permalink: /otimizacao1/
 author_profile: true
 ---
 
-1. [LISTAS DE EXERCÍCIOS](#listas)
-1. [Conceitos básicos](#basico)
-1. [Otimização sem restrições](#irrestrito)
-1. [Convexidade](#convexidade)
-1. [A linguagem de programação Julia](#julia)
-1. Métodos para otimização sem restrições
-  1. [Métodos de descida gerais](#descida)
-  1. [Método de Newton](#newton)
-  1. [Métodos quase-Newton](#quase-newton)
-  1. [Método do gradiente espectral](#espectral)
-  1. [Método dos gradientes conjugados](#cg)
-1. [Otimização com restrições](#kkt)
-1. Métodos para otimização com restrições
-  1. [Minimização com restrições lineares](#min-rest-lineares)
-  1. [Penalização externa](#externa)
-  1. [Penalização interna](#interna)
-  1. [Programação Quadrática Sequencial](#sqp)
-  1. [Pontos interiores](#pi)
-1. [Códigos em Julia](#codigos)
-1. Tópicos extras
-  1. [Comparação de desempenho](#desempenho)
-  1. [Método do gradiente com passo constante](#grad-passo-cte)
-  1. [Gradiente projetado para restrições convexas](#grad-projetado)
+> 1. [LISTAS DE EXERCÍCIOS](#listas)
+> 1. [Conceitos básicos](#basico)
+> 1. [Otimização sem restrições](#irrestrito)
+> 1. [Convexidade](#convexidade)
+> 1. [A linguagem de programação Julia](#julia)
+> 1. Métodos para otimização sem restrições
+>    1. [Métodos de descida gerais](#descida)
+>    1. [Método de Newton](#newton)
+>    1. [Métodos quase-Newton](#quase-newton)
+>    1. [Método do gradiente espectral](#espectral)
+>    1. [Método dos gradientes conjugados](#cg)
+> 1. [Otimização com restrições](#kkt)
+> 1. Métodos para otimização com restrições
+>    1. [Minimização com restrições lineares](#min-rest-lineares)
+>    1. [Penalização externa](#externa)
+>    1. [Penalização interna](#interna)
+>    1. [Programação Quadrática Sequencial](#sqp)
+>    1. [Pontos interiores](#pi)
+> 1. [Códigos em Julia](#codigos)
+> 1. Tópicos extras
+>    1. [Comparação de desempenho](#desempenho)
+>    1. [Método do gradiente com passo constante](#grad-passo-cte)
+>    1. [Gradiente projetado para restrições convexas](#grad-projetado)
 
 
 ***
