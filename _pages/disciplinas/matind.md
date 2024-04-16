@@ -5,6 +5,20 @@ permalink: /matind/
 author_profile: true
 ---
 
+1. [Discussões iniciais (papel do matemática, divulgação científica etc)](#inicio)
+1. [Sistemas presa-predador](#presa-predador)
+1. [Simulação de eventos discretos](#eventos-discretos)
+1. [PALESTRA: Introdução à epidemiologia matemática](#apres1)
+1. [Programação Linear/Inteira](#pli)
+1. [PALESTRA: Gerenciamento de estoque em uma empresa do ramo alimentício](#apres2)
+1. [PALESTRA: Modelagem matemática da dinâmica populacional do mexilhão dourado](#apres3)
+1. [Matemática no aprendizado de máquina supervisionado](#ml)
+1. [PALESTRA: Redes neurais profundas: aplicação na detecção de câncer por imagem](#apres4)
+1. [PALESTRA: Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo](#apres5)
+1. [Discussão aplicações da matemática - contribuições dos alunos](#contrib)
+
+***
+
 ## Horários das aulas
 
 - Segundas-feiras de 13:00 as 15:00 (Sala 12 Eixo 1)
@@ -59,7 +73,7 @@ author_profile: true
 ## Tópicos abordados nas aulas
 
 
-### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais
+### <a name="inicio"></a>SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
 - Exemplos de aplicações
@@ -107,7 +121,7 @@ author_profile: true
 - [Vídeo com similação computacional da circulação sanguínea através de um aneurisma](https://www.youtube.com/watch?v=eBp0H7qvYQA)
 
 
-### SEMANA 3 (25/03/24 a 29/03/24): Sistemas presa-predador
+### <a name="presa-predador"></a>SEMANA 3 (25/03/24 a 29/03/24): Sistemas presa-predador
 
 - [Equação de Lotka-Volterra](https://pt.wikipedia.org/wiki/Equa%C3%A7%C3%A3o_de_Lotka-Volterra)
 - [Vídeo](https://www.youtube.com/watch?v=cHLCAXY-ZTw)
@@ -115,7 +129,7 @@ author_profile: true
 - [Código da simulação feita em aula (notebook na linguagem Julia)](/files/matind/presa-predador.ipynb)
 
 
-### SEMANAS 4 e 5 (01/04/24 a 12/04/24): Simulação de eventos discretos
+### <a name="eventos-discretos"></a>SEMANAS 4 e 5 (01/04/24 a 12/04/24): Simulação de eventos discretos
 
 - [Introdução](https://pt.wikipedia.org/wiki/Simula%C3%A7%C3%A3o_de_eventos_discretos)
 - Simulações com eventos aleatórios (Simulação Monte-Carlo)
@@ -131,7 +145,7 @@ author_profile: true
     - [passo a passo da construção do modelo no Arena](/files/matind/pedagio_arena_passo-a-passo.pdf)
 
 
-### SEMANA 6: Apresentação 1 (15/04/24)
+### <a name="apres1"></a>SEMANA 6: Apresentação 1 (15/04/24)
 
 - **Introdução à epidemiologia matemática**  
   *Douglas Santos Lacerda (estudante Mat. Ind.)*
@@ -143,7 +157,7 @@ Material fornecido pelo palestrante:
 1. [Nota técnica - Análise da propagação da pandemia de COVID-19 no estado do Espírito Santo e na conurbação da Grande Vitória a partir de modelos matemáticos](https://ijsn.es.gov.br/publicacoes/nota-tecnica/nt-niee-01-2020-analise-da-propagacao-da-pandemia-de-covid-19-no-estado-do-espirito-santo-e-na-conurbacao-da-grande-vitoria-a-partir-de-modelos-matematicos#:~:text=Esta%20Nota%20T%C3%A9cnica%20foi%20elaborada,coronav%C3%ADrus%20(COVID%2D19).)
 
 
-### SEMANAS 6 e 7 (16/04/24 a 26/04/24): Programação Linear/Inteira
+### <a name="pli"></a>SEMANAS 6 e 7 (16/04/24 a 26/04/24): Programação Linear/Inteira
 
 - [Sobre problemas de otimização](https://pt.wikipedia.org/wiki/Otimiza%C3%A7%C3%A3o)
 - Pequena apresentação da [programação linear/inteira](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_linear)
@@ -166,13 +180,13 @@ Material fornecido pelo palestrante:
 1. [ARAUJO, S. A. de; RANGEL, S. Matemática Aplicada ao Planejamento da Produção e Logı́stica. Notas em Matemática Aplicada, v. 76. SBMAC, 2014](/files/matind/livro_76_sbmac.pdf)
 
 
-### SEMANA 8: Apresentação 2 (29/04/24)
+### <a name="apres2"></a>SEMANA 8: Apresentação 2 (29/04/24)
 
 - **Gerenciamento de estoque em uma empresa do ramo alimentício**  
   *Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
 
 
-### SEMANA 9: Apresentação 3 (07/05/24)
+### <a name="apres3"></a>SEMANA 9: Apresentação 3 (07/05/24)
 
 - **Modelagem matemática da dinâmica populacional do mexilhão dourado**  
   *Carolina Martinelli (estudante Mat. Ind.)*
@@ -181,16 +195,16 @@ Material fornecido pelo palestrante:
 ### SEMANA 10 (13/05/2024 a 17/05/2024)
 
 
-### SEMANA 11 (20/05/2024 a 24/05/2024): Matemática no aprendizado de máquina supervisionado
+### <a name="ml"></a>SEMANA 11 (20/05/2024 a 24/05/2024): Matemática no aprendizado de máquina supervisionado
 
 
-### SEMANA 11: Apresentação 4 (21/05/2024)
+### <a name="apres4"></a>SEMANA 11: Apresentação 4 (21/05/2024)
 
 - **Redes neurais profundas: aplicação na detecção de câncer por imagem**  
   *Matheus Becali Rocha (ex-estudante Mat. Ind., mestrando Computação/UFES)*
 
 
-### SEMANA 12: Apresentação 4 (27/05/24)
+### <a name="apres5"></a>SEMANA 12: Apresentação 5 (27/05/24)
 
 - **Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
   *Wesley Rocha Grippa (docente DMA/UFES)*
@@ -221,7 +235,7 @@ Material fornecido pelo palestrante:
 - Apresentação aluno Pedro Lucas (projeto IC)
 
 
-## Discussão aplicações da matemática - contribuições dos alunos
+## <a name="contrib"></a>Discussão aplicações da matemática - contribuições dos alunos
 - (Caio) [Saber matemática é cada dia mais importante para os médicos](https://ensinoepesquisa.einstein.br/fiquepordentro/noticia/saber-matematica-e-cada-dia-mais-importante-para-os-medicos#:~:text=O%20aprendizado%20da%20interpreta%C3%A7%C3%A3o%20dos,os%20profissionais%20envolvidos%20em%20pesquisa.)
 - (André) [A matemática na produção e análise de alimentos](https://matematicax.com.br/a-matematica-na-producao-e-analise-de-alimentos/)
 
