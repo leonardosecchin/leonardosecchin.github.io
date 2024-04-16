@@ -5,6 +5,8 @@ permalink: /otimizacao1/
 author_profile: true
 ---
 
+{% include toc title="Sumário" %}
+
 > ## Sumário
 > 1. [LISTAS DE EXERCÍCIOS](#listas)
 > 1. [Conceitos básicos](#basico)
@@ -33,15 +35,18 @@ author_profile: true
 ***
 
 ## Horários das aulas
+{:.no_toc}
 
 - Quartas-feiras de 11:00 as 13:00 (Sala 09 Eixo 1)
 - Sextas-feiras de 07:00 as 09:00 (Sala 12 Eixo 1)
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20I%20-%20DMA11995.pdf)
+{:.no_toc}
 
 
 ## Objetivos da disciplina
+{:.no_toc}
 
 - Estudar conceitos básicos em programação não linear
 - Estudar os fundamentos dos métodos de resolução clássicos para programação não linear, sobretudo sem restrições
@@ -60,18 +65,21 @@ author_profile: true
 
 
 ## Textos complementares
+{:.no_toc}
 
 - [Izmailov, A.; Solodov, M. Otimização vol 1. SBM](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)
 - [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
 
 
 ## Canais de acesso
+{:.no_toc}
 
 - E-mail do professor: leonardo.secchin@ufes.br
 - Sala do professor: prédio do Departamento de Matemática Aplicada, sala 08
 
 
 ## Formas de avaliação
+{:.no_toc}
 
 - provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
 
@@ -108,6 +116,7 @@ author_profile: true
 
 
 ## Critérios para aprovação
+{:.no_toc}
 
 - Faltas acima de 25% da carga horária –> reprovado(a) por falta
 - Média parcial >= 7,0 —> aprovado(a) (desde que não reprovado(a) por falta)
