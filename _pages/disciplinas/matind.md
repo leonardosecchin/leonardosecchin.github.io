@@ -22,6 +22,7 @@ author_profile: true
 ***
 
 ## Horários das aulas
+{:.no_toc}
 
 - Segundas-feiras de 13:00 as 15:00 (Sala 12 Eixo 1)
 - Terças-feiras de 16:00 as 18:00 (Sala 08 Eixo 1)
@@ -31,6 +32,7 @@ author_profile: true
 
 
 ## Objetivos da disciplina
+{:.no_toc}
 
 - Motivar e promover a reflexão sobre a atuação do matemático na sociedade e na resolução de problemas reais
 - Estudar textos científicos de variados temas e problemas no contexto industrial relacionados à conteúdos do curso
@@ -47,6 +49,7 @@ author_profile: true
 
 
 ## Canais de acesso
+{:.no_toc}
 
 - E-mail do professor: leonardo.secchin@ufes.br
 - Sala do professor: prédio do Departamento de Matemática Aplicada, sala 08
@@ -66,6 +69,7 @@ author_profile: true
 
 
 ## Critérios para aprovação
+{:.no_toc}
 
 - Faltas acima de 25% da carga horária –> reprovado(a) por falta
 - Média notas parciais >= 7,0 —> aprovado(a) (desde que não reprovado(a) por falta)
@@ -75,7 +79,8 @@ author_profile: true
 ## Tópicos abordados nas aulas
 
 
-### <a name="inicio"></a>SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais
+### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais
+{:toc "Discussões iniciais"}
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
 - Exemplos de aplicações
