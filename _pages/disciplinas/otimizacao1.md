@@ -6,18 +6,18 @@ author_profile: true
 ---
 
 >## Sumário
-<span style="font-size:8pt;">
+<span style="font-size:6pt;">
 > 1. [LISTAS DE EXERCÍCIOS](#listas)
 > 1. [Conceitos básicos](#basico)
 > 1. [Otimização sem restrições](#irrestrito)
 > 1. [Convexidade](#convexidade)
 > 1. [A linguagem de programação Julia](#julia)
-> <details><summary>1. Métodos para otimização sem restrições</summary>
+> 1. Métodos para otimização sem restrições
 >    1. [Métodos de descida gerais](#descida)
 >    1. [Método de Newton](#newton)
 >    1. [Métodos quase-Newton](#quase-newton)
 >    1. [Método do gradiente espectral](#espectral)
->    1. [Método dos gradientes conjugados](#cg)</details>
+>    1. [Método dos gradientes conjugados](#cg)
 > 1. [Otimização com restrições](#kkt)
 > 1. Métodos para otimização com restrições
 >    1. [Minimização com restrições lineares](#min-rest-lineares)
