@@ -81,7 +81,7 @@ author_profile: true
 ## Tópicos abordados nas aulas
 
 
-### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais  #markdown data-toc-label='Discussões iniciais' }
+### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais  { #markdown data-toc-label='Discussões iniciais' }
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
 - Exemplos de aplicações
