@@ -5,18 +5,24 @@ permalink: /metaheuristicas/
 author_profile: true
 ---
 
+{% include toc title="Sumário" %}
+
+
 ## Horários das aulas
+{:.no_toc}
 
 - -- <!--Quintas-feiras de 13:00 as 15:00 (LABMAT / excepcionalmente Sala 08 Eixo 3)-->
 - -- <!--Sextas-feiras de 13:00 as 15:00 (LABMAT / excepcionalmente Sala 11 Eixo 1)-->
 
 
 ## Ementa
+{:.no_toc}
 
 Consulte Projeto Pedagógico do [Curso](https://matematicaindustrial.saomateus.ufes.br).
 
 
 ## Objetivos da disciplina
+{:.no_toc}
 
 - Estudar as principais (meta)heurísticas usadas para resolver problemas de otimização contínua e combinatória
 - Aplicar as técnicas em problemas conhecidos da literatura e encontrados na indústria
@@ -24,6 +30,7 @@ Consulte Projeto Pedagógico do [Curso](https://matematicaindustrial.saomateus.u
 
 
 ## Conteúdo
+{:.no_toc}
 
 Principais metaheurísticas usadas na literatura recente (algoritmos genéticos, simulated annealing, busca tabu, colônia de formigas, outras metaheurísticas bio-inspiradas, GRASP, dentre outras).
 
@@ -38,43 +45,46 @@ Obs: outras referências são descritas em cada tópico
 
 
 ## Formas de avaliação
+{:.no_toc}
 
 Serão aplicadas no mínimo duas avaliações, dentre testes dissertativos, apresentações de seminários e/ou desenvolvimento de projetos.
 
 
 ## Cálculo da média parcial (2023/1)
+{:.no_toc}
 
 (1,0(atividade avaliativa 1) + 6,0(atividade avaliativa 2) + 3,0(atividade avaliativa 3)) / 10,0
 
 
 ## Critérios para aprovação
+{:.no_toc}
 
 - Faltas acima de 25% da carga horária —> reprovado(a) por falta
 - Média parcial >= 7,0 —> aprovado(a) (desde que não reprovado(a) por falta)
 - Média parcial < 7,0 —> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —> aprovado(a)
 
 
-# MATERIAIS PARA AS AULAS
+## MATERIAIS PARA AS AULAS
 
-## Linguagem de programação
+### Linguagem de programação
 
 A linguagem de referência é o Julia. Você pode encontrar instruções de instalação e uso [neste link](/julia/).
 
 **Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados, baixe [ESTE SCRIPT](/files/metaheu/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
-## Pacotes e códigos em Julia
+### Pacotes e códigos em Julia
 
 - Pacote **TSPLIB.jl:** instâncias da biblioteca TSPLIB (problema do caixeiro viajante) prontas em Julia [site](https://github.com/matago/TSPLIB.jl). Veja tópico "O problema do caixeiro viajante" para detalhes.
 - [**tspplot.jl:** código para plotar instâncias da TSPLIB](/files/metaheu/tspplot.jl)
 - [**tsp.jl:** funções para manipulação de instâncias da TSPLIB e heurística do vizinho mais próximo](/files/metaheu/tsp.jl)
 - [**funcoes-teste.jl:** funções para teste (para Differential Evolution e Particle Swarm Optimization)](/files/metaheu/funcoes-teste.jl)
 
-## Apresentação
+### Apresentação
 
 - [**SLIDES**](https://drive.google.com/file/d/1FPcIovf5He-djx_NMJut9Ki1bBvw40vX/view?usp=sharing)
 
 
-## O problema do caixeiro viajante (Travelling Salesman Problem - TSP)
+### O problema do caixeiro viajante (Travelling Salesman Problem - TSP)
 
 O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Problem* - TSP) serve como "saco de pancadas" para testarmos as implementações. O TSP é simples de entender, portanto não requer conhecimento profundo para começar a testar as metaheurísticas. Além disso, é um problema clássico e de difícil resolução.
 - [Uma apresentação do TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
@@ -88,7 +98,7 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
 - Visualização [on line](https://tspvis.com/) do funcionamento de algoritmos para o TSP.
 
 
-## Sobre geradores de números randômicos
+### Sobre geradores de números randômicos
 
 A geração de números randômicos em computador é um tópico pesquisado até hoje. Os principais algoritmos utilizados geram números "pseudo-randômicos", chamados assim por não serem verdadeiramente randômicos (os números se repetem em ciclos). Este não é um tópico central nessa disciplina, mas vale o comentário. No contexto das metaheurísticas, onde temos que gerar muitos números, é interessante utilizarmos bons geradores.
 
@@ -99,14 +109,14 @@ O Julia (versão 1.8), por sua vez, [utiliza como padrão um excelente gerador, 
 Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este link](https://en.wikipedia.org/wiki/Pseudorandom_number_generator). Uma lista de diferentes geradores pode ser vista [neste link](https://pt.wikipedia.org/wiki/Gerador_de_n%C3%BAmeros_pseudoaleat%C3%B3rios).
 
 
-## METAHEURÍSTICA 1: Busca Tabu (Tabu Search - TS)
+### METAHEURÍSTICA 1: Busca Tabu (Tabu Search - TS)
 
 - [**SLIDES**](https://drive.google.com/file/d/1AVM2-O65q1EVD7bq4LBRoJR1nRl-LQ9T/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - Referência: capítulo 2 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 
 
-## METAHEURÍSTICA 2: Simulated Annealing (SA)
+### METAHEURÍSTICA 2: Simulated Annealing (SA)
 
 - [**SLIDES**](https://drive.google.com/file/d/19VJ5y_Y6v8Dh7RovndMlxlzzTL40BiiL/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -114,7 +124,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - Referência: capítulo 10 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 
 
-## METAHEURÍSTICA 3: Colônia de formigas (Ant Colony Optimization - ACO)
+### METAHEURÍSTICA 3: Colônia de formigas (Ant Colony Optimization - ACO)
 
 - [**SLIDES**](https://drive.google.com/file/d/1_x7mVHBIfWV4l9cXr9Ju_Lo6CvBlDMtm/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -125,12 +135,12 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     1. Capítulo 9 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 
 
-## DICAS PARA CALIBRAÇÃO DE PARÂMETROS
+### DICAS PARA CALIBRAÇÃO DE PARÂMETROS
 
 - [Código versão 1](https://drive.google.com/file/d/1Rz72-jm_O6qv8NBjWLx8HdZBHSydAKkX/view?usp=sharing)
 
 
-## METAHEURÍSTICA 4: Evolução Diferencial (Differential Evolution - DE)
+### METAHEURÍSTICA 4: Evolução Diferencial (Differential Evolution - DE)
 
 - [**SLIDES**](https://drive.google.com/file/d/1obXBLxFlhYt9IaBlRaMRuedDPlBrHh8U/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -141,7 +151,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     1. Brandão, Saramago. Métodos estocásticos de otimização: algoritmos genéticos e evolução diferencial, SBMAC, 2011 [Link](https://www.sbmac.org.br/wp-content/uploads/2022/08/livro_55.pdf)
 
 
-## METAHEURÍSTICA 5: Nuvem de partículas (Particle Swarm Optimization - PSO)
+### METAHEURÍSTICA 5: Nuvem de partículas (Particle Swarm Optimization - PSO)
 
 - [**SLIDES**](https://drive.google.com/file/d/1kUMLRjPbqEZFLJosMY5o-5iEyDpWaxTm/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -151,7 +161,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     1. Shi, Eberhart. A modified particle swarm optimizer. 1998 IEEE International Conference on Evolutionary Computation Proceedings, 1998 [Link](https://doi.org/10.1109/ICEC.1998.699146)
 
 
-## METAHEURÍSTICA 6: Algoritmo Genético (Genetic Algorithm - GA)
+### METAHEURÍSTICA 6: Algoritmo Genético (Genetic Algorithm - GA)
 
 - [**SLIDES**](https://drive.google.com/file/d/1_yA_vAVXy_jHswyiXab9mf7RVBYtVfpe/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -163,7 +173,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     1. Capítulo 2 de Lopes, Rodrigues, Steiner (Eds.) – Meta-heurísticas em Pesquisa Operacional. Omnipax, 2013 [Link 1](https://repositorio.utfpr.edu.br/jspui/handle/1/943); [Link 2](https://www.researchgate.net/publication/236733898_Meta-Heuristicas_em_Pesquisa_Operacional)
 
 
-## METAHEURÍSTICA 7: GRASP (Greedy Randomized Adaptive Search Procedure)
+### METAHEURÍSTICA 7: GRASP (Greedy Randomized Adaptive Search Procedure)
 
 - [**SLIDES**](https://drive.google.com/file/d/1vDhnZLesNQt80vmq5tCsf4rW3sLveEiI/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -181,12 +191,14 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 ## OUTRAS METAHEURÍSTICAS
 
 ### Gravitational Search Algorithm
+{:.no_toc}
 
 - [Rashedi, Nezamabadi-pour, Saryazdi. GSA: A Gravitational Search Algorithm. Information Sciences, 179(13):2232-2248, 2009](https://doi.org/10.1016/j.ins.2009.03.004)
 - Para minimização de funções a variáveis contínuas
 - Presente no pacote **Metaheuristics.jl**
 
 ### Evolutionary Centers Algorithm
+{:.no_toc}
 
 - [Mejía-de-Dios, Mezura-Montes. A New Evolutionary Optimization Method Based on Center of Mass. In: Deep, K., Jain, M., Salhi, S. (eds) Decision Science in Action. Asset Analytics. Springer, Singapore, 2019](https://doi.org/10.1007/978-981-13-0860-4_6)
 - Para minimização de funções a variáveis contínuas
@@ -194,6 +206,7 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 
 ## Leitura(s) recomendada(s)
+{:.no_toc}
 
 - [Análise de Sörensen sobre a profusão de artigos nos últimos anos e seu rigor científico](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12001)  
     Uma versão com acesso aberto está disponível [neste link](https://www.researchgate.net/publication/237009138_Metaheuristics_--_the_metaphor_exposed).
@@ -204,9 +217,10 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - [Slides do prof. Lucas Batista (Eng. Elétrica/UFMG)](http://www.cpdee.ufmg.br/~lusoba/disciplinas/eee933/slides/lusoba/)
 
 
-# ATIVIDADES PROPOSTAS (2023/1)
+## ATIVIDADES PROPOSTAS (2023/1)
 
-## Atividade 1
+### Atividade 1
+{:.no_toc}
 
 **ATIVIDADE para a semana entre 27/03 e 31/03**, a ser discutida entre todos na aula do dia 06/04
 
@@ -218,7 +232,8 @@ Pesquise metaheurísticas na internet/artigos. Para cada metaheurística encontr
 <!-- - **Relatórios apresentados:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing); [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing); [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing); [Pedro Lucas](https://drive.google.com/file/d/1do5xYzwOLqI2ptsvzv9O8j7wTGMjtRvu/view?usp=sharing) -->
 
 
-## Atividade 2
+### Atividade 2
+{:.no_toc}
 
 1. Instale o Julia (caso não instalado)
 1. Instale o pacote `TSPLIB.jl`
@@ -229,7 +244,8 @@ Pesquise metaheurísticas na internet/artigos. Para cada metaheurística encontr
 1. Implementar a heurística 2-OPT. Veja detalhes [neste link](https://en.wikipedia.org/wiki/2-opt). Use NN para inicializar. Comparar solução com anteriores.
 
 
-## Atividade 3
+### Atividade 3
+{:.no_toc}
 
 Serão avaliadas as implementações de **todas as metaheurísticas** apresentadas durante a disciplina. Cada aluno será "entrevistado" individualmente, onde mostrará ao professor o que fez, executará testes e responderá à eventuais perguntas. Não é necessário fazer *slides* para uma apresentação, a conversa será feita em frente ao computador. No entanto, **o(a) estudante deverá organizar o roteiro de sua fala, testes que apresentará, dificuldades enfrentadas etc.**
 
@@ -243,7 +259,8 @@ Serão avaliadas as implementações de **todas as metaheurísticas** apresentad
 - Coerência dos testes numéricos.
 
 
-## Atividade 4
+### Atividade 4
+{:.no_toc}
 
 Apresentação de um artigo selecionado. Cada estaudante escolherá um artigo e fará uma apresentação explicando:
 

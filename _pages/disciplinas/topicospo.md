@@ -5,13 +5,18 @@ permalink: /topicospo/
 author_profile: true
 ---
 
+{% include toc title="Sumário" %}
+
+
 <!--## Horários das aulas síncronas
+{:.no_toc}
 
 - Terças-feiras: 8:30 - 9:30
 - Quartas-feiras: 8:30 - 9:30-->
 
 
 ## Ementa
+{:.no_toc}
 
 Ementa variável.
 
