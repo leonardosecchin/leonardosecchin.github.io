@@ -81,7 +81,7 @@ author_profile: true
 ## Tópicos abordados nas aulas
 
 
-### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais
+### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais  #markdown data-toc-label='Discussões iniciais' }
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
 - Exemplos de aplicações
@@ -129,7 +129,7 @@ author_profile: true
 - [Vídeo com similação computacional da circulação sanguínea através de um aneurisma](https://www.youtube.com/watch?v=eBp0H7qvYQA)
 
 
-### <a name="presa-predador"></a>SEMANA 3 (25/03/24 a 29/03/24): Sistemas presa-predador
+### SEMANA 3 (25/03/24 a 29/03/24): Sistemas presa-predador
 
 - [Equação de Lotka-Volterra](https://pt.wikipedia.org/wiki/Equa%C3%A7%C3%A3o_de_Lotka-Volterra)
 - [Vídeo](https://www.youtube.com/watch?v=cHLCAXY-ZTw)
@@ -137,7 +137,7 @@ author_profile: true
 - [Código da simulação feita em aula (notebook na linguagem Julia)](/files/matind/presa-predador.ipynb)
 
 
-### <a name="eventos-discretos"></a>SEMANAS 4 e 5 (01/04/24 a 12/04/24): Simulação de eventos discretos
+### SEMANAS 4 e 5 (01/04/24 a 12/04/24): Simulação de eventos discretos
 
 - [Introdução](https://pt.wikipedia.org/wiki/Simula%C3%A7%C3%A3o_de_eventos_discretos)
 - Simulações com eventos aleatórios (Simulação Monte-Carlo)
@@ -153,7 +153,7 @@ author_profile: true
     - [passo a passo da construção do modelo no Arena](/files/matind/pedagio_arena_passo-a-passo.pdf)
 
 
-### <a name="apres1"></a>SEMANA 6: Apresentação 1 (15/04/24)
+### SEMANA 6: Apresentação 1 (15/04/24)
 
 - **Introdução à epidemiologia matemática**  
   *Douglas Santos Lacerda (estudante Mat. Ind.)*
@@ -165,7 +165,7 @@ Material fornecido pelo palestrante:
 1. [Nota técnica - Análise da propagação da pandemia de COVID-19 no estado do Espírito Santo e na conurbação da Grande Vitória a partir de modelos matemáticos](https://ijsn.es.gov.br/publicacoes/nota-tecnica/nt-niee-01-2020-analise-da-propagacao-da-pandemia-de-covid-19-no-estado-do-espirito-santo-e-na-conurbacao-da-grande-vitoria-a-partir-de-modelos-matematicos#:~:text=Esta%20Nota%20T%C3%A9cnica%20foi%20elaborada,coronav%C3%ADrus%20(COVID%2D19).)
 
 
-### <a name="pli"></a>SEMANAS 6 e 7 (16/04/24 a 26/04/24): Programação Linear/Inteira
+### SEMANAS 6 e 7 (16/04/24 a 26/04/24): Programação Linear/Inteira
 
 - [Sobre problemas de otimização](https://pt.wikipedia.org/wiki/Otimiza%C3%A7%C3%A3o)
 - Pequena apresentação da [programação linear/inteira](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_linear)
@@ -188,13 +188,13 @@ Material fornecido pelo palestrante:
 1. [ARAUJO, S. A. de; RANGEL, S. Matemática Aplicada ao Planejamento da Produção e Logı́stica. Notas em Matemática Aplicada, v. 76. SBMAC, 2014](/files/matind/livro_76_sbmac.pdf)
 
 
-### <a name="apres2"></a>SEMANA 8: Apresentação 2 (29/04/24)
+### SEMANA 8: Apresentação 2 (29/04/24)
 
 - **Gerenciamento de estoque em uma empresa do ramo alimentício**  
   *Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
 
 
-### <a name="apres3"></a>SEMANA 9: Apresentação 3 (07/05/24)
+### SEMANA 9: Apresentação 3 (07/05/24)
 
 - **Modelagem matemática da dinâmica populacional do mexilhão dourado**  
   *Carolina Martinelli (estudante Mat. Ind.)*
@@ -203,16 +203,16 @@ Material fornecido pelo palestrante:
 ### SEMANA 10 (13/05/2024 a 17/05/2024)
 
 
-### <a name="ml"></a>SEMANA 11 (20/05/2024 a 24/05/2024): Matemática no aprendizado de máquina supervisionado
+### SEMANA 11 (20/05/2024 a 24/05/2024): Matemática no aprendizado de máquina supervisionado
 
 
-### <a name="apres4"></a>SEMANA 11: Apresentação 4 (21/05/2024)
+### SEMANA 11: Apresentação 4 (21/05/2024)
 
 - **Redes neurais profundas: aplicação na detecção de câncer por imagem**  
   *Matheus Becali Rocha (ex-estudante Mat. Ind., mestrando Computação/UFES)*
 
 
-### <a name="apres5"></a>SEMANA 12: Apresentação 5 (27/05/24)
+### SEMANA 12: Apresentação 5 (27/05/24)
 
 - **Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
   *Wesley Rocha Grippa (docente DMA/UFES)*
@@ -243,12 +243,15 @@ Material fornecido pelo palestrante:
 - Apresentação aluno Pedro Lucas (projeto IC)
 
 
-## <a name="contrib"></a>Discussão aplicações da matemática - contribuições dos alunos
+## Discussão aplicações da matemática - contribuições dos alunos
+{:.no_toc}
+
 - (Caio) [Saber matemática é cada dia mais importante para os médicos](https://ensinoepesquisa.einstein.br/fiquepordentro/noticia/saber-matematica-e-cada-dia-mais-importante-para-os-medicos#:~:text=O%20aprendizado%20da%20interpreta%C3%A7%C3%A3o%20dos,os%20profissionais%20envolvidos%20em%20pesquisa.)
 - (André) [A matemática na produção e análise de alimentos](https://matematicax.com.br/a-matematica-na-producao-e-analise-de-alimentos/)
 
 
 ## Sociedades e Institutos de Matemática Aplicada no mundo
+{:.no_toc}
 
 - [Sociedade Brasileira de Matemática Aplicada e Computacional - SBMAC](https://www.sbmac.org.br/)
 - [Society for Industrial and Applied Mathematic - SIAM](https://siam.org/)
@@ -259,6 +262,7 @@ Material fornecido pelo palestrante:
 
 
 ## Eventos de Matemática Aplicada à Indústria
+{:.no_toc}
 
 - [Congresso Nacional de Matemática Aplicada e Computacional (CNMAC)](https://www.cnmac.org.br/)
 - [Workshop de Soluções Matemáticas para Problemas Industriais - CeMEAI/USP](https://cemeai.icmc.usp.br/WSMPI/)
