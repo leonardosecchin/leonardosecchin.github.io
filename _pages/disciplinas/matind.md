@@ -7,21 +7,6 @@ author_profile: true
 
 {% include toc title="Sumário" %}
 
-<!-->## Sumário
->1. [Discussões iniciais (papel do matemático, divulgação científica etc)](#inicio)
->1. [Sistemas presa-predador](#presa-predador)
->1. [Simulação de eventos discretos](#eventos-discretos)
->1. [PALESTRA: Introdução à epidemiologia matemática](#apres1)
->1. [Programação Linear/Inteira](#pli)
->1. [PALESTRA: Gerenciamento de estoque em uma empresa do ramo alimentício](#apres2)
->1. [PALESTRA: Modelagem matemática da dinâmica populacional do mexilhão dourado](#apres3)
->1. [Matemática no aprendizado de máquina supervisionado](#ml)
->1. [PALESTRA: Redes neurais profundas: aplicação na detecção de câncer por imagem](#apres4)
->1. [PALESTRA: Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo](#apres5)
->1. [Discussão aplicações da matemática - contribuições dos alunos](#contrib)
-
-
-***-->
 
 ## Horários das aulas
 {:.no_toc}
@@ -81,7 +66,7 @@ author_profile: true
 ## Tópicos abordados nas aulas
 
 
-### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais  { #markdown data-toc-label='Discussões iniciais' }
+### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
 - Exemplos de aplicações
