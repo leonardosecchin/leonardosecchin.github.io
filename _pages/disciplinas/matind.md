@@ -5,7 +5,9 @@ permalink: /matind/
 author_profile: true
 ---
 
->## Sumário
+{% include toc title="Sumário" %}
+
+<!-->## Sumário
 >1. [Discussões iniciais (papel do matemático, divulgação científica etc)](#inicio)
 >1. [Sistemas presa-predador](#presa-predador)
 >1. [Simulação de eventos discretos](#eventos-discretos)
@@ -19,7 +21,7 @@ author_profile: true
 >1. [Discussão aplicações da matemática - contribuições dos alunos](#contrib)
 
 
-***
+***-->
 
 ## Horários das aulas
 {:.no_toc}
