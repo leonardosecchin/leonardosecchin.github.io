@@ -38,9 +38,9 @@ author_profile: true
 
 If you are unable to download a paper, please email me.
 
-1. **On enhanced KKT optimality conditions for smooth nonlinear optimization** [[preprint](https://optimization-online.org/?p=21206)]  
+1. **On enhanced KKT optimality conditions for smooth nonlinear optimization** [[doi](https://doi.org/10.1137/22M1539678)] [[preprint](https://optimization-online.org/?p=21206)]  
    R. Andreani, M. L. Schuverdt, L. D. Secchin  
-   To appear in SIAM Journal on Optimization, 2024
+   SIAM Journal on Optimization, 34:1515-1539, 2024
 
 1. **Secant-inexact projection algorithms for solving a new class of constrained mixed generalized equations problems** [[doi](https://doi.org/10.1016/j.cam.2023.115638)]  
    P. C. da Silva Junior, O. P. Ferreira, L. D. Secchin, G. N. Silva  
