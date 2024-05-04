@@ -16,3 +16,6 @@ author_profile: true
 
 - [`Quadmath.jl`](https://github.com/JuliaMath/Quadmath.jl)  
    Interface para a biblioteca de sistema `libquadmath`, que implementa o tipo numérico de ponto flutuante de 128 bits `Float128`. Útil quando é imperativo realizar contas com precisão acima da dupla (64 bits).
+
+- [`Distances.jl`](https://github.com/JuliaStats/Distances.jl)  
+   Cálculo de distâncias de maneira eficiente.
