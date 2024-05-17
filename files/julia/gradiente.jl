@@ -91,8 +91,8 @@ function gradiente(nlp; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=true, hist
         gsupn = norm(g, Inf)
 
         if hist
-            histf = [histf f]
-            histgsupn = [histgsupn gsupn]
+            histf = vcat(histf, f)
+            histgsupn = vcat(histgsupn, gsupn)
         else
             histf = f
             histgsupn = gsupn

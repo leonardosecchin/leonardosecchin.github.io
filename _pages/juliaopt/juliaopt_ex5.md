@@ -31,6 +31,7 @@ Os vetores `f` e `gradnorm` contêm o histórico de $f$ e $\|\nabla f\|_\infty$.
 
 Iniciando a figura com o gráfico de $f$:
 ~~~
+julia> using Plots
 julia> fig = plot(f, label="f");
 ~~~
 
