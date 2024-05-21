@@ -70,20 +70,22 @@ author_profile: true
   - **Data limite: 10/05/24**
 
 - **Avaliação 2**
-<!--   - **Lista de exercícios** -->
-<!--   - Conteúdo: convexidade, métodos de descida gerais (gradiente, Newton, quase-Newton, método do gradiente espectral), método dos gradientes conjugados -->
+  - **Lista de exercícios**
+  - Conteúdo: métodos de descida gerais (gradiente, Newton, quase-Newton, método do gradiente espectral)
+  - **TAREFAS A SEREM ENTREGUES:**
+    - exercícios 4.2, 4.8, 6.4, 6.9 do livro de Ana Friedlander
+    - exercícios 2, 3, 5, 8(e), 9, 10, 14(e,f,g) da Lista 3
   - Valor: 10,0 pontos
-  - **Data: --**
+  - **Data limite: 07/06/24**
 
 - **Avaliação 3**
 <!--   - **Lista de exercícios** -->
-<!--   - Conteúdo: otimização com restrições; método de restrições ativas -->
+<!--   - Conteúdo: convexidade, método dos gradientes conjugados -->
   - Valor: 10,0 pontos
 <!--   - **TAREFAS A SEREM ENTREGUES:** -->
-<!--     - exercícios 13.1, 13.6, 13.13 (livro de Ana Friedlander) -->
-<!--     - exercícios 2, 3, 8 ([Lista 4](https://drive.google.com/file/d/1OD83-5-rjmD8pVqrVnYFY_MPuUpoD6e6/view?usp=sharing)) -->
+<!--     - exercícios do livro de Ana Friedlander -->
+<!--     - exercícios 2, da Lista 2
   - **Data: --**
-<!--   - *Entregar resolução por escrito* -->
 
 - **Avaliação 4**
 <!--   - **Lista de exercícios** -->
