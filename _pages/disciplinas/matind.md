@@ -24,7 +24,7 @@ author_profile: true
 - Motivar e promover a reflexão sobre a atuação do matemático na sociedade e na resolução de problemas reais
 - Estudar textos científicos de variados temas e problemas no contexto industrial relacionados à conteúdos do curso
 - Reproduzir, na medida do possível, casos de aplicação da matemática para a resolução de problemas variados
-- Desenvolver atividades de extensão
+- Incentivar atividades onde os alunos sejam protagonistas, como estudo de casos e apresentações orais
 
 
 <!-- ## Textos de apoio -->
