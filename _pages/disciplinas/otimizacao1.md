@@ -84,7 +84,7 @@ author_profile: true
   - Valor: 10,0 pontos
 <!--   - **TAREFAS A SEREM ENTREGUES:** -->
 <!--     - exercícios do livro de Ana Friedlander -->
-<!--     - exercícios 2, da Lista 2
+<!--     - exercícios 2, da Lista 2 -->
   - **Data: --**
 
 - **Avaliação 4**
