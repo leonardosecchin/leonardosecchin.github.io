@@ -29,16 +29,16 @@ author_profile: true
    J. C. A. Medeiros, A. A. Ribeiro, M. Sachine, L. D. Secchin  
    2022
 
-1. **Improving the global convergence of Inexact Restoration methods for constrained optimization problems** [[preprint](http://www.optimization-online.org/DB_HTML/2022/03/8851.html)]  
-   R. Andreani, A. Ramos, L. D. Secchin  
-   2022
-
 
 ## Published papers and articles in press
 
 If you are unable to download a paper, please email me.
 
-1. **On enhanced KKT optimality conditions for smooth nonlinear optimization** [[doi](https://doi.org/10.1137/22M1539678)] [[preprint](https://optimization-online.org/?p=21206)]  
+1. **Improving the global convergence of Inexact Restoration methods for constrained optimization problems** [[preprint](http://www.optimization-online.org/DB_HTML/2022/03/8851.html)]
+   R. Andreani, A. Ramos, L. D. Secchin
+   To appear in SIAM Journal on Optimization, 2024
+
+1. **On enhanced KKT optimality conditions for smooth nonlinear optimization** [[doi](https://doi.org/10.1137/22M1539678)] [[preprint](https://optimization-online.org/?p=21206)]
    R. Andreani, M. L. Schuverdt, L. D. Secchin  
    SIAM Journal on Optimization, 34:1515-1539, 2024
 
