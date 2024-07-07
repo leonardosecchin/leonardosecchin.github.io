@@ -150,7 +150,7 @@ Material fornecido pelo palestrante:
 1. [Nota técnica - Análise da propagação da pandemia de COVID-19 no estado do Espírito Santo e na conurbação da Grande Vitória a partir de modelos matemáticos](https://ijsn.es.gov.br/publicacoes/nota-tecnica/nt-niee-01-2020-analise-da-propagacao-da-pandemia-de-covid-19-no-estado-do-espirito-santo-e-na-conurbacao-da-grande-vitoria-a-partir-de-modelos-matematicos#:~:text=Esta%20Nota%20T%C3%A9cnica%20foi%20elaborada,coronav%C3%ADrus%20(COVID%2D19).)
 
 
-### SEMANAS 6 e 7 (16/04/24 a 26/04/24): Programação Linear/Inteira
+### SEMANAS 6 e 7 (08/07/24 a 19/07/24): Programação Linear/Inteira
 
 - [Sobre problemas de otimização](https://pt.wikipedia.org/wiki/Otimiza%C3%A7%C3%A3o)
 - Pequena apresentação da [programação linear/inteira](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_linear)
@@ -173,31 +173,31 @@ Material fornecido pelo palestrante:
 1. [ARAUJO, S. A. de; RANGEL, S. Matemática Aplicada ao Planejamento da Produção e Logı́stica. Notas em Matemática Aplicada, v. 76. SBMAC, 2014](/files/matind/livro_76_sbmac.pdf)
 
 
-### SEMANA 8: Apresentação 2 (29/04/24)
+### SEMANA 8: Apresentação 2 (a reprogramar)
 
 - **Gerenciamento de estoque em uma empresa do ramo alimentício**  
   *Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
 
 
-### SEMANA 9: Apresentação 3 (07/05/24)
+### SEMANA 9: Apresentação 3 (a reprogramar)
 
 - **Modelagem matemática da dinâmica populacional do mexilhão dourado**  
   *Carolina Martinelli (estudante Mat. Ind.)*
 
 
-### SEMANA 10 (13/05/2024 a 17/05/2024)
+### SEMANA 10 (a reprogramar)
 
 
-### SEMANA 11 (20/05/2024 a 24/05/2024): Matemática no aprendizado de máquina supervisionado
+### SEMANA 11 (a reprogramar): Matemática no aprendizado de máquina supervisionado
 
 
-### SEMANA 11: Apresentação 4 (21/05/2024)
+### SEMANA 11: Apresentação 4 (a reprogramar)
 
 - **Redes neurais profundas: aplicação na detecção de câncer por imagem**  
   *Matheus Becali Rocha (ex-estudante Mat. Ind., mestrando Computação/UFES)*
 
 
-### SEMANA 12: Apresentação 5 (27/05/24)
+### SEMANA 12: Apresentação 5 (a reprogramar)
 
 - **Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
   *Wesley Rocha Grippa (docente DMA/UFES)*
