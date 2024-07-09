@@ -19,18 +19,18 @@ O **Trabalho de Conclusão de Curso (TCC)** é elemento curricular obrigatório 
 
 ## Pré-requisitos para IC
 
-Pré-requisitos para qualquer projeto:
-- **ter sido aprovado(a)** em uma disciplina de programação não linear e em uma de programação linear (na matemática industrial, **"Otimização 1"** e **"Pesquisa Operacional 1"**);
+<!-- Pré-requisitos para qualquer projeto: -->
+- **ter sido aprovado(a)** em uma disciplina de otimização;
 - ter capacidade de **programar em computador**. A **linguagem de programação Julia** é a preferência em quase todos os casos (veja a seção "Linguagens de programação" abaixo);
 - ter capacidade de **ler e entender textos em inglês**, já que as referências são em grande parte escritas na língua. Não é necessário saber escrever ou falar inglês;
 - ter bom desempenho acadêmico nas disciplinas de otimização/pesquisa operacional cursadas;
 - ter disponibilidade de **20h semanais para as atividades da IC**. O(A) estudante não poderá se abster das atividades da IC em hipótese alguma, **indpendentemente da quantidade de atividades diversas ou disciplinas em que esteja matriculado(a)**.
 
-Condições desejáveis:
-- ter cursado "Otimização 2" (Matemática Industrial). Em determinados anos **pode ser obrigatório** a depender dos projetos que tenho a disposição.
+<!-- Condições desejáveis: -->
+<!-- - ter cursado "Otimização 2" (Matemática Industrial). Em determinados anos **pode ser obrigatório** a depender dos projetos que tenho a disposição. -->
 
 **Pré-requisito para CONCORRER À BOLSA de IC (PIBIC):**
-- ter coeficiente de rendimento médio igual ou superior a 7,0 (sete), comprovado em histórico escolar atualizado.
+- ter coeficiente de rendimento médio igual ou superior a 5,0 (sete), comprovado em histórico escolar atualizado.
 
 *O(A) estudante que não atender aos pré-requisitos para concorrer à bolsa mas cumprir os pré-requisitos gerais será enquadrado(a) na modalidade voluntário (PIVIC).*
 
