@@ -163,14 +163,16 @@ Material fornecido pelo palestrante:
   - O problema do caminho mínimo (seção 2.1 da [referência 2](/files/matind/livro_76_sbmac.pdf))
   - Localização de facilidades (seção 2.3 da [referência 2](/files/matind/livro_76_sbmac.pdf))
   - Problema de [corte de estoque](/files/topicospo/GER_COL_4-cutting-stock.pdf)
-  - Mais exemplos nas referências 1, 2 e no capítulo 2 de [LUNA, E. P. L.; GOLDBARG, M. C. Otimização combinatória e programação linear - modelos e algoritmos. Ed. Elsevier, 2005.](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)
+  - Mais exemplos nas referências 1, 2 e no capítulo 2 da [referência 3](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)
 - Resolução numérica de modelos de programação linear inteira mista
   - [Códigos usados em aula](/files/matind/PLI.zip)
+- Exercícios: [lista 1](https://drive.google.com/file/d/1-ia9B7oBmMw_PoJbVISCBMiUM-doqfLJ/view?usp=sharing); [lista 2](https://drive.google.com/file/d/1rETlQeNAqXDcSlId758N_rjoOIBwio4L/view?usp=sharing)
 
 *Referências:*
 
 1. [RANGEL, S. Introdução à Construção de Modelos de Otimização Linear e Inteira. Notas em Matemática Aplicada, v. 18. SBMAC, 2012](/files/matind/livro_18_sbmac.pdf)
 1. [ARAUJO, S. A. de; RANGEL, S. Matemática Aplicada ao Planejamento da Produção e Logı́stica. Notas em Matemática Aplicada, v. 76. SBMAC, 2014](/files/matind/livro_76_sbmac.pdf)
+1. [LUNA, E. P. L.; GOLDBARG, M. C. Otimização combinatória e programação linear - modelos e algoritmos. Ed. Elsevier, 2005](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)
 
 
 ### SEMANA 8: Apresentação 2 (a reprogramar)
