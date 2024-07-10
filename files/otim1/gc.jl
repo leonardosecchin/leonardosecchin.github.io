@@ -2,14 +2,13 @@
 # MÉTODO DOS GRADIENTES CONJUGADOS
 #
 # Autor: Leonardo D. Secchin
-# Data : 20/06/2023
+# Data : atualizado em 10/07/2024
 #
 # Para testar o método em problemas selecionados, execute
 #   testar()
 ###################################################
 
 using Printf, LinearAlgebra, SparseArrays, DataFrames, MatrixDepot
-
 
 """
 `x, gsupn, iter, status = gc(A, b, [opções])`
@@ -34,10 +33,9 @@ O método anula o gradiente de `q`, isto é, resolve o sistema `g = Ax + b = 0`.
 - `x0`       : ponto inicial (caso não fornecido, `x0 = zeros(n)`)
 - `eps`      : precisão para convergencia (padrão = 1.0e-6)
 - `maxiter`  : número máximo de iterações (padrão = 10000)
-- `reinicia` : reinicia método a cada `n` iterações? (deve ser implementado!) (padrão = true)
 - `saidas`   : mensagens na tela? (padrão = true)
 """
-function gc(A,b; x0=nothing, eps=1.0e-6, maxiter=10000, reinicia=true, saidas=true)
+function gc(A,b; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=true)
 
     iter   = 0
     status = 1
@@ -50,8 +48,15 @@ function gc(A,b; x0=nothing, eps=1.0e-6, maxiter=10000, reinicia=true, saidas=tr
         x0 = zeros(n)
     end
 
-    x     = float(x0)
-    g     = A*x + b
+    # aloca vetores
+    x     = zeros(n)
+    g     = zeros(n)
+    g_ant = zeros(n)
+    w     = zeros(n)
+    d     = zeros(n)
+
+    x    .= float(x0)
+    g    .= A*x + b
     gsupn = norm(g, Inf)
 
     # imprimi cabeçalho saídas
@@ -60,9 +65,8 @@ function gc(A,b; x0=nothing, eps=1.0e-6, maxiter=10000, reinicia=true, saidas=tr
         @printf("\n%d\t%8.2e", iter, gsupn)
     end
 
-
     # direção inicial
-    d = -g
+    d .= -g
 
     while gsupn > eps && iter < maxiter
 
@@ -71,9 +75,7 @@ function gc(A,b; x0=nothing, eps=1.0e-6, maxiter=10000, reinicia=true, saidas=tr
         # CONFORME VISTO EM AULA
         ##########################
 
-        # ................................
-
-
+        # .................
 
         # atualiza norma de g
         gsupn = norm(g,Inf)
@@ -89,7 +91,6 @@ function gc(A,b; x0=nothing, eps=1.0e-6, maxiter=10000, reinicia=true, saidas=tr
             @printf("\n%d\t%8.2e", iter, gsupn)
         end
     end
-
 
     # sucesso!
     if gsupn <= eps
