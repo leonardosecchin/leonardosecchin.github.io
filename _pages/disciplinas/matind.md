@@ -163,10 +163,10 @@ Material fornecido pelo palestrante:
   - Localização de facilidades (seção 2.3 da [referência 2](/files/matind/livro_76_sbmac.pdf))
   - Problema de [corte de estoque](/files/topicospo/GER_COL_4-cutting-stock.pdf)
   - Mais exemplos nas referências 1, 2 e no capítulo 2 da [referência 3](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)
-- Resolução numérica de modelos de programação linear inteira mista
+- Modelagem e resolução numérica
   - [Códigos usados em aula](/files/matind/PLI.zip)
-- Exercícios: [lista 1](https://drive.google.com/file/d/1-ia9B7oBmMw_PoJbVISCBMiUM-doqfLJ/view?usp=sharing); [lista 2](https://drive.google.com/file/d/1rETlQeNAqXDcSlId758N_rjoOIBwio4L/view?usp=sharing)
-- [Código Julia](/files/matind/ligas.jl) para o Exemplo 1 da lista 1 (problema das ligas metálicas)
+  - Exercícios: [lista 1](https://drive.google.com/file/d/1-ia9B7oBmMw_PoJbVISCBMiUM-doqfLJ/view?usp=sharing); [lista 2](https://drive.google.com/file/d/1rETlQeNAqXDcSlId758N_rjoOIBwio4L/view?usp=sharing)
+  - [Código Julia](/files/matind/ligas.jl) para o Exemplo 1 da lista 1 (problema das ligas metálicas)
 
 *Referências:*
 
