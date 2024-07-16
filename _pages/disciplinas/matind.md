@@ -11,9 +11,8 @@ author_profile: true
 ## Horários das aulas
 {:.no_toc}
 
-- Segundas-feiras de 13:00 as 15:00 (Sala 12 Eixo 1)
-- Terças-feiras de 16:00 as 18:00 (Sala 08 Eixo 1)
-
+- Terças-feiras de 16:00 as 18:00 (Sala 08 Eixo 1 / Laboratório de Matemática Computacional)
+- Sexta-feiras de 12:00 as 14:00 (Sala 07 Eixo 1)
 
 <!-- ## [Ementa e programa (7o período)](https://matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Matem%c3%a1tica%20Industrial%20-%20DMA12413.pdf) -->
 
