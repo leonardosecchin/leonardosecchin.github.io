@@ -166,6 +166,7 @@ Material fornecido pelo palestrante:
 - Resolução numérica de modelos de programação linear inteira mista
   - [Códigos usados em aula](/files/matind/PLI.zip)
 - Exercícios: [lista 1](https://drive.google.com/file/d/1-ia9B7oBmMw_PoJbVISCBMiUM-doqfLJ/view?usp=sharing); [lista 2](https://drive.google.com/file/d/1rETlQeNAqXDcSlId758N_rjoOIBwio4L/view?usp=sharing)
+- [Código Julia](/files/matind/ligas.jl) para o Exemplo 1 da lista 1 (problema das ligas metálicas)
 
 *Referências:*
 
