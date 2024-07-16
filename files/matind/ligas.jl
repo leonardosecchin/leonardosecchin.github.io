@@ -1,5 +1,10 @@
 ###############################
 # Exemplo das ligas metálicas
+#
+# Para executá-lo, abra um terminal na pasta em
+# que salvou este arquivo, abra o Julia executando
+# 'julia' e, já dentro do Julia, execute
+#       include("ligas.jl")
 ###############################
 
 # insere pacotes necessários
