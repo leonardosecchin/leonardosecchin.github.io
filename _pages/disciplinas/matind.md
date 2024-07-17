@@ -175,22 +175,19 @@ Material fornecido pelo palestrante:
 1. [LUNA, E. P. L.; GOLDBARG, M. C. Otimização combinatória e programação linear - modelos e algoritmos. Ed. Elsevier, 2005](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)
 
 
-### SEMANA 8: Apresentação 2 (26/07/24)
+### SEMANA 8: Apresentação 2 (26/07/24 - sexta-feira)
 
 - **Gerenciamento de estoque em uma empresa do ramo alimentício**  
   *Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
 
 
-### SEMANA 9: Apresentação 3 (a reprogramar)
+### SEMANA 9: Apresentação 3 (02/08/24 - sexta-feira)
 
 - **Modelagem matemática da dinâmica populacional do mexilhão dourado**  
   *Carolina Martinelli (estudante Mat. Ind.)*
 
 
-### SEMANA 10 (a reprogramar)
-
-
-### SEMANA 11 (a reprogramar): Matemática no aprendizado de máquina supervisionado
+### SEMANAS 10 e 11 (05/08/24 a 13/08/24): Matemática no aprendizado de máquina supervisionado
 
 
 ### SEMANA 11: Apresentação 4 (a reprogramar)
