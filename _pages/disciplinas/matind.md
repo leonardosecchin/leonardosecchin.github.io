@@ -190,19 +190,19 @@ Material fornecido pelo palestrante:
 ### SEMANAS 10 e 11 (05/08/24 a 13/08/24): Matemática no aprendizado de máquina supervisionado
 
 
-### SEMANA 11: Apresentação 4 (a reprogramar)
+### SEMANA 11: Apresentação 4 (16/08/24 - sexta-feira)
 
 - **Redes neurais profundas: aplicação na detecção de câncer por imagem**  
   *Matheus Becali Rocha (ex-estudante Mat. Ind., mestrando Computação/UFES)*
+
+
+### SEMANA 12 (19/08/2024 a 23/08/2024)
 
 
 ### SEMANA 12: Apresentação 5 (a reprogramar)
 
 - **Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
   *Wesley Rocha Grippa (docente DMA/UFES)*
-
-
-<!-- ### SEMANA 13 (03/06/2024 a 07/06/2024) -->
 
 
 <!-- ### SEMANA 14 (10/06/2024 a 14/06/2024) -->
