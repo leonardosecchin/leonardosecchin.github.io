@@ -193,7 +193,7 @@ Material fornecido pelo palestrante:
 ### SEMANA 11: Apresentação 4 (16/08/24 - sexta-feira)
 
 - **Redes neurais profundas: aplicação na detecção de câncer por imagem**  
-  *Matheus Becali Rocha (ex-estudante Mat. Ind., mestrando Computação/UFES)*
+  *Matheus Becali Rocha (ex-estudante Mat. Ind., mestre em Computação/UFES)*
 
 
 ### SEMANA 12 (19/08/2024 a 23/08/2024)
