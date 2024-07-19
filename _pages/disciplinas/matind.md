@@ -187,7 +187,9 @@ Material fornecido pelo palestrante:
   *Carolina Martinelli (estudante Mat. Ind.)*
 
 
-### SEMANAS 10 e 11 (05/08/24 a 13/08/24): Matemática no aprendizado de máquina supervisionado
+### SEMANAS 10 e 11 (05/08/24 a 13/08/24): Exemplo de uso da matemática na inteligência artificial
+
+<!-- no aprendizado de máquina supervisionado -->
 
 
 ### SEMANA 11: Apresentação 4 (16/08/24 - sexta-feira)
