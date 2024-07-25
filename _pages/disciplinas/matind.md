@@ -64,12 +64,14 @@ author_profile: true
 
 ## Tópicos abordados nas aulas
 
+<details>
+<summary>
 
 ### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais
+</summary>
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
-<details>
-<summary>- Exemplos de aplicações</summary>
+- Exemplos de aplicações
   - [Dinâmica populacional](https://pt.wikipedia.org/wiki/Din%C3%A2mica_populacional)
     - Modelo predador-presa
     - Modelos de propagação do COVID-19
@@ -80,7 +82,6 @@ author_profile: true
     - [Confecção de grade de horários escolares](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_4479_relatorio.pdf)
     - Problemas de logística
     - etc...
-</details>
 - Uso do computador na resolução de problemas: será frequente durante o curso!
 - [Algoritmos](https://pt.wikipedia.org/wiki/Algoritmo)
   - Um exemplo de algoritmo iterativo simples para minimizar funções
@@ -114,6 +115,7 @@ author_profile: true
 - [Exemplo de uso de simulação computacional na gestão hospitalar](https://www.aedb.br/seget/arquivos/artigos16/1424430.pdf)
 - [Vídeo com similação computacional da circulação sanguínea através de um aneurisma](https://www.youtube.com/watch?v=eBp0H7qvYQA)
 
+</details>
 
 ### SEMANA 3 (25/03/24 a 29/03/24): Sistemas presa-predador
 
