@@ -64,10 +64,6 @@ author_profile: true
 
 ## Tópicos abordados nas aulas
 
->[!IMPORTANT]
->
->Teste.
-
 ### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
