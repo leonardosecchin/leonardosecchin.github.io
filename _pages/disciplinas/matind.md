@@ -11,7 +11,7 @@ author_profile: true
 ## Horários das aulas
 {:.no_toc}
 
-- Terças-feiras de 16:00 as 18:00 (Sala 08 Eixo 1 / Laboratório de Matemática Computacional)
+- Terças-feiras de 16:00 as 18:00 (Laboratório de Matemática Computacional)
 - Sexta-feiras de 12:00 as 14:00 (Sala 07 Eixo 1)
 
 <!-- ## [Ementa e programa (7o período)](https://matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Matem%c3%a1tica%20Industrial%20-%20DMA12413.pdf) -->
@@ -45,7 +45,7 @@ author_profile: true
 
 - Nota parcial 1: participação nas aulas e discussões
 - Nota parcial 2: relatório dos tópicos vistos em sala de aula, construído ao longo da disciplina
-- Nota parcial 3: apresentação oral do relátorio
+<!-- - Nota parcial 3: apresentação oral do relátorio -->
 
 <!-- - **PROVA FINAL** -->
 <!--   - **Prova escrita** -->
@@ -68,7 +68,8 @@ author_profile: true
 ### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
-- Exemplos de aplicações
+<details>
+<summary>- Exemplos de aplicações</summary>
   - [Dinâmica populacional](https://pt.wikipedia.org/wiki/Din%C3%A2mica_populacional)
     - Modelo predador-presa
     - Modelos de propagação do COVID-19
@@ -79,6 +80,7 @@ author_profile: true
     - [Confecção de grade de horários escolares](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_4479_relatorio.pdf)
     - Problemas de logística
     - etc...
+</details>
 - Uso do computador na resolução de problemas: será frequente durante o curso!
 - [Algoritmos](https://pt.wikipedia.org/wiki/Algoritmo)
   - Um exemplo de algoritmo iterativo simples para minimizar funções
