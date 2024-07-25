@@ -64,11 +64,8 @@ author_profile: true
 
 ## Tópicos abordados nas aulas
 
-<details>
-<summary>
 
 ### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais
-</summary>
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
 - Exemplos de aplicações
@@ -115,7 +112,6 @@ author_profile: true
 - [Exemplo de uso de simulação computacional na gestão hospitalar](https://www.aedb.br/seget/arquivos/artigos16/1424430.pdf)
 - [Vídeo com similação computacional da circulação sanguínea através de um aneurisma](https://www.youtube.com/watch?v=eBp0H7qvYQA)
 
-</details>
 
 ### SEMANA 3 (25/03/24 a 29/03/24): Sistemas presa-predador
 
