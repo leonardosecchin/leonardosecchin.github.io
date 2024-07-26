@@ -179,6 +179,9 @@ Material fornecido pelo palestrante:
 - **Gerenciamento de estoque em uma empresa do ramo alimentício**  
   *Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
 
+Material fornecido pelo palestrante:
+1. [Slides da apresentação](/files/matind/slides_JoaoPedro.pdf)
+
 
 ### SEMANA 9: Apresentação 3 (02/08/24 - sexta-feira)
 
