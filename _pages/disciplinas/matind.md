@@ -64,7 +64,8 @@ author_profile: true
 
 ## Tópicos abordados nas aulas
 
-### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais
+<!-- ### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais -->
+### Discussões iniciais
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
 - Exemplos de aplicações
@@ -112,7 +113,8 @@ author_profile: true
 - [Vídeo com similação computacional da circulação sanguínea através de um aneurisma](https://www.youtube.com/watch?v=eBp0H7qvYQA)
 
 
-### SEMANA 3 (25/03/24 a 29/03/24): Sistemas presa-predador
+<!-- ### SEMANA 3 (25/03/24 a 29/03/24): Sistemas presa-predador -->
+### Sistemas presa-predador
 
 - [Equação de Lotka-Volterra](https://pt.wikipedia.org/wiki/Equa%C3%A7%C3%A3o_de_Lotka-Volterra)
 - [Vídeo](https://www.youtube.com/watch?v=cHLCAXY-ZTw)
@@ -120,7 +122,8 @@ author_profile: true
 - [Código da simulação feita em aula (notebook na linguagem Julia)](/files/matind/presa-predador.ipynb)
 
 
-### SEMANAS 4 e 5 (01/04/24 a 12/04/24): Simulação de eventos discretos
+<!-- ### SEMANAS 4 e 5 (01/04/24 a 12/04/24): Simulação de eventos discretos -->
+### Simulação de eventos discretos
 
 - [Introdução](https://pt.wikipedia.org/wiki/Simula%C3%A7%C3%A3o_de_eventos_discretos)
 - Simulações com eventos aleatórios (Simulação Monte-Carlo)
@@ -136,7 +139,8 @@ author_profile: true
     - [passo a passo da construção do modelo no Arena](/files/matind/pedagio_arena_passo-a-passo.pdf)
 
 
-### SEMANA 6: Apresentação 1 (15/04/24)
+<!-- ### SEMANA 6: Apresentação 1 (15/04/24) -->
+### Apresentação 1 (15/04/24)
 
 - **Introdução à epidemiologia matemática**  
   *Douglas Santos Lacerda (estudante Mat. Ind.)*
@@ -148,7 +152,8 @@ Material fornecido pelo palestrante:
 1. [Nota técnica - Análise da propagação da pandemia de COVID-19 no estado do Espírito Santo e na conurbação da Grande Vitória a partir de modelos matemáticos](https://ijsn.es.gov.br/publicacoes/nota-tecnica/nt-niee-01-2020-analise-da-propagacao-da-pandemia-de-covid-19-no-estado-do-espirito-santo-e-na-conurbacao-da-grande-vitoria-a-partir-de-modelos-matematicos#:~:text=Esta%20Nota%20T%C3%A9cnica%20foi%20elaborada,coronav%C3%ADrus%20(COVID%2D19).)
 
 
-### SEMANAS 6 e 7 (08/07/24 a 24/07/24): Programação Linear/Inteira
+<!-- ### SEMANAS 6 e 7 (08/07/24 a 24/07/24): Programação Linear/Inteira -->
+### Programação Linear/Inteira
 
 - [Sobre problemas de otimização](https://pt.wikipedia.org/wiki/Otimiza%C3%A7%C3%A3o)
 - Pequena apresentação da [programação linear/inteira](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_linear)
@@ -174,7 +179,8 @@ Material fornecido pelo palestrante:
 1. [LUNA, E. P. L.; GOLDBARG, M. C. Otimização combinatória e programação linear - modelos e algoritmos. Ed. Elsevier, 2005](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)
 
 
-### SEMANA 8: Apresentação 2 (26/07/24 - sexta-feira)
+<!-- ### SEMANA 8: Apresentação 2 (26/07/24 - sexta-feira) -->
+### Apresentação 2 (26/07/24 - sexta-feira)
 
 - **Gerenciamento de estoque em uma empresa do ramo alimentício**  
   *Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
@@ -183,27 +189,36 @@ Material fornecido pelo palestrante:
 1. [Slides da apresentação](/files/matind/slides_JoaoPedro.pdf)
 
 
-### SEMANA 9: Apresentação 3 (02/08/24 - sexta-feira)
+<!-- ### SEMANAS 9 e 10 (29/07/24 a 09/08/24): Exemplo de uso da matemática na inteligência artificial -->
+### Exemplo de uso da matemática na inteligência artificial
+
+- [Vídeo introdutório (fonte: Univesp)](https://www.youtube.com/watch?v=TY45HIJ3RpM)
+- Aprendizado de máquina supervisionado
+  - [Redes neurais](https://pt.wikipedia.org/wiki/Rede_neural_artificial)
+  - Exemplo: reconhecimento de caracteres numéricos escritos à mão
+    - [Banco de dados MNIST](https://pt.wikipedia.org/wiki/Banco_de_dados_MNIST)
+    - Pacote [Flux](https://fluxml.ai/) para treinamento de redes neurais
+
+
+<!-- ### SEMANA 9: Apresentação 3 (02/08/24 - sexta-feira) -->
+### Apresentação 3 (02/08/24 - sexta-feira)
 
 - **Modelagem matemática da dinâmica populacional do mexilhão dourado**  
   *Carolina Martinelli (estudante Mat. Ind.)*
 
 
-### SEMANAS 10 e 11 (05/08/24 a 13/08/24): Exemplo de uso da matemática na inteligência artificial
-
-<!-- no aprendizado de máquina supervisionado -->
-
-
-### SEMANA 11: Apresentação 4 (16/08/24 - sexta-feira)
+<!-- ### SEMANA 11: Apresentação 4 (16/08/24 - sexta-feira) -->
+### Apresentação 4 (16/08/24 - sexta-feira)
 
 - **Redes neurais profundas: aplicação na detecção de câncer por imagem**  
   *Matheus Becali Rocha (ex-estudante Mat. Ind., mestre em Computação/UFES)*
 
 
-### SEMANA 12 (19/08/2024 a 23/08/2024)
+<!-- ### SEMANA 12 (19/08/2024 a 23/08/2024) -->
 
 
-### SEMANA 12: Apresentação 5 (a reprogramar)
+<!-- ### SEMANA 12: Apresentação 5 (a reprogramar) -->
+### Apresentação 5 (a reprogramar)
 
 - **Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
   *Wesley Rocha Grippa (docente DMA/UFES)*
@@ -227,7 +242,6 @@ Material fornecido pelo palestrante:
 *No radar*
 
 - Discussão aplicações da matemática - contribuições dos alunos
-- Apresentação aluno Pedro Henrique Fischer (TCC) - Segunda-feira (a definir)
 - Apresentação aluno Pedro Lucas (projeto IC)
 
 
