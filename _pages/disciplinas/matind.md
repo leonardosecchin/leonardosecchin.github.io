@@ -68,9 +68,7 @@ author_profile: true
 <details>
 
 <summary>
-
 ### Discussões iniciais
-
 </summary>
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
