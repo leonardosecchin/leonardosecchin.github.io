@@ -66,8 +66,8 @@ author_profile: true
 
 <!-- ### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais -->
 <details>
-<summary>
-Discussões iniciais
+<summary markdown="span">
+### Discussões iniciais
 </summary>
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
