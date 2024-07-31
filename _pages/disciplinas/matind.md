@@ -5,7 +5,7 @@ permalink: /matind/
 author_profile: true
 ---
 
-{% include toc title="Sumário" %}
+<!-- {% include toc title="Sumário" %} -->
 
 
 ## Horários das aulas
