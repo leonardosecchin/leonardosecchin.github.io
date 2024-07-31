@@ -128,7 +128,7 @@ author_profile: true
 ## Material
 
 <details>
-<summary>
+<summary markdown="span">
 **Conceitos básicos**
 </summary>
 
@@ -141,7 +141,7 @@ author_profile: true
 
 
 <details>
-<summary>
+<summary markdown="span">
 **Otimização sem restrições**
 </summary>
 
@@ -154,7 +154,7 @@ author_profile: true
 
 
 <details>
-<summary>
+<summary markdown="span">
 **Convexidade**
 </summary>
 
@@ -167,7 +167,7 @@ author_profile: true
 
 
 <details>
-<summary>
+<summary markdown="span">
 **A linguagem de programação Julia**
 </summary>
 
@@ -186,7 +186,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 
 <details>
-<summary>
+<summary markdown="span">
 **Métodos de descida gerais**
 </summary>
 
@@ -201,7 +201,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 
 <details>
-<summary>
+<summary markdown="span">
 **Método de Newton**
 </summary>
 
@@ -218,7 +218,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 
 <details>
-<summary>
+<summary markdown="span">
 **Métodos quase-Newton**
 </summary>
 
@@ -232,7 +232,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 
 <details>
-<summary>
+<summary markdown="span">
 **Método do gradiente espectral**
 </summary>
 
@@ -244,7 +244,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 
 <details>
-<summary>
+<summary markdown="span">
 **Método dos gradientes conjugados para minimização de quadráticas**
 </summary>
 
@@ -256,7 +256,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 
 <details>
-<summary>
+<summary markdown="span">
 **Otimização com restrições**
 </summary>
 
@@ -268,7 +268,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 
 <details>
-<summary>
+<summary markdown="span">
 **Métodos para otimização com restrições lineares**
 </summary>
 
@@ -281,7 +281,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 
 <details>
-<summary>
+<summary markdown="span">
 **Métodos para otimização com restrições gerais**
 </summary>
 
@@ -307,7 +307,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 ## Tópicos extras
 
 <details>
-<summary>
+<summary markdown="span">
 **Comparação do desempenho de diferentes algoritmos**
 </summary>
 
@@ -320,7 +320,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 
 <details>
-<summary>
+<summary markdown="span">
 **Breve introdução à otimização aplicada ao aprendizado de máquina supervisionado (a fazer)**
 </summary>
 
@@ -328,7 +328,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 
 <details>
-<summary>
+<summary markdown="span">
 **Outros**
 </summary>
 
