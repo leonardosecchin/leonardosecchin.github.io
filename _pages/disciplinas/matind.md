@@ -240,7 +240,7 @@ Material fornecido pelo palestrante:
 <!-- ### SEMANA 11: Apresentação 4 (16/08/24 - sexta-feira) -->
 <details>
 <summary markdown="span">
-**Apresentação 4 (16/08/24)**
+**Apresentação 4 (23/08/24)**
 </summary>
 
 **Redes neurais profundas: aplicação na detecção de câncer por imagem**  
