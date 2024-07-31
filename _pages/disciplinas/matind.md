@@ -118,16 +118,23 @@ author_profile: true
 </details>
 
 <!-- ### SEMANA 3 (25/03/24 a 29/03/24): Sistemas presa-predador -->
-### Sistemas presa-predador
+<details>
+<summary markdown="span">
+**Sistemas presa-predador**
+</summary>
 
 - [Equação de Lotka-Volterra](https://pt.wikipedia.org/wiki/Equa%C3%A7%C3%A3o_de_Lotka-Volterra)
 - [Vídeo](https://www.youtube.com/watch?v=cHLCAXY-ZTw)
 - [Modelagem de um sistema presa-predador simples](/files/matind/presa-predador.html)
 - [Código da simulação feita em aula (notebook na linguagem Julia)](/files/matind/presa-predador.ipynb)
 
+</details>
 
 <!-- ### SEMANAS 4 e 5 (01/04/24 a 12/04/24): Simulação de eventos discretos -->
-### Simulação de eventos discretos
+<details>
+<summary markdown="span">
+**Simulação de eventos discretos**
+</summary>
 
 - [Introdução](https://pt.wikipedia.org/wiki/Simula%C3%A7%C3%A3o_de_eventos_discretos)
 - Simulações com eventos aleatórios (Simulação Monte-Carlo)
@@ -142,12 +149,13 @@ author_profile: true
     - arquivo do [Arena](/files/matind/praca_pedagio.doe)
     - [passo a passo da construção do modelo no Arena](/files/matind/pedagio_arena_passo-a-passo.pdf)
 
+</details>
 
 <!-- ### SEMANA 6: Apresentação 1 (15/04/24) -->
-### Apresentação 1 (15/04/24)
-
-- **Introdução à epidemiologia matemática**  
-  *Douglas Santos Lacerda (estudante Mat. Ind.)*
+<details>
+<summary markdown="span">
+**Apresentação 1 (15/04/24) - Introdução à epidemiologia matemática** (Douglas Santos Lacerda, estudante Mat. Ind.)
+</summary>
 
 Material fornecido pelo palestrante:
 1. [Slides da apresentação](/files/matind/slides_Douglas.pdf)
@@ -155,9 +163,13 @@ Material fornecido pelo palestrante:
 1. [Valores do R efetivo no Espírito Santo](https://covid19br.github.io/estados?aba=aba3&uf=ES&q=dia)
 1. [Nota técnica - Análise da propagação da pandemia de COVID-19 no estado do Espírito Santo e na conurbação da Grande Vitória a partir de modelos matemáticos](https://ijsn.es.gov.br/publicacoes/nota-tecnica/nt-niee-01-2020-analise-da-propagacao-da-pandemia-de-covid-19-no-estado-do-espirito-santo-e-na-conurbacao-da-grande-vitoria-a-partir-de-modelos-matematicos#:~:text=Esta%20Nota%20T%C3%A9cnica%20foi%20elaborada,coronav%C3%ADrus%20(COVID%2D19).)
 
+</details>
 
 <!-- ### SEMANAS 6 e 7 (08/07/24 a 24/07/24): Programação Linear/Inteira -->
-### Programação Linear/Inteira
+<details>
+<summary markdown="span">
+**Programação Linear/Inteira**
+</summary>
 
 - [Sobre problemas de otimização](https://pt.wikipedia.org/wiki/Otimiza%C3%A7%C3%A3o)
 - Pequena apresentação da [programação linear/inteira](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_linear)
@@ -182,19 +194,24 @@ Material fornecido pelo palestrante:
 1. [ARAUJO, S. A. de; RANGEL, S. Matemática Aplicada ao Planejamento da Produção e Logı́stica. Notas em Matemática Aplicada, v. 76. SBMAC, 2014](/files/matind/livro_76_sbmac.pdf)
 1. [LUNA, E. P. L.; GOLDBARG, M. C. Otimização combinatória e programação linear - modelos e algoritmos. Ed. Elsevier, 2005](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)
 
+</details>
 
 <!-- ### SEMANA 8: Apresentação 2 (26/07/24 - sexta-feira) -->
-### Apresentação 2 (26/07/24 - sexta-feira)
-
-- **Gerenciamento de estoque em uma empresa do ramo alimentício**  
-  *Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
+<details>
+<summary markdown="span">
+**Apresentação 2 (26/07/24 - sexta-feira) - Gerenciamento de estoque em uma empresa do ramo alimentício** (Joao Pedro Gouvea de Camargo, estudante Mat. Ind.)
+</summary>
 
 Material fornecido pelo palestrante:
 1. [Slides da apresentação](/files/matind/slides_JoaoPedro.pdf)
 
+</details>
 
 <!-- ### SEMANAS 9 e 10 (29/07/24 a 09/08/24): Exemplo de uso da matemática na inteligência artificial -->
-### Exemplo de uso da matemática na inteligência artificial
+<details>
+<summary markdown="span">
+**Exemplo de uso da matemática na inteligência artificial**
+</summary>
 
 - [Vídeo introdutório (fonte: Univesp)](https://www.youtube.com/watch?v=TY45HIJ3RpM)
 - Aprendizado de máquina supervisionado
@@ -203,29 +220,36 @@ Material fornecido pelo palestrante:
     - [Banco de dados MNIST](https://pt.wikipedia.org/wiki/Banco_de_dados_MNIST)
     - Pacote [Flux](https://fluxml.ai/) para treinamento de redes neurais
 
+</details>
 
 <!-- ### SEMANA 9: Apresentação 3 (02/08/24 - sexta-feira) -->
-### Apresentação 3 (02/08/24 - sexta-feira)
+<details>
+<summary markdown="span">
+**Apresentação 3 (02/08/24 - sexta-feira) - Modelagem matemática da dinâmica populacional do mexilhão dourado** (Carolina Martinelli, estudante Mat. Ind.)
+</summary>
 
-- **Modelagem matemática da dinâmica populacional do mexilhão dourado**  
-  *Carolina Martinelli (estudante Mat. Ind.)*
+</details>
 
 
 <!-- ### SEMANA 11: Apresentação 4 (16/08/24 - sexta-feira) -->
-### Apresentação 4 (16/08/24 - sexta-feira)
+<details>
+<summary markdown="span">
+**Apresentação 4 (16/08/24 - sexta-feira) - Redes neurais profundas: aplicação na detecção de câncer por imagem** (Matheus Becali Rocha, ex-estudante Mat. Ind. e mestre em Computação/UFES)
+</summary>
 
-- **Redes neurais profundas: aplicação na detecção de câncer por imagem**  
-  *Matheus Becali Rocha (ex-estudante Mat. Ind., mestre em Computação/UFES)*
+</details>
 
 
 <!-- ### SEMANA 12 (19/08/2024 a 23/08/2024) -->
 
 
 <!-- ### SEMANA 12: Apresentação 5 (a reprogramar) -->
-### Apresentação 5 (a reprogramar)
+<details>
+<summary markdown="span">
+**Apresentação 5 (a reprogramar) - Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo** (Wesley Rocha Grippa, docente DMA/UFES)
+</summary>
 
-- **Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
-  *Wesley Rocha Grippa (docente DMA/UFES)*
+</details>
 
 
 <!-- ### SEMANA 14 (10/06/2024 a 14/06/2024) -->
