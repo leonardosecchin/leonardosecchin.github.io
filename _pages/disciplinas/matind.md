@@ -64,7 +64,7 @@ author_profile: true
 <!-- ### SEMANAS 1 e 2 (11/03/24 a 22/03/24): Discussões iniciais -->
 <details>
 <summary markdown="span">
-**Discussões iniciais**  
+**Discussões iniciais**
 </summary>
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
@@ -279,10 +279,10 @@ Material fornecido pelo palestrante:
 <!-- ### SEMANA 18 (08/07/2024 a 12/07/2024) -->
 
 
-*No radar*
+<!-- *No radar* -->
 
-- Discussão aplicações da matemática - contribuições dos alunos
-- Apresentação aluno Pedro Lucas (projeto IC)
+<!-- - Discussão aplicações da matemática - contribuições dos alunos -->
+<!-- - Apresentação aluno Pedro Lucas (projeto IC) -->
 
 
 ## Discussão aplicações da matemática - contribuições dos alunos
