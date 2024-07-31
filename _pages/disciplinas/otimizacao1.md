@@ -338,7 +338,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 </details>
 
 
-## Vídeos interessantes sobre Otimização
+## Vídeos sobre Otimização
 {:.no_toc}
 
 -  [IMECC Unicamp no facebook](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)

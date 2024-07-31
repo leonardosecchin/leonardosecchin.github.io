@@ -5,8 +5,6 @@ permalink: /otimizacao2/
 author_profile: true
 ---
 
-{% include toc title="Sumário" %}
-
 
 ## Horários das aulas
 {:.no_toc}
@@ -121,8 +119,10 @@ author_profile: true
 
 ## Material
 
-
-### A linguagem de programação Julia
+<details>
+<summary markdown="span">
+**A linguagem de programação Julia**
+</summary>
 
 Julia é uma linguagem de programação de alto nível surgida em 2012, que implementa várias ferramentas para uso geral em matemática aplicada. Em particular, Julia possui várias ferramentas para otimização. É muito parecida com o Matlab, portanto os códigos são fáceis de entender. Os trabalhos computacionais desta disciplina serão feitos em Julia. A seguir você encontra instruções de instalação, bem como exemplos simples que ajudarão você a dar os primeiros passos nas ferramentas de otimização disponíveis no Julia.
 
@@ -133,14 +133,22 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 **Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados nas disciplinas de otimização, baixe [ESTE SCRIPT](/files/julia/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
 
-### Introdução; as condições de Karush-Kuhn-Tucker (KKT)
+<details>
+<summary markdown="span">
+**Introdução; as condições de Karush-Kuhn-Tucker (KKT)**
+</summary>
 
 - Introdução [[**ANOTAÇÕES**](/files/otim2/anotacoes/1.Introducao.pdf)]
 - Condições KKT [[**ANOTAÇÕES**](/files/otim2/anotacoes/2.Condicoes_KKT.pdf)] [[**QUADRO**](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)]
 - **Exercicios:** veja LISTA 0
 
+</details>
 
-### Penalização externa
+
+<details>
+<summary markdown="span">
+**Penalização externa**
+</summary>
 
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
@@ -148,8 +156,13 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    - Convergência do esquema de penalização externa e prova das condições KKT [[**ANOTACOES**](/files/otim2/anotacoes/4.Penalizacao_externa_e_KKT.pdf)]
    - **Exercicios:** veja LISTA 1
 
+</details>
 
-### Método do Lagrangiano aumentado
+
+<details>
+<summary markdown="span">
+**Método do Lagrangiano aumentado**
+</summary>
 
    *Referência: [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)*
 
@@ -164,8 +177,13 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
      - **Pacote Julia** `NLPModelsAlgencan.jl`. Veja pré-requisitos para instalação em [neste link](/juliaopt_ex7/)
    - **Exercicios:** veja LISTA 1
 
+</details>
 
-### Penalização interna / barreiras / pontos interiores
+
+<details>
+<summary markdown="span">
+**Penalização interna / barreiras / pontos interiores**
+</summary>
 
    *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
@@ -193,8 +211,13 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
      - Detalhes sobre métodos de pontos interiores especializados para PL: veja o **Tóptico 1** da disciplina [Tópicos em Pesquisa Operacional](/topicospo/)
      - [Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
 
+</details>
 
-### Estratégia de regiões de confiança
+
+<details>
+<summary markdown="span">
+**Estratégia de regiões de confiança**
+</summary>
 
 *Referência 1: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.cengage.com.br/livro/otimizacao-continua/) ([versão alternativa](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf))*  
 *Referência 2: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006*
@@ -203,8 +226,13 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - O passo de Cauchy e o método dog-leg [[**ANOTACOES**](/files/otim2/anotacoes/11.cauchy_dogleg.pdf)]
 - **Exercicios:** veja LISTA 3
 
+</details>
 
-### Programação quadrática sequencial
+
+<details>
+<summary markdown="span">
+**Programação quadrática sequencial**
+</summary>
 
 *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
 
@@ -220,8 +248,13 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 - (**Conteúdo extra**) Pacote proprietário com versão de demonstração junto ao [AMPL](https://ampl.com/products/solvers/solvers-we-sell/): [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
 
+</details>
 
-### O Problema de quadrados mínimos linear e não-linear
+
+<details>
+<summary markdown="span">
+**O Problema de quadrados mínimos linear e não-linear**
+</summary>
 
 *Referência: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006*
 
@@ -230,8 +263,13 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - Quadrados mínimos não linear - método de Levenberg-Marquardt [[**ANOTAÇÕES**](/files/otim2/6.6.Quad_min_naolinear_Levenberg_Marquardt.pdf)]
 - **Exercicios:** veja LISTA 5
 
+</details>
 
-### Dualidade em programação não linear
+
+<details>
+<summary markdown="span">
+**Dualidade em programação não linear**
+</summary>
 
 *Referência 1: [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/index.php/otimizac-o-volume-1.html)*  
 *Referência 2: Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008*
@@ -242,6 +280,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   - [Código Julia](https://drive.google.com/file/d/1hEk6GZaokQ9bMBIAqXTdC5bkQau_pacC/view?usp=sharing)
 <!-- - **Exercicios:** veja LISTA 4 -->
 
+</details>
+
 
 ## Links
 {:.no_toc}
@@ -250,7 +290,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - [FICO Xpress Optimization Examples](https://www.fico.com/fico-xpress-optimization/docs/latest/examples/mosel/NonLinear/GUID-81E21BAC-28BD-3D1A-B9B3-D65BA12E3C5B.html)
 
 
-## Vídeos interessantes sobre Otimização
+## Vídeos sobre Otimização
 {:.no_toc}
 
 1.  [IMECC Unicamp no facebook](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
