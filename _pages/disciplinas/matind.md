@@ -68,6 +68,7 @@ author_profile: true
 <details>
 <summary markdown="span">
 **Discussões iniciais**
+
 </summary>
 
 - Discussão sobre como e onde se aplica a matemática e a atuação do "matemático aplicado"
@@ -154,8 +155,11 @@ author_profile: true
 <!-- ### SEMANA 6: Apresentação 1 (15/04/24) -->
 <details>
 <summary markdown="span">
-**Apresentação 1 (15/04/24) - Introdução à epidemiologia matemática** (Douglas Santos Lacerda, estudante Mat. Ind.)
+**Apresentação 1 (15/04/24)**
 </summary>
+
+**Introdução à epidemiologia matemática**  
+*Douglas Santos Lacerda (estudante Mat. Ind.)*
 
 Material fornecido pelo palestrante:
 1. [Slides da apresentação](/files/matind/slides_Douglas.pdf)
@@ -199,8 +203,11 @@ Material fornecido pelo palestrante:
 <!-- ### SEMANA 8: Apresentação 2 (26/07/24 - sexta-feira) -->
 <details>
 <summary markdown="span">
-**Apresentação 2 (26/07/24 - sexta-feira) - Gerenciamento de estoque em uma empresa do ramo alimentício** (Joao Pedro Gouvea de Camargo, estudante Mat. Ind.)
+**Apresentação 2 (26/07/24)**
 </summary>
+
+**Gerenciamento de estoque em uma empresa do ramo alimentício**  
+*Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
 
 Material fornecido pelo palestrante:
 1. [Slides da apresentação](/files/matind/slides_JoaoPedro.pdf)
@@ -210,7 +217,7 @@ Material fornecido pelo palestrante:
 <!-- ### SEMANAS 9 e 10 (29/07/24 a 09/08/24): Exemplo de uso da matemática na inteligência artificial -->
 <details>
 <summary markdown="span">
-**Exemplo de uso da matemática na inteligência artificial**
+**Exemplo de uso da matemática na IA**
 </summary>
 
 - [Vídeo introdutório (fonte: Univesp)](https://www.youtube.com/watch?v=TY45HIJ3RpM)
@@ -225,8 +232,11 @@ Material fornecido pelo palestrante:
 <!-- ### SEMANA 9: Apresentação 3 (02/08/24 - sexta-feira) -->
 <details>
 <summary markdown="span">
-**Apresentação 3 (02/08/24 - sexta-feira) - Modelagem matemática da dinâmica populacional do mexilhão dourado** (Carolina Martinelli, estudante Mat. Ind.)
+**Apresentação 3 (02/08/24)**
 </summary>
+
+**Modelagem matemática da dinâmica populacional do mexilhão dourado**  
+*Carolina Martinelli (estudante Mat. Ind.)*
 
 </details>
 
@@ -234,8 +244,11 @@ Material fornecido pelo palestrante:
 <!-- ### SEMANA 11: Apresentação 4 (16/08/24 - sexta-feira) -->
 <details>
 <summary markdown="span">
-**Apresentação 4 (16/08/24 - sexta-feira) - Redes neurais profundas: aplicação na detecção de câncer por imagem** (Matheus Becali Rocha, ex-estudante Mat. Ind. e mestre em Computação/UFES)
+**Apresentação 4 (16/08/24)**
 </summary>
+
+**Redes neurais profundas: aplicação na detecção de câncer por imagem**  
+*Matheus Becali Rocha (ex-estudante Mat. Ind. e mestre em Computação/UFES)
 
 </details>
 
@@ -246,8 +259,11 @@ Material fornecido pelo palestrante:
 <!-- ### SEMANA 12: Apresentação 5 (a reprogramar) -->
 <details>
 <summary markdown="span">
-**Apresentação 5 (a reprogramar) - Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo** (Wesley Rocha Grippa, docente DMA/UFES)
+**Apresentação 5 (a reprogramar)**
 </summary>
+
+**Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
+*Wesley Rocha Grippa (docente DMA/UFES)*
 
 </details>
 
