@@ -5,6 +5,8 @@ permalink: /ensino/
 author_profile: true
 ---
 
+Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
+
 ## DISCIPLINAS 2024/1
 
 - [**Introdução à Matemática Industrial**  
