@@ -222,6 +222,7 @@ Material fornecido pelo palestrante:
   - Exemplo: reconhecimento de caracteres numéricos escritos à mão
     - [Banco de dados MNIST](https://pt.wikipedia.org/wiki/Banco_de_dados_MNIST)
     - Pacote [Flux](https://fluxml.ai/) para treinamento de redes neurais
+    - [Código Julia para o problema de reconhecimento de caracteres numéricos escritos à mão](/files/matind/ML.zip)
 
 </details>
 
