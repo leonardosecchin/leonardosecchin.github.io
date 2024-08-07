@@ -77,13 +77,15 @@ author_profile: true
   - **Data limite: 07/06/24**
 
 - **Avaliação 3**
-<!--   - **Lista de exercícios** -->
-<!--   - Conteúdo: convexidade, método dos gradientes conjugados -->
+  - **Lista de exercícios e trabalho computacional**
+  - Conteúdo: convexidade, método do gradiente espectral, otimização restrita
   - Valor: 10,0 pontos
-<!--   - **TAREFAS A SEREM ENTREGUES:** -->
-<!--     - exercícios do livro de Ana Friedlander -->
-<!--     - exercícios 2, da Lista 2 -->
-  - **Data: --**
+  - **TAREFAS A SEREM ENTREGUES:**
+    - exercícios 2, 5, 10 da Lista 2
+    - exercícios 13.6, 13.13 do livro de Ana Friedlander
+    - exercícios 2, 3, 5 da Lista 4
+    - faça o trabalho computacional referente ao método do gradiente espectral: [descrição](https://drive.google.com/file/d/1peXtd38yV7RDbVAqRp0NFCEu06RCLoJI/view?usp=sharing); [código base](/files/otim1/gradiente_newton.zip)
+  - **Data limite: 23/08/24**
 
 <!-- - **Avaliação 4** -->
 <!--   - **Lista de exercícios** -->
