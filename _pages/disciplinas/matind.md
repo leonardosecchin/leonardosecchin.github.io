@@ -235,6 +235,10 @@ Material fornecido pelo palestrante:
 **Modelagem matemática da dinâmica populacional do mexilhão dourado**  
 *Carolina Martinelli (estudante Mat. Ind.)*
 
+Material fornecido pela palestrante:
+1. [Slides da apresentação](/files/matind/slides_Carolina.pdf)
+1. [Site com simulação iterativa](https://visualpde.com/sim/)
+
 </details>
 
 
