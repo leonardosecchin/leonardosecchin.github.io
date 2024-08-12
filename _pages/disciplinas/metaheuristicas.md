@@ -5,9 +5,6 @@ permalink: /metaheuristicas/
 author_profile: true
 ---
 
-{% include toc title="Sumário" %}
-
-
 ## Horários das aulas
 {:.no_toc}
 
@@ -66,25 +63,45 @@ Serão aplicadas no mínimo duas avaliações, dentre testes dissertativos, apre
 
 ## MATERIAIS PARA AS AULAS
 
-### Linguagem de programação
+<details>
+<summary markdown="span">
+**Linguagem de programação**
+</summary>
 
 A linguagem de referência é o Julia. Você pode encontrar instruções de instalação e uso [neste link](/julia/).
 
 **Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados, baixe [ESTE SCRIPT](/files/metaheu/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
 
-### Pacotes e códigos em Julia
+</details>
+
+
+<details>
+<summary markdown="span">
+**Pacotes e códigos em Julia**
+</summary>
 
 - Pacote **TSPLIB.jl:** instâncias da biblioteca TSPLIB (problema do caixeiro viajante) prontas em Julia [site](https://github.com/matago/TSPLIB.jl). Veja tópico "O problema do caixeiro viajante" para detalhes.
 - [**tspplot.jl:** código para plotar instâncias da TSPLIB](/files/metaheu/tspplot.jl)
 - [**tsp.jl:** funções para manipulação de instâncias da TSPLIB e heurística do vizinho mais próximo](/files/metaheu/tsp.jl)
 - [**funcoes-teste.jl:** funções para teste (para Differential Evolution e Particle Swarm Optimization)](/files/metaheu/funcoes-teste.jl)
 
-### Apresentação
+</details>
+
+
+<details>
+<summary markdown="span">
+**Apresentação**
+</summary>
 
 - [**SLIDES**](https://drive.google.com/file/d/1FPcIovf5He-djx_NMJut9Ki1bBvw40vX/view?usp=sharing)
 
+</details>
 
-### O problema do caixeiro viajante (Travelling Salesman Problem - TSP)
+
+<details>
+<summary markdown="span">
+**O problema do caixeiro viajante (Travelling Salesman Problem - TSP)**
+</summary>
 
 O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Problem* - TSP) serve como "saco de pancadas" para testarmos as implementações. O TSP é simples de entender, portanto não requer conhecimento profundo para começar a testar as metaheurísticas. Além disso, é um problema clássico e de difícil resolução.
 - [Uma apresentação do TSP](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
@@ -97,8 +114,13 @@ O problema do problema do caixeiro viajante (em inglês, *Travelling Salesman Pr
     - Por curiosidade, as referências oficiais da TSPLIB são [este artigo](https://doi.org/10.1287/ijoc.3.4.376) e [arquivos originais](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/)
 - Visualização [on line](https://tspvis.com/) do funcionamento de algoritmos para o TSP.
 
+</details>
 
-### Sobre geradores de números randômicos
+
+<details>
+<summary markdown="span">
+**Sobre geradores de números randômicos**
+</summary>
 
 A geração de números randômicos em computador é um tópico pesquisado até hoje. Os principais algoritmos utilizados geram números "pseudo-randômicos", chamados assim por não serem verdadeiramente randômicos (os números se repetem em ciclos). Este não é um tópico central nessa disciplina, mas vale o comentário. No contexto das metaheurísticas, onde temos que gerar muitos números, é interessante utilizarmos bons geradores.
 
@@ -108,23 +130,38 @@ O Julia (versão 1.8), por sua vez, [utiliza como padrão um excelente gerador, 
 
 Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este link](https://en.wikipedia.org/wiki/Pseudorandom_number_generator). Uma lista de diferentes geradores pode ser vista [neste link](https://pt.wikipedia.org/wiki/Gerador_de_n%C3%BAmeros_pseudoaleat%C3%B3rios).
 
+</details>
 
-### METAHEURÍSTICA 1: Busca Tabu (Tabu Search - TS)
+
+<details>
+<summary markdown="span">
+**METAHEURÍSTICA 1: Busca Tabu (Tabu Search - TS)**
+</summary>
 
 - [**SLIDES**](https://drive.google.com/file/d/1AVM2-O65q1EVD7bq4LBRoJR1nRl-LQ9T/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - Referência: capítulo 2 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 
+</details>
 
-### METAHEURÍSTICA 2: Simulated Annealing (SA)
+
+<details>
+<summary markdown="span">
+**METAHEURÍSTICA 2: Simulated Annealing (SA)**
+</summary>
 
 - [**SLIDES**](https://drive.google.com/file/d/19VJ5y_Y6v8Dh7RovndMlxlzzTL40BiiL/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
 - [**Seleção por roleta - SLIDES**](https://drive.google.com/file/d/1w32UcmfOWRv-5gh2hWXdAlsD4gbe_VqI/view?usp=sharing)
 - Referência: capítulo 10 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 
+</details>
 
-### METAHEURÍSTICA 3: Colônia de formigas (Ant Colony Optimization - ACO)
+
+<details>
+<summary markdown="span">
+**METAHEURÍSTICA 3: Colônia de formigas (Ant Colony Optimization - ACO)**
+</summary>
 
 - [**SLIDES**](https://drive.google.com/file/d/1_x7mVHBIfWV4l9cXr9Ju_Lo6CvBlDMtm/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -134,13 +171,23 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     1. Dorigo, Caro. Ant colony optimization: a new meta-heuristic. Proceedings of the 1999 Congress on Evolutionary Computation, 2002 [Link1](https://ieeexplore.ieee.org/document/782657/) (acesso pela universidade) [Link2](https://www.researchgate.net/publication/3810360_Ant_colony_optimization_A_new_meta-heuristic)
     1. Capítulo 9 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
 
+</details>
 
-### DICAS PARA CALIBRAÇÃO DE PARÂMETROS
+
+<details>
+<summary markdown="span">
+**DICAS PARA CALIBRAÇÃO DE PARÂMETROS**
+</summary>
 
 - [Código versão 1](https://drive.google.com/file/d/1Rz72-jm_O6qv8NBjWLx8HdZBHSydAKkX/view?usp=sharing)
 
+</details>
 
-### METAHEURÍSTICA 4: Evolução Diferencial (Differential Evolution - DE)
+
+<details>
+<summary markdown="span">
+**METAHEURÍSTICA 4: Evolução Diferencial (Differential Evolution - DE)**
+</summary>
 
 - [**SLIDES**](https://drive.google.com/file/d/1obXBLxFlhYt9IaBlRaMRuedDPlBrHh8U/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -150,8 +197,13 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     1. Feoktistov, Vitaliy. Differential Evolution - In Search of Solutions, Springer, 2006 [Link](https://www.springer.com/us/book/9780387368955) (acesso pela universidade)
     1. Brandão, Saramago. Métodos estocásticos de otimização: algoritmos genéticos e evolução diferencial, SBMAC, 2011 [Link](https://www.sbmac.org.br/wp-content/uploads/2022/08/livro_55.pdf)
 
+</details>
 
-### METAHEURÍSTICA 5: Nuvem de partículas (Particle Swarm Optimization - PSO)
+
+<details>
+<summary markdown="span">
+**METAHEURÍSTICA 5: Nuvem de partículas (Particle Swarm Optimization - PSO)**
+</summary>
 
 - [**SLIDES**](https://drive.google.com/file/d/1kUMLRjPbqEZFLJosMY5o-5iEyDpWaxTm/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -160,8 +212,13 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     1. Kennedy, Eberhart, Shi. Swarm Intelligence. Morgan Kaufmann, 2001 [Link](https://www.sciencedirect.com/book/9781558605954/swarm-intelligence)
     1. Shi, Eberhart. A modified particle swarm optimizer. 1998 IEEE International Conference on Evolutionary Computation Proceedings, 1998 [Link](https://doi.org/10.1109/ICEC.1998.699146)
 
+</details>
 
-### METAHEURÍSTICA 6: Algoritmo Genético (Genetic Algorithm - GA)
+
+<details>
+<summary markdown="span">
+**METAHEURÍSTICA 6: Algoritmo Genético (Genetic Algorithm - GA)**
+</summary>
 
 - [**SLIDES**](https://drive.google.com/file/d/1_yA_vAVXy_jHswyiXab9mf7RVBYtVfpe/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -172,8 +229,13 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
     1. Slides de Estéfane G. M. de Lacerda (UFRN), 2008/2009
     1. Capítulo 2 de Lopes, Rodrigues, Steiner (Eds.) – Meta-heurísticas em Pesquisa Operacional. Omnipax, 2013 [Link 1](https://repositorio.utfpr.edu.br/jspui/handle/1/943); [Link 2](https://www.researchgate.net/publication/236733898_Meta-Heuristicas_em_Pesquisa_Operacional)
 
+</details>
 
-### METAHEURÍSTICA 7: GRASP (Greedy Randomized Adaptive Search Procedure)
+
+<details>
+<summary markdown="span">
+**METAHEURÍSTICA 7: GRASP (Greedy Randomized Adaptive Search Procedure)**
+</summary>
 
 - [**SLIDES**](https://drive.google.com/file/d/1vDhnZLesNQt80vmq5tCsf4rW3sLveEiI/view?usp=sharing)
 - **Tarefa computacional:** veja último *slide* do *link* acima
@@ -181,6 +243,8 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 - Referências:
     1. capítulo 8 de Glover, Kochenberger – Handbook of Metaheuristics. Kluwer, 2003
     1. E.F. Goldbarg, M.C. Goldbarg, J.P.F. Farias. Grasp with Path-Relinking for the TSP. Em: Doerner, Gendreau, Greistorfer, Gutjahr, Hartl, Reimann. (eds) Metaheuristics. Operations Research/Computer Science Interfaces Series, vol 39. Springer, 2007 [Link](https://link.springer.com/chapter/10.1007/978-0-387-71921-4_7)
+
+</details>
 
 
 ## Pacotes de terceiros
@@ -190,19 +254,28 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 ## OUTRAS METAHEURÍSTICAS
 
-### Gravitational Search Algorithm
-{:.no_toc}
+<details>
+<summary markdown="span">
+**Gravitational Search Algorithm**
+</summary>
 
 - [Rashedi, Nezamabadi-pour, Saryazdi. GSA: A Gravitational Search Algorithm. Information Sciences, 179(13):2232-2248, 2009](https://doi.org/10.1016/j.ins.2009.03.004)
 - Para minimização de funções a variáveis contínuas
 - Presente no pacote **Metaheuristics.jl**
 
-### Evolutionary Centers Algorithm
-{:.no_toc}
+</details>
+
+
+<details>
+<summary markdown="span">
+**Evolutionary Centers Algorithm**
+</summary>
 
 - [Mejía-de-Dios, Mezura-Montes. A New Evolutionary Optimization Method Based on Center of Mass. In: Deep, K., Jain, M., Salhi, S. (eds) Decision Science in Action. Asset Analytics. Springer, Singapore, 2019](https://doi.org/10.1007/978-981-13-0860-4_6)
 - Para minimização de funções a variáveis contínuas
 - Presente no pacote **Metaheuristics.jl**
+
+</details>
 
 
 ## Leitura(s) recomendada(s)
