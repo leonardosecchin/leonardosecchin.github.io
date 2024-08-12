@@ -292,8 +292,10 @@ Para saber mais sobre geradores de número pseudo-aleatórios, consulte [este li
 
 ## ATIVIDADES PROPOSTAS (2023/1)
 
-### Atividade 1
-{:.no_toc}
+<details>
+<summary markdown="span">
+**Atividade 1**
+</summary>
 
 **ATIVIDADE para a semana entre 27/03 e 31/03**, a ser discutida entre todos na aula do dia 06/04
 
@@ -304,9 +306,13 @@ Pesquise metaheurísticas na internet/artigos. Para cada metaheurística encontr
 - Não esqueça de indicar a referência da qual retirou as informações!
 <!-- - **Relatórios apresentados:** [Giuliano](https://drive.google.com/file/d/1Y4KT2OzTxWfClYa5gHhVSZWnwO2ItyXe/view?usp=sharing); [João José](https://drive.google.com/file/d/1_h7GOHeosYQ4zvecBJdDVNToBq0zzpzt/view?usp=sharing); [Wemble](https://drive.google.com/file/d/15jaRjuznLlMtoj2ZapYIBOgRqFsBofR3/view?usp=sharing); [Pedro Lucas](https://drive.google.com/file/d/1do5xYzwOLqI2ptsvzv9O8j7wTGMjtRvu/view?usp=sharing) -->
 
+</details>
 
-### Atividade 2
-{:.no_toc}
+
+<details>
+<summary markdown="span">
+**Atividade 2**
+</summary>
 
 1. Instale o Julia (caso não instalado)
 1. Instale o pacote `TSPLIB.jl`
@@ -316,9 +322,13 @@ Pesquise metaheurísticas na internet/artigos. Para cada metaheurística encontr
 1. Plote soluções obtidas por NN e compare com o valor ótimo (gravado em `tsp.optimal`)
 1. Implementar a heurística 2-OPT. Veja detalhes [neste link](https://en.wikipedia.org/wiki/2-opt). Use NN para inicializar. Comparar solução com anteriores.
 
+</details>
 
-### Atividade 3
-{:.no_toc}
+
+<details>
+<summary markdown="span">
+**Atividade 3**
+</summary>
 
 Serão avaliadas as implementações de **todas as metaheurísticas** apresentadas durante a disciplina. Cada aluno será "entrevistado" individualmente, onde mostrará ao professor o que fez, executará testes e responderá à eventuais perguntas. Não é necessário fazer *slides* para uma apresentação, a conversa será feita em frente ao computador. No entanto, **o(a) estudante deverá organizar o roteiro de sua fala, testes que apresentará, dificuldades enfrentadas etc.**
 
@@ -331,9 +341,13 @@ Serão avaliadas as implementações de **todas as metaheurísticas** apresentad
 - Domínio do assunto;
 - Coerência dos testes numéricos.
 
+</details>
 
-### Atividade 4
-{:.no_toc}
+
+<details>
+<summary markdown="span">
+**Atividade 4**
+</summary>
 
 Apresentação de um artigo selecionado. Cada estaudante escolherá um artigo e fará uma apresentação explicando:
 
@@ -372,7 +386,6 @@ Apresentação de um artigo selecionado. Cada estaudante escolherá um artigo e 
 <!-- - Joao Jose De Sousa Junior: [Ahonen, Alvarenga, Amaral. Simulated annealing and tabu search approaches for the Corridor Allocation Problem. European Journal of Operational Research, 232(1):221-233, 2014](https://doi.org/10.1016/j.ejor.2013.07.010) -->
 <!-- - Pedro Henrique Fischer Ferreira e Pedro Lucas Coswosk Cosme: [Mejía-de-Dios, Mezura-Montes. A New Evolutionary Optimization Method Based on Center of Mass. In: Deep, K., Jain, M., Salhi, S. (eds) Decision Science in Action. Asset Analytics. Springer, Singapore, 2019](https://doi.org/10.1007/978-981-13-0860-4_6) -->
 <!-- - Wemble Oliveira Silva: [Rodrigues, Leite, Santos, Souza, Silva. Metaheurística algoritmo genético para solução de problemas de planejamento florestal com restrições de integridade. Árvore, 28(2):233-245, 2004](https://doi.org/10.1590/S0100-67622004000200010) -->
-
 
 **Artigos sugeridos:**
 
@@ -452,6 +465,8 @@ Rashedi, Nezamabadi-pour, Saryazdi
 Mejía-de-Dios, Mezura-Montes
 
 * * *
+
+</details>
 
 <!--**_Outros artigos:_**
 
