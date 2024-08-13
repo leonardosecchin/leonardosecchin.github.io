@@ -241,7 +241,7 @@ Material fornecido pela palestrante:
 
 </details>
 
-
+<!-- 13/08 -->
 <details>
 <summary markdown="span">
 **Determinação da estrutura 3D de proteínas**
@@ -258,7 +258,6 @@ Material fornecido pela palestrante:
 </details>
 
 
-<!-- ### SEMANA 11: Apresentação 4 (16/08/24 - sexta-feira) -->
 <details>
 <summary markdown="span">
 **Apresentação 4 (23/08/24)**
