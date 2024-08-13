@@ -242,6 +242,22 @@ Material fornecido pela palestrante:
 </details>
 
 
+<details>
+<summary markdown="span">
+**Determinação da estrutura 3D de proteínas**
+</summary>
+
+- Sobre a técnica de Ressonância Magnética Nuclear (RMN): [link 1](https://www.sigmaaldrich.com/BR/pt/applications/analytical-chemistry/nuclear-magnetic-resonance) ; [link 2](http://iq.usp.br/portaliqusp/sites/default/files/anexos/N%20-%20G9%20-%20corrigido.pdf) ; [link 3](https://pt.wikipedia.org/wiki/Espectroscopia_NMR)
+- [Banco de dados de proteínas](https://www.rcsb.org/)
+  - [Exemplo de proteína](https://www.rcsb.org/3d-view/2C0K) (visualização 3D da hemoglobina de um parasita intestinal)
+- Modelo matemático da estrutura de proteínas
+  - Geometria de distâncias
+  - Determinação da estrutura 3D de proteínas a partir de experimentos de RMN
+  - Resolução em computador
+
+</details>
+
+
 <!-- ### SEMANA 11: Apresentação 4 (16/08/24 - sexta-feira) -->
 <details>
 <summary markdown="span">
