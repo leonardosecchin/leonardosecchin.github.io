@@ -275,7 +275,7 @@ Material fornecido pela palestrante:
 <!-- ### SEMANA 12: Apresentação 5 (a reprogramar) -->
 <details>
 <summary markdown="span">
-**Apresentação 5 (a reprogramar)**
+**Apresentação 5 (06/09/24)**
 </summary>
 
 **Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
