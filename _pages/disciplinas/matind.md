@@ -263,6 +263,8 @@ Material fornecido pela palestrante:
 **Problema da grade de horários escolares: estudo de caso na UFES São Mateus**
 </summary>
 
+- [Relatório final da iniciação científica desenvolvida pelo ex-aluno Rafael](https://anaisjornadaic.sappg.ufes.br/piic/rel_final_4479_relatorio.pdf)
+- Saídas do programa computacional: [horário por professor](/files/matind/professores.pdf), [horário por turmas](/files/matind/turmas.pdf)
 
 </details>
 
