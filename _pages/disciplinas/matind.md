@@ -226,7 +226,7 @@ Material fornecido pelo palestrante:
 
 </details>
 
-<!-- ### SEMANA 9: Apresentação 3 (02/08/24 - sexta-feira) -->
+
 <details>
 <summary markdown="span">
 **Apresentação 3 (02/08/24)**
@@ -260,6 +260,15 @@ Material fornecido pela palestrante:
 
 <details>
 <summary markdown="span">
+**Problema da grade de horários escolares: estudo de caso na UFES São Mateus**
+</summary>
+
+
+</details>
+
+
+<details>
+<summary markdown="span">
 **Apresentação 4 (23/08/24)**
 </summary>
 
@@ -269,13 +278,20 @@ Material fornecido pela palestrante:
 </details>
 
 
-<!-- ### SEMANA 12 (19/08/2024 a 23/08/2024) -->
-
-
-<!-- ### SEMANA 12: Apresentação 5 (a reprogramar) -->
 <details>
 <summary markdown="span">
-**Apresentação 5 (06/09/24)**
+**Apresentação 5 (30/08/24)**
+</summary>
+
+**Modelos de crescimento tumoral via modelagem de campo de fase: aspectos vasculares e mecânicos**  
+*Paulo Wander Barbosa (docente DMA/UFES)*
+
+</details>
+
+
+<details>
+<summary markdown="span">
+**Apresentação 6 (06/09/24)**
 </summary>
 
 **Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
