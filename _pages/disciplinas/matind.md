@@ -278,7 +278,7 @@ Material fornecido pela palestrante:
 *Matheus Becali Rocha (ex-estudante Mat. Ind. e mestre em Computação/UFES)
 
 Material fornecido pelo palestrante:
-1. [Slides da apresentação](/files/matind/slides_Matheus.pdf.pdf)
+1. [Slides da apresentação](/files/matind/slides_Matheus.pdf)
 
 </details>
 
