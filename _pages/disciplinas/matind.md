@@ -148,22 +148,6 @@ author_profile: true
 
 </details>
 
-<!-- ### SEMANA 6: Apresentação 1 (15/04/24) -->
-<details>
-<summary markdown="span">
-**Apresentação 1 (15/04/24)**
-</summary>
-
-**Introdução à epidemiologia matemática**  
-*Douglas Santos Lacerda (estudante Mat. Ind.)*
-
-Material fornecido pelo palestrante:
-1. [Slides da apresentação](/files/matind/slides_Douglas.pdf)
-1. [Site com os dados do covid no ES](https://coronavirus.es.gov.br/painel-covid-19-es)
-1. [Valores do R efetivo no Espírito Santo](https://covid19br.github.io/estados?aba=aba3&uf=ES&q=dia)
-1. [Nota técnica - Análise da propagação da pandemia de COVID-19 no estado do Espírito Santo e na conurbação da Grande Vitória a partir de modelos matemáticos](https://ijsn.es.gov.br/publicacoes/nota-tecnica/nt-niee-01-2020-analise-da-propagacao-da-pandemia-de-covid-19-no-estado-do-espirito-santo-e-na-conurbacao-da-grande-vitoria-a-partir-de-modelos-matematicos#:~:text=Esta%20Nota%20T%C3%A9cnica%20foi%20elaborada,coronav%C3%ADrus%20(COVID%2D19).)
-
-</details>
 
 <!-- ### SEMANAS 6 e 7 (08/07/24 a 24/07/24): Programação Linear/Inteira -->
 <details>
@@ -196,19 +180,6 @@ Material fornecido pelo palestrante:
 
 </details>
 
-<!-- ### SEMANA 8: Apresentação 2 (26/07/24 - sexta-feira) -->
-<details>
-<summary markdown="span">
-**Apresentação 2 (26/07/24)**
-</summary>
-
-**Gerenciamento de estoque em uma empresa do ramo alimentício**  
-*Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
-
-Material fornecido pelo palestrante:
-1. [Slides da apresentação](/files/matind/slides_JoaoPedro.pdf)
-
-</details>
 
 <!-- ### SEMANAS 9 e 10 (29/07/24 a 09/08/24): Exemplo de uso da matemática na inteligência artificial -->
 <details>
@@ -226,20 +197,6 @@ Material fornecido pelo palestrante:
 
 </details>
 
-
-<details>
-<summary markdown="span">
-**Apresentação 3 (02/08/24)**
-</summary>
-
-**Modelagem matemática da dinâmica populacional do mexilhão dourado**  
-*Carolina Martinelli (estudante Mat. Ind.)*
-
-Material fornecido pela palestrante:
-1. [Slides da apresentação](/files/matind/slides_Carolina.pdf)
-1. [Site com simulação iterativa](https://visualpde.com/sim/)
-
-</details>
 
 <!-- 13/08 -->
 <details>
@@ -268,6 +225,51 @@ Material fornecido pela palestrante:
 
 </details>
 
+
+### Palestras de convidados
+
+<details>
+<summary markdown="span">
+**Apresentação 1 (15/04/24)**
+</summary>
+
+**Introdução à epidemiologia matemática**  
+*Douglas Santos Lacerda (estudante Mat. Ind.)*
+
+Material fornecido pelo palestrante:
+1. [Slides da apresentação](/files/matind/slides_Douglas.pdf)
+1. [Site com os dados do covid no ES](https://coronavirus.es.gov.br/painel-covid-19-es)
+1. [Valores do R efetivo no Espírito Santo](https://covid19br.github.io/estados?aba=aba3&uf=ES&q=dia)
+1. [Nota técnica - Análise da propagação da pandemia de COVID-19 no estado do Espírito Santo e na conurbação da Grande Vitória a partir de modelos matemáticos](https://ijsn.es.gov.br/publicacoes/nota-tecnica/nt-niee-01-2020-analise-da-propagacao-da-pandemia-de-covid-19-no-estado-do-espirito-santo-e-na-conurbacao-da-grande-vitoria-a-partir-de-modelos-matematicos#:~:text=Esta%20Nota%20T%C3%A9cnica%20foi%20elaborada,coronav%C3%ADrus%20(COVID%2D19).)
+
+</details>
+
+<details>
+<summary markdown="span">
+**Apresentação 2 (26/07/24)**
+</summary>
+
+**Gerenciamento de estoque em uma empresa do ramo alimentício**  
+*Joao Pedro Gouvea de Camargo (estudante Mat. Ind.)*
+
+Material fornecido pelo palestrante:
+1. [Slides da apresentação](/files/matind/slides_JoaoPedro.pdf)
+
+</details>
+
+<details>
+<summary markdown="span">
+**Apresentação 3 (02/08/24)**
+</summary>
+
+**Modelagem matemática da dinâmica populacional do mexilhão dourado**  
+*Carolina Martinelli (estudante Mat. Ind.)*
+
+Material fornecido pela palestrante:
+1. [Slides da apresentação](/files/matind/slides_Carolina.pdf)
+1. [Site com simulação iterativa](https://visualpde.com/sim/)
+
+</details>
 
 <details>
 <summary markdown="span">
