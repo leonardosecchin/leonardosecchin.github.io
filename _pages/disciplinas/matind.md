@@ -277,7 +277,7 @@ Material fornecido pela palestrante:
 </summary>
 
 **Redes neurais profundas: aplicação na detecção de câncer por imagem**  
-*Matheus Becali Rocha (ex-estudante Mat. Ind. e mestre em Computação/UFES)
+*Matheus Becali Rocha (ex-estudante Mat. Ind. e mestre em Computação/UFES)*
 
 Material fornecido pelo palestrante:
 1. [Slides da apresentação](/files/matind/slides_Matheus.pdf)
