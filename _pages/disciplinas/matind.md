@@ -304,6 +304,9 @@ Material fornecido pelo palestrante:
 **Análise de riscos competitivos da sobrevivência específica de pacientes diagnosticados com câncer de próstata no Espírito Santo: estudo de coorte retrospectivo**  
 *Wesley Rocha Grippa (docente DMA/UFES)*
 
+Material fornecido pelo palestrante:
+1. [Slides da apresentação](/files/matind/slides_Wesley.pdf)
+
 </details>
 
 
