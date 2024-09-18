@@ -18,6 +18,11 @@ author_profile: true
 
 ## Submitted articles
 
+
+1. **Global convergence of a second-order augmented Lagrangian method under an error bound condition** [[preprint](https://optimization-online.org/?p=27600)]  
+   R. Andreani, G. Haeser, R. W. Prado, M. L. Schuverdt, L. D. Secchin  
+   2024
+
 1. **A relaxed quasinormality condition and the boundedness of dual augmented Lagrangian sequences** [[preprint](https://optimization-online.org/?p=25207)]  
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin  
    2024
