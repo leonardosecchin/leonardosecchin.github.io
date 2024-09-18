@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2024
 
-- [Aplicação de métodos Lagrangeano aumentado a problemas com restrições do tipo complementaridade](https://drive.google.com/file/d/1HI0N5C5_4lGv67jDUvucWDLPb2iSLgCj/view?usp=sharing)  
+- [**Aplicação de métodos Lagrangeano aumentado a problemas com restrições do tipo complementaridade**](https://drive.google.com/file/d/1HI0N5C5_4lGv67jDUvucWDLPb2iSLgCj/view?usp=sharing)  
   XLIII Congresso Nacional de Matemática Aplicada e Computacional - CNMAC 2024
 
 
@@ -22,7 +22,7 @@ author_profile: true
 - [**Sobre o desenvolvimento de métodos computacionais para otimização contínua: aspectos teóricos e práticos**](https://drive.google.com/file/d/19b59NNzKabGECPYWralRPPjLDQy-niQQ/view?usp=drivesdk) *(in portuguese)*  
   XI Jornada de Matemática da UFPI - JMatUFPI, 2023
 
-- "KKT melhorado"  
+- **"KKT melhorado"**  
   Seminário de Otimização Contínua Unicamp/USP (web), 2023
 
 - [**Uma condição prática de otimalidade de segunda ordem para problemas com restrições de cardinalidade**](https://drive.google.com/file/d/1PzLibbBuLX10P4_aagfIVNzl7Mas7jYO/view?usp=sharing) *(in portuguese)*  
