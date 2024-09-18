@@ -9,6 +9,7 @@ author_profile: true
 
 - Optimality conditions and nonlinear optimization methods
 - Combinatorial optimization / Integer programming
+- Distance geometry problem
 
 ------
 
