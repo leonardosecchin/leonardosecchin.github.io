@@ -40,9 +40,9 @@ author_profile: true
 
 If you are unable to download a paper, please email me.
 
-1. **Improving the global convergence of Inexact Restoration methods for constrained optimization problems** [[preprint](http://www.optimization-online.org/DB_HTML/2022/03/8851.html)]  
+1. **Improving the global convergence of Inexact Restoration methods for constrained optimization problems** [[doi](https://doi.org/10.1137/22M1493811)] [[preprint](http://www.optimization-online.org/DB_HTML/2022/03/8851.html)]  
    R. Andreani, A. Ramos, L. D. Secchin  
-   To appear in SIAM Journal on Optimization, 2024
+   SIAM Journal on Optimization, 34(4):3429-3455, 2024
 
 1. **On enhanced KKT optimality conditions for smooth nonlinear optimization** [[doi](https://doi.org/10.1137/22M1539678)] [[preprint](https://optimization-online.org/?p=21206)]  
    R. Andreani, M. L. Schuverdt, L. D. Secchin  
