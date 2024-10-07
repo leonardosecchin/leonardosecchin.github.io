@@ -9,8 +9,8 @@ author_profile: true
 ## Horários das aulas
 {:.no_toc}
 
-- Quartas-feiras de 11:00 as 13:00 (Sala 09 Eixo 1)
-- Sextas-feiras de 09:00 as 11:00 (Sala 12 Eixo 1)
+- --- <!--Quartas-feiras de 11:00 as 13:00 (Sala 09 Eixo 1)-->
+- --- <!--Sextas-feiras de 09:00 as 11:00 (Sala 12 Eixo 1)-->
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20I%20-%20DMA11995.pdf)
@@ -58,7 +58,7 @@ author_profile: true
 
 ## Avaliações
 
-- **Avaliação 1**
+<!--- **Avaliação 1**
   - **Lista de exercícios**
   - Conteúdo: conceitos básicos, condições de otimalidade para otimização irrestrita
   - **TAREFAS A SEREM ENTREGUES:**
@@ -85,7 +85,7 @@ author_profile: true
     - exercícios 13.6, 13.13 do livro de Ana Friedlander
     - exercícios 2, 3, 5 da Lista 4
     - faça o trabalho computacional referente ao método do gradiente espectral: [descrição](https://drive.google.com/file/d/1peXtd38yV7RDbVAqRp0NFCEu06RCLoJI/view?usp=sharing); [código base](/files/otim1/gradiente_newton.zip)
-  - **Data limite: 23/08/24**
+  - **Data limite: 23/08/24**-->
 
 <!-- - **Avaliação 4** -->
 <!--   - **Lista de exercícios** -->
@@ -97,11 +97,11 @@ author_profile: true
 <!--   - **Data: --** -->
 <!--   - *Entregar resolução por escrito* -->
 
-- **PROVA FINAL**
+<!--- **PROVA FINAL**
   - **Prova escrita**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
-  - **Data: --**
+  - **Data: --**-->
 
 
 ## Critérios para aprovação

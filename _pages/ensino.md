@@ -7,13 +7,12 @@ author_profile: true
 
 Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
 
-## DISCIPLINAS 2024/1
+## DISCIPLINAS 2024/2
 
-- [**Introdução à Matemática Industrial**  
-  (Matemática Industrial)](/matind/)
-- [**Otimização 1**  
-  (Matemática Industrial)](/otimizacao1/)
-
+- **Álgebra Linear**  
+  (Vários cursos)
+- [**Otimização 2**  
+  (Matemática Industrial)](/otimizacao2/)
 
 ## A linguagem de programação Julia
 
@@ -23,6 +22,8 @@ Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
 
 ## Disciplinas já ministradas
 
+- [**Introdução à Matemática Industrial**  
+  (Matemática Industrial)](/matind/)
 - [**Metaheurísticas**  
   (Matemática Industrial)](/metaheuristicas/)
 - [**Otimização 1**  
@@ -37,7 +38,7 @@ Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
 ---
 
 - [**Cálculo 3**  
-  (Matemática Industrial, Engenharias e Ciência da Computação)](/calculo3/)
+  (Vários cursos)](/calculo3/)
 <!--- [**Álgebra Linear**  
   (vários cursos)](/algebra-linear/)-->
 - [**Laboratório de Matemática**  

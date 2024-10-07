@@ -8,8 +8,8 @@ author_profile: true
 ## Horários das aulas
 {:.no_toc}
 
-- Terças-feiras de 16:00 as 18:00 (Laboratório de Matemática Computacional)
-- Sexta-feiras de 12:00 as 14:00 (Laboratório de Matemática Computacional)
+- --- <!--Terças-feiras de 16:00 as 18:00 (Laboratório de Matemática Computacional)-->
+- --- <!--Sexta-feiras de 12:00 as 14:00 (Laboratório de Matemática Computacional)-->
 
 <!-- ## [Ementa e programa (7o período)](https://matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Matem%c3%a1tica%20Industrial%20-%20DMA12413.pdf) -->
 
@@ -40,8 +40,8 @@ author_profile: true
 
 ## Formas de avaliação
 
-- Nota parcial 1: participação nas aulas e discussões
-- Nota parcial 2: relatório dos tópicos vistos em sala de aula, construído ao longo da disciplina
+<!-- - Nota parcial 1: participação nas aulas e discussões -->
+<!-- - Nota parcial 2: relatório dos tópicos vistos em sala de aula, construído ao longo da disciplina -->
 <!-- - Nota parcial 3: apresentação oral do relátorio -->
 
 <!-- - **PROVA FINAL** -->
@@ -308,27 +308,6 @@ Material fornecido pelo palestrante:
 1. [Slides da apresentação](/files/matind/slides_Wesley.pdf)
 
 </details>
-
-
-<!-- ### SEMANA 14 (10/06/2024 a 14/06/2024) -->
-
-
-<!-- ### SEMANA 15 (17/06/2024 a 21/06/2024) -->
-
-
-<!-- ### SEMANA 16 (24/06/2024 a 28/06/2024) -->
-
-
-<!-- ### SEMANA 17 (01/07/2024 a 05/07/2024) -->
-
-
-<!-- ### SEMANA 18 (08/07/2024 a 12/07/2024) -->
-
-
-<!-- *No radar* -->
-
-<!-- - Discussão aplicações da matemática - contribuições dos alunos -->
-<!-- - Apresentação aluno Pedro Lucas (projeto IC) -->
 
 
 ## Discussão aplicações da matemática - contribuições dos alunos
