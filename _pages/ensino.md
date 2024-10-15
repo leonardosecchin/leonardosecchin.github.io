@@ -9,8 +9,8 @@ Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
 
 ## DISCIPLINAS 2024/2
 
-- **Álgebra Linear**  
-  (Vários cursos)
+- [**Álgebra Linear**  
+  (Vários cursos)](/algebra-linear/)
 - [**Otimização 2**  
   (Matemática Industrial)](/otimizacao2/)
 
