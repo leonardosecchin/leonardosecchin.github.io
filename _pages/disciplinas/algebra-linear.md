@@ -137,4 +137,4 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 
 - Seções 1.8, 1.9, 4.12, 5.4, 7.4, 9.6 e todo o capítulo 10 do livro “Álgebra Linear com aplicações” (10a edição) de Anton e Rorres.
 - Seções 1.9, 2.7, 2.8, 4.8, 4.9, 5.6, 5.7, 6.5, 6.6, 6.8, 7.5 do livro “Álgebra Linear e suas aplicações” de David Lay
-- ... e no google é fácil de encontrar inúmeras aplicações!!!
+- ... e no google é fácil encontrar inúmeras aplicações!!!
