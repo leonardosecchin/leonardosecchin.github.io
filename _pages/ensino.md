@@ -9,10 +9,8 @@ Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
 
 ## DISCIPLINAS 2024/2
 
-- [**Álgebra Linear**  
-  (Vários cursos)](/algebra-linear/)
-- [**Otimização 2**  
-  (Matemática Industrial)](/otimizacao2/)
+- [**Álgebra Linear**](/algebra-linear/)
+- [**Otimização 2**](/otimizacao2/)
 
 ## A linguagem de programação Julia
 
@@ -22,31 +20,19 @@ Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
 
 ## Disciplinas já ministradas
 
-- [**Introdução à Matemática Industrial**  
-  (Matemática Industrial)](/matind/)
-- [**Metaheurísticas**  
-  (Matemática Industrial)](/metaheuristicas/)
-- [**Otimização 1**  
-  (Matemática Industrial)](/otimizacao1/)
-- [**Otimização 2**  
-  (Matemática Industrial)](/otimizacao2/)
-- [**Pesquisa Operacional 2**  
-  (Matemática Industrial)](/po2/)
-- [**Tópicos em Pesquisa Operacional**  
-  (Matemática Industrial)](/topicospo/)
+- [**Introdução à Matemática Industrial**](/matind/)
+- [**Metaheurísticas**](/metaheuristicas/)
+- [**Otimização 1**](/otimizacao1/)
+- [**Otimização 2**](/otimizacao2/)
+- [**Pesquisa Operacional 2**](/po2/)
+- [**Tópicos em Pesquisa Operacional**](/topicospo/)
 
 ---
 
-- [**Cálculo 3**  
-  (Vários cursos)](/calculo3/)
-<!--- [**Álgebra Linear**  
-  (vários cursos)](/algebra-linear/)-->
-- [**Laboratório de Matemática**  
-  (Matemática Industrial e Licenciatura em Matemática)](/laboratorio-de-matematica/)
-- [**Lógica / Noções de lógica**  
-  (Matemática Industrial)](/logica/)
-- [**Matemática Básica**  
-  (Matemática Industrial)](/matematica-basica/)
+- [**Cálculo 3**](/calculo3/)
+- [**Laboratório de Matemática**](/laboratorio-de-matematica/)
+- [**Lógica / Noções de lógica**](/logica/)
+- [**Matemática Básica**](/matematica-basica/)
 - [**Geometria Analítica** (listas de exercícios)](https://drive.google.com/file/d/1Z3oxequQlLdjKyLiXw6Yq0JT4rLmm-gL/view?usp=sharing)
 <!--- [**Noções de Lógica** (notas de aula)](https://drive.google.com/file/d/0B-G5znuapK7JRk9laWRVOWFGTFE/view?usp=sharing)-->
 - [**Análise Convexa** (listas de exercícios)](https://drive.google.com/file/d/14dBCjGENT4phLsUo7Ip7_nvQ-Rp2D7Ev/view?usp=sharing)
