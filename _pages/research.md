@@ -131,6 +131,6 @@ If you are unable to download a paper, please email me.
 
 ### Funding
 
-- 2019 - 2021. Fundação de Amparo à Pesquisa e Inovação do Espírito Santo - FAPES (grant 116/2019)
 - Mar 2022 - present. National Council for Scientific and Technological Development - CNPq (grant 309136/2021-0)
 - Jan 2025 - Dec 2026. Fundação de Amparo à Pesquisa do Estado de São Paulo - FAPESP (grant 2024/12967-8)
+- 2019 - 2021. Fundação de Amparo à Pesquisa e Inovação do Espírito Santo - FAPES (grant 116/2019)
