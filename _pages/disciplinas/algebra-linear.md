@@ -66,9 +66,17 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 - Média parcial < 7,0 —> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —> aprovado(a).
 
 
-<!--## Conteúdo
+## Notas de aula
 
-### Matrizes
+> ATENÇÃO: as notas de aula apresentam os principais resultados discutidos em aula, bem como demonstrações e exemplos. Apesar de servirem de apoio, **elas não substituem os livros-texto!**
+
+- [Sistemas lineares](/files/alglin/sistemas.pdf)
+
+
+## Listas de Exercícios
+
+
+<!--### Matrizes
 
 - [VÍDEO-AULA UNIVESP: Aula sobre matrizes - parte 1](https://www.youtube.com/watch?v=r1o7RryS8WM&feature=youtu.be)
 - [VÍDEO-AULA UNIVESP: Aula sobre matrizes - parte 2](https://www.youtube.com/watch?v=u4xKswRO4bQ&list=ULD4LDlLNM-W8&index=936)
