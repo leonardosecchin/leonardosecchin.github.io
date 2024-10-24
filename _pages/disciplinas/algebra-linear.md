@@ -23,13 +23,13 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 
 ## Textos de referência
 
-- LAY, David C. Álgebra Linear e suas aplicações. 2aed. Rio de Janeiro: LTC, 1999
-- BOLDRINI .J.L; COSTA, R.I.S; FIGUEIREDO, L.V; WETZLER, G.H . Álgebra Linear. 3. ed. São Paulo: Harbra, 1986.
 - HOWARD, Anton; RORRES, Chris. Álgebra Linear com aplicações. 10. ed. Porto Alegre: Bookman, 2012.
+- LAY, David C. Álgebra Linear e suas aplicações. 2aed. Rio de Janeiro: LTC, 1999
 
 
 ## Textos complementares
 
+- BOLDRINI .J.L; COSTA, R.I.S; FIGUEIREDO, L.V; WETZLER, G.H . Álgebra Linear. 3. ed. São Paulo: Harbra, 1986.
 - CALLIOLI, C.A; COSTA, R.F.; DOMINGUES, H. Álgebra linear e aplicações. São Paulo: Saraiva, 2005.
 - Lima, Elon Lages. Álgebra Linear. Rio de Janeiro: IMPA. Coleção Matemática Universitária, 9. ed. 2016.
 - HOFFMAN, Kennet; KUNZE, Ray. Álgebra Linear. São Paulo: Polígono, 1971.
