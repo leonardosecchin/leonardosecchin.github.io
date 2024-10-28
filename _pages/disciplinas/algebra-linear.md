@@ -87,9 +87,6 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 1. Determinantes
 
 
-## Listas de Exercícios
-
-
 ## Conteúdo de terceiros
 
 - VÍDEO-AULA UNIVESP: Aula sobre matrizes. [parte 1](https://www.youtube.com/watch?v=r1o7RryS8WM&feature=youtu.be), [parte 2](https://www.youtube.com/watch?v=u4xKswRO4bQ&list=ULD4LDlLNM-W8&index=936)
