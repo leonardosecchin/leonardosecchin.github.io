@@ -48,15 +48,15 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 - **1a prova**
   - Conteúdo: ---
   - Data: ---
-- **2a prova**
+<!--- **2a prova**
   - Conteúdo: ---
-  - Data: ---
-- **3a prova**
+  - Data: ----->
+<!--- **3a prova**
   - Conteúdo: ---
-  - Data: ---
-- **Prova final**
+  - Data: ----->
+<!--- **Prova final**
   - Conteúdo: toda a matéria
-  - Data: ---
+  - Data: ----->
 
 
 ## Critérios para aprovação
@@ -66,64 +66,28 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 - Média parcial < 7,0 —> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —> aprovado(a).
 
 
-## Notas de aula
+## Notas de aula e listas de exercícios
 
 > ATENÇÃO: as notas de aula apresentam os principais resultados discutidos em aula, bem como demonstrações e exemplos. Apesar de servirem de apoio, **elas não substituem os livros-texto!**
 
-- [Sistemas lineares](/files/alglin/sistemas.pdf)
+**Parte 1**
+
+1. [Sistemas lineares](/files/alglin/sistemas.pdf)
+1. Matrizes
+
+[**Lista de exercicios 1 - Operações elementares e sistemas lineares**](https://drive.google.com/file/d/1WSD6CVwvPNYanBVn_-XkFb-PPDGvs0ve/view?usp=sharing)
+   - [Exercicios Anton, seçao 1.2](/files/alglin/anton-exerc-1.2.pdf)
+   - [Exercicios Anton, seçao 1.3](/files/alglin/anton-exerc-1.3.pdf)
+   - [Exercicios Anton, seçao 1.5](/files/alglin/anton-exerc-1.5.pdf)
+
+[**Lista de exercicios 2 - Matrizes**](https://drive.google.com/file/d/11a10IkUpL6JG71VhX9X2asojzStaGIFq/view?usp=sharing)
+
+**Parte 2**
+
+1. Determinantes
 
 
 ## Listas de Exercícios
-
-
-<!--### Matrizes
-
-- [VÍDEO-AULA UNIVESP: Aula sobre matrizes - parte 1](https://www.youtube.com/watch?v=r1o7RryS8WM&feature=youtu.be)
-- [VÍDEO-AULA UNIVESP: Aula sobre matrizes - parte 2](https://www.youtube.com/watch?v=u4xKswRO4bQ&list=ULD4LDlLNM-W8&index=936)
-- Vídeos básicos (nível ensino médio) sobre matrizes do IMPA/Obmep. Veja as seções "O conceito de matriz" e "Operações com matrizes" em [https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75)
-
-
-### Sistemas Lineares
-
-- Exercícios livro-texto (Boldrini) - Capítulo 2
-- Vídeos básicos (nível ensino médio) do IMPA/Obmep. Veja as seções "Sistemas lineares" em [https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=75)
-
-
-### Determinantes
-
-- Exercícios livro-texto (Boldrini) - Capítulo 3
-
-
-### Espaços Vetoriais
-
-- [VÍDEO-AULA (Prof. Possani, USP): Vetores no R3 (revisão de geometria analítica)](https://www.youtube.com/watch?v=-JcQJFNVjaA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=1)
-- [VÍDEO-AULA (Prof. Possani, USP): Independência / Dependência linear](https://www.youtube.com/watch?v=A7hwTnMmW_s&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=2)
-- [VÍDEO-AULA (Prof. Possani, USP): Base, dimensão e revisão de sistemas lineares](https://www.youtube.com/watch?v=iaMTWxAS8FA&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=3)
-- [VÍDEO-AULA (Prof. Possani, USP): Mudança de base - SOMENTE ATÉ 34:50](https://www.youtube.com/watch?v=6dSJViDpe8U&list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI&index=9)
-- Exercícios livro-texto (Boldrini) - Capítulo 4
-
-
-### Transformações lineares
-
-- Exercícios livro-texto (Boldrini) - Capítulo 5
-- Vídeos básicos (nível ensino médio) do IMPA/Obmep.  
-[A geometria das transformações lineares](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=203)  
-[Operando com transformações lineares](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=204)
-
-
-### Autovalores e autovetores
-
-- Exercícios livro-texto (Boldrini) - Capítulo 6
-
-
-### Diagonalização
-
-- Exercícios livro-texto (Boldrini) - Capítulo 7
-
-
-### Produto interno
-
-- Exercícios livro-texto (Boldrini) - Capítulo 8-->
 
 
 ## Conteúdo de terceiros
