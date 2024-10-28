@@ -48,13 +48,13 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 - **1a prova**
   - Conteúdo: ---
   - Data: ---
-<!--- **2a prova**
+- **2a prova**
   - Conteúdo: ---
-  - Data: ----->
+  - Data: ---
 <!--- **3a prova**
   - Conteúdo: ---
-  - Data: ----->
-<!--- **Prova final**
+  - Data: ---
+- **Prova final**
   - Conteúdo: toda a matéria
   - Data: ----->
 
@@ -70,21 +70,17 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 
 > ATENÇÃO: as notas de aula apresentam os principais resultados discutidos em aula, bem como demonstrações e exemplos. Apesar de servirem de apoio, **elas não substituem os livros-texto!**
 
-**Parte 1**
-
 1. [Sistemas lineares](/files/alglin/sistemas.pdf)
-1. Matrizes
+   - [**Lista de exercicios 1 - Operações elementares e sistemas lineares**](https://drive.google.com/file/d/1WSD6CVwvPNYanBVn_-XkFb-PPDGvs0ve/view?usp=sharing)
+   - [Exercicios Anton, seção 1.2](/files/alglin/anton-exerc-1.2.pdf)
+   - [Exercicios Anton, seção 1.3](/files/alglin/anton-exerc-1.3.pdf)
+   - [Exercicios Anton, seção 1.5](/files/alglin/anton-exerc-1.5.pdf)
 
-[**Lista de exercicios 1 - Operações elementares e sistemas lineares**](https://drive.google.com/file/d/1WSD6CVwvPNYanBVn_-XkFb-PPDGvs0ve/view?usp=sharing)
-   - [Exercicios Anton, seçao 1.2](/files/alglin/anton-exerc-1.2.pdf)
-   - [Exercicios Anton, seçao 1.3](/files/alglin/anton-exerc-1.3.pdf)
-   - [Exercicios Anton, seçao 1.5](/files/alglin/anton-exerc-1.5.pdf)
+1. [Matrizes](/files/alglin/matrizes.pdf)
+   - [**Lista de exercicios 2 - Matrizes**](https://drive.google.com/file/d/11a10IkUpL6JG71VhX9X2asojzStaGIFq/view?usp=sharing)
 
-[**Lista de exercicios 2 - Matrizes**](https://drive.google.com/file/d/11a10IkUpL6JG71VhX9X2asojzStaGIFq/view?usp=sharing)
-
-**Parte 2**
-
-1. Determinantes
+1. [Determinantes](/files/alglin/determinantes.pdf)
+   - [**Lista de exercicios 3 - Determinantes**](https://drive.google.com/file/d/1g3MmUVUeNepucZj5hjJGpBXJnMho6adh/view?usp=sharing)
 
 
 ## Conteúdo de terceiros
