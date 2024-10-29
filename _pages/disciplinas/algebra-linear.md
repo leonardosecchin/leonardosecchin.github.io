@@ -43,10 +43,15 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 - Sala do professor: prédio do Departamento de Matemática Aplicada, sala 08
 
 
+## Monitoria 2024/2
+
+![Monitoria 2024/2](/files/alglin/monitoria.jpeg)
+
+
 ## Avaliações
 
 - **1a prova**
-  - Conteúdo: ---
+  - Conteúdo: Sistemas lineares, operações elementares, matrizes, determinantes
   - Data: ---
 - **2a prova**
   - Conteúdo: ---
