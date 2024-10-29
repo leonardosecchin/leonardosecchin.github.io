@@ -46,7 +46,7 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 ## Monitoria 2024/2
 
 <!-- ![Monitoria 2024/2](/files/alglin/monitoria.jpeg) -->
-<img src="files/alglin/monitoria.jpeg" alt="Monitoria 2024/2" width="250"/>
+<img src="/files/alglin/monitoria.jpeg" alt="Monitoria 2024/2" width="70%"/>
 
 
 ## Avaliações
@@ -57,6 +57,7 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 - **2a prova**
   - Conteúdo: ---
   - Data: ---
+
 <!--- **3a prova**
   - Conteúdo: ---
   - Data: ---
