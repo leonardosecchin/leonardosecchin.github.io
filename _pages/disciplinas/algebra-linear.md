@@ -52,7 +52,7 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 ## Avaliações
 
 - **1a prova**
-  - Conteúdo: Sistemas lineares, operações elementares, matrizes, determinantes
+  - Conteúdo: Sistemas lineares, operações elementares, matrizes, cálculo de inversa, determinantes
   - Data: ---
 - **2a prova**
   - Conteúdo: ---
