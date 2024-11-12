@@ -33,7 +33,7 @@ author_profile: true
 
 1. **A practical second-order optimality condition for cardinality-constrained problems with application to an augmented Lagrangian method** [[preprint](http://www.optimization-online.org/DB_HTML/2022/04/8880.html)]  
    J. C. A. Medeiros, A. A. Ribeiro, M. Sachine, L. D. Secchin  
-   --2022-- 2024
+   <del>2022</del> 2024
 
 
 ## Published papers and articles in press
