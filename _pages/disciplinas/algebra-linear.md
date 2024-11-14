@@ -47,6 +47,7 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 
 <!-- ![Monitoria 2024/2](/files/alglin/monitoria.jpeg) -->
 <img src="/files/alglin/monitoria.jpeg" alt="Monitoria 2024/2" width="70%"/>
+<img src="/files/alglin/monitoria2.jpeg" alt="Monitoria 2024/2" width="70%"/>
 
 
 ## Avaliações
