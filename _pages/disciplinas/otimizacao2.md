@@ -200,7 +200,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
      - **Pacote Julia** `NLPModelsIpopt.jl`. Veja informações [neste link](/juliaopt_ex7/)
    - Pontos interiores para programação linear [[**ANOTACOES**](/files/otim2/anotacoes/9.Pontos_interiores_PL.pdf)]
      - [Notas de aula](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
-     - [Implementação própria]](/files/otim2/pto_int.zip) e comparação com o método de pontos interiores do pacote CPLEX sobre problemas lineares da biblioteca [NETLIB](https://sparse.tamu.edu/LPnetlib)
+     - [Implementação própria](/files/otim2/pto_int.zip) e comparação com o método de pontos interiores do pacote CPLEX sobre problemas lineares da biblioteca [NETLIB](https://sparse.tamu.edu/LPnetlib)
    - **Exercicios:** veja LISTA 2
 
    **Conteúdo extra**
@@ -221,7 +221,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 </summary>
 
 *Referência 1: [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.cengage.com.br/livro/otimizacao-continua/) ([versão alternativa](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf))*  
-*Referência 2: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006*
+*Referência 2: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006*
 
 - Estratégia de regiões de confiança e convergência global [[**ANOTACOES**](/files/otim2/anotacoes/10.regiao_confianca.pdf)]
 - O passo de Cauchy e o método dog-leg [[**ANOTACOES**](/files/otim2/anotacoes/11.cauchy_dogleg.pdf)]
