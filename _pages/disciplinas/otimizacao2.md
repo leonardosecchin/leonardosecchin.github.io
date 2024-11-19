@@ -197,21 +197,19 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
      - [Referência bibliográfica do Ipopt](https://link.springer.com/article/10.1007/s10107-004-0559-y) (versão alternativa com [acesso livre](http://www.optimization-online.org/DB_HTML/2004/03/836.html))
      - [Lista de opções configuráveis no pacote](https://coin-or.github.io/Ipopt/OPTIONS.html)
      - **Pacote Julia** `NLPModelsIpopt.jl`. Veja informações [neste link](/juliaopt_ex7/)
-   - Pontos interiores para programação linear [[**ANOTACOES**](/files/otim2/anotacoes/9.Pontos_interiores_PL.pdf)] [**Contas direção Newtoniana** - veja pgs 1 a 5 deste [link](/files/topicospo/PTO_INT_3-primal_dual_afim_escala.pdf)]
-     - Uma implementação de pontos interiores para PL em Julia: [**pacote** `Tulip.jl`](https://github.com/ds4dm/Tulip.jl)
-     - [**Código**](/files/otim2/ptointPL.jl) com testes comparando: (1) simplex do CPLEX; (2) pontos interiores do CPLEX e (3) pontos interiores do Tulip
+   - Pontos interiores para programação linear [[**ANOTACOES**](/files/otim2/anotacoes/9.Pontos_interiores_PL.pdf)]
+     - [Notas de aula](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
+     - [Implementação própria e comparação com o método de pontos interiores do pacote CPLEX](/files/otim2/pto_int.zip)
    - **Exercicios:** veja LISTA 2
 
    **Conteúdo extra**
 
+   - Uma implementação de pontos interiores para PL em Julia: [**pacote** `Tulip.jl`](https://github.com/ds4dm/Tulip.jl)
    - Outros pacotes (proprietários) que empregam a técnica de penalização interna
-       - Veja o algoritmo de barreira do CPLEX (*barrier algorithm*) para problemas [lineares](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/barrier/02_barrier_intro.html), [quadráticos](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qp/01_QP_title_synopsis.html), e [quadráticos com restrições quadráticas](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qcp/01_QCP_title_synopsis.html)
-       - Leia a [descrição do *software* KNITRO](https://software.com.br/p/knitro?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB)
-       - Leia a [descrição do *software* GUROBI](http://www.gurobi.com/products/features-benefits)
-   - Material adicional sobre pontos interiores para programação linear
-     <!--- Estratégia de pontos interiores para programação linear [[**QUADRO**](/files/otim1/6.7.Pontos_interiores_para_PL.pdf)]-->
-     - Detalhes sobre métodos de pontos interiores especializados para PL: veja o **Tóptico 1** da disciplina [Tópicos em Pesquisa Operacional](/topicospo/)
-     - [Pontos interiores aplicado à Programação Linear](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
+     - Veja o algoritmo de barreira do CPLEX (*barrier algorithm*) para problemas [lineares](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/barrier/02_barrier_intro.html), [quadráticos](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qp/01_QP_title_synopsis.html), e [quadráticos com restrições quadráticas](https://www.ibm.com/support/knowledgecenter/SSSA5P_latest/ilog.odms.cplex.help/CPLEX/UsrMan/topics/cont_optim/qcp/01_QCP_title_synopsis.html)
+     - Leia a [descrição do *software* KNITRO](https://software.com.br/p/knitro?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB?gclid=Cj0KCQiA3IPgBRCAARIsABb-iGKECo2hWcgX_lAIKV-lbnKwEU3egT5IWHbLF8OElFX4w4J-MMWFUcMaAglyEALw_wcB)
+     - Leia a [descrição do *software* GUROBI](http://www.gurobi.com/products/features-benefits)
+   - Detalhes sobre métodos de pontos interiores especializados para PL: veja o **Tóptico 1** da disciplina [Tópicos em Pesquisa Operacional](/topicospo/)
 
 </details>
 
