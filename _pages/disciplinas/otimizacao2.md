@@ -188,6 +188,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 </summary>
 
    *Referência: [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)*
+   *Referência para Programação Linear: [J. Gondzio. Interior point methods 25 years later. European Journal of Operational Research, 218(3):587-601, 2012](https://doi.org/10.1016/j.ejor.2011.09.017)*
 
    - Penalização interna / Pontos interiores [[**ANOTACOES**](/files/otim2/anotacoes/7.Penalidade_interna.pdf)]
    - **Pacote computacional livre Ipopt** [[**ANOTACOES**](/files/otim2/anotacoes/8.Ipopt.pdf)]
@@ -199,7 +200,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
      - **Pacote Julia** `NLPModelsIpopt.jl`. Veja informações [neste link](/juliaopt_ex7/)
    - Pontos interiores para programação linear [[**ANOTACOES**](/files/otim2/anotacoes/9.Pontos_interiores_PL.pdf)]
      - [Notas de aula](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
-     - [Implementação própria e comparação com o método de pontos interiores do pacote CPLEX](/files/otim2/pto_int.zip)
+     - [Implementação própria]](/files/otim2/pto_int.zip) e comparação com o método de pontos interiores do pacote CPLEX sobre problemas lineares da biblioteca [NETLIB](https://sparse.tamu.edu/LPnetlib)
    - **Exercicios:** veja LISTA 2
 
    **Conteúdo extra**
