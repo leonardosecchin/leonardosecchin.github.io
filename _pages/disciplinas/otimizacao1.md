@@ -180,8 +180,6 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
   - Estude os exemplos 1 a 5, 8, 9, 12 e 14 do *link* acima
   - Execute os testes com o método do gradiente do tópico **Métodos de descida gerais**
 
-**Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados nas disciplinas de otimização, baixe [ESTE SCRIPT](/files/julia/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
-
 </details>
 
 <!-- ## Métodos para otimização sem restrições -->

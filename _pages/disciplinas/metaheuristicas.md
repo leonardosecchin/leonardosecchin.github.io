@@ -70,8 +70,6 @@ Serão aplicadas no mínimo duas avaliações, dentre testes dissertativos, apre
 
 A linguagem de referência é o Julia. Você pode encontrar instruções de instalação e uso [neste link](/julia/).
 
-**Para auxiliá-lo na instalação do Julia pré-compilado + pré-requisitos + pacotes utilizados, baixe [ESTE SCRIPT](/files/metaheu/instalar_julia) e siga as instruções contidas nele (testado no Ubuntu 22.04)**
-
 </details>
 
 
