@@ -56,16 +56,20 @@ author_profile: true
 - provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
 
 
-<!-- ## Avaliações -->
+## Avaliações
 
-<!-- - **Avaliação 1** -->
-<!--   - **Prova escrita** -->
-<!--   - Conteúdo: condições KKT, penalidade externa e Lagrangiano aumentado -->
-<!--   - Tarefas: exercícios 5 e 7 da [lista 0](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing); exercícios 1, 3, 4, 5, 6, 7 da [lista 1](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing) -->
-<!--   - Valor: 10,0 pontos -->
-<!--   - **Data: 06/10/23 (sexta-feira)** -->
-<!--   - Entregar resolução escrita à mão. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com -->
-<!--   - O trabalho é individual. Cópias receberão nota zero. -->
+- **Avaliação 1**
+  - **Lista de exercícios**
+  - Conteúdo: condições KKT, penalidade externa e interna, Lagrangiano aumentado e pontos interiores
+  - Tarefas:
+    - Exercícios 13.2, 13.6, 13.7
+    - Exercícios 3, 6, 8 da Lista 0
+    - Exercícios 1, 2, 5, 6, 7, 8 da Lista 1
+    - Exercícios 2, 3, 5, 6, 7, 9 da Lista 2
+  - Valor: 10,0 pontos
+  - **Data: 13/12/24 (sexta-feira)**
+  - Entregar resolução escrita à mão. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
+  - O trabalho é individual
 
 <!--- **Avaliação 2**
   - **Lista de exercícios**
