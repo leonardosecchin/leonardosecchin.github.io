@@ -90,6 +90,8 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
 1. [Determinantes](/files/alglin/determinantes.pdf)
    - [**Lista de exercicios 3 - Determinantes**](https://drive.google.com/file/d/1g3MmUVUeNepucZj5hjJGpBXJnMho6adh/view?usp=sharing)
 
+1. [Espaços e subespaços vetoriais, combinação linear, independência linear, base: capítulos 4 e 5 do livro do Anton](https://drive.google.com/file/d/1ATHQ_tXm_A9XLIit5jAhRPqAj1r9sWBm/view?usp=sharing)
+
 
 ## Conteúdo de terceiros
 
