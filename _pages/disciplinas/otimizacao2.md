@@ -262,6 +262,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 *Referência: Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006*
 
 - Quadrados mínimos linear [[**ANOTAÇÕES**](/files/otim2/6.4.quadrados_min_linear.pdf)]
+  - Sobre a [decomposição QR](https://pt.wikipedia.org/wiki/Decomposi%C3%A7%C3%A3o_QR). No Julia exsite o comando ``qr`` do pacote ``LinearAlgebra``
+  - Sobre a [decomposição em valores singulares (do inglês, SVD)](https://pt.wikipedia.org/wiki/Decomposi%C3%A7%C3%A3o_em_valores_singulares). Além da SVD como descrita no link, existe a versão *thin* SVD, em que $U$ ou $V$ não são quadradas. O comando ``svd`` do pacote ``LinearAlgebra`` do Julia computa esta versão por padrão pois é mais econômica (veja a ajuda do comando, ``?svd``, para mais detalhes)
 - Quadrados mínimos não linear - método de Gauss-Newton [[**ANOTAÇÕES**](/files/otim2/6.5.Quad_min_naolinear_Gauss_Newton.pdf)]
 - Quadrados mínimos não linear - método de Levenberg-Marquardt [[**ANOTAÇÕES**](/files/otim2/6.6.Quad_min_naolinear_Levenberg_Marquardt.pdf)]
 - **Exercicios:** veja LISTA 5
