@@ -56,8 +56,8 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
   - Conteúdo: Sistemas lineares, operações elementares, matrizes, cálculo de inversa, determinantes
   - Data: 18/11/24 (segunda-feira)
 - **2a prova**
-  - Conteúdo: ---
-  - Data: ---
+  - Conteúdo: Espaços vetoriais
+  - Data: 17/12/24 (terça-feira)
 
 <!--- **3a prova**
   - Conteúdo: ---
