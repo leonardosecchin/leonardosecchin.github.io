@@ -71,14 +71,14 @@ author_profile: true
   - Entregar resolução escrita à mão. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
   - O trabalho é individual
 
-<!--- **Avaliação 2**
+- **Avaliação 2**
   - **Lista de exercícios**
-  - Conteúdo: penalização interna, regiões de confiança
-  - Tarefas: exercícios 2, 3, 5, 6 e 8 da [lista 2](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing); exercícios 2, 3 da [lista 3](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing)
-  - Valor: 12,0 pontos, distribuídos considerando a dificuldade de cada exercício
-  - **Data limite: 03/12/23**
+  - Conteúdo: quadrados mínimos
+  - Tarefas: exercícios 2, 4, 6, 9(b), 11, 14 da [lista 5](https://drive.google.com/file/d/1YNKAcZT793tiR2xSp0y42tyErvcfZabl/view), [Código Gauss-Newton](/files/otim2/gaussnewton.zip)
+  - Valor: 10,0 pontos
+  - **Data limite: 20/12/24**
   - Entregar resolução escrita à mão ou escaneadas para o email secchinleo@gmail.com. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
-  - O trabalho é individual. **CÓPIAS RECEBERÃO NOTA ZERO.**-->
+  - O trabalho é individual.
 
 <!-- - **Avaliação 3** -->
 <!--   - FORMA DE AVALIAÇÃO -->
