@@ -23,7 +23,7 @@ author_profile: true
 - Estudar os fundamentos dos métodos de resolução clássicos para programação não linear, sobretudo com restrições
 - Analisar aspectos teóricos e numéricos dos métodos
 - Implementar algoritmos em computador e testá-los em problemas da literatura
-- Promover a utilização de pacotes computacionais, discutindo seu comportamento numérico à luz da teoria (artigos científicos e manuais)
+- Promover a utilização de pacotes computacionais, discutindo seu comportamento numérico à luz da teoria, artigos científicos e manuais
 
 
 ## Textos de referência
