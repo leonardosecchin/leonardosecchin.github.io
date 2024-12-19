@@ -66,6 +66,8 @@ Apresentar a teoria da álgebra linear abstrata utilizando matrizes e vetores co
   - Conteúdo: toda a matéria
   - Data: ----->
 
+## [RESULTADO PARCIAL](https://drive.google.com/file/d/1tM6QKT8cqnEjXjLGaHtPK6XlRMB1LUqL/view?usp=sharing)
+
 
 ## Critérios para aprovação
 
