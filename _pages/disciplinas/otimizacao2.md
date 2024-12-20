@@ -70,6 +70,7 @@ author_profile: true
   - **Data: 13/12/24 (sexta-feira)**
   - Entregar resolução escrita à mão. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
   - O trabalho é individual
+  - [**NOTAS**](https://drive.google.com/file/d/1oB210AjA-uQlwIz5C8thg12Dcq4G71GW/view?usp=sharing)
 
 - **Avaliação 2**
   - **Lista de exercícios**
@@ -79,6 +80,7 @@ author_profile: true
   - **Data limite: 20/12/24**
   - Entregar resolução escrita à mão ou escaneadas para o email secchinleo@gmail.com. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
   - O trabalho é individual.
+  - [**NOTAS**](https://drive.google.com/file/d/19CQf-CVwe-GlKdIMkTGx4Hki1HZSRrms/view?usp=sharing)
 
 <!-- - **Avaliação 3** -->
 <!--   - FORMA DE AVALIAÇÃO -->
