@@ -27,10 +27,6 @@ author_profile: true
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin  
    2024
 
-1. **Strong global convergence properties of algorithms for nonlinear symmetric cone programming** [[preprint](https://optimization-online.org/?p=25213)]  
-   R. Andreani, G. Haeser, A. Ramos, D. O. Santos, L. D. Secchin, A. Serranoni  
-   2024
-
 1. **A practical second-order optimality condition for cardinality-constrained problems with application to an augmented Lagrangian method** [[preprint](http://www.optimization-online.org/DB_HTML/2022/04/8880.html)]  
    J. C. A. Medeiros, A. A. Ribeiro, M. Sachine, L. D. Secchin  
    <del>2022</del> 2024
@@ -40,7 +36,11 @@ author_profile: true
 
 If you are unable to download a paper, please email me.
 
-1. **Improving the global convergence of Inexact Restoration methods for constrained optimization problems** [[doi](https://doi.org/10.1137/22M1493811)] [[preprint](http://www.optimization-online.org/DB_HTML/2022/03/8851.html)]  
+1. **Strong global convergence properties of algorithms for nonlinear symmetric cone programming** [[preprint](https://optimization-online.org/?p=25213)]  
+   R. Andreani, G. Haeser, A. Ramos, D. O. Santos, L. D. Secchin, A. Serranoni  
+   To appear in Computational Optimization and Applications, 2025
+
+1. **Improving the global convergence of Inexact Restoration methods for constrained optimization problems** [[doi](https://doi.org/10.1137/22M1493811)] [[preprint](http://www.optimization-online.org/DB_HTML/2022/03/8851.html)]
    R. Andreani, A. Ramos, L. D. Secchin  
    SIAM Journal on Optimization, 34(4):3429-3455, 2024
 
