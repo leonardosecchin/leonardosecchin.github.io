@@ -18,6 +18,9 @@ author_profile: true
 
 ## Submitted articles
 
+1. **Reparametrization of feasible sets: new constraint qualifications for nonlinear programming and their properties** [[preprint]()]  
+   R. Andreani, M. da Rosa, L. D. Secchin  
+   2025
 
 1. **Global convergence of a second-order augmented Lagrangian method under an error bound condition** [[preprint](https://optimization-online.org/?p=27600)]  
    R. Andreani, G. Haeser, R. W. Prado, M. L. Schuverdt, L. D. Secchin  
@@ -36,7 +39,7 @@ author_profile: true
 
 If you are unable to download a paper, please email me.
 
-1. **Strong global convergence properties of algorithms for nonlinear symmetric cone programming** [[preprint](https://optimization-online.org/?p=25213)]  
+1. **Strong global convergence properties of algorithms for nonlinear symmetric cone programming** [[doi](https://doi.org/10.1007/s10589-024-00642-z)] [[preprint](https://optimization-online.org/?p=25213)]  
    R. Andreani, G. Haeser, A. Ramos, D. O. Santos, L. D. Secchin, A. Serranoni  
    To appear in Computational Optimization and Applications, 2025
 
