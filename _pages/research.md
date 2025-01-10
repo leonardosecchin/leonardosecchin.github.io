@@ -18,7 +18,7 @@ author_profile: true
 
 ## Submitted articles
 
-1. **Reparametrization of feasible sets: new constraint qualifications for nonlinear programming and their properties** [[preprint]()]  
+1. **Reparametrization of feasible sets: new constraint qualifications for nonlinear programming and their properties** [[preprint](https://optimization-online.org/?p=28999)]  
    R. Andreani, M. da Rosa, L. D. Secchin  
    2025
 
