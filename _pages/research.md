@@ -41,7 +41,7 @@ If you are unable to download a paper, please email me.
 
 1. **Strong global convergence properties of algorithms for nonlinear symmetric cone programming** [[doi](https://doi.org/10.1007/s10589-024-00642-z)] [[preprint](https://optimization-online.org/?p=25213)]  
    R. Andreani, G. Haeser, A. Ramos, D. O. Santos, L. D. Secchin, A. Serranoni  
-   To appear in Computational Optimization and Applications, 2025
+   Computational Optimization and Applications, 2025
 
 1. **Improving the global convergence of Inexact Restoration methods for constrained optimization problems** [[doi](https://doi.org/10.1137/22M1493811)] [[preprint](http://www.optimization-online.org/DB_HTML/2022/03/8851.html)]  
    R. Andreani, A. Ramos, L. D. Secchin  
