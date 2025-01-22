@@ -116,6 +116,10 @@ If you are unable to download a paper, please email me.
 
 ## Conference papers
 
+1. **Aplicação de métodos Lagrangeano aumentado a problemas com restrições do tipo complementaridade** [[doi](http://dx.doi.org/10.5540/03.2025.011.01.0351)]  
+   L. D. Secchin  
+   Proceeding Series of the Brazilian Society of Computational and Applied Mathematics, 11(1), 2025
+
 1. **A note on the convergence of an augmented Lagrangian algorithm to second-order stationary points** [[corrected version](https://www.researchgate.net/profile/Leonardo_Secchin/publication/323178751_A_note_on_the_convergence_of_an_augmented_Lagrangian_algorithm_to_second-order_stationary_points/links/5a84c0b6aca272c99ac388d8/A-note-on-the-convergence-of-an-augmented-Lagrangian-algorithm-to-second-order-stationary-points.pdf)]  
    R. Andreani, L. D. Secchin  
    Proceeding Series of the Brazilian Society of Computational and Applied Mathematics, 2018
