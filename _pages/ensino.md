@@ -7,10 +7,7 @@ author_profile: true
 
 Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
 
-## DISCIPLINAS 2024/2
-
-- [**Álgebra Linear**](/algebra-linear/)
-- [**Otimização 2**](/otimizacao2/)
+<!--## DISCIPLINAS 2024/2-->
 
 ## A linguagem de programação Julia
 
@@ -29,6 +26,7 @@ Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
 
 ---
 
+- [**Álgebra Linear**](/algebra-linear/)
 - [**Cálculo 3**](/calculo3/)
 - [**Laboratório de Matemática**](/laboratorio-de-matematica/)
 - [**Lógica / Noções de lógica**](/logica/)
