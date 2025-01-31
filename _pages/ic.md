@@ -124,6 +124,8 @@ O grupo de otimização da UFES, campus São Mateus, disponha de um computador d
 
 ## Sugestões de temas/projetos
 
+1. O problema de geometria de distâncias aplicado à determinação de estruturas 3D de proteínas ([ref](http://mtm.ufsc.br/~douglas/Livro_DG/livro_geo_dist.pdf))
+1. Métodos para projeção sobre interseção de restrição linear e caixa / knapsack contínuo ([ref 1](https://doi.org/10.1007/s12532-014-0066-y), [ref 2](https://doi.org/10.1007/s10107-015-0946-6))
 1. Métodos baseados em Lanczos para resolução de problemas de regiões de confiança ([ref](https://epubs.siam.org/doi/abs/10.1137/S1052623497322735?journalCode=sjope8) ou [ref](https://www.researchgate.net/publication/2263739_Solving_the_Trust-Region_Subproblem_using_the_Lanczos_Method))
 1. Métodos de gradiente para otimização multi-objetivo ([ref](http://www.optimization-online.org/DB_FILE/2020/04/7729.pdf))
 1. Métodos Quasi-Newton com baixo uso de memória ([ref 1](https://www.tandfonline.com/doi/abs/10.1080/02331934.2020.1712391?journalCode=gopt20), [ref 2](https://arxiv.org/pdf/2101.04413.pdf), [ref 3](https://arxiv.org/pdf/2101.11048.pdf))
