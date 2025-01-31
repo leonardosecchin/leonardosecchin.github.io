@@ -297,8 +297,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 - [FICO Xpress Optimization Examples](https://www.fico.com/fico-xpress-optimization/docs/latest/examples/mosel/NonLinear/GUID-81E21BAC-28BD-3D1A-B9B3-D65BA12E3C5B.html)
 
 
-## Vídeos sobre Otimização
+<!--## Vídeos sobre Otimização
 {:.no_toc}
 
 1.  [IMECC Unicamp no facebook](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
-1.  [Grupo de otimização IMECC Unicamp](http://www.ime.unicamp.br/~martinez/seminarios.html)
+1.  [Grupo de otimização IMECC Unicamp](http://www.ime.unicamp.br/~martinez/seminarios.html)-->
