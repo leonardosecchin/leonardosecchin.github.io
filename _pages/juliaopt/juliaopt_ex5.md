@@ -58,18 +58,18 @@ Observações:
 
 ## Método 2 - Saída através do navegador (*notebooks*)
 
-É possível executar comandos Julia através do navegador de internet. Para tanto, você precisará instalar o pacote `IJulia`. A partir da linha de comandos do Julia, podemos entrar no **Jupyter**, uma espécie de ambiente gráfico que funciona pelo navegador:
+É possível executar comandos Julia através do navegador de internet. Para tanto, você precisará instalar o pacote `IJulia`. A partir da linha de comandos do Julia, podemos entrar no **Jupyter-lab**, uma espécie de ambiente gráfico que funciona pelo navegador:
 
 ~~~
 julia> using IJulia
-julia> notebook()
+julia> jupyterlab()
 ~~~
 
-Isso abrirá uma página com o Jupyter, e você poderá navegar entre as pastas do seu computador.
+Isso abrirá uma página com o Jupyter-lab, e você poderá navegar entre as pastas do seu computador.
 
 Um *notebook* é um "caderno" de comandos em série. Salve o *notebook* [grafico.ipynb](/files/julia/grafico.ipynb), que contém todos os comandos para este exemplo.
 
-Dentro do Jupyter, abra `grafico.ipynb`. Você pode executar os comandos em sequência clicando no botão "Run", ou teclando Ctrl+Enter em cada linha. **Ao executar uma linha, aparecerá "[*]". Isso siginifca que o Julia está processando. Quando o Julia terminar o processamento da linha, aparecerá um número referente à ordem de execução**.
+Dentro do Jupyter-lab, abra `grafico.ipynb`. Você pode executar os comandos em sequência clicando no botão "Run", ou teclando Ctrl+Enter em cada linha. **Ao executar uma linha, aparecerá "[*]". Isso siginifca que o Julia está processando. Quando o Julia terminar o processamento da linha, aparecerá um número referente à ordem de execução**.
 
 Neste método, o gráfico será mostrado na tela do navegador.
 
