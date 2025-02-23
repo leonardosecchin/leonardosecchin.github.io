@@ -11,6 +11,8 @@ Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
 
 ## A linguagem de programação Julia
 
+**Este tutorial Julia está obsoleto. Futuramente será inteiramente reformulado.**
+
 - [Tutorial para instalação e uso do Julia](/julia/)
 - [**Julia para Otimização** - primeiros passos](/juliaopt/)
 - [Bancos de problemas-teste e interfaces para Julia](/juliaopt_problems/)
