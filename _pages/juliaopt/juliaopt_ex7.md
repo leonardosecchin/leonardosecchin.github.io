@@ -60,6 +60,7 @@ Veja a [documentação](https://julianlsolvers.github.io/Optim.jl/stable/) para 
 - **Alpine:** *solver* global livre para problemas não lineares com variáveis inteiras implementado em Julia. [site do desenvolvedor](https://github.com/lanl-ansi/Alpine.jl)
 - A organização *"Computation Infrastructure for Operations Research"* (COIN-OR) possui implementações livres de vários métodos, incluindo o [Simplex](https://github.com/jump-dev/Clp.jl), métodos enumerativos para programação linear interna mista ([*branch-and-cut*](https://github.com/jump-dev/Cbc.jl)), metaheurísticas, métodos para programação não linear geral (Ipopt é um deles), convexa, estocástica, não diferenciável e semi-definida. Veja a [lista de projetos da COIN-OR](https://www.coin-or.org/projects/). É comum cada projeto ter sua interface para Julia. Geralmente as interfaces são para modelos `JuMP`, e os links podem ser acessados no Github de cada projeto.
 - **Metaheuristics:** implementação em Julia de várias metaheurísticas. [site do desenvolvedor](https://github.com/jmejia8/Metaheuristics.jl)
+- **NLboxsolve:** métodos para resolução de sistemas não lineares com restrições de caixa. [site do desenvolvedor](https://github.com/RJDennis/NLboxsolve.jl)
 
 ## Pacotes com interface AMPL
 
