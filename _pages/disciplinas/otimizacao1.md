@@ -173,12 +173,9 @@ author_profile: true
 **A linguagem de programação Julia**
 </summary>
 
-Julia é uma linguagem de programação de alto nível criada em 2012 que implementa várias ferramentas para uso geral em matemática aplicada. Em particular, Julia possui várias ferramentas para otimização. É muito parecida com o Matlab, portanto os códigos são fáceis de entender. Os trabalhos computacionais desta disciplina serão feitos em Julia. A seguir você encontra instruções de instalação, bem como exemplos simples que ajudarão você a dar os primeiros passos nas ferramentas de otimização disponíveis no Julia.
+Julia é uma linguagem de programação de alto nível criada em 2012 que implementa várias ferramentas para uso geral em matemática aplicada. Em particular, Julia possui várias ferramentas para otimização. É muito parecida com o Matlab, portanto os códigos são fáceis de entender. Os trabalhos computacionais desta disciplina serão feitos em Julia.
 
-- [Tutorial para instalação e uso da linguagem de programação Julia](/julia/)
-- [Julia para Otimização - primeiros passos](/juliaopt/)
-  - Estude os exemplos 1 a 5, 8, 9, 12 e 14 do *link* acima
-  - Execute os testes com o método do gradiente do tópico **Métodos de descida gerais**
+**Para uma introdução ao Julia e seu uso em otimização, acesse o tutorial de apoio à disciplina [neste link](https://github.com/leonardosecchin/tutorial_Julia).**
 
 </details>
 
