@@ -67,12 +67,7 @@ Ementa variável.
 1. Apresentação
 1. Julia para otimização
 
-**EXERCÍCIOS DO TÓPICO:**
-1. Instalar o Julia em sua máquina, de acordo com [este link](https://leonardosecchin.github.io/julia)
-1. Estudar os exemplos 1, 2, 3, 4, 5, 6, 8, 12 e 14 [deste link](https://leonardosecchin.github.io/juliaopt/)
-
-**Referência:**
-- [Pequeno tutorial sobre Julia](https://leonardosecchin.github.io/julia/) e links internos
+**[TUTORIAL E EXERCÍCIOS DO TÓPICO](https://github.com/leonardosecchin/tutorial_Julia)**
 
 
 ## TÓPICO 3: Comparação de desempenho entre algoritmos
