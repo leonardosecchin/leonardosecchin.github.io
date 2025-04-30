@@ -11,8 +11,7 @@ Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
 
 ## A linguagem de programação Julia
 
-- **Introdução à linguagem Julia aplicada à otimização**: tutorial sobre Julia e seu uso na otimização. Serve como material de apoio às disciplinas de otimização contínua do curso de matemática da UFES, campus São Mateus. Acesse-o [neste link](https://github.com/leonardosecchin/tutorial_Julia).
-- [Outros pacotes](juliaopt_extrapkg/)
+Acesse o tutorial [**Introdução à linguagem Julia aplicada à otimização**](https://github.com/leonardosecchin/tutorial_Julia), que serve de apoio às disciplinas de otimização contínua do curso de matemática da UFES, campus São Mateus, ministradas por mim.
 
 
 ## Disciplinas já ministradas
