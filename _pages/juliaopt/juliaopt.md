@@ -5,6 +5,8 @@ permalink: /juliaopt/
 author_profile: true
 ---
 
+> ATENÇÃO: ESTA PÁGINA ESTÁ OBSOLTA, POR FAVOR CONSULTE <https://github.com/leonardosecchin/tutorial_Julia>
+
 Nesta página você encontrará exemplos/exercícios simples para iniciar a escrita e resolução de modelos de otimização em Julia. Não é um tutorial completo. Evidentemente, há muito material na internet que você pode acessar; um deles é o [curso de Abel Siqueira no Youtube](https://www.youtube.com/playlist?list=PLOOY0eChA1uyk_01nGJVmcQGvcJq9h6_6).
 
 
