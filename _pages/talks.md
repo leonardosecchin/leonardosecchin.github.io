@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+## 2025
+
+- **Otimização e geometria de distâncias**  
+  Seminário de Otimização Contínua Unicamp, 2025
+
 ## 2024
 
 - [**Aplicação de métodos Lagrangeano aumentado a problemas com restrições do tipo complementaridade**](https://drive.google.com/file/d/1HI0N5C5_4lGv67jDUvucWDLPb2iSLgCj/view?usp=sharing)  
