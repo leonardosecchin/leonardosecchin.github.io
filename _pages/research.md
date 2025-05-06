@@ -30,14 +30,14 @@ author_profile: true
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin  
    2024
 
-1. **A practical second-order optimality condition for cardinality-constrained problems with application to an augmented Lagrangian method** [[preprint](http://www.optimization-online.org/DB_HTML/2022/04/8880.html)]  
-   J. C. A. Medeiros, A. A. Ribeiro, M. Sachine, L. D. Secchin  
-   <del>2022</del> 2024
-
 
 ## Published papers and articles in press
 
 If you are unable to download a paper, please email me.
+
+1. **A practical second-order optimality condition for cardinality-constrained problems with application to an augmented Lagrangian method** [[preprint](http://www.optimization-online.org/DB_HTML/2022/04/8880.html)]  
+   J. C. A. Medeiros, A. A. Ribeiro, M. Sachine, L. D. Secchin  
+   To appear in Journal of Optimization Theory and Applications, 2025
 
 1. **Strong global convergence properties of algorithms for nonlinear symmetric cone programming** [[doi](https://doi.org/10.1007/s10589-024-00642-z)] [[preprint](https://optimization-online.org/?p=25213)]  
    R. Andreani, G. Haeser, A. Ramos, D. O. Santos, L. D. Secchin, A. Serranoni  
