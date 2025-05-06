@@ -5,7 +5,7 @@ permalink: /julia/
 author_profile: true
 ---
 
-> ATENÇÃO: ESTA PÁGINA ESTÁ OBSOLTA, POR FAVOR CONSULTE <https://github.com/leonardosecchin/tutorial_Julia>
+> ATENÇÃO: ESTA PÁGINA ESTÁ OBSOLETA, POR FAVOR CONSULTE <https://github.com/leonardosecchin/tutorial_Julia>
 
 Julia é uma linguagem de programação de alto nível surgida em 2012, que implementa várias ferramentas para uso geral em matemática aplicada. É muito parecida com o Matlab. Em particular, Julia possui várias ferramentas para otimização, tais como:
 
