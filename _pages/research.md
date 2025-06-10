@@ -31,9 +31,9 @@ author_profile: true
 
 If you are unable to download a paper, please email me.
 
-1. **Global convergence of a second-order augmented Lagrangian method under an error bound condition** [[preprint](https://optimization-online.org/?p=27600)]  
+1. **Global convergence of a second-order augmented Lagrangian method under an error bound condition** [[doi](https://doi.org/10.1007/s10957-025-02731-3)] [[preprint](https://optimization-online.org/?p=27600)]  
    R. Andreani, G. Haeser, R. W. Prado, M. L. Schuverdt, L. D. Secchin  
-   To appear in Journal of Optimization Theory and Applications, 2025
+   Journal of Optimization Theory and Applications, 206, article number 54, 2025
 
 1. **A practical second-order optimality condition for cardinality-constrained problems with application to an augmented Lagrangian method** [[doi](https://doi.org/10.1007/s10957-025-02705-5)] [[preprint](http://www.optimization-online.org/DB_HTML/2022/04/8880.html)]  
    J. C. A. Medeiros, A. A. Ribeiro, M. Sachine, L. D. Secchin  
