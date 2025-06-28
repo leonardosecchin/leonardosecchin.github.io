@@ -136,8 +136,8 @@ If you are unable to download a paper, please email me.
    IFORS News, 16(2):16-18, June 2021, ISSN 2223-4373
 
 
-### Funding
+## Funding
 
-- Mar 2022 - present. National Council for Scientific and Technological Development - CNPq (grant 309136/2021-0)
+- Mar 2022 - present. National Council for Scientific and Technological Development - CNPq (grants 309136/2021-0, 302520/2025-2)
 - Jan 2025 - Dec 2025. Fundação de Amparo à Pesquisa do Estado de São Paulo - FAPESP (grant 2024/12967-8)
 - 2019 - 2021. Fundação de Amparo à Pesquisa e Inovação do Espírito Santo - FAPES (grant 116/2019)
