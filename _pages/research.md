@@ -18,7 +18,7 @@ author_profile: true
 
 ## Submitted articles
 
-1. **Primal-dual global convergence of an augmented Lagrangian method under the error bound condition** [[preprint]()]  
+1. **Primal-dual global convergence of an augmented Lagrangian method under the error bound condition** [[preprint](https://optimization-online.org/?p=31199)]  
    R. Andreani, G. Haeser, R. W. Prado, L. D. Secchin  
    2025
 
