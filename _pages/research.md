@@ -18,6 +18,10 @@ author_profile: true
 
 ## Submitted articles
 
+1. **Primal-dual global convergence of an augmented Lagrangian method under the error bound condition** [[preprint]()]  
+   R. Andreani, G. Haeser, R. W. Prado, L. D. Secchin  
+   2025
+
 1. **Reparametrization of feasible sets: new constraint qualifications for nonlinear programming and their properties** [[preprint](https://optimization-online.org/?p=28999)]  
    R. Andreani, M. da Rosa, L. D. Secchin  
    2025
