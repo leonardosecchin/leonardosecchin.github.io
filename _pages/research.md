@@ -18,6 +18,10 @@ author_profile: true
 
 ## Submitted articles
 
+1. **A Novel Branch-and-Prune Algorithmic Framework for the 3D Interval Discretizable Distance Geometry Problem: An Approach Based on Torsion Angles of Molecular Structures** [[preprint](https://arxiv.org/abs/2508.09143)]  
+   W. A. A. da Rocha, C. Lavor, L. Liberti, L. de M. Costa, L. D. Secchin, T. E. Malliavin  
+   2025
+
 1. **Primal-dual global convergence of an augmented Lagrangian method under the error bound condition** [[preprint](https://optimization-online.org/?p=31199)]  
    R. Andreani, G. Haeser, R. W. Prado, L. D. Secchin  
    2025
