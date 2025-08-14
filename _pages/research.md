@@ -36,7 +36,7 @@ author_profile: true
 If you are unable to download a paper, please email me.
 
 1. **A relaxed quasinormality condition and the boundedness of dual augmented Lagrangian sequences** [[preprint](https://optimization-online.org/?p=25207)]  
-   R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin
+   R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin  
    To appear in SIAM Journal on Optimization, 2025
 
 1. **Global convergence of a second-order augmented Lagrangian method under an error bound condition** [[doi](https://doi.org/10.1007/s10957-025-02731-3)] [[preprint](https://optimization-online.org/?p=27600)]  
