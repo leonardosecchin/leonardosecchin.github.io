@@ -18,6 +18,10 @@ author_profile: true
 
 ## Submitted articles
 
+1. **On the boundedness of multipliers in augmented Lagrangian methods for mathematical programs with complementarity constraints** [[preprint](https://optimization-online.org/?p=31446)]  
+   R. Andreani, M. da Rosa, L. D. Secchin  
+   2025
+
 1. **A Novel Branch-and-Prune Algorithmic Framework for the 3D Interval Discretizable Distance Geometry Problem: An Approach Based on Torsion Angles of Molecular Structures** [[preprint](https://arxiv.org/abs/2508.09143)]  
    W. A. A. da Rocha, C. Lavor, L. Liberti, L. de M. Costa, L. D. Secchin, T. E. Malliavin  
    2025
