@@ -21,12 +21,12 @@ author_profile: true
 1. **On the boundedness of multipliers in augmented Lagrangian methods for mathematical programs with complementarity constraints** [[preprint](https://optimization-online.org/?p=31446)]  
    R. Andreani, M. da Rosa, L. D. Secchin  
    2025  
-   *Codes available at [github.com/leonardosecchin/SimpleAL](github.com/leonardosecchin/SimpleAL)*
+   *Codes available at [github.com/leonardosecchin/SimpleAL](https://github.com/leonardosecchin/SimpleAL)*
 
 1. **A Novel Branch-and-Prune Algorithmic Framework for the 3D Interval Discretizable Distance Geometry Problem: An Approach Based on Torsion Angles of Molecular Structures** [[preprint](https://arxiv.org/abs/2508.09143)]  
    W. A. A. da Rocha, C. Lavor, L. Liberti, L. de M. Costa, L. D. Secchin, T. E. Malliavin  
    2025  
-   *Codes available at [github.com/wdarocha/benchmarks](github.com/wdarocha/benchmarks)*
+   *Codes available at [github.com/wdarocha/benchmarks](https://github.com/wdarocha/benchmarks)*
 
 1. **Primal-dual global convergence of an augmented Lagrangian method under the error bound condition** [[preprint](https://optimization-online.org/?p=31199)]  
    R. Andreani, G. Haeser, R. W. Prado, L. D. Secchin  
@@ -93,7 +93,7 @@ If you are unable to download a paper, please email me.
 1. **On scaled stopping criteria for a safeguarded augmented Lagrangian method with theoretical guarantees** [[doi](https://doi.org/10.1007/s12532-021-00207-9)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/08/7985.html)]  
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin, P. J. S. Silva  
    Mathematical Programming Computation, 14:121-146, 2022  
-   *Codes available at [github.com/leonardosecchin/scaled-algencan](github.com/leonardosecchin/scaled-algencan)*
+   *Codes available at [github.com/leonardosecchin/scaled-algencan](https://github.com/leonardosecchin/scaled-algencan)*
 
 1. **On the use of Jordan Algebras for improving global convergence of an Augmented Lagrangian method in nonlinear semidefinite programming** [[doi](https://doi.org/10.1007/s10589-021-00281-8)] [[preprint](http://www.optimization-online.org/DB_HTML/2020/05/7787.html)]  
    R. Andreani, E. H. Fukuda, G. Haeser, D. O. Santos, L. D. Secchin  
