@@ -7,6 +7,9 @@ author_profile: true
 
 ## 2025
 
+- **Newton paralelo para o problema quadrático contínuo da mochila**  
+  XXXI Semana do IME e VII Seminário de Pesquisa e Pós-Graduação do IME/UFG, 2025
+
 - [**Sobre a resolução do problema de geometria de distâncias molecular com incertezas via modelos com variáveis contínuas**](https://drive.google.com/file/d/1NLLx6q57_-Zt50Qfg4rVDnvlx7UpECwn/view?usp=sharing)  
   XLIV Congresso Nacional de Matemática Aplicada e Computacional - CNMAC 2025
 
