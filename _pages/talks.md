@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2025
 
-- **Newton paralelo para o problema quadrático contínuo da mochila**  
+- [**Newton paralelo para o problema quadrático contínuo da mochila**](https://drive.google.com/file/d/14nw1Rof991WWoL7L3xXs4lUA8qpNLJJF/view?usp=sharing)  
   XXXI Semana do IME e VII Seminário de Pesquisa e Pós-Graduação do IME/UFG, 2025
 
 - [**Sobre a resolução do problema de geometria de distâncias molecular com incertezas via modelos com variáveis contínuas**](https://drive.google.com/file/d/1NLLx6q57_-Zt50Qfg4rVDnvlx7UpECwn/view?usp=sharing)  
@@ -33,7 +33,7 @@ author_profile: true
 - [**Sobre o desenvolvimento de métodos computacionais para otimização contínua: aspectos teóricos e práticos**](https://drive.google.com/file/d/19b59NNzKabGECPYWralRPPjLDQy-niQQ/view?usp=drivesdk) *(in portuguese)*  
   XI Jornada de Matemática da UFPI - JMatUFPI, 2023
 
-- **"KKT melhorado"**  
+- **"KKT melhorado"** ([slides relacionados](https://drive.google.com/file/d/1PGW18qshWfKe6TL8tBlGOxus8IS49YN9/view?usp=sharing))  
   Seminário de Otimização Contínua Unicamp/USP (web), 2023
 
 - [**Uma condição prática de otimalidade de segunda ordem para problemas com restrições de cardinalidade**](https://drive.google.com/file/d/1PzLibbBuLX10P4_aagfIVNzl7Mas7jYO/view?usp=sharing) *(in portuguese)*  
