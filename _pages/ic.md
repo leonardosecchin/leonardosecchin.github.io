@@ -50,7 +50,7 @@ O **Trabalho de Conclusão de Curso (TCC)** é elemento curricular obrigatório 
 
 Nos trabalhos que requerem implementação computacional, recomendo o uso da linguagem **Julia**. Nela, a escrita de modelos de otimização, o acesso à bancos de problemas-teste e o uso de pacotes de otimização consagrados é fácil. Essas características nem sempre estão disponíveis em C, Fortran ou mesmo Python. Além disso, é fácil programar em Julia (assemelha-se ao Matlab) e sua eficiência é comparada à linguagens de baixo nível como C e Fortran. Portanto, mesmo que você domine uma linguagem de programação como Python, recomendo considerar o uso do Julia.
 
-Você encontra um tutorial básico para a linguagem [neste link](https://github.com/leonardosecchin/tutorial_Julia).
+Você encontra um tutorial básico para a linguagem [neste link](/julia/).
 
 
 ## Etapas

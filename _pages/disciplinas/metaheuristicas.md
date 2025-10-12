@@ -68,7 +68,7 @@ Serão aplicadas no mínimo duas avaliações, dentre testes dissertativos, apre
 **Linguagem de programação**
 </summary>
 
-A linguagem de referência é o Julia. Você pode encontrar instruções de instalação e uso [neste link](https://github.com/leonardosecchin/tutorial_Julia).
+A linguagem de referência é o Julia. Você pode encontrar instruções de instalação e uso [neste link](/julia/).
 
 </details>
 

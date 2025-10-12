@@ -11,7 +11,7 @@ Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
 
 ## A linguagem de programação Julia
 
-Acesse o tutorial [**Introdução à linguagem Julia aplicada à otimização**](https://github.com/leonardosecchin/tutorial_Julia), que serve de apoio às disciplinas de otimização contínua do curso de matemática da UFES, campus São Mateus, ministradas por mim.
+Acesse o [**tutorial sobre uso da linguagem Julia aplicada à otimização**](/julia/), que serve de apoio às disciplinas de otimização do campus São Mateus ministradas por mim, bem como orientações de IC e TCC sob minha supervisão.
 
 
 ## Disciplinas já ministradas
