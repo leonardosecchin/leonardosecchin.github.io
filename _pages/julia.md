@@ -40,7 +40,7 @@ O Julia oferece interfaces para vários bancos de problemas-teste. A seguir, lis
 
 ### Conjuntos de dados para aprendizado de máquina
 
-- Acesso a todos os *datasets* do [UCI Machine Learning Repository](https://archive.ics.uci.edu/), um dos mariores repositórios do tipo: [`UCIData.jl`](https://github.com/JackDunnNZ/UCIData.jl)
+- Acesso a *datasets* do [UCI Machine Learning Repository](https://archive.ics.uci.edu/), um dos mariores repositórios do tipo: [`UCIData.jl`](https://github.com/JackDunnNZ/UCIData.jl)
 - Pequeno pacote com alguns *datasets*: [`MLDatasets.jl`](https://github.com/JuliaML/MLDatasets.jl)
 
 
