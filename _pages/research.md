@@ -23,7 +23,7 @@ author_profile: true
    2025  
    *Codes available at [github.com/leonardosecchin/SimpleAL](https://github.com/leonardosecchin/SimpleAL)*
 
-1. **A Novel Branch-and-Prune Algorithmic Framework for the 3D Interval Discretizable Distance Geometry Problem: An Approach Based on Torsion Angles of Molecular Structures** [[preprint](https://arxiv.org/abs/2508.09143)]  
+1. **An Angle-Based Algorithmic Framework for the Interval Discretizable Distance Geometry Problem** [[preprint](https://arxiv.org/abs/2508.09143)]  
    W. A. A. da Rocha, C. Lavor, L. Liberti, L. de M. Costa, L. D. Secchin, T. E. Malliavin  
    2025  
    *Codes available at [github.com/wdarocha/benchmarks](https://github.com/wdarocha/benchmarks)*
