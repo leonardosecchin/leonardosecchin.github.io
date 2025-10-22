@@ -5,16 +5,13 @@ permalink: /otimizacao2/
 author_profile: true
 ---
 
-
 ## Horários das aulas
-{:.no_toc}
 
-- Terças-feiras de 12:00 as 14:00 (Sala 10 Eixo 3)
-- Sextas-feiras de 10:00 as 12:00 (Sala 10 Eixo 1)
+- --- <!--Terças-feiras de 12:00 as 14:00 (Sala 10 Eixo 3)-->
+- --- <!--Sextas-feiras de 10:00 as 12:00 (Sala 10 Eixo 1)-->
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
-{:.no_toc}
 
 
 ## Objetivos da disciplina
@@ -37,21 +34,18 @@ author_profile: true
 
 
 ## Textos complementares
-{:.no_toc}
 
 - [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/otimizac-o-volume-1-condicoes-de-otimalidade-elementos-de-analise-convex-e-de-dualidade.html)
 - [Izmailov, A.; Solodov, M. Otimização vol 2. SBM.](https://loja.sbm.org.br/otimizac-o-volume-2-metodos-computacionais.html)
 
 
 ## Canais de acesso
-{:.no_toc}
 
 - E-mail do professor: leonardo.secchin@ufes.br
 - Sala do professor: prédio do Departamento de Matemática Aplicada, sala 08
 
 
 ## Formas de avaliação
-{:.no_toc}
 
 - provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
 
@@ -117,7 +111,6 @@ author_profile: true
 
 
 ## Trabalhos computacionais
-{:.no_toc}
 
 <!-- - [TRABALHO COMPUTACIONAL 1 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing) -->
 <!-- - Método de pontos interiores aplicado à programação linear: [descrição](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing) -->
@@ -289,14 +282,12 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 
 ## Links
-{:.no_toc}
 
 - [Nonlinear Optimization Examples](https://www.math.wpi.edu/saspdf/iml/chap11.pdf)
 - [FICO Xpress Optimization Examples](https://www.fico.com/fico-xpress-optimization/docs/latest/examples/mosel/NonLinear/GUID-81E21BAC-28BD-3D1A-B9B3-D65BA12E3C5B.html)
 
 
 <!--## Vídeos sobre Otimização
-{:.no_toc}
 
 1.  [IMECC Unicamp no facebook](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
 1.  [Grupo de otimização IMECC Unicamp](http://www.ime.unicamp.br/~martinez/seminarios.html)-->

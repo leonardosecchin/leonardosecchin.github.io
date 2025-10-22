@@ -13,7 +13,6 @@ author_profile: true
 
 
 ## Ementa
-{:.no_toc}
 
 Ementa variável.
 

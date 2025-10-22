@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Horários das aulas
-{:.no_toc}
 
 - --- <!--Terças-feiras de 16:00 as 18:00 (Laboratório de Matemática Computacional)-->
 - --- <!--Sexta-feiras de 12:00 as 14:00 (Laboratório de Matemática Computacional)-->
@@ -15,7 +14,6 @@ author_profile: true
 
 
 ## Objetivos da disciplina
-{:.no_toc}
 
 - Motivar e promover a reflexão sobre a atuação do matemático na sociedade e na resolução de problemas reais
 - Estudar textos científicos de variados temas e problemas no contexto industrial relacionados à conteúdos do curso
@@ -32,7 +30,6 @@ author_profile: true
 
 
 ## Canais de acesso
-{:.no_toc}
 
 - E-mail do professor: leonardo.secchin@ufes.br
 - Sala do professor: prédio do Departamento de Matemática Aplicada, sala 08
@@ -52,7 +49,6 @@ author_profile: true
 
 
 ## Critérios para aprovação
-{:.no_toc}
 
 - Faltas acima de 25% da carga horária –> reprovado(a) por falta
 - Média notas parciais >= 7,0 —> aprovado(a) (desde que não reprovado(a) por falta)
@@ -311,14 +307,12 @@ Material fornecido pelo palestrante:
 
 
 ## Discussão aplicações da matemática - contribuições dos alunos
-{:.no_toc}
 
 - (Caio) [Saber matemática é cada dia mais importante para os médicos](https://ensinoepesquisa.einstein.br/fiquepordentro/noticia/saber-matematica-e-cada-dia-mais-importante-para-os-medicos#:~:text=O%20aprendizado%20da%20interpreta%C3%A7%C3%A3o%20dos,os%20profissionais%20envolvidos%20em%20pesquisa.)
 - (André) [A matemática na produção e análise de alimentos](https://matematicax.com.br/a-matematica-na-producao-e-analise-de-alimentos/)
 
 
 ## Sociedades e Institutos de Matemática Aplicada no mundo
-{:.no_toc}
 
 - [Sociedade Brasileira de Matemática Aplicada e Computacional - SBMAC](https://www.sbmac.org.br/)
 - [Society for Industrial and Applied Mathematic - SIAM](https://siam.org/)
@@ -329,7 +323,6 @@ Material fornecido pelo palestrante:
 
 
 ## Eventos de Matemática Aplicada à Indústria
-{:.no_toc}
 
 - [Congresso Nacional de Matemática Aplicada e Computacional (CNMAC)](https://www.cnmac.org.br/)
 - [Workshop de Soluções Matemáticas para Problemas Industriais - CeMEAI/USP](https://cemeai.icmc.usp.br/WSMPI/)
