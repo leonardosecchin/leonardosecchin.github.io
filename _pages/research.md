@@ -18,13 +18,18 @@ author_profile: true
 
 ## Submitted articles
 
+1. **A hybrid combinatorial-continuous strategy for solving molecular distance geometry problems** [[preprint](https://arxiv.org/abs/2510.19970)]  
+   L. D. Secchin, W. da Rocha, M. da Rosa, L. Liberti, C. Lavor  
+   2025  
+   *Codes available at [github.com/leonardosecchin/MDGP](https://github.com/leonardosecchin/MDGP)*
+
 1. **On the boundedness of multipliers in augmented Lagrangian methods for mathematical programs with complementarity constraints** [[preprint](https://optimization-online.org/?p=31446)]  
    R. Andreani, M. da Rosa, L. D. Secchin  
    2025  
    *Codes available at [github.com/leonardosecchin/SimpleAL](https://github.com/leonardosecchin/SimpleAL)*
 
 1. **An Angle-Based Algorithmic Framework for the Interval Discretizable Distance Geometry Problem** [[preprint](https://arxiv.org/abs/2508.09143)]  
-   W. A. A. da Rocha, C. Lavor, L. Liberti, L. de M. Costa, L. D. Secchin, T. E. Malliavin  
+   W. da Rocha, C. Lavor, L. Liberti, L. de M. Costa, L. D. Secchin, T. E. Malliavin  
    2025  
    *Codes available at [github.com/wdarocha/benchmarks](https://github.com/wdarocha/benchmarks)*
 
