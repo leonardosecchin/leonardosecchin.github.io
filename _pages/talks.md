@@ -7,6 +7,9 @@ author_profile: true
 
 ## 2025
 
+- [**Quasinormalidade relaxada e consequências**](https://drive.google.com/file/d/1cv_YvrIt9uIFcMSrQBKTVHZbNP13e2iV/view?usp=sharing)  
+  Seminário de Otimização & Problemas Inversos da UFSC, 2025
+
 - [**Newton paralelo para o problema quadrático contínuo da mochila**](https://drive.google.com/file/d/14nw1Rof991WWoL7L3xXs4lUA8qpNLJJF/view?usp=sharing)  
   XXXI Semana do IME e VII Seminário de Pesquisa e Pós-Graduação do IME/UFG, 2025
 
