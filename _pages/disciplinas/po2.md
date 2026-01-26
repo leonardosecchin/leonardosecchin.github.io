@@ -94,7 +94,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 - [**CPLEX**](https://www.ibm.com/br-pt/analytics/cplex-optimizer)  
    O CPLEX é um pacote mantido pela IBM e muito utilizado na academia e indústria. Nele há vários métodos para programação linear inteira mista. É um software proprietário, mas estudantes das universidades podem obter licença de uso mediante preencimento de um cadastro. **Recomendo familiarizar-se com o pacote desde o início da disciplina.**
-   - [Instruções para download](/files/po2/cplex.txt)
+   - [Instruções para download](/files/po2/cplex.txt) (testado em abril de 2024)
 
 - [**GLPK**](https://www.gnu.org/software/glpk/)  
    GLPK é um pacote que implementa vários métodos para programação linear inteira mista. Ao contrário do CPLEX, é *software* livre, ou seja, você pode instalar e usar sem a necessidade de obter licenças. É uma opção de fácil instalação caso você tenha problemas com o CPLEX.
@@ -118,7 +118,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Exemplos de problemas e respectivos pacotes/códigos para uso no Julia
 
-- Vários exemplos [neste link](/juliaopt_problems/)
+- Vários exemplos [neste link](/julia/)
 
 
 ### Métodos em programação inteira mista
