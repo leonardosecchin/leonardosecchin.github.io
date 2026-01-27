@@ -43,20 +43,18 @@ function gc(A,b; x0=nothing, eps=1.0e-6, maxiter=10000, saidas=true)
     # captura número de variáveis (dimensão de A)
     n = size(A)[1]
 
-    # define ponto inicial caso não fornecido
-    if x0 == nothing
-        x0 = zeros(n)
-    end
-
     # aloca vetores
     x     = zeros(n)
-    g     = zeros(n)
-    g_ant = zeros(n)
-    w     = zeros(n)
-    d     = zeros(n)
+    g     = similar(x)
+    g_ant = similar(x)
+    w     = similar(x)
+    d     = similar(x)
 
-    x    .= float(x0)
-    g    .= A*x + b
+    # ponto inicial
+    if !isnothing(x0)
+        x .= float(x0)
+    end
+    g .= A*x + b
     gsupn = norm(g, Inf)
 
     # imprimi cabeçalho saídas
