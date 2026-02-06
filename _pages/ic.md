@@ -80,6 +80,8 @@ O grupo de otimização da UFES, campus São Mateus, disponha de um computador d
 
 ### em andamento
 
+Nenhuma no momento.
+
 ### concluídas
 
 1. 2024 (TCC). [O método do gradiente espectral projetado e aplicações ao aprendizado de máquina supervisionado](/files/ic-tcc/TCC_Pedro_Fischer.pdf)  
@@ -126,17 +128,17 @@ O grupo de otimização da UFES, campus São Mateus, disponha de um computador d
 
 1. O problema de geometria de distâncias aplicado à determinação de estruturas 3D de proteínas ([ref](http://mtm.ufsc.br/~douglas/Livro_DG/livro_geo_dist.pdf))
 1. Métodos para projeção sobre interseção de restrição linear e caixa / knapsack contínuo ([ref 1](https://doi.org/10.1007/s12532-014-0066-y), [ref 2](https://doi.org/10.1007/s10107-015-0946-6))
-1. Métodos baseados em Lanczos para resolução de problemas de regiões de confiança ([ref](https://epubs.siam.org/doi/abs/10.1137/S1052623497322735?journalCode=sjope8) ou [ref](https://www.researchgate.net/publication/2263739_Solving_the_Trust-Region_Subproblem_using_the_Lanczos_Method))
-1. Métodos de gradiente para otimização multi-objetivo ([ref](http://www.optimization-online.org/DB_FILE/2020/04/7729.pdf))
+1. Métodos baseados em Lanczos para resolução de problemas de regiões de confiança ([ref](https://epubs.siam.org/doi/abs/10.1137/S1052623497322735?journalCode=sjope8), [ref](https://www.researchgate.net/publication/2263739_Solving_the_Trust-Region_Subproblem_using_the_Lanczos_Method))
+<!--1. Métodos tipo gradiente para otimização multi-objetivo ([ref](http://www.optimization-online.org/DB_FILE/2020/04/7729.pdf))-->
 1. Métodos Quasi-Newton com baixo uso de memória ([ref 1](https://www.tandfonline.com/doi/abs/10.1080/02331934.2020.1712391?journalCode=gopt20), [ref 2](https://arxiv.org/pdf/2101.04413.pdf), [ref 3](https://arxiv.org/pdf/2101.11048.pdf))
 1. Modelos típicos de Pesquisa Operacional (em particular, de programação inteira mista), vistos nas disciplinas “Pesquisa Operacional I e II” (Exemplos: [DRLP](https://doi.org/10.1007/s11590-018-1263-9); [Grade de horários](https://drive.google.com/open?id=12h9bnTpkS2lSmRNNLTlUkTakGrF7g6-i))
 1. Variantes BFGS para otimização irrestrita ([ref 1](https://www.researchgate.net/publication/30932966_A_Modified_BFGS_Algorithm_for_Unconstrained_Optimization), [ref 2](https://doi.org/10.1016/S0377-0427(00)00540-9), [ref 3](https://doi.org/10.1186/s13660-017-1453-5), [ref 4](https://doi.org/10.1007/s40314-018-0620-8))
 1. Métodos de otimização para Aprendizado de máquina supervisionado ([ref 1](/topicospo/), [ref 2](/files/ic-tcc/TCC_Matheus_Becali.pdf))
 <!--1. O ensino de Pesquisa Operacional no Ensino Médio *(depende de parceria com docente da área de educação matemática)*-->
 1. Gradiente primal-dual para problemas de programação linear ([ref](https://arxiv.org/pdf/2106.04756.pdf))
-1. Gradiente espectral para otimização com caixas e 1 restrição linear ([ref](http://www.optimization-online.org/DB_FILE/2019/06/7256.pdf))
-1. Problemas não convexos com estrutura em blocos e restrição de acoplamento ([ref](https://arxiv.org/pdf/2112.09027.pdf))
-1. Comparação entre métodos tipo gradientes conjugados ([ref 1](https://doi.org/10.3934/math.2023128), [ref 2](https://assets.researchsquare.com/files/rs-2427275/v1/6b9ec5d3aa880cf7232956cc.pdf?c=1672923085))
+1. Gradiente espectral para otimização com caixas e 1 restrição linear ([ref](https://doi.org/10.1137/19M1268641))
+<!--1. Problemas não convexos com estrutura em blocos e restrição de acoplamento ([ref](https://arxiv.org/pdf/2112.09027.pdf))-->
+<!--1. Comparação entre métodos tipo gradientes conjugados ([ref 1](https://doi.org/10.3934/math.2023128), [ref 2](https://assets.researchsquare.com/files/rs-2427275/v1/6b9ec5d3aa880cf7232956cc.pdf?c=1672923085))-->
 1. Implementação de métodos de pontos interiores para programação linear e quadrática ([ref 1](/topicospo/), [ref 2](/files/ic-tcc/resumoIC_ptoint.pdf)) (pré-requisito: Otimização II)
 <!-- 1. Condições sequenciais de otimalidade em programação não linear ([slides](https://drive.google.com/open?id=1UOQ_CFm3yPapuoWBxL1sKI6LMZClJUpq), [livro SBMAC](http://arquivo.sbmac.org.br/arquivos/notas/livro_83.pdf)) -->
 1. Resolução de problemas quadráticos com variáveis binárias via estratégia "neurodinâmica" ([ref](https://www.researchgate.net/publication/349187795_A_neurodynamic_approach_to_zero-one_quadratic_programming), [artigo revista](https://doi.org/10.1007/s11075-021-01075-z))
