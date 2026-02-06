@@ -195,7 +195,13 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Programação dinâmica 
 
+*Referência: Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006*
+
+1. Princípios da programação dinâmica
 1. [Exemplo simples: sequência de Fibonacci](https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/dynamic-programming.html)
 1. [Problema da mochila 0-1](https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/mochila-bool.html#sec:prog-din)
-1. [Subset sum](https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/mochila-subsetsum.html#sec:dynamic-programming)
-1. O algoritmo de Dijkstra (tópico anterior) usa conceitos de programação dinâmica
+1. Exemplo protótipo, seção 10.1 do livro de Hillier e Lieberman
+1. Exemplos da seção 10.3 do livro de Hillier e Lieberman
+1. Outros exemplos
+   1. [Subset sum](https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/mochila-subsetsum.html#sec:dynamic-programming)
+   1. O algoritmo de Dijkstra (tópico anterior) usa conceitos de programação dinâmica
