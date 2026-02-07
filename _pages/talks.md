@@ -5,6 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
+## 2026
+
+- **Sobre a resolução do problema de geometria de distâncias molecular com incertezas via modelos com variáveis contínuas**  
+  Encontro Regional de Matemática Aplicada e Computacional SC, 2026
+
+- **Parallel Newton methods for the continuous quadratic knapsack problem: A Jacobi and Gauss-Seidel tale**  
+  XV Brazilian Workshop on Continuous Optimization, 2026
+
 ## 2025
 
 - [**Quasinormalidade relaxada e consequências**](https://drive.google.com/file/d/1cv_YvrIt9uIFcMSrQBKTVHZbNP13e2iV/view?usp=sharing)  
