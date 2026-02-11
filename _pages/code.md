@@ -18,7 +18,7 @@ Simple safeguarded augmented Lagrangian method for solving nonlinear programming
 **URL:** <https://github.com/leonardosecchin/SimpleAL>
 
 1. **BCD**  
-Block Coordinate Descent (BCD) method with quadratic and cubic regularizations for minimizing functions with Hölder continuous gradient.  
+Block Coordinate Descent (BCD) method for minimizing functions with Hölder continuous gradient.  
 **URL:** <https://github.com/leonardosecchin/BCD>
 
 1. **Scaled-Algencan**  
