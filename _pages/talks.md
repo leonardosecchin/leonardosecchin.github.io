@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2026
 
-- **Sobre a resolução do problema de geometria de distâncias molecular com incertezas via modelos com variáveis contínuas**  
+- **Sobre a resolução do problema de geometria de distâncias molecular com incertezas via modelos com variáveis contínuas** ([slides relacionados](https://drive.google.com/file/d/1NLLx6q57_-Zt50Qfg4rVDnvlx7UpECwn/view?usp=sharing))  
   Encontro Regional de Matemática Aplicada e Computacional SC, 2026
 
 - **Parallel Newton methods for the continuous quadratic knapsack problem: A Jacobi and Gauss-Seidel tale**  
