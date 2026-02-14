@@ -154,3 +154,5 @@ Podem ser baixados e modificados livremente por alunos e docentes, não sendo ne
 **[Modelo TCC para Matemática Industrial](https://drive.google.com/file/d/1S-Rtsf3iPgLUQ4IwrHRJYUMaZQQZ-50T/view?usp=sharing)** (atualizado em 12/12/23)
 
 **[Modelo apresentação slides](https://drive.google.com/file/d/1-cmwFB82Ds1hpxEtIlJIKQPfuzNU6bCW/view?usp=sharing)**
+
+**[Modelo apresentação em poster](https://drive.google.com/file/d/1lJ-xE9E9R-R9jaaTdq4VODxcQomomr2g/view?usp=sharing)**
