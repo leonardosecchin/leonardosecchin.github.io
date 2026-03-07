@@ -10,29 +10,25 @@ author_profile: true
 De acordo com a UFES,
 > "o Programa Institucional de Iniciação Científica (PIIC) é **voltado para a iniciação à pesquisa** de estudantes de graduação universitária. Ele visa fundamentalmente incentivar a carreira científica dos estudantes de graduação que **apresentam bom desempenho acadêmico**, preparando-os para a pós-graduação" (retirado do [site da PRPPG](https://prppg.ufes.br/programa-institucional-de-ic-piic)).
 
-Nesse sentido, nas minhas orientações de iniciação científica (IC) procuro sugerir a leitura de artigos científicos e, dentro do possível, proponho temas não abordados nas disciplinas regulares da graduação.
+Nesse sentido, nas minhas orientações de IC procuro sugerir a leitura de artigos científicos e, dentro do possível, proponho temas não abordados nas disciplinas regulares da graduação.
 
-O(A) aluno(a) que deseja realizar trabalho de IC comigo poderá propor temas relacionados à otimização (preferencialmente não linear) de acordo com suas habilidades e interesses. O(A) estudante que não tenha tema em mente pode me procurar também. Havendo disponibilidade para novas orientações, a escolha do tema levará em conta o conhecimento prévio do(a) estudante, meus projetos de pesquisa, meus interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas e adequação do tema ao perfil de formação do egresso. **É importante ficar atento(a) aos pré-requisitos (ver abaixo).** O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
+O(A) estudante que deseja realizar IC comigo poderá propor temas relacionados à otimização (preferencialmente não linear) de acordo com suas habilidades e interesses. Caso não tenha tema em mente, pode me procurar também. Havendo disponibilidade para novas orientações, a escolha do tema levará em conta o conhecimento prévio do(a) estudante, meus projetos de pesquisa, meus interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas e adequação do tema ao perfil de formação do egresso. **É importante ficar atento(a) aos pré-requisitos (ver abaixo).** O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
 
 O **Trabalho de Conclusão de Curso (TCC)** é elemento curricular obrigatório dos cursos de graduação. A escolha do tema e o modo de orientação são semelhantes à IC. O TCC pode ser um trabalho complementar à uma IC prévia, estar ligado ao estágio curricular, ou ainda ser um trabalho realizado do zero, caso em que é desejável o(a) aluno(a) procurar-me com 1 ano de antecedência. Diferentemente da IC, não há possibilidade de bolsa para realização de TCC.
 
 
 ## Pré-requisitos para IC
 
-<!-- Pré-requisitos para qualquer projeto: -->
-- **ter sido aprovado(a)** em uma disciplina de otimização;
+- **ter sido aprovado(a)** em pelo menos uma disciplina no tema otimização;
 - ter capacidade de **programar em computador**. A **linguagem de programação Julia** é a preferência em quase todos os casos (veja a seção "Linguagens de programação" abaixo);
 - ter capacidade de **ler e entender textos em inglês**, já que as referências são em grande parte escritas na língua. Não é necessário saber escrever ou falar inglês;
 - ter bom desempenho acadêmico nas disciplinas de otimização/pesquisa operacional cursadas;
 - ter disponibilidade de **20h semanais para as atividades da IC**. O(A) estudante não poderá se abster das atividades da IC em hipótese alguma, **indpendentemente da quantidade de atividades diversas ou disciplinas em que esteja matriculado(a)**.
 
-<!-- Condições desejáveis: -->
-<!-- - ter cursado "Otimização 2" (Matemática Industrial). Em determinados anos **pode ser obrigatório** a depender dos projetos que tenho a disposição. -->
-
 **Pré-requisito para CONCORRER À BOLSA de IC (PIBIC):**
-- ter coeficiente de rendimento médio igual ou superior a 5,0 (sete), comprovado em histórico escolar atualizado.
+- ter coeficiente de rendimento médio igual ou superior a 5,0 (cinco), comprovado em histórico escolar atualizado.
 
-*O(A) estudante que não atender aos pré-requisitos para concorrer à bolsa mas cumprir os pré-requisitos gerais será enquadrado(a) na modalidade voluntário (PIVIC).*
+*O(A) estudante que não atender aos pré-requisitos para concorrer à bolsa será enquadrado(a) na modalidade voluntário (PIVIC).*
 
 *O(A) estudante que, ao longo da IC, apresentar desempenho insatisfatório poderá ter sua IC cancelada por parte do orientador. Neste caso, não terá direito à certificado.*
 
@@ -41,46 +37,47 @@ O **Trabalho de Conclusão de Curso (TCC)** é elemento curricular obrigatório 
 
 ## Pré-requisitos para TCC
 
-- no caso de estudantes de Matemática Industrial, ter sido aprovado(a) nas disciplinas de Otimização e Pesquisa Operacional com bom desempenho;
-- é desejável procurar-me 1 ano antes da data de defesa pretendida, sobretudo se o(a) estudante não tem um tema maduro com o qual já tenha trabalhado. Caso já seja aluno(a) de IC, uma opção é fazer o TCC após a IC, no mesmo tema, como complemento do trabalho de IC. Neste caso, o TCC geralmente é feito em um único semestre. Algo semelhante vale para estudantes de estágio, a depender do trabalho prévio realizado;
+- no caso de estudantes de Matemática Industrial, ter sido aprovado(a) nas disciplinas de Otimização e Pesquisa Operacional;
+- de preferência, procurar-me 1 ano antes da data de defesa pretendida. Caso já tenha feito IC, uma opção é fazer o TCC como complemento da IC. Neste caso, o TCC geralmente é feito em um único semestre. Algo semelhante vale para estudantes de estágio, a depender do trabalho prévio realizado;
 - quando for defender o TCC, estar matriculado na disciplina "TCC" ou equivalente caso exigido pelo respectivo Colegiado de curso.
 
 
 ## Linguagens de programação
 
-Nos trabalhos que requerem implementação computacional, recomendo o uso da linguagem **Julia**. Nela, a escrita de modelos de otimização, o acesso à bancos de problemas-teste e o uso de pacotes de otimização consagrados é fácil. Essas características nem sempre estão disponíveis em C, Fortran ou mesmo Python. Além disso, é fácil programar em Julia (assemelha-se ao Matlab) e sua eficiência é comparada à linguagens de baixo nível como C e Fortran. Portanto, mesmo que você domine uma linguagem de programação como Python, recomendo considerar o uso do Julia.
+Nos trabalhos que requerem implementação computacional, recomendo o uso da linguagem **Julia**. Nela, a escrita de modelos de otimização, o acesso à bancos de problemas-teste e o uso de pacotes de otimização consagrados é fácil. Essas características nem sempre estão disponíveis em C, Fortran ou mesmo Python. Além disso, é fácil programar em Julia (assemelha-se ao Matlab). Portanto, mesmo que você domine uma linguagem como Python, recomendo considerar o uso do Julia.
 
-Você encontra um tutorial básico para a linguagem [neste link](/julia/).
+Você encontra um tutorial básico [neste link](/julia/).
 
 
 ## Etapas
 
 ### para ingresso na IC
 
-Em primeiro lugar, o(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. Combinado o tema a ser estudado, escrevo um subprojeto em comum acordo com o candidato. O projeto é submetido ao edital de IC corrente, e será avaliado por docentes da UFES. Se aprovado, a execução do projeto começa seguindo calendário estabelecido em edital. É importante o(a) estudante estar ciente de que, depois de submetido, o **projeto não poderá ser alterado**. Portanto, a escolha/aceite do tema de estudo deve ser feita com responsabilidade e comprometimento.
+O(a) estudante deve mostrar interesse por email ou pessoalmente. Combinado o tema do estudo, escrevo um subprojeto em comum acordo com o candidato, que é submetido ao edital de IC corrente. Se aprovado, a execução do projeto começa seguindo calendário estabelecido em edital. É importante o(a) estudante estar ciente de que, depois de submetido, o **projeto não poderá ser alterado**. Portanto, a escolha/aceite do tema de estudo deve ser feita com responsabilidade e comprometimento.
 
 Todo subprojeto de IC é vinculado a um projeto de pesquisa meu. **A orientação de IC tem duração de 1 ano.**
 
-Há possibilidade de bolsa(s), a depender da disponibilidade de recursos da UFES e agências de fomento (veja pré-requisitos acima). Na escolha do(a) bolsista são considerados desempenho curricular, entrevista e situação de vulnerabilidade socioeconômica (cadastro em programas de assistência estudantil), além das regras estabelecidas em edital. Nos últimos editais, vem sendo conferida apenas uma bolsa por orientador. Portanto, **o(a) estudante deve estar ciente que pode ter que realizar a IC sem bolsa, mesmo que atenda aos pré-requisitos.** O(a) aluno(a) de IC voluntário(a) tem as mesmas obrigações de um bolsista. É importante ressaltar que para ser candidato a bolsista, **o(a) estudante deve atender requisitos mínimos (ver acima)**. Assim, **não é obrigatória a alocação de bolsa por parte do orientador**, ainda que possua um(a) único(a) orientando(a).
+Há possibilidade de bolsa(s), a depender da disponibilidade de recursos da UFES e agências de fomento. Na escolha do(a) bolsista são considerados desempenho curricular, entrevista e situação de vulnerabilidade socioeconômica (cadastro em programas de assistência estudantil), além das regras estabelecidas em edital. Nos últimos editais, vem sendo conferida apenas uma bolsa por orientador. Portanto, **o(a) estudante deve estar ciente que pode ter que realizar a IC sem bolsa (voluntário), mesmo que atenda aos pré-requisitos.** O(a) estudante de IC voluntário(a) tem as mesmas obrigações de um bolsista. **Não é obrigatória a alocação de bolsa por parte do orientador**, ainda que haja um(a) único(a) candidato(a).
 
 
 ### para orientação de TCC
 
-O(a) aluno(a) deve mostrar seu interesse por email ou pessoalmente. O TCC é disciplina obrigatória dos cursos de graduação, mas não é necessária a matrícula para iniciar a orientação.
+O(a) estudante deve mostrar seu interesse por email ou pessoalmente. O TCC é disciplina obrigatória dos cursos de graduação, mas não é necessária a matrícula para iniciar a orientação.
 
 
 ## Recursos computacionais para realização dos trabalhos
 
-Os(As) estudantes de IC e TCC têm a sua disposição o [laboratório de Matemática Computacional (LABMAT)](https://matematicaaplicada.saomateus.ufes.br/laboratorios) para realização de seus trabalhos.
+Os(As) estudantes de IC e TCC têm a sua disposição o [laboratório de Matemática Computacional (LABMAT)](https://matematicaaplicada.saomateus.ufes.br/laboratorios).
 
-O grupo de otimização da UFES, campus São Mateus, disponha de um computador de bom desempenho para realização de pesquisas. O acesso é remoto e está disponível ininterruptamente. Quando o trabalho de IC/TCC requerer testes computacionais mais robustos, de longa duração, o(a) estudante poderá ter uma conta para acesso ao computador do grupo de pesquisa. Para mais informações visite [https://otimizacaoufes.github.io](https://otimizacaoufes.github.io).
+O grupo de otimização da UFES/São Mateus disponha de um computador de bom desempenho para realização de pesquisas. O acesso é remoto e está disponível ininterruptamente. Quando o trabalho de IC/TCC requerer testes computacionais de longa duração, o(a) estudante poderá ter uma conta para acesso ao computador. Para mais informações visite [https://otimizacaoufes.github.io](https://otimizacaoufes.github.io).
 
 
 ## Orientações de IC e TCC
 
 ### em andamento
 
-Nenhuma no momento.
+1. 2026 (TCC). Título a definir.  
+   Estudante: Kely Cristina da Silva Pereira
 
 ### concluídas
 
