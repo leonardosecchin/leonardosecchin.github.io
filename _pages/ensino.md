@@ -7,7 +7,10 @@ author_profile: true
 
 Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
 
-<!--## DISCIPLINAS 2024/2-->
+## DISCIPLINAS 2026/1
+
+- [**Otimização 1**](/otimizacao1/)
+- [**Pesquisa Operacional 1**](/po1/)
 
 ## A linguagem de programação Julia
 
