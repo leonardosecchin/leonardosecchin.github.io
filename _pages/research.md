@@ -11,11 +11,6 @@ author_profile: true
 - Combinatorial optimization / Integer programming
 - Distance geometry problem
 
-------
-
-## [Talks / Slides de apresentações](/talks/)
-
-
 ## Submitted articles
 
 1. **A hybrid combinatorial-continuous strategy for solving molecular distance geometry problems** [[preprint](https://arxiv.org/abs/2510.19970)]  
