@@ -5,7 +5,7 @@ permalink: /code/
 author_profile: true
 ---
 
-1. **NewtonCQK** (available soon)  
+1. **NewtonCQK**  
 Sequential and parallel semi-smooth Newton method for the Continuous Quadratic Knapsack (CQK) problem, with specialized implemetations for projecting onto Simplex and L1-ball.  
 **URL:** <https://github.com/pjssilva/NewtonCQK.jl>
 

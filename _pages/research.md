@@ -8,10 +8,15 @@ author_profile: true
 ### Research Interests
 
 - Optimality conditions and nonlinear optimization methods
+- Distance Geometry Problem (DGP), especially Molecular DGP
 - Combinatorial optimization / Integer programming
-- Distance geometry problem
 
 ## Submitted articles
+
+1. **Parallel Newton methods for the continuous quadratic knapsack problem: A Jacobi and Gauss-Seidel tale** [[preprint]()]  
+   L. D. Secchin, P. J. S. Silva  
+   2026  
+   *Codes available at [github.com/pjssilva/NewtonCQK.jl](https://github.com/pjssilva/NewtonCQK.jl)*
 
 1. **A hybrid combinatorial-continuous strategy for solving molecular distance geometry problems** [[preprint](https://arxiv.org/abs/2510.19970)]  
    L. D. Secchin, W. da Rocha, M. da Rosa, L. Liberti, C. Lavor  
@@ -35,7 +40,7 @@ author_profile: true
 
 ## Published papers and articles in press
 
-If you are unable to download a paper, please email me.
+If you are unable to download a paper, please [email me](mailto:leonardosecchin@ufes.br).
 
 1. **A new constant-rank-type condition related to MFCQ and local error bounds** [[preprint](https://optimization-online.org/?p=28999)]  
    R. Andreani, M. da Rosa, L. D. Secchin  
