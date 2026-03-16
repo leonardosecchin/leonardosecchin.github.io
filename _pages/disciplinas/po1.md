@@ -84,6 +84,13 @@ author_profile: true
 ### Modelos de Programação Linear
 
 1. Exemplos
+   1. [Problema de alocação](https://en.wikipedia.org/wiki/Generalized_assignment_problem)
+   1. [Problemas de localização de facilidades](https://en.wikipedia.org/wiki/Optimal_facility_location)
+   1. [Problems de empacotamento](https://en.wikipedia.org/wiki/Bin_packing_problem)
+   1. [Problemas de corte de estoque](https://en.wikipedia.org/wiki/Cutting_stock_problem)
+   1. [Problemas de dimensionamento de lotes](https://www.ime.unicamp.br/~mac/db/2011-2S-083552.pdf)
+   1. [Problemas de roteamento de veículos](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
+   1. [Problemas de controle de estoque](https://en.wikipedia.org/wiki/Inventory_theory)
 1. Manipulação de problemas, formas padrão e canônica
 1. Resolução geométrica
 
