@@ -13,7 +13,7 @@ author_profile: true
 
 ## Submitted articles
 
-1. **Parallel Newton methods for the continuous quadratic knapsack problem: A Jacobi and Gauss-Seidel tale** [[preprint]()]  
+1. **Parallel Newton methods for the continuous quadratic knapsack problem: A Jacobi and Gauss-Seidel tale** [[preprint](http://arxiv.org/abs/2603.15910)]  
    L. D. Secchin, P. J. S. Silva  
    2026  
    *Codes available at [github.com/pjssilva/NewtonCQK.jl](https://github.com/pjssilva/NewtonCQK.jl)*
