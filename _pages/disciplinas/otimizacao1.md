@@ -7,7 +7,7 @@ author_profile: true
 
 ## Horários das aulas
 
-- Segundas-feiras de 16:00 as 18:00 (Sala 15 Eixo 3, LABMAT)
+- Segundas-feiras de 16:00 as 18:00 (Sala 07 Eixo 3, LABMAT)
 - Terças-feiras de 12:00 as 14:00 (Sala 16 Eixo 3, LABMAT)
 
 
