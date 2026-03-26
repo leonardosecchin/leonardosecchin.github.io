@@ -42,9 +42,9 @@ author_profile: true
 
 If you are unable to download a paper, please [email me](mailto:leonardosecchin@ufes.br).
 
-1. **A new constant-rank-type condition related to MFCQ and local error bounds** [[preprint](https://optimization-online.org/?p=28999)]  
+1. **A new constant-rank-type condition related to MFCQ and local error bounds** [[doi](https://doi.org/10.1007/s10957-026-02965-9)] [[preprint](https://optimization-online.org/?p=28999)]  
    R. Andreani, M. da Rosa, L. D. Secchin  
-   To appear in Journal of Optimization Theory and Applications, 2026
+   Journal of Optimization Theory and Applications, 209, article number 21, 2026
 
 1. **A relaxed quasinormality condition and the boundedness of dual augmented Lagrangian sequences** [[doi](https://doi.org/10.1137/24M1629237)] [[preprint](https://optimization-online.org/?p=25207)]  
    R. Andreani, G. Haeser, M. L. Schuverdt, L. D. Secchin  
