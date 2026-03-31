@@ -289,6 +289,8 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 ## Códigos em Julia
 
+*Obs: Em novas versões de um pacote, comandos antigos podem deixar de funcionar. Logo, caso algum código apresente erro, pode ser devido à comandos obsoletos. Avise-me para que eu atualize os códigos.*
+
 - [Métodos do gradiente, Newton e Newton globalizado, com funções para testes](/files/otim1/gradiente_newton.zip)
 - ["Pré-implementação" do método de gradientes conjugados para quadráticas, com função para testes](/files/otim1/gc.jl)
 
