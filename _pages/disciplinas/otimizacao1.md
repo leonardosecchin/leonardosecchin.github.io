@@ -304,18 +304,22 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 **Comparação do desempenho de diferentes algoritmos**
 </summary>
 
-*Referência principal:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 6.3 do livro publicado pela Cengage)**
+*Referência 1:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 6.3 do livro publicado pela Cengage)**
+*Referência 2:* Dolan, Elizabeth D.; Moré, Jorge J. Benchmarking optimization software with performance profiles. Math. Program., Ser. A 91: 201-213 (2002). [artigo revista](https://doi.org/10.1007/s101070100263); [PDF acesso aberto](https://arxiv.org/abs/cs/0102001)
 
-- [**ANOTAÇÕES**](/files/topicospo/performance_profiles.pdf) - Perfis de desempenho segundo [Dolan e Moré](https://link.springer.com/article/10.1007/s101070100263) e comentários sobre contagem de tempo de execução
+- [**ANOTAÇÕES**](/files/topicospo/performance_profiles.pdf) - Perfis de desempenho segundo Dolan e Moré e comentários sobre contagem de tempo de execução
   - [BenchmarkProfiles.jl](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl) - gerando perfis de desempenho com o Julia
+- [EXERCÍCIOS](https://drive.google.com/file/d/1VyF2i9UsLfe_OXj2JdBOaRiyYVvvEHH-/view?usp=sharing)
 
 </details>
 
 
 <details>
 <summary markdown="span">
-**Breve introdução à otimização aplicada ao aprendizado de máquina supervisionado (a fazer)**
+**Breve introdução à otimização aplicada ao aprendizado de máquina supervisionado**
 </summary>
+
+- Veja o Tópico 5 [deste link](/topicospo)
 
 </details>
 
