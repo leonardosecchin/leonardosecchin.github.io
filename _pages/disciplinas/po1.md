@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-- Segundas-feiras de 12:00 as 14:00 (Sala 16 Eixo 3, LABMAT)
 - Terças-feiras de 16:00 as 18:00 (Sala 16 Eixo 3, LABMAT)
+- Quintas-feiras de 16:00 as 18:00 (LABMAT)
 
 
 ## [Ementa e programa](https://matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Pesquisa%20Operacional%20I%20-%20DMA11996.pdf)
