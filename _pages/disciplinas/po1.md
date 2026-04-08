@@ -73,7 +73,9 @@ author_profile: true
 <!-- - Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a). -->
 
 
-<!-- ## Listas de exercícios -->
+## Listas de exercícios
+
+- [LISTA 1](https://drive.google.com/file/d/1PHQnQbXEKUNkmivCAZdExqUYPCVvm_a3/view?usp=sharing)
 
 
 <!-- ## Trabalhos computacionais -->
