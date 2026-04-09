@@ -23,7 +23,7 @@ author_profile: true
 ## Textos de referência
 
 - Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021  
-  [[link](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.ch10)]
+  [[link](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119606475)]
 - Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005  
   [[link](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)]
 
