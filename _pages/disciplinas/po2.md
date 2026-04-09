@@ -22,14 +22,20 @@ author_profile: true
 
 ## Textos de referência
 
-- [Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.ch10)
-- Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010
-- Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006
+- Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021  
+  [[link](https://onlinelibrary.wiley.com/doi/10.1002/9781119606475.ch10)]
+- Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005  
+  [[link](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)]
 
 ## Textos complementares
 
-- Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006
-- Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008
+- Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006
+- Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006  
+  [[link versão alternativa](http://profs.ic.uff.br/~yuri/pl/Maculan.pdf)]
+- Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008  
+  [[link 1](https://link.springer.com/book/10.1007/978-0-387-74503-9)] [[link 2](https://grapr.wordpress.com/wp-content/uploads/2011/09/luenberger-linear-and-nonlinear-programming-3e-springer-2008.pdf)]
+- Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010  
+  [[link 1](https://onlinelibrary.wiley.com/doi/book/10.1002/9780471703778)] [[link 2 (1ed de 1977)](https://civil.colorado.edu/~balajir/CVEN5393/lectures/Bazaraa-n-Jarvis.pdf)]
 
 
 ## Canais de acesso

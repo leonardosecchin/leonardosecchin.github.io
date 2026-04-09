@@ -25,18 +25,24 @@ author_profile: true
 
 ## Textos de referência
 
-- [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)
-- [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
-- [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.cengage.com.br/livro/otimizacao-continua/) (uma versão alternativa similar [neste link](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf))
-- [Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008](https://link.springer.com/book/10.1007/978-0-387-74503-9) [link 2](https://grapr.wordpress.com/wp-content/uploads/2011/09/luenberger-linear-and-nonlinear-programming-3e-springer-2008.pdf)
-- [Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006](https://link.springer.com/book/10.1007/978-0-387-40065-5) [link 2](https://www.math.kent.edu/~reichel/courses/optimization/Numerical_Optimization.pdf)
-- [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) (uma versão reformulada deste livro feita em 2019 também está disponível gratuitamente – [em inglês](https://www.pmf.uns.ac.rs/studije/epublikacije/matinf/friedlander_krejic_krklecjerinkic_lectures_fundamentals_numerical_optimization.pdf))
+- Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014  
+  [[link 1](https://www.cengage.com.br/livro/otimizacao-continua/)] [[link 2 (versão alternativa similar)](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf)]
+- Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006  
+  [[link 1](https://link.springer.com/book/10.1007/978-0-387-40065-5)] [[link 2](https://www.math.kent.edu/~reichel/courses/optimization/Numerical_Optimization.pdf)]
+- Martínez, J. M. Otimização prática usando o Lagrangiano aumentado  
+  [[link](http://www.ime.unicamp.br/~martinez/lagraum.pdf)]
 
 
 ## Textos complementares
 
-- [Izmailov, A.; Solodov, M. Otimização vol 1. SBM.](https://loja.sbm.org.br/otimizac-o-volume-1-condicoes-de-otimalidade-elementos-de-analise-convex-e-de-dualidade.html)
-- [Izmailov, A.; Solodov, M. Otimização vol 2. SBM.](https://loja.sbm.org.br/otimizac-o-volume-2-metodos-computacionais.html)
+- Friedlander, A. Elementos de Programação Não-Linear  
+  [[link 1](https://www.ime.unicamp.br/~friedlan/livro.pdf)] [[link 2 (versão reformulada em inglês)](https://www.pmf.uns.ac.rs/studije/epublikacije/matinf/friedlander_krejic_krklecjerinkic_lectures_fundamentals_numerical_optimization.pdf)]
+- Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização  
+  [[link](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)]
+- Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008  
+  [[link 1](https://link.springer.com/book/10.1007/978-0-387-74503-9)] [[link 2](https://grapr.wordpress.com/wp-content/uploads/2011/09/luenberger-linear-and-nonlinear-programming-3e-springer-2008.pdf)]
+- Izmailov, A.; Solodov, M. Otimização vol 1. SBM
+- Izmailov, A.; Solodov, M. Otimização vol 2. SBM
 
 
 ## Canais de acesso
