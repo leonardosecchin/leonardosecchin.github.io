@@ -138,7 +138,7 @@ Há um computador com bom desempenho para realização de pesquisas. O acesso é
 1. Implementação de métodos de pontos interiores para programação linear e quadrática ([ref 1](/topicospo/), [ref 2](/files/ic-tcc/resumoIC_ptoint.pdf)) (pré-requisito: Otimização II)
 <!-- 1. Condições sequenciais de otimalidade em programação não linear ([slides](https://drive.google.com/open?id=1UOQ_CFm3yPapuoWBxL1sKI6LMZClJUpq), [livro SBMAC](http://arquivo.sbmac.org.br/arquivos/notas/livro_83.pdf)) -->
 1. Resolução de problemas quadráticos com variáveis binárias via estratégia "neurodinâmica" ([ref](https://www.researchgate.net/publication/349187795_A_neurodynamic_approach_to_zero-one_quadratic_programming), [artigo revista](https://doi.org/10.1007/s11075-021-01075-z))
-1. Método Lagrangiano aumentado para problemas problemas inteiros com estrutura de blocos ([ref](http://faculty.bicmr.pku.edu.cn/~wenzw/paper/railway_time_table.pdf))
+1. Método Lagrangiano aumentado para problemas inteiros com estrutura de blocos ([ref](http://faculty.bicmr.pku.edu.cn/~wenzw/paper/railway_time_table.pdf))
 
 
 ## Modelos não oficiais em Latex
