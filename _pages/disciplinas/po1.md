@@ -52,7 +52,7 @@ author_profile: true
 - **Prova 1**
   - Conteúdo: Manipulação de problemas. Formas padrão e canônica. Resolução geométrica de PLs. Pontos extremos, soluções básicas viáveis. Método simplex. Método simplex em formato de quadro.
   - Valor: 10,0 pontos
-  - **Data: 30/04 (quinta-feira)**
+  - **Data e local: 30/04 (quinta-feira) no laboratório de matemática computacional (LABMAT)**
 
 <!--- **Trabalho**
   - Veja a [descrição dos trabalhos](https://drive.google.com/file/d/1dU8AoopY72hxBZwnUw0L8GtP0EvA1KNw/view?usp=sharing)
