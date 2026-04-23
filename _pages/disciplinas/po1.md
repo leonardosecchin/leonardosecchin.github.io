@@ -108,16 +108,21 @@ author_profile: true
 1. Pontos extremos e otimalidade
 1. Soluções básicas viáveis
 1. Otimalidade e ilimitabilidade
-1. Simplex em formato de quadro
+1. O método Simplex
+1. Método Simplex em formato de quadro
 
-### Método de duas fases
+### Solução básica inicial e ciclagem
+
+1. Método do grande M (big-M)
+1. Método de duas fases
+1. Prevenção de ciclagem no método Simplex
 
 ### Simplex revisado
 
 ### Aplicações
 
 1. Uso de pacotes para resolução de problemas da literatura
-1. O Problema do Transporte: propriedades e resolução via simplex
+1. O Problema do Transporte: propriedades e resolução via método Simplex
 
 ### Dualidade
 
