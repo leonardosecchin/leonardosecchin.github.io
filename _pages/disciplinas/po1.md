@@ -111,10 +111,11 @@ author_profile: true
 1. O método Simplex
 1. Método Simplex em formato de quadro
 
-### Solução básica inicial e ciclagem
+### Solução básica inicial, degeneração e ciclagem
 
 1. Método do grande M (big-M)
 1. Método de duas fases
+1. Degeneração
 1. Prevenção de ciclagem no método Simplex
 
 ### Simplex revisado
