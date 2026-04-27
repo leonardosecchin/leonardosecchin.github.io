@@ -58,16 +58,24 @@ author_profile: true
 
   - Conteúdo: conceitos básicos, condições de otimalidade para otimização irrestrita, métodos de descida gerais (gradiente, Newton, quase-Newton, método do gradiente espectral)
   - Valor: 10,0 pontos
-  - **Data limite: 12/05/26** (para artigos pode-se dar mais tempo)
+  - **Data limite: 25/05/26**
 
-A avaliação consiste na entrega de exercícios **OU** no estudo de um artigo selecionado. No segundo caso, o(a) estudante deverá fazer uma apresentação oral em sala de aula ou ser arguido pelo professor. Em ambos os casos o(a) deverá reproduzir os testes do artigo na medida do possível. Testes adicionais são bem vindos.
+A avaliação consiste no seguinte:
+  - para estudantes de **matemática**: entrega de lista de exercícios **OU** estudo de artigo selecionado.
+  - para estudantes de **ciência da computação**: entrega de lista de exercícios **OU** trabalho computacional **OU** estudo de artigo selecionado.
+
+No caso de trabalho computacional e artigo, o(a) estudante será arguido pelo professor individualmente. No caso de artigo, o(a) estudante deverá reproduzir os testes do artigo na medida do possível. Testes adicionais são sempre bem vindos. No caso de artigo, caso a qualidade do trabalho realizado seja excepcional, o(a) estudante poderá ser dispensado de novas avaliações.
 
 - **Lista de exercícios**
   - exercícios 2.5, 2.10, 2.12, 2.17, 4.2, 4.8, 6.4, 6.9 do [livro de Ana Friedlander](https://www.ime.unicamp.br/~friedlan/livro.pdf)
   - exercícios 3, 4, 6, 16, 19 da Lista 1
   - exercícios 3, 5, 9(b-e) da Lista 3
 
-- **Artigos selecionados** (caso não consiga baixar, envie email para secchinleo@gmail.com)
+- **Trabalhos computacionais**
+  1. Método do gradiente espectral: [descrição](https://drive.google.com/file/d/1peXtd38yV7RDbVAqRp0NFCEu06RCLoJI/view?usp=sharing); [código base](/files/otim1/gradiente_newton.zip)
+  1. Método dos gradientes conjugados: [descrição](https://drive.google.com/file/d/1MnXOSK4mQs5rVvqPdjBzfA6tTMYreLOq/view?usp=sharing); [código base](/files/otim1/gc.jl)
+
+- **Artigos selecionados** (caso não consiga baixar, envie email para secchinleo@gmail.com solicitando o PDF)
   1. [Liang, Xu, Bao, Quan, Ji. Barzilai–Borwein-based adaptive learning rate for deep learning. Pattern Recognition Letters 128:197-203, 2019](https://doi.org/10.1016/j.patrec.2019.08.029)  
   Este artigo apresenta um método tipo gradiente espectral (também chamado de Barzilai-Borwein na literatura) para treinamento de redes neurais no contexto do aprendizado de máquina supervisionado.
 
@@ -136,7 +144,7 @@ A avaliação consiste na entrega de exercícios **OU** no estudo de um artigo s
 
 - Método dos gradientes conjugados: [descrição](https://drive.google.com/file/d/1MnXOSK4mQs5rVvqPdjBzfA6tTMYreLOq/view?usp=sharing); [código base](/files/otim1/gc.jl)
 - Método do gradiente espectral: [descrição](https://drive.google.com/file/d/1peXtd38yV7RDbVAqRp0NFCEu06RCLoJI/view?usp=sharing); [código base](/files/otim1/gradiente_newton.zip)
-- Quase-Newton (BFGS) globalizado: [descrição](https://drive.google.com/file/d/1v6_Ka1Tj5MJs2qiwNSsZ7ICzbAXA0fMz/view?usp=sharing); [código base](/files/otim1/gradiente_newton.zip)
+<!-- - Quase-Newton (BFGS) globalizado: [descrição](https://drive.google.com/file/d/1v6_Ka1Tj5MJs2qiwNSsZ7ICzbAXA0fMz/view?usp=sharing); [código base](/files/otim1/gradiente_newton.zip) -->
 
 
 ## Material
