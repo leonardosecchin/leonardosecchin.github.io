@@ -58,19 +58,18 @@ author_profile: true
 
   - Conteúdo: conceitos básicos, condições de otimalidade para otimização irrestrita, métodos de descida gerais (gradiente, Newton, quase-Newton, método do gradiente espectral)
   - Valor: 10,0 pontos
-  - **Data limite: 11/05/26**
+  - **Data limite: 12/05/26** (para artigos pode-se dar mais tempo)
 
-**TAREFAS A SEREM ENTREGUES**
-
-A avaliação consiste na entrega de exercícios OU a apresentação de um artigo selecionado.
+A avaliação consiste na entrega de exercícios **OU** no estudo de um artigo selecionado. No segundo caso, o(a) estudante deverá fazer uma apresentação oral em sala de aula ou ser arguido pelo professor. Em ambos os casos o(a) deverá reproduzir os testes do artigo na medida do possível. Testes adicionais são bem vindos.
 
 - **Lista de exercícios**
   - exercícios 2.5, 2.10, 2.12, 2.17, 4.2, 4.8, 6.4, 6.9 do [livro de Ana Friedlander](https://www.ime.unicamp.br/~friedlan/livro.pdf)
   - exercícios 3, 4, 6, 16, 19 da Lista 1
   - exercícios 3, 5, 9(b-e) da Lista 3
 
-- **Artigos selecionados** (caso não consiga baixar, envie-me email)
-  - [Liang, Xu, Bao, Quan, Ji. Barzilai–Borwein-based adaptive learning rate for deep learning. Pattern Recognition Letters 128:197-203, 2019.](https://doi.org/10.1016/j.patrec.2019.08.029)
+- **Artigos selecionados** (caso não consiga baixar, envie email para secchinleo@gmail.com)
+  1. [Liang, Xu, Bao, Quan, Ji. Barzilai–Borwein-based adaptive learning rate for deep learning. Pattern Recognition Letters 128:197-203, 2019](https://doi.org/10.1016/j.patrec.2019.08.029)  
+  Este artigo apresenta um método tipo gradiente espectral (também chamado de Barzilai-Borwein na literatura) para treinamento de redes neurais no contexto do aprendizado de máquina supervisionado.
 
 <!--- **Avaliação 1**
   - **Lista de exercícios**
