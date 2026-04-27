@@ -24,19 +24,19 @@ author_profile: true
 
 ## Textos de referência
 
-- Friedlander, A. Elementos de Programação Não-Linear  
+- Friedlander, A. Elementos de Programação Não-Linear
   [[link 1](https://www.ime.unicamp.br/~friedlan/livro.pdf)] [[link 2 (versão reformulada em inglês)](https://www.pmf.uns.ac.rs/studije/epublikacije/matinf/friedlander_krejic_krklecjerinkic_lectures_fundamentals_numerical_optimization.pdf)]
-- Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014  
+- Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014
   [[link 1](https://www.cengage.com.br/livro/otimizacao-continua/)] [[link 2 (versão alternativa similar)](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf)]
 
 
 ## Textos complementares
 
-- Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008  
+- Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008
   [[link 1](https://link.springer.com/book/10.1007/978-0-387-74503-9)] [[link 2](https://grapr.wordpress.com/wp-content/uploads/2011/09/luenberger-linear-and-nonlinear-programming-3e-springer-2008.pdf)]
-- Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização  
+- Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização
   [[link](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)]
-- Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006  
+- Nocedal, J.; Wright, S. J. Numerical optimization. Springer, 2006
   [[link 1](https://link.springer.com/book/10.1007/978-0-387-40065-5)] [[link 2](https://www.math.kent.edu/~reichel/courses/optimization/Numerical_Optimization.pdf)]
 - Izmailov, A.; Solodov, M. Otimização vol 1. SBM
 
@@ -53,6 +53,24 @@ author_profile: true
 
 
 ## Avaliações
+
+### Avaliação 1
+
+  - Conteúdo: conceitos básicos, condições de otimalidade para otimização irrestrita, métodos de descida gerais (gradiente, Newton, quase-Newton, método do gradiente espectral)
+  - Valor: 10,0 pontos
+  - **Data limite: 11/05/26**
+
+**TAREFAS A SEREM ENTREGUES**
+
+A avaliação consiste na entrega de exercícios OU a apresentação de um artigo selecionado.
+
+- **Lista de exercícios**
+  - exercícios 2.5, 2.10, 2.12, 2.17, 4.2, 4.8, 6.4, 6.9 do [livro de Ana Friedlander](https://www.ime.unicamp.br/~friedlan/livro.pdf)
+  - exercícios 3, 4, 6, 16, 19 da Lista 1
+  - exercícios 3, 5, 9(b-e) da Lista 3
+
+- **Artigos selecionados** (caso não consiga baixar, envie-me email)
+  - [Liang, Xu, Bao, Quan, Ji. Barzilai–Borwein-based adaptive learning rate for deep learning. Pattern Recognition Letters 128:197-203, 2019.](https://doi.org/10.1016/j.patrec.2019.08.029)
 
 <!--- **Avaliação 1**
   - **Lista de exercícios**
@@ -142,7 +160,7 @@ author_profile: true
 **Otimização sem restrições**
 </summary>
 
-*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 2)**  
+*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 2)**
 *Referência complementar:* [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf) **(capítulo 2)**
 
 - [**ANOTAÇÕES** - Otimização sem restrições](/files/otim1/2.Otimizacao_sem_restricoes.pdf)
@@ -155,7 +173,7 @@ author_profile: true
 **Convexidade**
 </summary>
 
-*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 3)**  
+*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 3)**
 *Referência complementar:* [Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014](https://www.ime.unicamp.br/~sandra/MS629/handouts/livro28jul.pdf) **(capítulo 3)**
 
 - [**ANOTAÇÕES** - Convexidade](/files/otim1/3.Convexidade.pdf)
@@ -182,7 +200,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 **Métodos de descida gerais**
 </summary>
 
-   *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seção 6.1)**  
+   *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seção 6.1)**
    *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.1)**
 
    - [**ANOTAÇÕES** - Métodos de descida gerais](/files/otim1/4.1.Metodos_descida_gerais.pdf)
@@ -197,7 +215,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 **Método de Newton**
 </summary>
 
-   *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 5, seção 6.2)**  
+   *Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(capítulo 5, seção 6.2)**
    *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.1)**
 
    - [**ANOTAÇÕES** - Método de Newton](/files/otim1/4.2.Metodo_de_Newton.pdf)
@@ -214,8 +232,8 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 **Métodos quase-Newton**
 </summary>
 
-   *Referência principal:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.3)**  
-   *Referência complementar 1:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seção 6.1)**  
+   *Referência principal:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf) **(seção 6.3)**
+   *Referência complementar 1:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf) **(seção 6.1)**
    *Referência complementar 2:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 5.4 do livro publicado pela Cengage)**
 
    - [**ANOTAÇÕES** - Métodos quase-Newton tipo secante](/files/otim1/4.7.Quase-Newton.pdf)
@@ -264,7 +282,7 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 **Métodos para otimização com restrições lineares**
 </summary>
 
-*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf)  
+*Referência principal:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf)
 
 - [**ANOTAÇÕES** - Minimização com restrições lineares de igualdade (método do gradiente projetado para restrições lineares)](/files/otim1/6.1.Min_restricoes_lineares_igualdade.pdf)
 - [**ANOTAÇÕES** - Minimização com restrições lineares de desigualdade; método das restrições ativas](/files/otim1/6.2.Min_restricoes_lineares_desig-restricoes_ativas.pdf)
@@ -277,8 +295,8 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 **Métodos para otimização com restrições gerais**
 </summary>
 
-*Referência principal 1:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf)  
-*Referência principal 2:* [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf) **(capítulo 2)**  
+*Referência principal 1:* [Friedlander, A. Elementos de Programação Não-Linear](https://www.ime.unicamp.br/~friedlan/livro.pdf)
+*Referência principal 2:* [Martínez, J. M. Otimização prática usando o Lagrangiano aumentado](http://www.ime.unicamp.br/~martinez/lagraum.pdf) **(capítulo 2)**
 *Referência complementar:* [Martínez, J. M.; Santos, S. A. Métodos computacionais de otimização](https://www.ime.unicamp.br/~sandra/MT601/handouts/MCDO_set2020.pdf)
 
 - [**ANOTAÇÕES** - Penalização externa](/files/otim1/6.3.Penalizacao_externa.pdf)
