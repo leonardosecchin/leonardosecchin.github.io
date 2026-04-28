@@ -77,7 +77,7 @@ No caso de trabalho computacional e artigo, o(a) estudante será arguido pelo pr
 
 - **Artigos selecionados** (caso não consiga baixar, envie email para secchinleo@gmail.com solicitando o PDF)
   1. [Liang, Xu, Bao, Quan, Ji. Barzilai–Borwein-based adaptive learning rate for deep learning. Pattern Recognition Letters 128:197-203, 2019](https://doi.org/10.1016/j.patrec.2019.08.029)  
-  Este artigo apresenta um método tipo gradiente espectral (também chamado de Barzilai-Borwein na literatura) para treinamento de redes neurais no contexto do aprendizado de máquina supervisionado.
+  Este artigo apresenta um método tipo gradiente espectral (também chamado de Barzilai-Borwein na literatura) para treinamento de redes neurais no contexto do aprendizado de máquina supervisionado. Caso use o Julia, *datasets* para aprendizado de máquina podem ser obtidos via os pacotes [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl) ou [OpenML.jl](https://github.com/JuliaAI/OpenML.jl).
   
   1. [Luengo, Raydan. Gradient method with dynamical retards for large-scale optimization problems. Eletronic Transactions on Numerical Analysis 16:186-193, 2003](https://etna.ricam.oeaw.ac.at/volumes/2001-2010/vol16/abstract.php?pages=186-193)  
   Em análise. Descrição em breve.
