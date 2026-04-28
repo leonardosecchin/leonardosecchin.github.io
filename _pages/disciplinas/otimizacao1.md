@@ -89,7 +89,7 @@ No caso de trabalho computacional e artigo, o(a) estudante será arguido pelo pr
   Em análise. Descrição em breve.
   
   1. [Luengo, Raydan, Glunt, Hayden. Preconditioned spectral gradient method. Numerical Algorithms 30:241–258, 2002](https://doi.org/10.1023/A:1020181927999)  
-  Neste artigo é proposto uma modificação do método do gradiente espectral em que a direção do gradiente é "corrigida" por uma aproximação da Hessiana da função objetivo. **É obrigatório reproduzir apenas os testes da seção 4.1**, vujos problemas estão disponíveis no Julia via pacote `NLSProblems.jl`. A correspondência entre os problemas da tabela e os códigos do pacote podem ser consultadas [neste link](https://jso.dev/NLSProblems.jl/stable/reference/).
+  Neste artigo é proposto uma modificação do método do gradiente espectral em que a direção do gradiente é "corrigida" por uma aproximação da Hessiana da função objetivo. **É obrigatório reproduzir apenas os testes da seção 4.1**, cujos problemas estão disponíveis no Julia via pacote [`NLSProblems.jl`](https://github.com/JuliaSmoothOptimizers/NLSProblems.jl). A correspondência entre os problemas da Tabela 1 do artigo e os códigos do pacote pode ser consultada [neste link](https://jso.dev/NLSProblems.jl/stable/reference/).
 
 <!--- **Avaliação 1**
   - **Lista de exercícios**
