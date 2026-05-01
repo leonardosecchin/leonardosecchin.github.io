@@ -58,18 +58,38 @@ author_profile: true
 
   - Conteúdo: conceitos básicos, condições de otimalidade para otimização irrestrita, métodos de descida gerais (gradiente, Newton, quase-Newton, método do gradiente espectral)
   - Valor: 10,0 pontos
-  - **Data limite: 12/05/26** (para artigos pode-se dar mais tempo)
+  - **Data limite: 25/05/26**
 
-A avaliação consiste na entrega de exercícios **OU** no estudo de um artigo selecionado. No segundo caso, o(a) estudante deverá fazer uma apresentação oral em sala de aula ou ser arguido pelo professor. Em ambos os casos o(a) deverá reproduzir os testes do artigo na medida do possível. Testes adicionais são bem vindos.
+A avaliação consiste no seguinte:
+  - para estudantes de **matemática**: entrega de lista de exercícios **OU** estudo de artigo selecionado.
+  - para estudantes de **ciência da computação**: entrega de lista de exercícios **OU** trabalho computacional **OU** estudo de artigo selecionado.
+
+No caso de trabalho computacional e artigo, o(a) estudante será arguido pelo professor individualmente. No caso de artigo, o(a) estudante deverá reproduzir os testes do artigo na medida do possível. Testes adicionais são sempre bem vindos. No caso de artigo, caso a qualidade do trabalho realizado seja excepcional, o(a) estudante poderá ser dispensado de novas avaliações. **Não é preciso estudar/reproduzir os teoremas de convergência**.
 
 - **Lista de exercícios**
   - exercícios 2.5, 2.10, 2.12, 2.17, 4.2, 4.8, 6.4, 6.9 do [livro de Ana Friedlander](https://www.ime.unicamp.br/~friedlan/livro.pdf)
   - exercícios 3, 4, 6, 16, 19 da Lista 1
   - exercícios 3, 5, 9(b-e) da Lista 3
 
-- **Artigos selecionados** (caso não consiga baixar, envie email para secchinleo@gmail.com)
+- **Trabalhos computacionais**
+  1. Método do gradiente espectral: [descrição](https://drive.google.com/file/d/1peXtd38yV7RDbVAqRp0NFCEu06RCLoJI/view?usp=sharing); [código base](/files/otim1/gradiente_newton.zip)
+  1. Método dos gradientes conjugados: [descrição](https://drive.google.com/file/d/1MnXOSK4mQs5rVvqPdjBzfA6tTMYreLOq/view?usp=sharing); [código base](/files/otim1/gc.jl)
+
+- **Artigos selecionados** (caso não consiga baixar, envie email para secchinleo@gmail.com solicitando o PDF)
   1. [Liang, Xu, Bao, Quan, Ji. Barzilai–Borwein-based adaptive learning rate for deep learning. Pattern Recognition Letters 128:197-203, 2019](https://doi.org/10.1016/j.patrec.2019.08.029)  
-  Este artigo apresenta um método tipo gradiente espectral (também chamado de Barzilai-Borwein na literatura) para treinamento de redes neurais no contexto do aprendizado de máquina supervisionado.
+  Este artigo apresenta um método tipo gradiente espectral (também chamado de Barzilai-Borwein na literatura) para treinamento de redes neurais no contexto do aprendizado de máquina supervisionado. Caso use o Julia, *datasets* para aprendizado de máquina podem ser obtidos via os pacotes [`MLDatasets.jl`](https://github.com/JuliaML/MLDatasets.jl) ou [`OpenML.jl`](https://github.com/JuliaAI/OpenML.jl).
+  
+  1. [Luengo, Raydan. Gradient method with dynamical retards for large-scale optimization problems. Eletronic Transactions on Numerical Analysis 16:186-193, 2003](https://etna.ricam.oeaw.ac.at/volumes/2001-2010/vol16/abstract.php?pages=186-193)  
+  Em análise. Descrição em breve.
+  
+  1. [Dai, Yuan, Yuan. Modified Two-Point Stepsize Gradient Methods for Unconstrained Optimization. Computational Optimization and Applications 22:103-109, 2002](https://doi.org/10.1023/A:1014838419611)  
+  Em análise. Descrição em breve.
+  
+  1. [Martínez, Pilotta, Raydan. Spectral Gradient Methods for Linearly Constrained Optimization. Journal of Optimization Theory and Applications 125:629–651, 2005](https://doi.org/10.1007/s10957-005-2093-3)  
+  Em análise. Descrição em breve.
+  
+  1. [Luengo, Raydan, Glunt, Hayden. Preconditioned spectral gradient method. Numerical Algorithms 30:241–258, 2002](https://doi.org/10.1023/A:1020181927999)  
+  Neste artigo é proposto uma modificação do método do gradiente espectral em que a direção do gradiente é "corrigida" por uma aproximação da Hessiana da função objetivo. **É obrigatório reproduzir apenas os testes da seção 4.1**, cujos problemas estão disponíveis no Julia via pacote [`NLSProblems.jl`](https://github.com/JuliaSmoothOptimizers/NLSProblems.jl). A correspondência entre os problemas da Tabela 1 do artigo e os códigos do pacote pode ser consultada [neste link](https://jso.dev/NLSProblems.jl/stable/reference/).
 
 <!--- **Avaliação 1**
   - **Lista de exercícios**
@@ -136,7 +156,7 @@ A avaliação consiste na entrega de exercícios **OU** no estudo de um artigo s
 
 - Método dos gradientes conjugados: [descrição](https://drive.google.com/file/d/1MnXOSK4mQs5rVvqPdjBzfA6tTMYreLOq/view?usp=sharing); [código base](/files/otim1/gc.jl)
 - Método do gradiente espectral: [descrição](https://drive.google.com/file/d/1peXtd38yV7RDbVAqRp0NFCEu06RCLoJI/view?usp=sharing); [código base](/files/otim1/gradiente_newton.zip)
-- Quase-Newton (BFGS) globalizado: [descrição](https://drive.google.com/file/d/1v6_Ka1Tj5MJs2qiwNSsZ7ICzbAXA0fMz/view?usp=sharing); [código base](/files/otim1/gradiente_newton.zip)
+<!-- - Quase-Newton (BFGS) globalizado: [descrição](https://drive.google.com/file/d/1v6_Ka1Tj5MJs2qiwNSsZ7ICzbAXA0fMz/view?usp=sharing); [código base](/files/otim1/gradiente_newton.zip) -->
 
 
 ## Material
