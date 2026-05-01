@@ -26,7 +26,7 @@ author_profile: true
 1. **A hybrid combinatorial-continuous strategy for solving molecular distance geometry problems** [[preprint](https://arxiv.org/abs/2510.19970)]  
    L. D. Secchin, W. da Rocha, M. da Rosa, L. Liberti, C. Lavor  
    2025  
-   *Codes available at [github.com/leonardosecchin/MDGP](https://github.com/leonardosecchin/MDGP)*
+   *Codes available at [github.com/leonardosecchin/MDGP.jl](https://github.com/leonardosecchin/MDGP.jl)*
 
 1. **On the boundedness of multipliers in augmented Lagrangian methods for mathematical programs with complementarity constraints** [[preprint](https://optimization-online.org/?p=31446)]  
    R. Andreani, M. da Rosa, L. D. Secchin  

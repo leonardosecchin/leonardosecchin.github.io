@@ -11,7 +11,7 @@ Sequential and parallel semi-smooth Newton method for the Continuous Quadratic K
 
 1. **MDGP**  
 Multistart strategy to solve the Molecular Distance Geometry Problem (MDGP) with interval data.  
-**URL:** <https://github.com/leonardosecchin/MDGP>
+**URL:** <https://github.com/leonardosecchin/MDGP.jl>
 
 1. **SimpleAL**  
 Simple safeguarded augmented Lagrangian method for solving nonlinear programming problems, including those with complementarity constraints.  
