@@ -356,10 +356,19 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 <details>
 <summary markdown="span">
-**Outros**
+**Introdução à complexidade de algoritmos**
 </summary>
 
-- [**ANOTAÇÕES** - Método do gradiente com passo constante e introdução à complexidade de algoritmos](/files/otim1/4.9.Gradiente_passo_cte.pdf)
+- [**ANOTAÇÕES** - Método do gradiente com passo constante e sua análise de complexidade](/files/otim1/4.9.Gradiente_passo_cte.pdf)
+
+</details>
+
+
+<details>
+<summary markdown="span">
+**Método do gradiente projetado para restrições convexas quaisquer**
+</summary>
+
 - [**ANOTAÇÕES** - Método do gradiente projetado para restrições convexas quaisquer](/files/otim1/6.9.Gradiente_projetado.pdf)
 
 </details>
