@@ -78,18 +78,18 @@ No caso de trabalho computacional e artigo, o(a) estudante será arguido pelo pr
 - **Artigos selecionados** (caso não consiga baixar, envie email para secchinleo@gmail.com solicitando o PDF)
   1. [Liang, Xu, Bao, Quan, Ji. Barzilai–Borwein-based adaptive learning rate for deep learning. Pattern Recognition Letters 128:197-203, 2019](https://doi.org/10.1016/j.patrec.2019.08.029)  
   Este artigo apresenta um método tipo gradiente espectral (também chamado de Barzilai-Borwein na literatura) para treinamento de redes neurais no contexto do aprendizado de máquina supervisionado. Caso use o Julia, *datasets* para aprendizado de máquina podem ser obtidos via os pacotes [`MLDatasets.jl`](https://github.com/JuliaML/MLDatasets.jl) ou [`OpenML.jl`](https://github.com/JuliaAI/OpenML.jl).
-  
+
   1. [Luengo, Raydan. Gradient method with dynamical retards for large-scale optimization problems. Eletronic Transactions on Numerical Analysis 16:186-193, 2003](https://etna.ricam.oeaw.ac.at/volumes/2001-2010/vol16/abstract.php?pages=186-193)  
-  Em análise. Descrição em breve.
-  
+  Este artigo apresenta um método tipo gradiente com passos de retardo ao estilo do gradiente espectral. Os problemas da Tabela 4.1 do artigo estão disponíveis no Julia via pacote [`NLSProblems.jl`](https://github.com/JuliaSmoothOptimizers/NLSProblems.jl). A correspondência entre esses problemas e os códigos do pacote pode ser consultada [neste link](https://jso.dev/NLSProblems.jl/stable/reference/) (busque pelo nome do problema).
+
   1. [Dai, Yuan, Yuan. Modified Two-Point Stepsize Gradient Methods for Unconstrained Optimization. Computational Optimization and Applications 22:103-109, 2002](https://doi.org/10.1023/A:1014838419611)  
-  Em análise. Descrição em breve.
-  
+  Este artigo descreve a interpolação quadrática como vista em aula e propõe ainda uma interpolação cúbica para cálculo do tamanho do passo no método do gradiente. Essas técnicas são combinadas em uma busca linear não monótona usando o máximo. Os problemas da Tabela 1 do artigo estão disponíveis no Julia via pacote [`NLSProblems.jl`](https://github.com/JuliaSmoothOptimizers/NLSProblems.jl). A correspondência entre esses problemas e os códigos do pacote pode ser consultada [neste link](https://jso.dev/NLSProblems.jl/stable/reference/) (busque pelo nome do problema).
+
   1. [Martínez, Pilotta, Raydan. Spectral Gradient Methods for Linearly Constrained Optimization. Journal of Optimization Theory and Applications 125:629–651, 2005](https://doi.org/10.1007/s10957-005-2093-3)  
-  Em análise. Descrição em breve.
-  
+  Este artigo apresenta um método gradiente espectral para minimização de funções sujeitas à restrições lineares. O problema usado nos testes pode ser implementado usando o pacote de modelagem [`JuMP.jl`](https://github.com/jump-dev/JuMP.jl), e convertido para a estrutura [`NLPModels.jl`](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) através do pacote [`NLPModelsJuMP.jl`](https://github.com/JuliaSmoothOptimizers/NLPModelsJuMP.jl) como feito no curso (veja [tutorial](https://github.com/leonardosecchin/tutorial_Julia)). Desta forma, derivadas são calculadas automaticamente.
+
   1. [Luengo, Raydan, Glunt, Hayden. Preconditioned spectral gradient method. Numerical Algorithms 30:241–258, 2002](https://doi.org/10.1023/A:1020181927999)  
-  Neste artigo é proposto uma modificação do método do gradiente espectral em que a direção do gradiente é "corrigida" por uma aproximação da Hessiana da função objetivo. **É obrigatório reproduzir apenas os testes da seção 4.1**, cujos problemas estão disponíveis no Julia via pacote [`NLSProblems.jl`](https://github.com/JuliaSmoothOptimizers/NLSProblems.jl). A correspondência entre os problemas da Tabela 1 do artigo e os códigos do pacote pode ser consultada [neste link](https://jso.dev/NLSProblems.jl/stable/reference/).
+  Neste artigo é proposto uma modificação do método do gradiente espectral em que a direção do gradiente é "corrigida" por uma aproximação da Hessiana da função objetivo. É obrigatório reproduzir **apenas** os testes da seção 4.1, cujos problemas estão disponíveis no Julia via pacote [`NLSProblems.jl`](https://github.com/JuliaSmoothOptimizers/NLSProblems.jl). A correspondência entre os problemas da Tabela 1 do artigo e os códigos do pacote pode ser consultada [neste link](https://jso.dev/NLSProblems.jl/stable/reference/) (busque pelo nome do problema).
 
 <!--- **Avaliação 1**
   - **Lista de exercícios**
