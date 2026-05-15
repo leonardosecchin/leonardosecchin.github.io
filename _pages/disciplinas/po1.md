@@ -85,10 +85,14 @@ author_profile: true
 
 ## Listas de exercícios
 
-- [LISTA 1](https://drive.google.com/file/d/1PHQnQbXEKUNkmivCAZdExqUYPCVvm_a3/view?usp=sharing)
-
+- [LISTA 1 - Método Simplex](https://drive.google.com/file/d/1PHQnQbXEKUNkmivCAZdExqUYPCVvm_a3/view?usp=sharing)
+- [LISTA 2 - Métodos do grande M e de duas fases](https://drive.google.com/file/d/1gIVb7RSbgA37ymG2_kTotjm55DD4DNHm/view?usp=sharing)
 
 ## Conteúdo
+
+A **referência** para a maioria dos tópicos a seguir é *Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*.
+
+**ATENÇÃO:** As seções referem-se à 4a edição, cujo sumário pode ser acessado [neste link](https://drive.google.com/file/d/1w8eFbl2KhIDRf8yWByORFz-4yTiBL8K9/view?usp=sharing). **Caso tenha outra edição, confira os títulos.**
 
 ### Modelos de Programação Linear
 
@@ -100,37 +104,40 @@ author_profile: true
    1. [Problemas de dimensionamento de lotes](https://www.ime.unicamp.br/~mac/db/2011-2S-083552.pdf)
    1. [Problemas de roteamento de veículos](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
    1. [Problemas de controle de estoque](https://en.wikipedia.org/wiki/Inventory_theory)
-1. Manipulação de problemas, formas padrão e canônica
-1. Resolução geométrica
+1. *(seção 1.1)* Manipulação de problemas, formas padrão e canônica
+1. *(seção 1.3)* Resolução geométrica
 
 ### O Método Simplex
 
-1. Pontos extremos e otimalidade
-1. Soluções básicas viáveis
-1. Otimalidade e ilimitabilidade
-1. O método Simplex
-1. Método Simplex em formato de quadro
+1. *(seção 3.1)* Pontos extremos e otimalidade
+1. *(seção 3.2)* Soluções básicas viáveis
+1. *(seções 3.3 a 3.6)* Otimalidade e ilimitabilidade
+1. *(seção 3.7)* O método Simplex
+1. *(seção 3.8)* Método Simplex em formato de quadro
 
 ### Solução básica inicial, degeneração e ciclagem
 
-1. Método do grande M (big-M)
-1. Método de duas fases
-1. Degeneração
-1. Prevenção de ciclagem no método Simplex
+1. *(seção 4.1)* Solução básica inicial
+1. *(seção 4.3)* Método do grande M (big-M)
+1. *(seção 4.2)* Método de duas fases
+1. *(seção 4.6)* Degeneração e ciclagem no método Simplex
 
 ### Simplex revisado
 
-### Aplicações
-
-1. Uso de pacotes para resolução de problemas da literatura
-1. O Problema do Transporte: propriedades e resolução via método Simplex
+1. *(seção 5.1)* O método Simplex revisado
 
 ### Dualidade
 
-1. Problema dual e relações com o problema primal
-1. O método simplex dual
+1. *(seção 6.1)* O problema dual
+1. *(seção 6.2)* Relações entre os problemas primal e dual
+1. *(seção 6.4)* O método Simplex dual
 
 ### Análise de Pós-Otimização
 
-1. Análise de sensibilidade
-1. Análise paramétrica
+1. *(seção 6.7)* Análise de sensibilidade
+1. *(seção 6.8)* Análise paramétrica
+
+### Aplicações
+
+1. *(seções 10.1 a 10.6)* O Problema do Transporte: propriedades e resolução via método Simplex
+1. Uso de pacotes para resolução de problemas da literatura
