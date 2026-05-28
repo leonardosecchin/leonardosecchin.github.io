@@ -16,7 +16,7 @@ author_profile: true
 1. **A flexible block coordinate descent method for unconstrained optimization under Hölder continuity** [[preprint](https://optimization-online.org/?p=34281)]  
    V. S. Amaral, R. Andreani, L. D. Secchin, G. N. Silva  
    2026  
-   *Codes available at [github.com/leonardosecchin/BCD](https://github.com/leonardosecchin/BCD)*
+   *Codes available at [github.com/leonardosecchin/BCD.jl](https://github.com/leonardosecchin/BCD.jl)*
 
 1. **Parallel Newton methods for the continuous quadratic knapsack problem: A Jacobi and Gauss-Seidel tale** [[preprint](http://arxiv.org/abs/2603.15910)]  
    L. D. Secchin, P. J. S. Silva  
