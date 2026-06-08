@@ -147,7 +147,7 @@ A **referência** para a maioria dos tópicos a seguir é *Bazaraa, M. S.; Jarvi
 
 <details>
 <summary markdown="span">
-**Simplex revisado*
+**Simplex revisado**
 </summary>
 
 1. *(seção 5.1)* O método Simplex revisado
