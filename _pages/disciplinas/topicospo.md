@@ -146,7 +146,7 @@ Ementa variável.
 1. [Convergência do método do gradiente estocástico para funções convexas](/files/topicospo/ML_5-convergencia_sg.pdf)
 1. [Treinamento de redes neurais multicamadas tipo feedfoward, backpropagation](/files/topicospo/ML_6-treinamento.pdf)
 1. Experimentos numéricos
-   - [Diferença entre gradiente incremental e estocástico](/files/topicospo/ionosphere.zip)
+   - [Diferença entre gradiente incremental e estocástico](/files/topicospo/ML_ionosphere.zip)
    - Pacote com *datasets* prontos para Julia: [MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl)
    - [Exemplo de uso do **Flux** no *dataset* MNIST (código)](/files/topicospo/ex_flux.jl)
    - Sobre o *dataset* MNIST: [wikipedia](https://en.wikipedia.org/wiki/MNIST_database); [página do autor](http://yann.lecun.com/exdb/mnist/); [estatísticas dos dados](https://knowyourdata-tfds.withgoogle.com/#tab=STATS&dataset=mnist)
