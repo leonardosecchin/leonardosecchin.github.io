@@ -99,7 +99,10 @@ A **referência** para a maioria dos tópicos a seguir é *Bazaraa, M. S.; Jarvi
 
 **ATENÇÃO:** As seções referem-se à 4a edição, cujo sumário pode ser acessado [neste link](https://drive.google.com/file/d/1w8eFbl2KhIDRf8yWByORFz-4yTiBL8K9/view?usp=sharing). **Caso tenha outra edição, confira os títulos.**
 
-### Modelos de Programação Linear
+<details>
+<summary markdown="span">
+**Modelos de Programação Linear**
+</summary>
 
 1. Exemplos
    1. [Problema de alocação](https://en.wikipedia.org/wiki/Generalized_assignment_problem)
@@ -112,7 +115,13 @@ A **referência** para a maioria dos tópicos a seguir é *Bazaraa, M. S.; Jarvi
 1. *(seção 1.1)* Manipulação de problemas, formas padrão e canônica
 1. *(seção 1.3)* Resolução geométrica
 
-### O Método Simplex
+</details>
+
+
+<details>
+<summary markdown="span">
+**O Método Simplex**
+</summary>
 
 1. *(seção 3.1)* Pontos extremos e otimalidade
 1. *(seção 3.2)* Soluções básicas viáveis
@@ -120,29 +129,62 @@ A **referência** para a maioria dos tópicos a seguir é *Bazaraa, M. S.; Jarvi
 1. *(seção 3.7)* O método Simplex
 1. *(seção 3.8)* Método Simplex em formato de quadro
 
-### Solução básica inicial, degeneração e ciclagem
+</details>
+
+
+<details>
+<summary markdown="span">
+**Solução básica inicial, degeneração e ciclagem**
+</summary>
 
 1. *(seção 4.1)* Solução básica inicial
 1. *(seção 4.3)* Método do grande M (big-M)
 1. *(seção 4.2)* Método de duas fases
 1. *(seção 4.6)* Degeneração e ciclagem no método Simplex
 
-### Simplex revisado
+</details>
+
+
+<details>
+<summary markdown="span">
+**Simplex revisado*
+</summary>
 
 1. *(seção 5.1)* O método Simplex revisado
 
-### Dualidade
+</details>
+
+
+<details>
+<summary markdown="span">
+**Dualidade**
+</summary>
 
 1. *(seção 6.1)* O problema dual
 1. *(seção 6.2)* Relações entre os problemas primal e dual
 1. *(seção 6.4)* O método Simplex dual
 
-### Análise de Pós-Otimização
+</details>
+
+
+<details>
+<summary markdown="span">
+**Análise de Pós-Otimização**
+</summary>
 
 1. *(seção 6.7)* Análise de sensibilidade
 1. *(seção 6.8)* Análise paramétrica
 
-### Aplicações
+</details>
+
+
+<details>
+<summary markdown="span">
+**Aplicações**
+</summary>
 
 1. *(seções 10.1 a 10.6)* O Problema do Transporte: propriedades e resolução via método Simplex
 1. Uso de pacotes para resolução de problemas da literatura
+
+</details>
+
