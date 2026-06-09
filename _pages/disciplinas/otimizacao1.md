@@ -331,31 +331,6 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 <details>
 <summary markdown="span">
-**Comparação do desempenho de diferentes algoritmos**
-</summary>
-
-*Referência 1:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 6.3 do livro publicado pela Cengage)**
-*Referência 2:* Dolan, Elizabeth D.; Moré, Jorge J. Benchmarking optimization software with performance profiles. Math. Program., Ser. A 91: 201-213 (2002). [artigo revista](https://doi.org/10.1007/s101070100263); [PDF acesso aberto](https://arxiv.org/abs/cs/0102001)
-
-- [**ANOTAÇÕES**](/files/topicospo/performance_profiles.pdf) - Perfis de desempenho segundo Dolan e Moré e comentários sobre contagem de tempo de execução
-  - [BenchmarkProfiles.jl](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl) - gerando perfis de desempenho com o Julia
-- [EXERCÍCIOS](https://drive.google.com/file/d/1VyF2i9UsLfe_OXj2JdBOaRiyYVvvEHH-/view?usp=sharing)
-
-</details>
-
-
-<details>
-<summary markdown="span">
-**Breve introdução à otimização aplicada ao aprendizado de máquina supervisionado**
-</summary>
-
-- Veja o Tópico 5 [deste link](/topicospo)
-
-</details>
-
-
-<details>
-<summary markdown="span">
 **Introdução à complexidade de algoritmos**
 </summary>
 
@@ -366,10 +341,53 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 <details>
 <summary markdown="span">
+**Breve introdução à otimização aplicada ao aprendizado de máquina supervisionado**
+</summary>
+
+1. [Introdução](/files/topicospo/ML_1-intro.pdf)
+1. [Método do gradiente incremental](/files/topicospo/ML_2-incremental.pdf)
+1. [Um pouco de probabilidade](/files/topicospo/ML_3-prob.pdf)
+1. [Método do gradiente estocástico (SG) e variantes](/files/topicospo/ML_4-sg.pdf)
+1. [Convergência do método do gradiente estocástico para funções convexas](/files/topicospo/ML_5-convergencia_sg.pdf)
+1. [Treinamento de redes neurais multicamadas tipo *feedfoward*, *backpropagation*](/files/topicospo/ML_6-treinamento.pdf)
+1. Experimentos numéricos
+   - [Método do gradiente clássico, incremental e estocástico](/files/topicospo/ML_ionosphere.zip)
+   - Um pacote para aprendizado de máquina em Julia: [Flux.jl](https://fluxml.ai/)
+   - [Código exemplo de uso do **Flux** no *dataset* MNIST](/files/topicospo/ex_flux.jl)
+   - Sobre o *dataset* MNIST: [wikipedia](https://en.wikipedia.org/wiki/MNIST_database)
+1. [EXERCÍCIOS](https://drive.google.com/file/d/1HxhG4-H8jXr-VpQzZl2LigfqgvXko5IR/view?usp=sharing)
+1. Referências:
+   - Bottou, L; Curtis, F. E.; Nocedal, J. Optimization Methods for Large-Scale Machine Learning. SIAM Rev., 60(2), 223-311 (2018). [artigo revista](https://doi.org/10.1137/16M1080173); [PDF acesso livre](https://arxiv.org/abs/1606.04838)
+   - *(introdução gradiente incremental -- seção 2.1.5)* Bertsekas, D. P. Convex Optimization Algorithms. Athena Scientific, 2015.
+   - *(gradiente incremental/estocástico e convergência -- seções 8.3, 8.4)* Beck, A. First-Order Methods in Optimization. MOS-SIAM Series on Optimization, SIAM, 2017.
+   - [Livro on-line "Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/)
+
+Para mais informações, veja o Tópico 5 [deste link](/topicospo).
+
+</details>
+
+
+<details>
+<summary markdown="span">
 **Método do gradiente projetado para restrições convexas quaisquer**
 </summary>
 
 - [**ANOTAÇÕES** - Método do gradiente projetado para restrições convexas quaisquer](/files/otim1/6.9.Gradiente_projetado.pdf)
+
+</details>
+
+
+<details>
+<summary markdown="span">
+**Comparação do desempenho de diferentes algoritmos**
+</summary>
+
+*Referência 1:* Ribeiro, A. A; Karas, E. W. Otimização contínua. Cengage, 2014 **(seção 6.3 do livro publicado pela Cengage)**
+*Referência 2:* Dolan, Elizabeth D.; Moré, Jorge J. Benchmarking optimization software with performance profiles. Math. Program., Ser. A 91: 201-213 (2002). [artigo revista](https://doi.org/10.1007/s101070100263); [PDF acesso aberto](https://arxiv.org/abs/cs/0102001)
+
+- [**ANOTAÇÕES**](/files/topicospo/performance_profiles.pdf) - Perfis de desempenho segundo Dolan e Moré e comentários sobre contagem de tempo de execução
+  - [BenchmarkProfiles.jl](https://github.com/JuliaSmoothOptimizers/BenchmarkProfiles.jl) - gerando perfis de desempenho com o Julia
+- [EXERCÍCIOS](https://drive.google.com/file/d/1VyF2i9UsLfe_OXj2JdBOaRiyYVvvEHH-/view?usp=sharing)
 
 </details>
 
@@ -386,5 +404,5 @@ Julia é uma linguagem de programação de alto nível criada em 2012 que implem
 
 <!--## Vídeos sobre Otimização
 
--  [IMECC Unicamp no facebook](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
--  [Grupo de Otimização IMECC Unicamp](http://www.ime.unicamp.br/~martinez/seminarios.html)-->
+- [IMECC Unicamp no facebook](https://www.facebook.com/IMECCUnicampBR/videos/1925349244449867/)
+- [Grupo de Otimização IMECC Unicamp](http://www.ime.unicamp.br/~martinez/seminarios.html)-->
