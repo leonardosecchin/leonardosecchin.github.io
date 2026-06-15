@@ -5,11 +5,11 @@ permalink: /code/
 author_profile: true
 ---
 
-1. **NewtonCQK**  
+1. **NewtonCQK.jl**  
 Sequential and parallel semi-smooth Newton method for the Continuous Quadratic Knapsack (CQK) problem, with specialized implemetations for projecting onto Simplex and L1-ball.  
 **URL:** <https://github.com/pjssilva/NewtonCQK.jl>
 
-1. **MDGP**  
+1. **MDGP.jl**  
 Multistart strategy to solve the Molecular Distance Geometry Problem (MDGP) with interval data.  
 **URL:** <https://github.com/leonardosecchin/MDGP.jl>
 
@@ -17,7 +17,7 @@ Multistart strategy to solve the Molecular Distance Geometry Problem (MDGP) with
 Simple safeguarded augmented Lagrangian method for solving nonlinear programming problems, including those with complementarity constraints.  
 **URL:** <https://github.com/leonardosecchin/SimpleAL>
 
-1. **BCD**  
+1. **BCD.jl**  
 Block Coordinate Descent (BCD) method for minimizing functions with Hölder continuous gradient.  
 **URL:** <https://github.com/leonardosecchin/BCD.jl>
 
