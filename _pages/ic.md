@@ -12,15 +12,15 @@ De acordo com a UFES,
 
 Nesse sentido, nas minhas orientações de IC procuro sugerir a leitura de artigos científicos e, dentro do possível, proponho temas não abordados nas disciplinas regulares da graduação.
 
-O(A) estudante que deseja realizar IC poderá propor temas relacionados à otimização (preferencialmente não linear), caso tenha algum em mente. Havendo disponibilidade para novas orientações, a escolha do tema levará em conta o conhecimento prévio do(a) estudante, meus projetos de pesquisa, meus interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas e adequação do tema ao perfil de formação do egresso. O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
+O(A) estudante poderá propor temas relacionados à otimização (preferencialmente não linear). Havendo disponibilidade para novas orientações, a escolha do tema levará em conta o conhecimento prévio do(a) estudante, meus projetos de pesquisa, meus interesses em novas frentes, desempenho do(a) candidato(a) em disciplinas e adequação do tema ao perfil de formação do egresso. O(a) interessado(a) deve ficar atento(a) às datas estabelecidas nos [editais de IC da UFES](http://prppg.ufes.br/ultimos-editais-iniciacao-cientifica), e entrar em contato comigo pessoalmente ou por **email** (leonardo.secchin@ufes.br), **com antecedência**.
 
-O **Trabalho de Conclusão de Curso (TCC)** é elemento curricular obrigatório dos cursos de graduação. A escolha do tema e o modo de orientação são semelhantes à IC. O TCC pode ser um trabalho complementar à uma IC prévia, estar ligado ao estágio curricular, ou ainda ser um trabalho realizado do zero, caso em que é desejável o(a) aluno(a) procurar-me com 1 ano de antecedência. Não há possibilidade de bolsa para realização de TCC.
+O **Trabalho de Conclusão de Curso (TCC)** é elemento curricular obrigatório dos cursos de graduação. A escolha do tema e o modo de orientação são semelhantes à IC. O TCC pode ser um trabalho complementar à uma IC prévia, estar ligado ao estágio, ou ainda ser um trabalho realizado do zero, caso em que é desejável o(a) aluno(a) procurar-me com 1 ano de antecedência.
 
 
 ## Pré-requisitos para IC
 
 - **aprovação** em pelo menos uma disciplina em otimização;
-- **programar em computador**. A **linguagem de programação Julia** é a preferência em quase todos os casos (veja a seção "Linguagens de programação" abaixo);
+- **programar em computador** caso o projeto envolva testes numéricos. A **linguagem de programação Julia** é a preferência em quase todos os casos (veja a seção "Linguagens de programação" abaixo);
 - **ler e entender textos em inglês**, já que muitas das referências são escritas na língua. Não é necessário saber escrever ou falar inglês;
 - desempenho satisfatório nas disciplinas de otimização/pesquisa operacional cursadas;
 - disponibilidade de **20h semanais para as atividades da IC**. O(A) estudante não poderá se abster das atividades da IC em hipótese alguma, **indpendentemente da quantidade de atividades diversas ou disciplinas em que esteja matriculado(a)**.
@@ -28,22 +28,21 @@ O **Trabalho de Conclusão de Curso (TCC)** é elemento curricular obrigatório 
 **Pré-requisito para CONCORRER À BOLSA de IC (PIBIC):**
 - coeficiente de rendimento médio igual ou superior a 5,0 (cinco), comprovado em histórico escolar atualizado.
 
-*O(A) estudante que não atender aos pré-requisitos para concorrer à bolsa será enquadrado(a) na modalidade voluntário (PIVIC).*
-
-*O(A) estudante que, ao longo da IC, apresentar desempenho insatisfatório poderá ter sua IC cancelada por parte do orientador. Neste caso, não terá direito à certificado.*
-
-*O(A) estudante que alegar atender aos pré-requisitos quando da submissão do projeto não poderá alegar o contrário posteriormente.*
+**Observações:**
+- O(A) estudante que não atender aos pré-requisitos para concorrer à bolsa será enquadrado(a) na modalidade voluntário (PIVIC);
+- O(A) estudante que ao longo da IC apresentar desempenho insatisfatório poderá ter sua IC cancelada por parte do orientador. Neste caso, não terá direito à certificado;
+- O(A) estudante que alegar atender aos pré-requisitos quando da submissão do projeto não poderá alegar o contrário posteriormente.
 
 
 ## Pré-requisitos para TCC
 
 - de preferência, procurar-me 1 ano antes da data de defesa pretendida. Caso já tenha feito IC, uma opção é fazer o TCC como complemento da IC. Neste caso, o TCC geralmente é feito em um único semestre. Algo semelhante vale para estudantes de estágio, a depender do trabalho prévio realizado;
-- quando for defender o TCC, estar matriculado na disciplina "TCC" ou equivalente caso exigido pelo respectivo Colegiado de curso.
+- quando for defender o TCC, estar matriculado na disciplina "TCC" ou equivalente caso exigido pelo Colegiado de curso.
 
 
 ## Linguagens de programação
 
-Nos trabalhos que requerem implementação computacional, recomendo o uso da linguagem **Julia**. Nela, a escrita de modelos de otimização, o acesso à bancos de problemas-teste e o uso de pacotes de otimização consagrados é fácil. Essas características nem sempre estão disponíveis em C, Fortran ou mesmo Python. Além disso, é fácil programar em Julia (assemelha-se ao Matlab). Portanto, mesmo que você domine uma linguagem como Python, recomendo considerar o uso do Julia.
+Nos trabalhos que requerem implementação computacional, recomendo a linguagem **Julia**. Nela, a escrita de modelos de otimização, o acesso à bancos de problemas-teste e o uso de pacotes de otimização consagrados é fácil. Essas características nem sempre estão disponíveis em C, Fortran ou mesmo Python. Além disso, é fácil programar em Julia (assemelha-se ao Matlab). Portanto, mesmo que você domine uma linguagem como Python, recomendo considerar o uso do Julia.
 
 Você encontra um tutorial básico [neste link](/julia/).
 
@@ -56,7 +55,7 @@ O(a) estudante deve mostrar interesse por email ou pessoalmente. Combinado o tem
 
 Todo subprojeto de IC é vinculado a um projeto de pesquisa meu. **A orientação de IC tem duração de 1 ano.**
 
-Há possibilidade de bolsa(s), a depender da disponibilidade de recursos da UFES e agências de fomento. Na escolha do(a) bolsista são considerados desempenho curricular, entrevista e situação de vulnerabilidade socioeconômica (cadastro em programas de assistência estudantil), além das regras estabelecidas em edital. Nos últimos editais, vem sendo conferida apenas uma bolsa por orientador. Portanto, **o(a) estudante deve estar ciente que pode ter que realizar a IC sem bolsa (voluntário), mesmo que atenda aos pré-requisitos.** O(a) estudante de IC voluntário(a) tem as mesmas obrigações de um bolsista. **Não é obrigatória a alocação de bolsa por parte do orientador**, ainda que haja um(a) único(a) candidato(a).
+Há possibilidade de bolsa(s), a depender da disponibilidade de recursos da UFES e agências de fomento. Na escolha do(a) bolsista são considerados desempenho curricular, entrevista e situação de vulnerabilidade socioeconômica (cadastro em programas de assistência estudantil). Nos últimos editais, vem sendo conferida apenas uma bolsa por orientador. Portanto, **o(a) estudante deve estar ciente que pode ter que realizar a IC sem bolsa (voluntário), mesmo que atenda aos pré-requisitos.** O(a) estudante de IC voluntário(a) tem as mesmas obrigações de um bolsista. **Não é obrigatória a alocação de bolsa por parte do orientador**, ainda que haja um(a) único(a) candidato(a).
 
 
 ### para orientação de TCC
@@ -68,14 +67,14 @@ O(a) estudante deve mostrar seu interesse por email ou pessoalmente. O TCC é di
 
 Os(As) estudantes de IC e TCC têm a sua disposição o [laboratório de Matemática Computacional (LABMAT)](https://matematicaaplicada.saomateus.ufes.br/laboratorios).
 
-Há um computador com bom desempenho para realização de pesquisas. O acesso é remoto e está disponível ininterruptamente. Quando o trabalho de IC/TCC requerer testes computacionais de longa duração, o(a) estudante poderá ter uma conta para acesso ao computador. Para mais informações visite [https://otimizacaoufes.github.io](https://otimizacaoufes.github.io).
+Há ainda um computador com bom desempenho para realização de pesquisas. O acesso é remoto e está disponível ininterruptamente. Quando o trabalho de IC/TCC requerer testes computacionais de longa duração, o(a) estudante poderá ter uma conta para acesso ao computador. Para mais informações visite [https://otimizacaoufes.github.io](https://otimizacaoufes.github.io).
 
 
 ## Orientações de IC e TCC
 
 ### em andamento
 
-1. 2026 (TCC). Título a definir.  
+1. 2026 (TCC). Um modelo de programação linear para redução de custos de processamento em uma empresa de reciclagem  
    Estudante: Kely Cristina da Silva Pereira
 
 ### concluídas
