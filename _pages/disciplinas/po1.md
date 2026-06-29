@@ -59,6 +59,11 @@ author_profile: true
   - Valor: 10,0 pontos
   - **Data e local: 11/06 (quinta-feira) no laboratório de matemática computacional (LABMAT)**
 
+- **Prova 3**
+  - Conteúdo: verificação de conceitos: simplex dual, análise de sensibilidade
+  - Valor: 10,0 pontos
+  - **Data: 16/07/26 (quinta-feira) no laboratório de matemática computacional (LABMAT)**
+
 <!--- **Trabalho**
   - Veja a [descrição dos trabalhos](https://drive.google.com/file/d/1dU8AoopY72hxBZwnUw0L8GtP0EvA1KNw/view?usp=sharing)
   - Valor: 10,0 pontos

@@ -60,7 +60,7 @@ author_profile: true
   - Valor: 10,0 pontos
   - **Data limite: 25/05/26**
 
-A avaliação consiste no seguinte:
+<!--A avaliação consiste no seguinte:
   - para estudantes de **matemática**: entrega de lista de exercícios **OU** estudo de artigo selecionado.
   - para estudantes de **ciência da computação**: entrega de lista de exercícios **OU** trabalho computacional **OU** estudo de artigo selecionado.
 
@@ -89,7 +89,13 @@ No caso de trabalho computacional e artigo, o(a) estudante será arguido pelo pr
   Este artigo apresenta um método gradiente espectral para minimização de funções sujeitas à restrições lineares. O problema usado nos testes pode ser implementado usando o pacote de modelagem [`JuMP.jl`](https://github.com/jump-dev/JuMP.jl), e convertido para a estrutura [`NLPModels.jl`](https://github.com/JuliaSmoothOptimizers/NLPModels.jl) através do pacote [`NLPModelsJuMP.jl`](https://github.com/JuliaSmoothOptimizers/NLPModelsJuMP.jl) como feito no curso (veja [tutorial](https://github.com/leonardosecchin/tutorial_Julia)). Desta forma, derivadas são calculadas automaticamente.
 
   1. [Luengo, Raydan, Glunt, Hayden. Preconditioned spectral gradient method. Numerical Algorithms 30:241–258, 2002](https://doi.org/10.1023/A:1020181927999)  
-  Neste artigo é proposto uma modificação do método do gradiente espectral em que a direção do gradiente é "corrigida" por uma aproximação da Hessiana da função objetivo. É obrigatório reproduzir **apenas** os testes da seção 4.1, cujos problemas estão disponíveis no Julia via pacote [`NLSProblems.jl`](https://github.com/JuliaSmoothOptimizers/NLSProblems.jl). A correspondência entre os problemas da Tabela 1 do artigo e os códigos do pacote pode ser consultada [neste link](https://jso.dev/NLSProblems.jl/stable/reference/) (busque pelo nome do problema).
+  Neste artigo é proposto uma modificação do método do gradiente espectral em que a direção do gradiente é "corrigida" por uma aproximação da Hessiana da função objetivo. É obrigatório reproduzir **apenas** os testes da seção 4.1, cujos problemas estão disponíveis no Julia via pacote [`NLSProblems.jl`](https://github.com/JuliaSmoothOptimizers/NLSProblems.jl). A correspondência entre os problemas da Tabela 1 do artigo e os códigos do pacote pode ser consultada [neste link](https://jso.dev/NLSProblems.jl/stable/reference/) (busque pelo nome do problema).-->
+
+### Avaliação 2
+
+  - Conteúdo: verificação de conceitos sobre otimização com e sem restrições
+  - Valor: 10,0 pontos
+  - **Data: 14/07/26**
 
 <!--- **Avaliação 1**
   - **Lista de exercícios**
