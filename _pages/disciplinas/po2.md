@@ -124,7 +124,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 ### Exemplos de problemas e respectivos pacotes/códigos para uso no Julia
 
-- Vários exemplos [neste link](/julia/)
+- Vários exemplos [neste link](https://github.com/leonardosecchin/tutorial_Julia/blob/main/problemas-teste.md)
 
 
 ### Métodos em programação inteira mista
