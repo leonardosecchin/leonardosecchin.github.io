@@ -178,7 +178,14 @@ A **referência** para a maioria dos tópicos a seguir é *Bazaraa, M. S.; Jarvi
 </summary>
 
 1. *(seção 6.7)* Análise de sensibilidade
+   1. Alterando o vetor de custos
+   1. Alterando o lado direito das restrições
+   1. Alterando a matriz de restrições
+   1. Adicionando uma nova variável
+   1. Adicionando uma nova restrição. Aplicação na resolução de problemas com variáveis inteiras
 1. *(seção 6.8)* Análise paramétrica
+   1. Perturbando o vetor de custos
+   1. Perturbando o lado direito das restrições
 
 </details>
 
