@@ -64,6 +64,11 @@ author_profile: true
   - Valor: 10,0 pontos
   - **Data: 16/07/26 (quinta-feira) no laboratório de matemática computacional (LABMAT)**
 
+- **PROVA FINAL**
+  - Conteúdo: toda a matéria
+  - Valor: 10,0 pontos
+  - **Data: 21/07/26**
+
 <!--- **Trabalho**
   - Veja a [descrição dos trabalhos](https://drive.google.com/file/d/1dU8AoopY72hxBZwnUw0L8GtP0EvA1KNw/view?usp=sharing)
   - Valor: 10,0 pontos
@@ -80,16 +85,11 @@ author_profile: true
   - Valor: 10,0 pontos
   - **Data: ----**-->
 
-- **PROVA FINAL**
-  - Conteúdo: toda a matéria
-  - Valor: 10,0 pontos
-  - **Data: 21/07/26**
 
+## Critérios para aprovação
 
-<!-- ## Critérios para aprovação -->
-
-<!-- - Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta) -->
-<!-- - Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a). -->
+- Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
+- Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a)
 
 
 ## Listas de exercícios
