@@ -80,11 +80,10 @@ author_profile: true
   - Valor: 10,0 pontos
   - **Data: ----**-->
 
-<!--- **PROVA FINAL**
-  - **Prova escrita**
+- **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
-  - **Data: ----**-->
+  - **Data: 21/07/26**
 
 
 <!-- ## Critérios para aprovação -->
