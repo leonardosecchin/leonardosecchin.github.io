@@ -74,7 +74,7 @@ Há ainda um computador com bom desempenho para realização de pesquisas. O ace
 
 ### em andamento
 
-1. 2026 (TCC). Um modelo de programação linear para redução de custos de processamento em uma empresa de reciclagem  
+1. 2026 (TCC). Otimização do Planejamento de Compras e Vendas em uma Empresa de Reciclagem  
    Estudante: Kely Cristina da Silva Pereira
 
 ### concluídas
