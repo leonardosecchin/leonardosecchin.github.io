@@ -5,10 +5,10 @@ permalink: /otimizacao2/
 author_profile: true
 ---
 
-## Horários das aulas
+<!--## Horários das aulas
 
-- --- <!--Terças-feiras de 12:00 as 14:00 (Sala 10 Eixo 3)-->
-- --- <!--Sextas-feiras de 10:00 as 12:00 (Sala 10 Eixo 1)-->
+- Segundas-feiras de 16:00 as 18:00 (Sala 07 Eixo 3, LABMAT)
+- Terças-feiras de 12:00 as 14:00 (Sala 09 Eixo 3, LABMAT)-->
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
@@ -58,7 +58,7 @@ author_profile: true
 
 ## Avaliações
 
-- **Avaliação 1**
+<!--- **Avaliação 1**
   - **Lista de exercícios**
   - Conteúdo: condições KKT, penalidade externa e interna, Lagrangiano aumentado e pontos interiores
   - Tarefas:
@@ -70,9 +70,9 @@ author_profile: true
   - **Data: 13/12/24 (sexta-feira)**
   - Entregar resolução escrita à mão. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
   - O trabalho é individual
-  - [**NOTAS**](https://drive.google.com/file/d/1oB210AjA-uQlwIz5C8thg12Dcq4G71GW/view?usp=sharing)
+  - [**NOTAS**](https://drive.google.com/file/d/1oB210AjA-uQlwIz5C8thg12Dcq4G71GW/view?usp=sharing)-->
 
-- **Avaliação 2**
+<!--- **Avaliação 2**
   - **Lista de exercícios**
   - Conteúdo: quadrados mínimos
   - Tarefas: exercícios 2, 4, 6, 9(b), 11, 14 da [lista 5](https://drive.google.com/file/d/1YNKAcZT793tiR2xSp0y42tyErvcfZabl/view), [Código Gauss-Newton](/files/otim2/gaussnewton.zip)
@@ -80,7 +80,7 @@ author_profile: true
   - **Data limite: 20/12/24**
   - Entregar resolução escrita à mão ou escaneadas para o email secchinleo@gmail.com. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
   - O trabalho é individual.
-  - [**NOTAS**](https://drive.google.com/file/d/19CQf-CVwe-GlKdIMkTGx4Hki1HZSRrms/view?usp=sharing)
+  - [**NOTAS**](https://drive.google.com/file/d/19CQf-CVwe-GlKdIMkTGx4Hki1HZSRrms/view?usp=sharing)-->
 
 <!-- - **Avaliação 3** -->
 <!--   - FORMA DE AVALIAÇÃO -->

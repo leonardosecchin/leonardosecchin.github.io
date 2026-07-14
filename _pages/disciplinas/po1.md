@@ -196,6 +196,7 @@ A **referência** para a maioria dos tópicos a seguir é *Bazaraa, M. S.; Jarvi
 
 1. *(seções 10.1 a 10.6)* O Problema do Transporte: propriedades e resolução via método Simplex
 1. Uso de pacotes para resolução de problemas da literatura
+   1. [Códigos de exemplo do uso do pacote GPLK no Julia](/files/po1/glpk.zip)
 
 </details>
 

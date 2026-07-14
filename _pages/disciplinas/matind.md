@@ -5,10 +5,10 @@ permalink: /matind/
 author_profile: true
 ---
 
-## Horários das aulas
+<!--## Horários das aulas
 
-- --- <!--Terças-feiras de 16:00 as 18:00 (Laboratório de Matemática Computacional)-->
-- --- <!--Sexta-feiras de 12:00 as 14:00 (Laboratório de Matemática Computacional)-->
+- Terças-feiras de 16:00 as 18:00 (Laboratório de Matemática Computacional)
+- Sexta-feiras de 12:00 as 14:00 (Laboratório de Matemática Computacional)-->
 
 <!-- ## [Ementa e programa (7o período)](https://matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Matem%c3%a1tica%20Industrial%20-%20DMA12413.pdf) -->
 

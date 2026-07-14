@@ -5,10 +5,10 @@ permalink: /po2/
 author_profile: true
 ---
 
-## Horários das aulas
+<!--## Horários das aulas
 
 - Segundas-feiras de 12:00 as 14:00 (Sala 5 Eixo 1, LABMAT)
-- Terças-feiras de 16:00 as 18:00 (Sala 11 Eixo 1, LABMAT)
+- Terças-feiras de 16:00 as 18:00 (Sala 11 Eixo 1, LABMAT)-->
 
 
 ## [Ementa e programa](https://matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Pesquisa%20Operacional%20II%20-%20DMA12297.pdf)
@@ -49,7 +49,7 @@ author_profile: true
 - provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
 
 
-<!-- ## Avaliações -->
+## Avaliações
 
 <!--- **Trabalho**
   - Veja a [descrição dos trabalhos](https://drive.google.com/file/d/1dU8AoopY72hxBZwnUw0L8GtP0EvA1KNw/view?usp=sharing)

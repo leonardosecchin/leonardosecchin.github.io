@@ -5,10 +5,10 @@ permalink: /logica/
 author_profile: true
 ---
 
-## Horários das aulas
+<!--## Horários das aulas
 
-- --- <!--Terças-feiras de 13:00 as 15:00-->
-- --- <!--Sextas-feiras de 16:00 as 18:00 (dúvidas, exercícios)-->
+- Terças-feiras de 13:00 as 15:00
+- Sextas-feiras de 16:00 as 18:00 (dúvidas, exercícios)-->
 
 
 ## Programa da disciplina

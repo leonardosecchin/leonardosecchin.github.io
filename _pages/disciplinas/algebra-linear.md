@@ -5,10 +5,10 @@ permalink: /algebra-linear/
 author_profile: true
 ---
 
-## Horários das aulas síncronas
+<!--## Horários das aulas síncronas
 
 - Segundas-feiras de 13:00 as 15:00 (Sala 10 Eixo 1)
-- Terças-feiras de 16:00 as 18:00 (Sala 8 Eixo 3)
+- Terças-feiras de 16:00 as 18:00 (Sala 8 Eixo 3)-->
 
 
 ## Ementa

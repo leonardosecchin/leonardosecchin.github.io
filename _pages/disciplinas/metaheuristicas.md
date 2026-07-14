@@ -5,21 +5,18 @@ permalink: /metaheuristicas/
 author_profile: true
 ---
 
-## Horários das aulas
-{:.no_toc}
+<!--## Horários das aulas
 
-- -- <!--Quintas-feiras de 13:00 as 15:00 (LABMAT / excepcionalmente Sala 08 Eixo 3)-->
-- -- <!--Sextas-feiras de 13:00 as 15:00 (LABMAT / excepcionalmente Sala 11 Eixo 1)-->
+- Quintas-feiras de 13:00 as 15:00 (LABMAT / excepcionalmente Sala 08 Eixo 3)
+- Sextas-feiras de 13:00 as 15:00 (LABMAT / excepcionalmente Sala 11 Eixo 1)-->
 
 
 ## Ementa
-{:.no_toc}
 
 Consulte Projeto Pedagógico do [Curso](https://matematicaindustrial.saomateus.ufes.br).
 
 
 ## Objetivos da disciplina
-{:.no_toc}
 
 - Estudar as principais (meta)heurísticas usadas para resolver problemas de otimização contínua e combinatória
 - Aplicar as técnicas em problemas conhecidos da literatura e encontrados na indústria
@@ -27,7 +24,6 @@ Consulte Projeto Pedagógico do [Curso](https://matematicaindustrial.saomateus.u
 
 
 ## Conteúdo
-{:.no_toc}
 
 Principais metaheurísticas usadas na literatura recente (algoritmos genéticos, simulated annealing, busca tabu, colônia de formigas, outras metaheurísticas bio-inspiradas, GRASP, dentre outras).
 
@@ -42,19 +38,16 @@ Obs: outras referências são descritas em cada tópico
 
 
 ## Formas de avaliação
-{:.no_toc}
 
 Serão aplicadas no mínimo duas avaliações, dentre testes dissertativos, apresentações de seminários e/ou desenvolvimento de projetos.
 
 
-## Cálculo da média parcial (2023/1)
-{:.no_toc}
+<!--## Cálculo da média parcial (2023/1)
 
-(1,0(atividade avaliativa 1) + 6,0(atividade avaliativa 2) + 3,0(atividade avaliativa 3)) / 10,0
+(1,0(atividade avaliativa 1) + 6,0(atividade avaliativa 2) + 3,0(atividade avaliativa 3)) / 10,0-->
 
 
 ## Critérios para aprovação
-{:.no_toc}
 
 - Faltas acima de 25% da carga horária —> reprovado(a) por falta
 - Média parcial >= 7,0 —> aprovado(a) (desde que não reprovado(a) por falta)

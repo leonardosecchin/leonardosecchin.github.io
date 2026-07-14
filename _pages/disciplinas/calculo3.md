@@ -5,10 +5,10 @@ permalink: /calculo3/
 author_profile: true
 ---
 
-## Horários das aulas
+<!--## Horários das aulas
 
-- -- <!--Quartas-feiras de 11:00 as 13:00 (E1 Sala 03)-->
-- -- <!--Sextas-feiras de 7:00 as 10:00 (E1 Sala 02)-->
+- Quartas-feiras de 11:00 as 13:00 (E1 Sala 03)
+- Sextas-feiras de 7:00 as 10:00 (E1 Sala 02)-->
 
 
 ## Programa da disciplina

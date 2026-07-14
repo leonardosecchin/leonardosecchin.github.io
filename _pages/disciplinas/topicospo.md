@@ -5,8 +5,7 @@ permalink: /topicospo/
 author_profile: true
 ---
 
-<!--## Horários das aulas síncronas
-{:.no_toc}
+<!--## Horários das aulas
 
 - Terças-feiras: 8:30 - 9:30
 - Quartas-feiras: 8:30 - 9:30-->
