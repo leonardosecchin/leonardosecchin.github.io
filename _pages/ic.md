@@ -74,11 +74,10 @@ Há ainda um computador com bom desempenho para realização de pesquisas. O ace
 
 ### em andamento
 
-1. 2026 (TCC). Otimização do Planejamento de Compras e Vendas em uma Empresa de Reciclagem  
-   Estudante: Kely Cristina da Silva Pereira
-
 ### concluídas
 
+1. 2026 (TCC). Otimização do planejamento de compras e vendas em uma empresa de reciclagem utilizando programação linear inteira mista  
+   Estudante: Kely Cristina da Silva Pereira
 1. 2024 (TCC). [O método do gradiente espectral projetado e aplicações ao aprendizado de máquina supervisionado](/files/ic-tcc/TCC_Pedro_Fischer.pdf)  
    Estudante: Pedro Henrique Fischer Ferreira
 1. 2023 (TCC). [Uma abordagem ao problema de roteamento de veículos com janelas de tempo usando meta-heurísticas](/files/ic-tcc/TCC_Wisley_Kenede.pdf)  
