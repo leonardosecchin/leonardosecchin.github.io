@@ -5,10 +5,10 @@ permalink: /otimizacao1/
 author_profile: true
 ---
 
-## Horários das aulas
+<!--## Horários das aulas
 
 - Segundas-feiras de 16:00 as 18:00 (Sala 07 Eixo 3, LABMAT)
-- Terças-feiras de 12:00 as 14:00 (Sala 09 Eixo 3, LABMAT)
+- Terças-feiras de 12:00 as 14:00 (Sala 09 Eixo 3, LABMAT)-->
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20I%20-%20DMA11995.pdf)
@@ -52,13 +52,13 @@ author_profile: true
 - provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
 
 
-## Avaliações
+<!-- ## Avaliações -->
 
-### Avaliação 1
+<!--### Avaliação 1
 
   - Conteúdo: conceitos básicos, condições de otimalidade para otimização irrestrita, métodos de descida gerais (gradiente, Newton, quase-Newton, método do gradiente espectral)
   - Valor: 10,0 pontos
-  - **Data limite: 25/05/26**
+  - **Data limite: 25/05/26**-->
 
 <!--A avaliação consiste no seguinte:
   - para estudantes de **matemática**: entrega de lista de exercícios **OU** estudo de artigo selecionado.
@@ -91,11 +91,11 @@ No caso de trabalho computacional e artigo, o(a) estudante será arguido pelo pr
   1. [Luengo, Raydan, Glunt, Hayden. Preconditioned spectral gradient method. Numerical Algorithms 30:241–258, 2002](https://doi.org/10.1023/A:1020181927999)  
   Neste artigo é proposto uma modificação do método do gradiente espectral em que a direção do gradiente é "corrigida" por uma aproximação da Hessiana da função objetivo. É obrigatório reproduzir **apenas** os testes da seção 4.1, cujos problemas estão disponíveis no Julia via pacote [`NLSProblems.jl`](https://github.com/JuliaSmoothOptimizers/NLSProblems.jl). A correspondência entre os problemas da Tabela 1 do artigo e os códigos do pacote pode ser consultada [neste link](https://jso.dev/NLSProblems.jl/stable/reference/) (busque pelo nome do problema).-->
 
-### Avaliação 2
+<!--### Avaliação 2
 
   - Conteúdo: verificação de conceitos sobre otimização com e sem restrições
   - Valor: 10,0 pontos
-  - **Data: 14/07/26**
+  - **Data: 14/07/26**-->
 
 <!--- **Avaliação 1**
   - **Lista de exercícios**
