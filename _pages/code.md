@@ -13,9 +13,9 @@ Sequential and parallel semi-smooth Newton method for the Continuous Quadratic K
 Multistart strategy to solve the Molecular Distance Geometry Problem (MDGP) with interval data.  
 **URL:** <https://github.com/leonardosecchin/MDGP.jl>
 
-1. **SimpleAL**  
+1. **SimpleAL.jl**  
 Simple safeguarded augmented Lagrangian method for solving nonlinear programming problems, including those with complementarity constraints.  
-**URL:** <https://github.com/leonardosecchin/SimpleAL>
+**URL:** <https://github.com/leonardosecchin/SimpleAL.jl>
 
 1. **BCD.jl**  
 Block Coordinate Descent (BCD) method for minimizing functions with Hölder continuous gradient.  
