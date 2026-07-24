@@ -76,7 +76,7 @@ Há ainda um computador com bom desempenho para realização de pesquisas. O ace
 
 ### concluídas
 
-1. 2026 (TCC). Otimização do planejamento de compras e vendas em uma empresa de reciclagem utilizando programação linear inteira mista  
+1. 2026 (TCC). [Otimização do planejamento de compras e vendas em uma empresa de reciclagem utilizando programação linear inteira mista](/files/ic-tcc/TCC_Kely_Pereira.pdf)
    Estudante: Kely Cristina da Silva Pereira
 1. 2024 (TCC). [O método do gradiente espectral projetado e aplicações ao aprendizado de máquina supervisionado](/files/ic-tcc/TCC_Pedro_Fischer.pdf)  
    Estudante: Pedro Henrique Fischer Ferreira
