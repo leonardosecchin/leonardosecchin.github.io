@@ -7,10 +7,10 @@ author_profile: true
 
 Se está procurando por Iniciação Científica ou TCC, [clique aqui](/ic).
 
-<!-- ## DISCIPLINAS 2026/1 -->
+## DISCIPLINAS 2026/2
 
-<!-- - [**Otimização 1**](/otimizacao1/) -->
-<!-- - [**Pesquisa Operacional 1**](/po1/) -->
+- [**Otimização 2**](/otimizacao2/)
+- [**Pesquisa Operacional 2**](/po2/)
 
 ## A linguagem de programação Julia
 
@@ -23,6 +23,7 @@ Acesse o [**tutorial sobre uso da linguagem Julia aplicada à otimização**](/j
 - [**Metaheurísticas**](/metaheuristicas/)
 - [**Otimização 1**](/otimizacao1/)
 - [**Otimização 2**](/otimizacao2/)
+- [**Pesquisa Operacional 1**](/po1/)
 - [**Pesquisa Operacional 2**](/po2/)
 - [**Tópicos em Pesquisa Operacional**](/topicospo/)
 - [**Cálculo 3**](/calculo3/)

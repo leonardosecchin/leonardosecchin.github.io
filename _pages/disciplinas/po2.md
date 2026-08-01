@@ -5,10 +5,10 @@ permalink: /po2/
 author_profile: true
 ---
 
-<!--## Horários das aulas
+## Horários das aulas
 
-- Segundas-feiras de 12:00 as 14:00 (Sala 5 Eixo 1, LABMAT)
-- Terças-feiras de 16:00 as 18:00 (Sala 11 Eixo 1, LABMAT)-->
+- Segundas-feiras de 12:00 as 14:00 (Sala 18 Eixo 3, LABMAT)
+- Terças-feiras de 16:00 as 18:00 (Sala 18 Eixo 3, LABMAT)
 
 
 ## [Ementa e programa](https://matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Pesquisa%20Operacional%20II%20-%20DMA12297.pdf)
@@ -74,10 +74,10 @@ author_profile: true
   - **Data: ----**-->
 
 
-<!-- ## Critérios para aprovação -->
+## Critérios para aprovação
 
-<!-- - Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta) -->
-<!-- - Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a). -->
+- Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
+- Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a).
 
 
 <!-- ## Listas de exercícios -->

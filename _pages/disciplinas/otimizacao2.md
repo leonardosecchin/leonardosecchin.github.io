@@ -5,10 +5,10 @@ permalink: /otimizacao2/
 author_profile: true
 ---
 
-<!--## Horários das aulas
+## Horários das aulas
 
-- Segundas-feiras de 16:00 as 18:00 (Sala 07 Eixo 3, LABMAT)
-- Terças-feiras de 12:00 as 14:00 (Sala 09 Eixo 3, LABMAT)-->
+- Segundas-feiras de 16:00 as 18:00 (Sala 18 Eixo 3, LABMAT)
+- Terças-feiras de 12:00 as 14:00 (Sala 18 Eixo 3, LABMAT)
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
@@ -95,11 +95,10 @@ author_profile: true
   - **Data: 19/12/23 (terça-feira)**-->
 
 
-<!-- ## Critérios para aprovação -->
-<!-- {:.no_toc} -->
+## Critérios para aprovação
 
-<!-- - Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta) -->
-<!-- - Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a). -->
+- Média parcial >= 7,0 —–> aprovado(a) (desde que não reprovado(a) por falta)
+- Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a).
 
 
 ## Listas de exercícios

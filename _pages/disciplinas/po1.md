@@ -47,7 +47,7 @@ author_profile: true
 - provas escritas, listas de exercícios, trabalhos computacionais ou apresentações orais.
 
 
-## Avaliações
+<!--## Avaliações
 
 - **Prova 1**
   - Conteúdo: Manipulação de problemas. Formas padrão e canônica. Resolução geométrica de PLs. Pontos extremos, soluções básicas viáveis. Método simplex. Método simplex em formato de quadro.
@@ -67,7 +67,7 @@ author_profile: true
 - **PROVA FINAL**
   - Conteúdo: toda a matéria
   - Valor: 10,0 pontos
-  - **Data: 21/07/26**
+  - **Data: 21/07/26**-->
 
 <!--- **Trabalho**
   - Veja a [descrição dos trabalhos](https://drive.google.com/file/d/1dU8AoopY72hxBZwnUw0L8GtP0EvA1KNw/view?usp=sharing)
