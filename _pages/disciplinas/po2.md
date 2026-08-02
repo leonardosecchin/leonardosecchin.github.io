@@ -26,10 +26,10 @@ author_profile: true
   [[link](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119606475)]
 - Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005  
   [[link](https://web.ist.utl.pt/luis.tarrataca/classes/linear_programming/OtimizacaoCombinatoriaeProgramacaoLinear.pdf)]
+- Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006
 
 ## Textos complementares
 
-- Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006
 - Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006  
   [[link versão alternativa](http://profs.ic.uff.br/~yuri/pl/Maculan.pdf)]
 - Luenberguer; Ye. Linear and Nonlinear Programming. Springer, 2008  
@@ -99,35 +99,32 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 ### Softwares / Interfaces para Julia
 
 - [**CPLEX**](https://www.ibm.com/br-pt/analytics/cplex-optimizer)  
-   O CPLEX é um pacote mantido pela IBM e muito utilizado na academia e indústria. Nele há vários métodos para programação linear inteira mista. É um software proprietário, mas estudantes das universidades podem obter licença de uso mediante preencimento de um cadastro. **Recomendo familiarizar-se com o pacote desde o início da disciplina.**
-   - [Instruções para download](/files/po2/cplex.txt) (testado em abril de 2024)
+   O CPLEX é um pacote mantido pela IBM e muito utilizado na academia e indústria. Nele há vários métodos para programação linear inteira mista. É um software proprietário, mas estudantes das universidades podem obter licença de uso mediante preencimento de um cadastro.
+   - [Instruções para download](/files/po2/cplex.txt) (atualizado em agosto de 2026)
 
 - [**GLPK**](https://www.gnu.org/software/glpk/)  
    GLPK é um pacote que implementa vários métodos para programação linear inteira mista. Ao contrário do CPLEX, é *software* livre, ou seja, você pode instalar e usar sem a necessidade de obter licenças. É uma opção de fácil instalação caso você tenha problemas com o CPLEX.
 
 - **Uso dos pacotes no Julia**  
    Tanto o CPLEX quando o GLPK podem ser utilizados dentro do Julia. Para tanto, basta instalar os pacotes [`CPLEX.jl`](https://github.com/jump-dev/CPLEX.jl) e [`GLPK.jl`](https://github.com/jump-dev/GLPK.jl) no seu Julia.
-   - Obs: `CPLEX.jl` **não** instala o CPLEX automaticamente, você precisa obter a licença e instalar na sua máquina. Já `GLPK.jl` baixa e instala o GLPK automaticamente.
-   - Teste executando o [código exemplo](/files/po2/ufl.jl) para o problema de localização de facilidades não capacitado
+   - Obs: `CPLEX.jl` **não** instala o CPLEX automaticamente, você precisa instalá-lo na sua máquina antes; siga as [instruções para download](/files/po2/cplex.txt). Já `GLPK.jl` baixa e instala o GLPK automaticamente.
+   - Teste executando o [código exemplo](/files/po2/ufl.jl) para o problema de localização de facilidades não capacitado.
 
 
-### Programação inteira e inteira mista
+### Introdução à programação linear inteira mista 
 
-1. Modelagem de problemas  
+1. O modelo de programação linear inteira mista
+1. Exemplos de aplicações  
   *Referências:*  
-  *1) Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006*  
+  *1) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*  
   *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+1. Exemplos de problemas e respectivos pacotes/códigos para uso no Julia, veja [este link](https://github.com/leonardosecchin/tutorial_Julia/blob/main/problemas-teste.md)
 
-1. Relaxação Linear e relaxação Lagrangeana  
+
+### Métodos em programação linear inteira mista
+
+1. Relaxação linear e relaxação Lagrangeana  
   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
-
-
-### Exemplos de problemas e respectivos pacotes/códigos para uso no Julia
-
-- Vários exemplos [neste link](https://github.com/leonardosecchin/tutorial_Julia/blob/main/problemas-teste.md)
-
-
-### Métodos em programação inteira mista
 
 1. Método de enumeração e poda (*Branch-and-bound*)
    1. Pré-processamento  
@@ -138,16 +135,18 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
       - Identificação de PL's inviáveis ou ilimitados
       - Estratégias adicionais de pré-processamento para problemas com variáveis inteiras e binárias: aperto de restrições
 
-   1. Inserção de restrições no quadro simplex e o método dual simplex (revisão)  
-   *Referências:*  
-   *1) Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006*  
-   *2) Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*
+   1. Inserção de restrições no quadro simplex e o método dual simplex (conteúdo de PO I, revisão)  
+   *Referência: Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*
 
    1. *Branch-and-bound* baseado em relaxação linear  
-   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+   *Referências:*  
+   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*  
+   *2) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005* 
 
    1. *Branch-and-bound* - exemplos com variáveis inteiras e binárias  
-   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+   *Referências:*  
+   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*  
+   *2) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*
 
    1. Exemplo de problema inviável em que *branch-and-bound* fracassa  
    *Referência: [Jeroslow. Trivial integer programs unsolvable by branch-and-bound. Mathematical Programming 6, 105-109 (1974)](https://doi.org/10.1007/BF01580225)*
@@ -176,7 +175,9 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
 1. Comentários sobre o uso de heurísticas/metaheurísticas no contexto de métodos enumerativos  
-   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+   *Referências:*  
+   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*  
+   *2) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*
 
 
 ### Otimização em redes
