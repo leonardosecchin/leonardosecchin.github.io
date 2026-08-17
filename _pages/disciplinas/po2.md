@@ -115,9 +115,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 1. O modelo de programação linear inteira mista
 1. Exemplos de aplicações  
-  *Referências:*  
-  *1) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*  
-  *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+  *Referência: Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*
 1. Exemplos de problemas e respectivos pacotes/códigos para uso no Julia, veja [este link](https://github.com/leonardosecchin/tutorial_Julia/blob/main/problemas-teste.md)
 
 
