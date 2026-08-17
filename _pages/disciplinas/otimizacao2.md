@@ -103,19 +103,19 @@ author_profile: true
 
 ## Listas de exercícios
 
-- [LISTA 0 - Revisão, condições KKT](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing)
-- [LISTA 1 - Métodos de penalização externa e Lagrangiano aumentado](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing)
+- [LISTA 1 - Condições KKT](https://drive.google.com/file/d/1YtAVS4xXvq8VKMoIWa4R7JKuAgDkcI9n/view?usp=sharing)
+- [LISTA 2 - Métodos de penalização externa e Lagrangiano aumentado](https://drive.google.com/file/d/1n3CQhi8mUSPmYnWer-G7JlnTa0BzNpPH/view?usp=sharing)
   - Código para o exercício 5(c): [plbin.jl](https://drive.google.com/file/d/1Uqcb0X9kNTIHE-m2kOeS1c_pXfOyvzvd/view?usp=sharing)
   - Instâncias para o exercício 7: [portfolio.zip](https://drive.google.com/file/d/1RMvGiE38Ow3qcP9PncKJlCISYX48QXcb/view?usp=sharing)
-- [LISTA 2 - Método de penalização interna / pontos interiores](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing)
-- [LISTA 3 - Região de confiança](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing)
-- [LISTA 4 - Programação quadrática sequencial e dualidade](https://drive.google.com/file/d/1QwVVJgkS-7Ilkk0t4JLriD4o80S3Dmzw/view?usp=sharing)
+- [LISTA 3 - Método de penalização interna / pontos interiores](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing)
+- [LISTA 4 - Região de confiança](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing)
+- [LISTA 5 - Programação quadrática sequencial e dualidade](https://drive.google.com/file/d/1QwVVJgkS-7Ilkk0t4JLriD4o80S3Dmzw/view?usp=sharing)
   - [Código exemplo de uso do WORHP no Julia](/files/otim2/ex6_worhp.jl)
-- [LISTA 5 - Quadrados mínimos](https://drive.google.com/file/d/1YNKAcZT793tiR2xSp0y42tyErvcfZabl/view?usp=sharing)
+- [LISTA 6 - Quadrados mínimos](https://drive.google.com/file/d/1YNKAcZT793tiR2xSp0y42tyErvcfZabl/view?usp=sharing)
   - [Código Julia do método de Gauss-Newton](/files/otim2/gaussnewton.zip)
 
 
-## Trabalhos computacionais
+<!-- ## Trabalhos computacionais -->
 
 <!-- - [TRABALHO COMPUTACIONAL 1 - Método do gradiente espectral projetado](https://drive.google.com/file/d/1FN_kGKL5Z76PKSBXDBTKYU16VM-Qgp2g/view?usp=sharing) -->
 <!-- - Método de pontos interiores aplicado à programação linear: [descrição](https://drive.google.com/file/d/1Tg1aD46n79G8hFoThJtobV2oZ8WSIaYu/view?usp=sharing) -->
