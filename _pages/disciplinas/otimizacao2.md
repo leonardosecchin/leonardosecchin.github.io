@@ -7,8 +7,8 @@ author_profile: true
 
 ## Horários das aulas
 
-- Segundas-feiras de 16:00 as 18:00 (Sala 18 Eixo 3, LABMAT)
 - Terças-feiras de 12:00 as 14:00 (Sala 18 Eixo 3)
+- Quintas-feiras de 9:00 as 11:00 (Sala 12 Eixo 3, LABMAT)
 
 
 ## [Ementa e programa](http://www.matematicaaplicada.saomateus.ufes.br/sites/matematicaaplicada.saomateus.ufes.br/files/field/anexo/Otimiza%C3%A7%C3%A3o%20II%20-%20DMA12296.pdf)
