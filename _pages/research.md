@@ -13,11 +13,6 @@ author_profile: true
 
 ## Submitted articles
 
-1. **A flexible block coordinate descent method for unconstrained optimization under Hölder continuity** [[preprint](https://optimization-online.org/?p=34281)]  
-   V. S. Amaral, R. Andreani, L. D. Secchin, G. N. Silva  
-   2026  
-   *Codes available at [github.com/leonardosecchin/BCD.jl](https://github.com/leonardosecchin/BCD.jl)*
-
 1. **Parallel Newton methods for the continuous quadratic knapsack problem: A Jacobi and Gauss-Seidel tale** [[preprint](http://arxiv.org/abs/2603.15910)]  
    L. D. Secchin, P. J. S. Silva  
    2026  
@@ -27,11 +22,6 @@ author_profile: true
    L. D. Secchin, W. da Rocha, M. da Rosa, L. Liberti, C. Lavor  
    2025  
    *Codes available at [github.com/leonardosecchin/MDGP.jl](https://github.com/leonardosecchin/MDGP.jl)*
-
-1. **On the boundedness of multipliers in augmented Lagrangian methods for mathematical programs with complementarity constraints** [[preprint](https://optimization-online.org/?p=31446)]  
-   R. Andreani, M. da Rosa, L. D. Secchin  
-   2025  
-   *Codes available at [github.com/leonardosecchin/SimpleAL](https://github.com/leonardosecchin/SimpleAL)*
 
 1. **An Angle-Based Algorithmic Framework for the Interval Discretizable Distance Geometry Problem** [[preprint](https://arxiv.org/abs/2508.09143)]  
    W. da Rocha, C. Lavor, L. Liberti, L. de M. Costa, L. D. Secchin, T. E. Malliavin  
@@ -46,6 +36,16 @@ author_profile: true
 ## Published papers and articles in press
 
 If you are unable to download a paper, please [email me](mailto:leonardosecchin@ufes.br).
+
+1. **On the boundedness of multipliers in augmented Lagrangian methods for mathematical programs with complementarity constraints** [[preprint](https://optimization-online.org/?p=31446)]  
+   R. Andreani, M. da Rosa, L. D. Secchin  
+   To appear in SIAM Journal on Optimization, 2026  
+   *Codes available at [github.com/leonardosecchin/SimpleAL.jl](https://github.com/leonardosecchin/SimpleAL.jl)*
+
+1. **A flexible block coordinate descent method for unconstrained optimization under Hölder continuity** [[preprint](https://optimization-online.org/?p=34281)]  
+   V. S. Amaral, R. Andreani, L. D. Secchin, G. N. Silva  
+   To appear in Computational Optimization and Applications, 2026  
+   *Codes available at [github.com/leonardosecchin/BCD.jl](https://github.com/leonardosecchin/BCD.jl)*
 
 1. **A new constant-rank-type condition related to MFCQ and local error bounds** [[doi](https://doi.org/10.1007/s10957-026-02965-9)] [[preprint](https://optimization-online.org/?p=28999)]  
    R. Andreani, M. da Rosa, L. D. Secchin  
