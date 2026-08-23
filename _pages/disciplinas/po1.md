@@ -94,8 +94,8 @@ author_profile: true
 
 ## Listas de exercícios
 
-- [LISTA 1 - Método Simplex](https://drive.google.com/file/d/1PHQnQbXEKUNkmivCAZdExqUYPCVvm_a3/view?usp=sharing)
-- [LISTA 2 - Métodos do grande M e de duas fases](https://drive.google.com/file/d/1gIVb7RSbgA37ymG2_kTotjm55DD4DNHm/view?usp=sharing)
+- [LISTA 1 - Método Simplex](https://drive.google.com/file/d/1Q-S_cJb2UAjsDgz6vafGCtqcyGYCfZ4h/view?usp=sharing)
+- [LISTA 2 - Métodos do grande M e de duas fases](https://drive.google.com/file/d/1vNDW57C07-qizLZFFIvbpgz0yYlPQ60F/view?usp=sharing)
 
 ## Conteúdo
 

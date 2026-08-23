@@ -133,34 +133,33 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
       - Identificação de PL's inviáveis ou ilimitados
       - Estratégias adicionais de pré-processamento para problemas com variáveis inteiras e binárias: aperto de restrições
 
-   1. Inserção de restrições no quadro simplex e o método dual simplex (conteúdo de PO I, revisão)  
-   *Referência: Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*
-
-   1. *Branch-and-bound* baseado em relaxação linear  
+   1. Método de enumeração e poda (*Branch-and-bound*) baseado em relaxação linear  
    *Referências:*  
-   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*  
-   *2) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005* 
-
-   1. *Branch-and-bound* - exemplos com variáveis inteiras e binárias  
-   *Referências:*  
-   *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*  
-   *2) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*
+   *1) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*  
+   *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
    1. Exemplo de problema inviável em que *branch-and-bound* fracassa  
    *Referência: [Jeroslow. Trivial integer programs unsolvable by branch-and-bound. Mathematical Programming 6, 105-109 (1974)](https://doi.org/10.1007/BF01580225)*
       - [Código Julia](/files/po2/unsolvable.jl)
+
+1. Método de enumeração e poda com adição de cortes (*Branch-and-cut*)  
+   1. Inserção de restrições/cortes no quadro simplex ótimo e o método dual simplex (conteúdo de PO I, revisão)  
+   *Referência: Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*
+
+   1. Cortes fracionários de Gomory via quadro simplex  
+   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+
+   1. *Branch-and-Cut* baseado em relaxão linear e dual simplex  
+   *Referências:*  
+   *1) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*  
+   *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
 1. Método de planos de corte  
    *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
    1. Desigualdades válidas
    1. Esquema geral do método
 
-1. Método *Branch-and-cut*  
-   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
-   1. Cortes de Chvatal-Gomory
-   1. Cortes fracionários de Gomory via quadro simplex
-
-1. Método de geração de colunas  
+1. Comentários sobre o método de geração de colunas  
    *Referências:*  
    *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*  
    *2) Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006*  
@@ -172,10 +171,10 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 1. Comentários sobre os métodos *Branch-and-price* e *Branch-cut-and-price*  
    *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
-1. Comentários sobre o uso de heurísticas/metaheurísticas no contexto de métodos enumerativos  
+<!-- 1. Comentários sobre o uso de heurísticas/metaheurísticas no contexto de métodos enumerativos  
    *Referências:*  
    *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*  
-   *2) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*
+   *2) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005* -->
 
 
 ### Otimização em redes
@@ -210,3 +209,4 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 1. Outros exemplos
    1. [Subset sum](https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/mochila-subsetsum.html#sec:dynamic-programming)
    1. O algoritmo de Dijkstra (tópico anterior) usa conceitos de programação dinâmica
+
