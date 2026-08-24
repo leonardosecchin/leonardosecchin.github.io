@@ -131,7 +131,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
       - Pré-processamento de PL's: fixação de variáveis, aperto de limitantes das variáveis e identificação de restrições redundantes
       - Identificação de PL's inviáveis ou ilimitados
-      - Estratégias adicionais de pré-processamento para problemas com variáveis inteiras e binárias: aperto de restrições
+      - Estratégias adicionais de pré-processamento para problemas com variáveis inteiras e binárias
 
    1. Método de enumeração e poda (*Branch-and-bound*) baseado em relaxação linear  
    *Referências:*  
