@@ -32,15 +32,15 @@ author_profile: true
    R. Andreani, G. Haeser, R. W. Prado, L. D. Secchin  
    2025
 
+1. **On the boundedness of multipliers in augmented Lagrangian methods for mathematical programs with complementarity constraints** [[preprint](https://optimization-online.org/?p=31446)]  
+   R. Andreani, M. da Rosa, L. D. Secchin  
+   2025  
+   *Codes available at [github.com/leonardosecchin/SimpleAL.jl](https://github.com/leonardosecchin/SimpleAL.jl)*
+
 
 ## Published papers and articles in press
 
 If you are unable to download a paper, please [email me](mailto:leonardosecchin@ufes.br).
-
-1. **On the boundedness of multipliers in augmented Lagrangian methods for mathematical programs with complementarity constraints** [[preprint](https://optimization-online.org/?p=31446)]  
-   R. Andreani, M. da Rosa, L. D. Secchin  
-   To appear in SIAM Journal on Optimization, 2026  
-   *Codes available at [github.com/leonardosecchin/SimpleAL.jl](https://github.com/leonardosecchin/SimpleAL.jl)*
 
 1. **A flexible block coordinate descent method for unconstrained optimization under Hölder continuity** [[preprint](https://optimization-online.org/?p=34281)]  
    V. S. Amaral, R. Andreani, L. D. Secchin, G. N. Silva  
