@@ -42,7 +42,7 @@ author_profile: true
 
 If you are unable to download a paper, please [email me](mailto:leonardosecchin@ufes.br).
 
-1. **A flexible block coordinate descent method for unconstrained optimization under Hölder continuity** [[preprint](https://optimization-online.org/?p=34281)]  
+1. **A flexible block coordinate descent method for unconstrained optimization under Hölder continuity** [[doi](https://doi.org/10.1007/s10589-026-00827-8)] [[preprint](https://optimization-online.org/?p=34281)]  
    V. S. Amaral, R. Andreani, L. D. Secchin, G. N. Silva  
    To appear in Computational Optimization and Applications, 2026  
    *Codes available at [github.com/leonardosecchin/BCD.jl](https://github.com/leonardosecchin/BCD.jl)*
