@@ -137,6 +137,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    *Referências:*  
    *1) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*  
    *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+   
+   1. [Exemplo completo de aplicação do Branch-and-Bound](https://drive.google.com/file/d/1oqz-sL-goTw1A6zdxiYN5oG6GZX6keLp/view?usp=sharing)
 
    1. Exemplo de problema inviável em que *branch-and-bound* fracassa  
    *Referência: [Jeroslow. Trivial integer programs unsolvable by branch-and-bound. Mathematical Programming 6, 105-109 (1974)](https://doi.org/10.1007/BF01580225)*
