@@ -88,13 +88,16 @@ author_profile: true
 
 ## Conteúdo
 
-
-### A linguagem de programação Julia
+<details>
+<summary markdown="span">
+**A linguagem de programação Julia**
+</summary>
 
 Julia é uma linguagem de programação de alto nível surgida em 2012, que implementa várias ferramentas para uso geral em matemática aplicada. Em particular, Julia possui várias ferramentas para otimização. É muito parecida com o Matlab, portanto os códigos são fáceis de entender. Os trabalhos computacionais desta disciplina serão feitos em Julia.
 
 **Para uma introdução ao Julia e seu uso em otimização, acesse [este link](/julia/).**
 
+</details>
 
 <details>
 <summary markdown="span">
@@ -115,15 +118,22 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 </details>
 
-### Introdução à programação linear inteira mista 
+<details>
+<summary markdown="span">
+**Introdução à programação linear inteira mista**
+</summary>
 
 1. O modelo de programação linear inteira mista
 1. Exemplos de aplicações  
   *Referência: Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*
 1. Exemplos de problemas e respectivos pacotes/códigos para uso no Julia, veja [este link](https://github.com/leonardosecchin/tutorial_Julia/blob/main/problemas-teste.md)
 
+</details>
 
-### Métodos em programação linear inteira mista
+<details>
+<summary markdown="span">
+**Métodos em programação linear inteira mista**
+</summary>
 
 1. Relaxação linear e relaxação Lagrangeana  
   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
@@ -182,8 +192,12 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*  
    *2) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005* -->
 
+</details>
 
-### Otimização em redes
+<details>
+<summary markdown="span">
+**Otimização em redes**
+</summary>
 
 *Referência: Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*
 
@@ -202,8 +216,12 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 <!-- 1. Árvore geradora mínima -->
 <!-- 1. Fluxo em redes -->
 
+</details>
 
-### Programação dinâmica 
+<details>
+<summary markdown="span">
+**Programação dinâmica**
+</summary>
 
 *Referência: Hillier, F. S.; Lieberman, G. J. Introdução à Pesquisa Operacional. McGraw-Hill, 8ed, 2006*
 
@@ -215,4 +233,6 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 1. Outros exemplos
    1. [Subset sum](https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/mochila-subsetsum.html#sec:dynamic-programming)
    1. O algoritmo de Dijkstra (tópico anterior) usa conceitos de programação dinâmica
+
+</details>
 
