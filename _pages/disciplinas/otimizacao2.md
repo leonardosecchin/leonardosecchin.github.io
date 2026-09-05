@@ -63,9 +63,9 @@ author_profile: true
   - Conteúdo: condições KKT, penalidade externa e interna, Lagrangiano aumentado e pontos interiores
   - Tarefas:
     - Exercícios 13.2, 13.6, 13.7
-    - Exercícios 3, 6, 8 da Lista 0
-    - Exercícios 1, 2, 5, 6, 7, 8 da Lista 1
-    - Exercícios 2, 3, 5, 6, 7, 9 da Lista 2
+    - Exercícios 3, 6, 8 da Lista 1
+    - Exercícios 1, 2, 5, 6, 7, 8 da Lista 2
+    - Exercícios 2, 3, 5, 6, 7, 9 da Lista 3
   - Valor: 10,0 pontos
   - **Data: 13/12/24 (sexta-feira)**
   - Entregar resolução escrita à mão. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
@@ -75,7 +75,7 @@ author_profile: true
 <!--- **Avaliação 2**
   - **Lista de exercícios**
   - Conteúdo: quadrados mínimos
-  - Tarefas: exercícios 2, 4, 6, 9(b), 11, 14 da [lista 5](https://drive.google.com/file/d/1YNKAcZT793tiR2xSp0y42tyErvcfZabl/view), [Código Gauss-Newton](/files/otim2/gaussnewton.zip)
+  - Tarefas: exercícios 2, 4, 6, 9(b), 11, 14 da [lista 6](https://drive.google.com/file/d/1YNKAcZT793tiR2xSp0y42tyErvcfZabl/view), [Código Gauss-Newton](/files/otim2/gaussnewton.zip)
   - Valor: 10,0 pontos
   - **Data limite: 20/12/24**
   - Entregar resolução escrita à mão ou escaneadas para o email secchinleo@gmail.com. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
@@ -143,7 +143,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 - Introdução [[**ANOTAÇÕES**](/files/otim2/anotacoes/1.Introducao.pdf)]
 - Condições KKT [[**ANOTAÇÕES**](/files/otim2/anotacoes/2.Condicoes_KKT.pdf)] [[**QUADRO**](/files/otim1/5.Otimizacao_com_restricoes-KKT.pdf)]
-- **Exercicios:** veja LISTA 0
+- **Exercicios:** veja LISTA 1
 
 </details>
 
@@ -157,7 +157,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
    - Penalização externa pura [[**ANOTACOES**](/files/otim2/anotacoes/3.Penalizacao_externa.pdf)] [[**QUADRO**](/files/otim1/6.3.Penalizacao_externa.pdf)]
    - Convergência do esquema de penalização externa e prova das condições KKT [[**ANOTACOES**](/files/otim2/anotacoes/4.Penalizacao_externa_e_KKT.pdf)]
-   - **Exercicios:** veja LISTA 1
+   - **Exercicios:** veja LISTA 2
 
 </details>
 
@@ -178,7 +178,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
        - [2. livro](https://epubs.siam.org/doi/book/10.1137/1.9781611973365)
        - [3. texto em português com acesso livre](http://www.ime.unicamp.br/~martinez/lagraum.pdf)
      - **Pacote Julia** `NLPModelsAlgencan.jl`. Veja pré-requisitos para instalação em [neste link](/juliaopt_ex7/)
-   - **Exercicios:** veja LISTA 1
+   - **Exercicios:** veja LISTA 2
 
 </details>
 
@@ -202,7 +202,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    - Pontos interiores para programação linear [[**ANOTACOES**](/files/otim2/anotacoes/9.Pontos_interiores_PL.pdf)]
      - [Notas de aula](https://drive.google.com/file/d/17a9rMYBi7TCjk_BbgTmRm_4019qiJVbW/view)
      - [Implementação própria](/files/otim2/pto_int.zip) e comparação com o método de pontos interiores do pacote CPLEX sobre problemas lineares da biblioteca [NETLIB](https://sparse.tamu.edu/LPnetlib)
-   - **Exercicios:** veja LISTA 2
+   - **Exercicios:** veja LISTA 3
 
    **Conteúdo extra**
 
@@ -226,7 +226,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 - Estratégia de regiões de confiança e convergência global [[**ANOTACOES**](/files/otim2/anotacoes/10.regiao_confianca.pdf)]
 - O passo de Cauchy e o método dog-leg [[**ANOTACOES**](/files/otim2/anotacoes/11.cauchy_dogleg.pdf)]
-- **Exercicios:** veja LISTA 3
+- **Exercicios:** veja LISTA 4
 
 </details>
 
@@ -246,7 +246,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   - [Principal referência bibliográfica do pacote](https://link.springer.com/chapter/10.1007%2F978-1-4614-4469-5_4)
   - Outra referência com [acesso livre](https://www.math.uni-bremen.de/zetem/cms/media.php/279/2546042wassel.pdf)
   - [**Roteiro para instalar o WORHP e usá-lo no Julia (testado em nov/2023)**](/files/otim2/worhp.txt)
-  - **Exercicios:** veja LISTA 4
+  - **Exercicios:** veja LISTA 5
 
 - (**Conteúdo extra**) Pacote proprietário com versão de demonstração junto ao [AMPL](https://ampl.com/products/solvers/solvers-we-sell/): [SNOPT](https://ccom.ucsd.edu/~optimizers/solvers/snopt/)
 
@@ -265,7 +265,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
   - Sobre a [decomposição em valores singulares (do inglês, SVD)](https://pt.wikipedia.org/wiki/Decomposi%C3%A7%C3%A3o_em_valores_singulares). Além da SVD como descrita no link, existe a versão *thin* SVD, em que $U$ ou $V$ não são quadradas. O comando ``svd`` do pacote ``LinearAlgebra`` do Julia computa esta versão por padrão pois é mais econômica (veja a ajuda do comando, ``?svd``, para mais detalhes)
 - Quadrados mínimos não linear - método de Gauss-Newton [[**ANOTAÇÕES**](/files/otim2/6.5.Quad_min_naolinear_Gauss_Newton.pdf)]
 - Quadrados mínimos não linear - método de Levenberg-Marquardt [[**ANOTAÇÕES**](/files/otim2/6.6.Quad_min_naolinear_Levenberg_Marquardt.pdf)]
-- **Exercicios:** veja LISTA 5
+- **Exercicios:** veja LISTA 6
 
 </details>
 
@@ -290,7 +290,6 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 ## Links
 
 - [Nonlinear Optimization Examples](https://www.math.wpi.edu/saspdf/iml/chap11.pdf)
-- [FICO Xpress Optimization Examples](https://www.fico.com/fico-xpress-optimization/docs/latest/examples/mosel/NonLinear/GUID-81E21BAC-28BD-3D1A-B9B3-D65BA12E3C5B.html)
 
 
 <!--## Vídeos sobre Otimização
