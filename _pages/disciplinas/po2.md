@@ -80,7 +80,9 @@ author_profile: true
 - Média parcial < 7,0 —–> Avaliação final (desde que não reprovado(a) por falta). Neste caso, média final >= 5,0 —–> aprovado(a).
 
 
-<!-- ## Listas de exercícios -->
+## Listas de exercícios
+
+- [LISTA 1 - Pré-processamento e *Branch-and-Bound*](https://drive.google.com/file/d/1jJz-EG8fl1Ng3EqLzrbk7t-ufm5hrtj3/view?usp=sharing)
 
 
 <!-- ## Trabalhos computacionais -->
@@ -157,6 +159,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    1. Exemplo de problema inviável em que *branch-and-bound* fracassa  
    *Referência: [Jeroslow. Trivial integer programs unsolvable by branch-and-bound. Mathematical Programming 6, 105-109 (1974)](https://doi.org/10.1007/BF01580225)*
       - [Código Julia](/files/po2/unsolvable.jl)
+   
+   1. **EXERCÍCIOS:** Veja Lista 1
 
 1. Método de enumeração e poda com adição de cortes (*Branch-and-cut*)  
    1. Inserção de restrições/cortes no quadro simplex ótimo e o método dual simplex (conteúdo de PO I, revisão)  
