@@ -157,7 +157,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    *1) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*  
    *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
    
-   1. [Exemplo completo de aplicação do Branch-and-Bound](https://drive.google.com/file/d/1oqz-sL-goTw1A6zdxiYN5oG6GZX6keLp/view?usp=sharing)
+   1. [Exemplo completo de aplicação do Branch-and-Bound](https://drive.google.com/file/d/1oqz-sL-goTw1A6zdxiYN5oG6GZX6keLp/view?usp=sharing) (contém resumo sobre inserção de restrições no quadro simplex ótimo)
 
    1. Exemplo de problema inviável em que *branch-and-bound* fracassa  
    *Referência: [Jeroslow. Trivial integer programs unsolvable by branch-and-bound. Mathematical Programming 6, 105-109 (1974)](https://doi.org/10.1007/BF01580225)*
@@ -165,19 +165,18 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    
    1. **EXERCÍCIOS:** Veja Lista 1
 
-1. Método de enumeração e poda com adição de cortes (*Branch-and-cut*)  
-   1. Cortes fracionários de Gomory via quadro simplex  
-   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
-
-   1. *Branch-and-Cut* baseado em relaxão linear e dual simplex  
-   *Referências:*  
-   *1) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*  
-   *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
-
 1. Método de planos de corte  
    *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
    1. Desigualdades válidas
+   1. Cortes fracionários de Gomory via quadro simplex  
+   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+   
    1. Esquema geral do método
+
+1. Método de enumeração e poda com adição de cortes (*Branch-and-cut*)  
+   *Referências:*  
+   *1) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*  
+   *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
 1. Comentários sobre o método de geração de colunas  
    *Referências:*  
@@ -186,7 +185,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    *3) Tópico 6 [deste link](/topicospo/)*
    1. [Geração de colunas aplicado ao problema de corte de estoque (*cutting stock*)](/files/topicospo/GER_COL_4-cutting-stock.pdf)
       - [**Código Julia com instâncias do problema**](/files/topicospo/GER_COL_cutting_stock.zip)
-   1. Decomposição de Dantzig-Wolfe  
+   1. Decomposição de Dantzig-Wolfe
 
 1. Comentários sobre os métodos *Branch-and-price* e *Branch-cut-and-price*  
    *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
