@@ -18,16 +18,6 @@ author_profile: true
    2026  
    *Codes available at [github.com/pjssilva/NewtonCQK.jl](https://github.com/pjssilva/NewtonCQK.jl)*
 
-1. **A hybrid combinatorial-continuous strategy for solving molecular distance geometry problems** [[preprint](https://arxiv.org/abs/2510.19970)]  
-   L. D. Secchin, W. da Rocha, M. da Rosa, L. Liberti, C. Lavor  
-   2025  
-   *Codes available at [github.com/leonardosecchin/MDGP.jl](https://github.com/leonardosecchin/MDGP.jl)*
-
-1. **An Angle-Based Algorithmic Framework for the Interval Discretizable Distance Geometry Problem** [[preprint](https://arxiv.org/abs/2508.09143)]  
-   W. da Rocha, C. Lavor, L. Liberti, L. de M. Costa, L. D. Secchin, T. E. Malliavin  
-   2025  
-   *Codes available at [github.com/wdarocha/benchmarks](https://github.com/wdarocha/benchmarks)*
-
 1. **Primal-dual global convergence of an augmented Lagrangian method under the error bound condition** [[preprint](https://optimization-online.org/?p=31199)]  
    R. Andreani, G. Haeser, R. W. Prado, L. D. Secchin  
    2025
@@ -41,6 +31,16 @@ author_profile: true
 ## Published papers and articles in press
 
 If you are unable to download a paper, please [email me](mailto:leonardosecchin@ufes.br).
+
+1. **A hybrid combinatorial-continuous strategy for solving molecular distance geometry problems** [[preprint](https://arxiv.org/abs/2510.19970)]  
+   L. D. Secchin, W. da Rocha, M. da Rosa, L. Liberti, C. Lavor  
+   To appear in Journal of Global Optimization, 2026  
+   *Codes available at [github.com/leonardosecchin/MDGP.jl](https://github.com/leonardosecchin/MDGP.jl)*
+
+1. **An Angle-Based Algorithmic Framework for the Interval Discretizable Distance Geometry Problem** [[preprint](https://arxiv.org/abs/2508.09143)]  
+   W. da Rocha, C. Lavor, L. Liberti, L. de M. Costa, L. D. Secchin, T. E. Malliavin  
+   To appear in Journal of Global Optimization, 2026  
+   *Codes available at [github.com/wdarocha/benchmarks](https://github.com/wdarocha/benchmarks)*
 
 1. **A flexible block coordinate descent method for unconstrained optimization under Hölder continuity** [[doi](https://doi.org/10.1007/s10589-026-00827-8)] [[preprint](https://optimization-online.org/?p=34281)]  
    V. S. Amaral, R. Andreani, L. D. Secchin, G. N. Silva  
