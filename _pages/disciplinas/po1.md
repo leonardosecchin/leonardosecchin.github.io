@@ -101,7 +101,7 @@ author_profile: true
 
 A **referência** para a maioria dos tópicos a seguir é *Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*.
 
-**ATENÇÃO:** As seções referem-se à 4a edição, cujo sumário pode ser acessado [neste link](https://drive.google.com/file/d/1w8eFbl2KhIDRf8yWByORFz-4yTiBL8K9/view?usp=sharing). **Caso tenha outra edição, confira os títulos.**
+**ATENÇÃO:** As seções referem-se à 4a edição, cujo sumário pode ser acessado [neste link](https://drive.google.com/file/d/1KTfWBY58CiISByyr_VypXB2nozzYleb2/view?usp=sharing). **Caso tenha outra edição, confira os títulos.**
 
 <details>
 <summary markdown="span">
