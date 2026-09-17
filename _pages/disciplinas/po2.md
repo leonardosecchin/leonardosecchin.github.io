@@ -149,6 +149,9 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
       - Identificação de PL's inviáveis ou ilimitados
       - Estratégias adicionais de pré-processamento para problemas com variáveis inteiras e binárias
 
+   1. Inserção de restrições/cortes no quadro simplex ótimo e o método dual simplex (conteúdo de PO I, revisão)  
+   *Referência: Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*
+
    1. Método de enumeração e poda (*Branch-and-bound*) baseado em relaxação linear  
    *Referências:*  
    *1) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*  
@@ -163,9 +166,6 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    1. **EXERCÍCIOS:** Veja Lista 1
 
 1. Método de enumeração e poda com adição de cortes (*Branch-and-cut*)  
-   1. Inserção de restrições/cortes no quadro simplex ótimo e o método dual simplex (conteúdo de PO I, revisão)  
-   *Referência: Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*
-
    1. Cortes fracionários de Gomory via quadro simplex  
    *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
