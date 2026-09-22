@@ -58,19 +58,11 @@ author_profile: true
 
 ## Avaliações
 
-<!--- **Avaliação 1**
+**Avaliação 1**
   - **Lista de exercícios**
-  - Conteúdo: condições KKT, penalidade externa e interna, Lagrangiano aumentado e pontos interiores
-  - Tarefas:
-    - Exercícios 13.2, 13.6, 13.7
-    - Exercícios 3, 6, 8 da Lista 1
-    - Exercícios 1, 2, 5, 6, 7, 8 da Lista 2
-    - Exercícios 2, 3, 5, 6, 7, 9 da Lista 3
+  - Conteúdo: condições KKT, penalidade externa e interna, e método do Lagrangiano aumentado
   - Valor: 10,0 pontos
-  - **Data: 13/12/24 (sexta-feira)**
-  - Entregar resolução escrita à mão. Exercícios computacionais requerem uma discussão escrita à mão e o envio do código para o email secchinleo@gmail.com
-  - O trabalho é individual
-  - [**NOTAS**](https://drive.google.com/file/d/1oB210AjA-uQlwIz5C8thg12Dcq4G71GW/view?usp=sharing)-->
+  - **Data: 13/10/26 (terça-feira)**
 
 <!--- **Avaliação 2**
   - **Lista de exercícios**
