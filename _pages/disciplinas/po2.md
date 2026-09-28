@@ -51,21 +51,10 @@ author_profile: true
 
 ## Avaliações
 
-<!--- **Trabalho**
-  - Veja a [descrição dos trabalhos](https://drive.google.com/file/d/1dU8AoopY72hxBZwnUw0L8GtP0EvA1KNw/view?usp=sharing)
+**Prova 1**
+  - Conteúdo: o modelo de programação linear inteira mista, relaxação linear, pré-processamento, branch-and-bound, método de planos de corte, branch-and-cut
   - Valor: 10,0 pontos
-  - **Data limite: 10/12/23**
-  - Trabalhos por estudante:
-    - Trabalho A: João Pedro. [Baixar ZIP](https://drive.google.com/file/d/1d1JNmtltMY1HiTOCGrD1hJ7Rb5-cz3wF/view?usp=sharing)
-    - Trabalho B: Kely. [Baixar ZIP](https://drive.google.com/file/d/1_dA2vaVaTaQGKPFU4ZjBo9Z3ptIZ75yc/view?usp=sharing)
-    - Trabalho C: Douglas. [Baixar ZIP](https://drive.google.com/file/d/1X_s-8cko_92egBOd5zlYMQ6mC1Flskpj/view?usp=sharing)-->
-
-<!--- **Avaliação 2**
-  - FORMA DE AVALIAÇÃO
-  - Conteúdo: ----
-  - Tarefas: 
-  - Valor: 10,0 pontos
-  - **Data: ----**-->
+  - **Data: 19/10/26 (segunda-feira)**
 
 <!--- **PROVA FINAL**
   - **Prova escrita**
@@ -168,9 +157,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 1. Método de planos de corte  
    *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
    1. Desigualdades válidas
-   1. Cortes fracionários de Gomory via quadro simplex  
-   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
    1. Esquema geral do método
+   1. [Cortes fracionários de Gomory via quadro simplex](https://drive.google.com/file/d/1cVx341dx_IyAZ6jvpOSCEAjCB6gUZuEF/view?usp=sharing)  
 
 1. Método de enumeração e poda com adição de cortes (*Branch-and-cut*)  
    *Referências:*  
