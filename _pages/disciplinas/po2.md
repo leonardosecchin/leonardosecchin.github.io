@@ -72,7 +72,7 @@ author_profile: true
 ## Listas de exercícios
 
 - [LISTA 1 - Pré-processamento e *Branch-and-Bound*](https://drive.google.com/file/d/1jJz-EG8fl1Ng3EqLzrbk7t-ufm5hrtj3/view?usp=sharing)
-
+- [LISTA 2 - Desigualdades válidas e cortes de Gomory](https://drive.google.com/file/d/1sYcXloaIwhKotu4CDVlV5KkhPhXg2ONI/view?usp=sharing)
 
 <!-- ## Trabalhos computacionais -->
 
