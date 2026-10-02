@@ -13,6 +13,10 @@ author_profile: true
 
 ## Submitted articles
 
+1. **A note on optimality conditions for optimization problems with empty limiting subdifferentials**  
+   R. Andreani, V. R. Chagas, M. da Rosa, L. D. Secchin  
+   2026
+
 1. **Parallel Newton methods for the continuous quadratic knapsack problem: A Jacobi and Gauss-Seidel tale** [[preprint](http://arxiv.org/abs/2603.15910)]  
    L. D. Secchin, P. J. S. Silva  
    2026  
