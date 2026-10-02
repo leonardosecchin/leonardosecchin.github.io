@@ -13,7 +13,7 @@ author_profile: true
 
 ## Submitted articles
 
-1. **A note on optimality conditions for optimization problems with empty limiting subdifferentials**  
+1. **A note on optimality conditions for optimization problems with empty limiting subdifferentials** [[preprint](https://optimization-online.org/?p=37150)]  
    R. Andreani, V. R. Chagas, M. da Rosa, L. D. Secchin  
    2026
 
