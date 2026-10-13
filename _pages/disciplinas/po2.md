@@ -148,6 +148,8 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    
    1. [Exemplo completo de aplicação do Branch-and-Bound](https://drive.google.com/file/d/1oqz-sL-goTw1A6zdxiYN5oG6GZX6keLp/view?usp=sharing) (contém resumo sobre inserção de restrições no quadro simplex ótimo)
 
+   1. [GAP: código exemplo de uso dos pacotes CPLEX/GLPK](/files/po2/gap.zip). Para instruções de instalação dos pacotes, veja tópico "Softwares / Interfaces para Julia"
+
    1. Exemplo de problema inviável em que *branch-and-bound* fracassa  
    *Referência: [Jeroslow. Trivial integer programs unsolvable by branch-and-bound. Mathematical Programming 6, 105-109 (1974)](https://doi.org/10.1007/BF01580225)*
       - [Código Julia](/files/po2/unsolvable.jl)
