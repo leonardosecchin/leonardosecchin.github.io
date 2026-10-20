@@ -36,7 +36,7 @@ author_profile: true
 
 If you are unable to download a paper, please [email me](mailto:leonardosecchin@ufes.br).
 
-1. **A hybrid combinatorial-continuous strategy for solving molecular distance geometry problems** [[preprint](https://arxiv.org/abs/2510.19970)]  
+1. **A hybrid combinatorial-continuous strategy for solving molecular distance geometry problems** [[doi](https://doi.org/10.1007/s10898-026-01645-2)] [[preprint](https://arxiv.org/abs/2510.19970)]  
    L. D. Secchin, W. da Rocha, M. da Rosa, L. Liberti, C. Lavor  
    To appear in Journal of Global Optimization, 2026  
    *Codes available at [github.com/leonardosecchin/MDGP.jl](https://github.com/leonardosecchin/MDGP.jl)*
