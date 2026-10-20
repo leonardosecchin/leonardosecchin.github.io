@@ -194,16 +194,14 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
 
 *Referência: Bazaraa, M. S.; Jarvis, J. J.; Sherali, H. D. Linear Programming and Network Flows. Wiley, 4ed, 2010*
 
-1. Conceitos básicos (grafos, árvore etc)
+1. Conceitos básicos sobre grafos
 1. Exemplos: caminho mínimo, fluxo máximo, fluxo de custo mínimo, problemas do transporte e atribuição
-1. Problema do transporte: resolução via simplex
+1. Problema de fluxo de custo mínimo
    1. Matriz totalmente unimodular
    1. Obtendo uma base inicial viável
-   1. Quadro simplex
-   1. Caso particular: problema de atribuição
-      - Relaxação linear, matriz totalmente unimodular e integralidade das soluções
-1. Problema de fluxo de custo mínimo
    1. Método simplex de rede
+1. Problema do transporte: resolução via simplex
+   1. Caso particular: problema de atribuição
 1. Problema do menor caminho
    1. Algoritmo de Dijkstra para custos não negativos
 <!-- 1. Árvore geradora mínima -->
