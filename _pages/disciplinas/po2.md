@@ -161,23 +161,24 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    1. Desigualdades válidas
    1. Esquema geral do método
    1. [Cortes fracionários de Gomory via quadro simplex](https://drive.google.com/file/d/1cVx341dx_IyAZ6jvpOSCEAjCB6gUZuEF/view?usp=sharing)  
+   1. **EXERCÍCIOS:** Veja Lista 2
 
 1. Método de enumeração e poda com adição de cortes (*Branch-and-cut*)  
    *Referências:*  
    *1) Goldbarg, M. C.; Luna, H. P. L. Otimização combinatória e programação linear: modelos e algoritmos. Elsevier, 2ed, 2005*  
    *2) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
 
-1. Comentários sobre o método de geração de colunas  
+<!-- 1. Comentários sobre o método de geração de colunas  
    *Referências:*  
    *1) Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*  
    *2) Maculan, N.; Fampa, M. H. C. Otimização linear. Editora UnB, 2006*  
    *3) Tópico 6 [deste link](/topicospo/)*
    1. [Geração de colunas aplicado ao problema de corte de estoque (*cutting stock*)](/files/topicospo/GER_COL_4-cutting-stock.pdf)
       - [**Código Julia com instâncias do problema**](/files/topicospo/GER_COL_cutting_stock.zip)
-   1. Decomposição de Dantzig-Wolfe
+   1. Decomposição de Dantzig-Wolfe -->
 
-1. Comentários sobre os métodos *Branch-and-price* e *Branch-cut-and-price*  
-   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021*
+<!-- 1. Comentários sobre os métodos *Branch-and-price* e *Branch-cut-and-price*  
+   *Referência: Wolsey, L. A. Integer Programming. 2ed, Wiley, 2021* -->
 
 <!-- 1. Comentários sobre o uso de heurísticas/metaheurísticas no contexto de métodos enumerativos  
    *Referências:*  
