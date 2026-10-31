@@ -83,9 +83,9 @@ author:
   name             : "Leonardo D. Secchin"
   avatar           : "https://leonardosecchin.github.io/images/ft.jpg"
   bio              : "Department of Applied Mathematics, Federal University of Espírito Santo, Brazil"
-  location         : 
-  employer         : 
-  pubmed           : 
+  location         :
+  employer         :
+  pubmed           :
   googlescholar    : "https://scholar.google.com.br/citations?hl=pt-BR&user=Ak9JXRUAAAAJ"
   email            : "leonardo.secchin@ufes.br"
   researchgate     : "https://www.researchgate.net/profile/Leonardo_Secchin"
@@ -116,6 +116,7 @@ author:
   youtube          :
   wikipedia        :
   lattes           : "http://lattes.cnpq.br/4273961903394165"
+  webofscience     : "https://www.webofscience.com/wos/author/rid/E-1447-2015"
 
 
 # Reading Files
