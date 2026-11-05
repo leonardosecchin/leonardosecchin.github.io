@@ -103,7 +103,7 @@ author_profile: true
 - [LISTA 3 – Método de penalização interna / pontos interiores](https://drive.google.com/file/d/1HME5J2MFmIajwebkuqyxER13kQxiFpuc/view?usp=sharing)
 - [LISTA 4 – Região de confiança](https://drive.google.com/file/d/1jiYaleSiQfe5E_uQoDUArnIqG31HmNhS/view?usp=sharing)
 - [LISTA 5 – Programação quadrática sequencial e dualidade](https://drive.google.com/file/d/1QwVVJgkS-7Ilkk0t4JLriD4o80S3Dmzw/view?usp=sharing)
-  - [Código exemplo de uso do WORHP no Julia](/files/otim2/ex6_worhp.jl)
+  - [Código exemplo de uso do WORHP no Julia](/files/otim2/ex_worhp.jl)
 - [LISTA 6 – Quadrados mínimos](https://drive.google.com/file/d/1YNKAcZT793tiR2xSp0y42tyErvcfZabl/view?usp=sharing)
   - [Código Julia do método de Gauss-Newton](/files/otim2/gaussnewton.zip)
 

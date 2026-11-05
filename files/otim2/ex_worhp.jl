@@ -1,6 +1,4 @@
-# Resolve o Exemplo 6
-# https://leonardosecchin.github.io/juliaopt_ex6/
-# via WORHP
+# Exemplo resolvido com WORHP
 
 using JuMP, AmplNLWriter
 
