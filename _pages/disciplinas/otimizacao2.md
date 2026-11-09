@@ -64,6 +64,18 @@ author_profile: true
   - Valor: 10,0 pontos
   - **Data: 13/10/26 (terça-feira)**
 
+**Teste 1**
+  - Regiões de confiança
+  - **Data: 29/10/26 (quinta-feira)**
+
+**Teste 2**
+  - ---
+  - **Data: ---**
+
+**Teste 3**
+  - ---
+  - **Data: ---**
+
 <!--- **Avaliação 2**
   - **Lista de exercícios**
   - Conteúdo: quadrados mínimos

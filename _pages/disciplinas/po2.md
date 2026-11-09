@@ -56,6 +56,18 @@ author_profile: true
   - Valor: 10,0 pontos
   - **Data: 19/10/26 (segunda-feira)**
 
+**Teste 1**
+  - Simplex de rede
+  - **Data: 16/11/26 (segunda-feira)**
+
+**Teste 2**
+  - ---
+  - **Data: ---**
+
+**Teste 3**
+  - ---
+  - **Data: ---**
+
 <!--- **PROVA FINAL**
   - **Prova escrita**
   - Conteúdo: toda a matéria
