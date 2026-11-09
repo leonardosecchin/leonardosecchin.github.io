@@ -61,11 +61,11 @@ author_profile: true
   - **Data: 16/11/26 (segunda-feira)**
 
 **Teste 2**
-  - ---
+  - -
   - **Data: ---**
 
 **Teste 3**
-  - ---
+  - -
   - **Data: ---**
 
 <!--- **PROVA FINAL**

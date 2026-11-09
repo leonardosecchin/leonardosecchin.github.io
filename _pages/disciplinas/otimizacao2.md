@@ -69,11 +69,11 @@ author_profile: true
   - **Data: 29/10/26 (quinta-feira)**
 
 **Teste 2**
-  - ---
+  - -
   - **Data: ---**
 
 **Teste 3**
-  - ---
+  - -
   - **Data: ---**
 
 <!--- **Avaliação 2**
