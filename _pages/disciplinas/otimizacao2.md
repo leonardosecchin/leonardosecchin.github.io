@@ -65,15 +65,15 @@ author_profile: true
   - **Data: 13/10/26 (terça-feira)**
 
 **Teste 1**
-  - Regiões de confiança
+  - Conteúdo: Regiões de confiança
   - **Data: 29/10/26 (quinta-feira)**
 
 **Teste 2**
-  - xxx
-  - **Data: ---**
+  - Conteúdo: Programação quadrática sequencial
+  - **Data: 12/11/26 (quinta-feira)**
 
 **Teste 3**
-  - xxx
+  - Conteúdo: Quadrados mínimos linear e não linear
   - **Data: ---**
 
 <!--- **Avaliação 2**
