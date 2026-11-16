@@ -215,11 +215,10 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    1. Método simplex de rede
    1. [Exemplo completo de aplicação do simplex de rede](https://drive.google.com/file/d/1GmSRL-EW-GlUDJAseMMege4_Sx1onUJX/view?usp=sharing)
 1. Problema do transporte: resolução via simplex
+   1. Computando uma solução básica viável inicial via quadro de transporte: o método do "canto noroeste"
    1. Caso particular: problema de atribuição
 1. Problema do menor caminho
    1. Algoritmo de Dijkstra para custos não negativos
-<!-- 1. Árvore geradora mínima -->
-<!-- 1. Fluxo em redes -->
 
 </details>
 
