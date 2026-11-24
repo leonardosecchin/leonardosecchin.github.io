@@ -86,6 +86,8 @@ author_profile: true
 - [LISTA 1 - Pré-processamento e *Branch-and-Bound*](https://drive.google.com/file/d/1jJz-EG8fl1Ng3EqLzrbk7t-ufm5hrtj3/view?usp=sharing)
 - [LISTA 2 - Desigualdades válidas e cortes de Gomory](https://drive.google.com/file/d/1sYcXloaIwhKotu4CDVlV5KkhPhXg2ONI/view?usp=sharing)
 - [LISTA 3 - Simplex de rede para problemas de fluxo de custo mínimo](https://drive.google.com/file/d/1AQ6UaArvE9V4gXx47UtmwfZYNumeFBJt/view?usp=sharing)
+- LISTA 4 - Problema de transporte
+- [LISTA 5 - Problema do menor caminho](https://drive.google.com/file/d/1kLAnm3aszbhlCwtDPeso0gc_ZFokqAjB/view?usp=sharing)
 
 <!-- ## Trabalhos computacionais -->
 
@@ -218,7 +220,7 @@ Julia é uma linguagem de programação de alto nível surgida em 2012, que impl
    1. [Computando uma solução básica viável inicial via quadro de transporte: a regra do canto noroeste](https://drive.google.com/file/d/1S7ThDhvIGLtK9WHlXa6vh_Q1IWPFeiM1/view?usp=sharing)
    1. Caso particular: problema de atribuição
 1. Problema do menor caminho
-   1. Algoritmo de Dijkstra para custos não negativos
+   1. [Algoritmo de Dijkstra para custos não negativos](https://drive.google.com/file/d/1PQQxRcN6R9hvpobl4x-_U-q_Yl7ua9Kr/view?usp=sharing)
 
 </details>
 
