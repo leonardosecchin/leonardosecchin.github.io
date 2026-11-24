@@ -61,8 +61,8 @@ author_profile: true
   - **Data: 17/11/26 (terça-feira)**
 
 **Teste 2**
-  - Conteúdo: ---
-  - **Data: ---**
+  - Conteúdo: incialização do simplex de rede em problemas de transporte e algoritmo de Dijkstra para menor caminho
+  - **Data: 01/12/26 (terça-feira)**
 
 **Teste 3**
   - Conteúdo: ---
